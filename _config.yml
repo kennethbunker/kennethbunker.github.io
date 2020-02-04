@@ -1,12 +1,4 @@
-theme: jekyll-theme-minimal
-
-
-# Name of website
 title: Kenneth Bunker
-
-
-# Short description of your site
-description: Personal website
-
-
 logo: /img/me.png
+description: Personal website
+theme: jekyll-theme-minimal
