@@ -26,4 +26,4 @@ Below is a shortlist of my most recent publications (for the full list, click [h
 * 2018\. “The 2017 Elections and the Fragmentation of the Party System in Chile.” Revista Chilena de Derecho y Ciencia Política 9(2): 204-229. [doi](http://10.0.30.90/RCHDYCP-V9N2-ART1823).
 
 
-Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm).
+Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm). You can also follow me on [Twitter](http://www.twitter.com/kennethbunker)!
