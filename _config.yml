@@ -1,10 +1,13 @@
 theme: jekyll-theme-minimal
 
+# Name of website
 title: Kenneth Bunker
 
+# Short description of your site
 description: Peronal website
 
-  Resources:
+
+Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
