@@ -1,12 +1,13 @@
-theme: jekyll-theme-minimal
+theme: beautiful-jekyll
+
 
 # Name of website
 title: Kenneth Bunker
 
+
 # Short description of your site
 description: Personal website
 
-url: "https://example.com"
 
 # List of links in the navigation bar
 navbar-links:
