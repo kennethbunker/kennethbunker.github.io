@@ -7,4 +7,11 @@ description: Peronal website
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    
+
+
+# Select your active Social Network Links
+social-network-links:
+  rss: true
+  email: "kabunker@gmail.com"
+  github: kennethbunker
+  twitter: kennethbunker
