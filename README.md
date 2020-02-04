@@ -9,8 +9,8 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 Below is a shortlist of my most recent publications (for the full list, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
 
 2020. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” Party Politics. (Forthcoming).
-2019. “Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America.” Revista de Estudios Políticos 186(4): 171-199. [doi]
-2019. “Cultural Backlash: Trump, Brexit, and authoritarian populism, by Pippa Norris and Ronald Inglehart.” Democratization 26(7): 1323-1325. [doi]
+2019. “Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America.” Revista de Estudios Políticos 186(4): 171-199. [doi](https://doi.org/10.18042/cepc/rep.186.06).
+2019. “Cultural Backlash: Trump, Brexit, and authoritarian populism, by Pippa Norris and Ronald Inglehart.” Democratization 26(7): 1323-1325. [doi](https://doi.org/%2010.1080/13510347.2019.1601705). (with Daniel Brieba).
 2019. “Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law.” Latin American Politics and Society 61(4): 23-46. [doi]
 2019. “Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon and Françoi Gélinean, Latin American Elections: Choice and Change.” Journal of Latin American Studies 51(3): 721-723. [doi]
 2019. “Party Systems in Latin America: Institutionalization, Decay, and Collapse, by Scott Mainwaring (Eds.).” Democratization 26(3): 554-555. [doi]
