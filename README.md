@@ -1,12 +1,12 @@
 ## Hello world!
 
-I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. Here is my full CV.
+I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. Here is my full [CV](https://www.dropbox.com/s/0zx2kmx35ah8z8s/CV_Kenneth_Bunker.pdf?dl=0).
 
-I am interested in the interaction between electoral systems and party systems. Indeed, the purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work here, a paper in which I attempt to contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
+I am interested in the interaction between electoral systems and party systems. Indeed, the purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America), a paper in which I attempt to contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
 
-I am also interested in electoral forecasting. In the last year, or so, I have been working on a method designed-for-use in new democracies, but built-to-work anywhere. The method is called the Two-Stage Model (TSM). You can read the technical details of the TSM here, an example of its application in 11 new democracies (in Latin America) here, and an example of its application in an advanced democracy (Italy) here.
+I am also interested in electoral forecasting. In the last year, or so, I have been working on a method designed-for-use in new democracies, but built-to-work anywhere. The method is called the Two-Stage Model (TSM). You can read the technical details of the TSM [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), an example of its application in 11 new democracies (in Latin America) [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), and an example of its application in an advanced democracy (Italy) [here](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
-Outside academia, I am a columnist for Chilean daily newspaper Las Últimas Noticias, Director of electoral analysis website Tresquintos, and co-creator of Twitter game #ElectoralDeathMatch.
+Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm).
 
 Below is a shortlist of my most recent publications (for the full list, click here):
 
