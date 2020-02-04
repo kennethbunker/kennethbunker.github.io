@@ -8,9 +8,7 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 
 Below is a shortlist of my most recent publications (for the full list, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
 
----
-**NOTE**
-
+```yaml
 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” Party Politics. (Forthcoming).
 
 2019\. “Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America.” Revista de Estudios Políticos 186(4): 171-199. [doi](https://doi.org/10.18042/cepc/rep.186.06).
@@ -26,7 +24,6 @@ Below is a shortlist of my most recent publications (for the full list, click [h
 2019\. “Matthew S. Shugart and Rein Taagepera: Votes from seats: Logical models of electoral systems.” Public Choice 178(1-2): 311-313. [doi](https://doi.org/10.1080/13510347.2018.1536123).
 
 2018\. “The 2017 Elections and the Fragmentation of the Party System in Chile.” Revista Chilena de Derecho y Ciencia Política 9(2): 204-229. [doi](http://10.0.30.90/RCHDYCP-V9N2-ART1823).
-
----
+```
 
 Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm).
