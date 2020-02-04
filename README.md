@@ -8,6 +8,21 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 
 Outside academia, I am a columnist for Chilean daily newspaper Las Últimas Noticias, Director of electoral analysis website Tresquintos, and co-creator of Twitter game #ElectoralDeathMatch.
 
+```markdown
+Syntax highlighted code block
+
+# 2020
+1. Numbered
+2. List
+## 2019
+1. Numbered
+2. List
+### 2018
+1. Numbered
+2. List
+
+```
+
 You can use the [editor on GitHub](https://github.com/kennethbunker/kennethbunker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
