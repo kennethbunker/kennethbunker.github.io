@@ -6,6 +6,8 @@ title: Kenneth Bunker
 # Short description of your site
 description: Personal website
 
+url: "https://example.com"
+
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
