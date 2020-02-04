@@ -6,10 +6,14 @@ title: Kenneth Bunker
 # Short description of your site
 description: Peronal website
 
-
-Resources:
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
+
 
 
 # Select your active Social Network Links
