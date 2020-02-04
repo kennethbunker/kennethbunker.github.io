@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 
-title: hola
+title: Kenneth Bunker
 
-logo: /assets/img/logo.png
 description: Peronal website
+
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    
