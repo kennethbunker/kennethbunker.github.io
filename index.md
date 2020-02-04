@@ -6,7 +6,7 @@ I am interested in the interaction between electoral systems and party systems. 
 
 I am also interested in electoral forecasting. In the last year, or so, I have been working on a method designed-for-use in new democracies, but built-to-work anywhere. The method is called the Two-Stage Model (TSM). You can read the technical details of the TSM [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), an example of its application in 11 new democracies (in Latin America) [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), and an example of its application in an advanced democracy (Italy) [here](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
-Below is a shortlist of my most recent publications (for the full list, plus paper downloads and data links, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
+You can find a short list of my most recent publications below (for the full list, plus paper downloads and data links, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
 
 
 * 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” Party Politics. (Forthcoming).
