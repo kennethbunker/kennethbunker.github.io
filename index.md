@@ -6,7 +6,7 @@ I am interested in the interaction between electoral systems and party systems. 
 
 I am also interested in electoral forecasting. In the last year, or so, I have been working on a method designed-for-use in new democracies, but built-to-work anywhere. The method is called the Two-Stage Model (TSM). You can read the technical details of the TSM [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), an example of its application in 11 new democracies (in Latin America) [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), and an example of its application in an advanced democracy (Italy) [here](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
-Below is a shortlist of my most recent publications (for the full list, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
+You can find a short list of my most recent publications below (for the full list, plus paper downloads and data links, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
 
 
 * 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” Party Politics. (Forthcoming).
@@ -26,4 +26,4 @@ Below is a shortlist of my most recent publications (for the full list, click [h
 * 2018\. “The 2017 Elections and the Fragmentation of the Party System in Chile.” Revista Chilena de Derecho y Ciencia Política 9(2): 204-229. [doi](http://10.0.30.90/RCHDYCP-V9N2-ART1823).
 
 
-Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm).
+Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of Twitter game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm). You can also follow me on [Twitter](http://www.twitter.com/kennethbunker)!
