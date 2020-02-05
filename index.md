@@ -9,7 +9,7 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 You can find a short list of my most recent publications below (for the full list, plus paper downloads and data links, click [here](https://www.researchgate.net/profile/Kenneth_Bunker)):
 
 
-* 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” Party Politics. (Forthcoming).
+* 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
 
 * 2019\. “Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America.” Revista de Estudios Políticos 186(4): 171-199. [doi](https://doi.org/10.18042/cepc/rep.186.06).
 
