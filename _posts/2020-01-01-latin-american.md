@@ -1,5 +1,5 @@
 ---
-layout: book-reviews
+layout: post
 title:  Latin American Elections: Choice and Change
 author: Kenneth Bunker
 ---
