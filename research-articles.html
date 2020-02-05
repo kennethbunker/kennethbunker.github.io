@@ -8,7 +8,7 @@ title: Research Articles
   {% for post in site.research-articles %}
     <li>
       <h2><a href="{{ research-articles.url }}">{{ research-articles.title }}</a></h2>
-      <p>{{ research-articles.excerpt }}</p>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
