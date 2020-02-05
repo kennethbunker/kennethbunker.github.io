@@ -18,7 +18,7 @@ title: Blog
   {% for post in site.book-reviews %}
     <li>
       <h2><a href="{{ book-reviews.url }}">{{ book-reviews.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ book-reviews.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
@@ -28,7 +28,7 @@ title: Blog
   {% for post in site.research-articles %}
     <li>
       <h2><a href="{{ research-articles.url }}">{{ research-articles.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ research-articles.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
