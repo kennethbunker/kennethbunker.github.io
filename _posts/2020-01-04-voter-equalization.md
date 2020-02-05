@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law"
+title:  "Research Article: Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law"
 author: "Kenneth Bunker"
 categories: "Research-Articles"
 tags: [Research Article]
