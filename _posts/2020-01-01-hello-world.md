@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello world!"
 author: "Kenneth Bunker"
-categories: "Research Article"
+categories: "Blog"
 ---
 
 Just testing the blog!
