@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America"
+title:  "Research Article: Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America"
 author: "Kenneth Bunker"
 categories: "Research-Articles"
 tags: [Research Article]
