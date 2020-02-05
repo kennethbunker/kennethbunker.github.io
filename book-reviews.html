@@ -6,9 +6,9 @@ title: Book Reviews
 <h1>Latest Book Reviews</h1>
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.book-reviews %}
     <li>
-      <h2><a href="{{ book-review.url }}">{{ book-review.title }}</a></h2>
+      <h2><a href="{{ book-reviews.url }}">{{ book-reviews.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
