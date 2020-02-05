@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book-reviews
 title:  "Latin American Elections: Choice and Change"
 author: "Kenneth Bunker"
 ---

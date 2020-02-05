@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research-articles
 title:  "Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America"
 author: "Kenneth Bunker"
 ---
