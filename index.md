@@ -28,5 +28,8 @@ You can find a short list of my most recent publications below (for abstracts, p
 
 * 2018\. “The 2017 Elections and the Fragmentation of the Party System in Chile.” *Revista Chilena de Derecho y Ciencia Política* 9(2): 204-229. [doi](http://10.0.30.90/RCHDYCP-V9N2-ART1823).
 
+Here are some working papers (please contact me for citation instructions):
+
+* [APSA Preprints](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/5ec630f0bd035400191def57/original/how-electoral-designers-fail-the-contextual-straightjackets-of-reform.pdf). How electoral designers fail: The contextual straightjackets of reform.
 
 Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/), Director of the electoral analysis website [Tresquintos](http://www.tresquintos.cl/), and co-creator of online election game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm). You can also follow me on [Twitter](http://www.twitter.com/kennethbunker)!
