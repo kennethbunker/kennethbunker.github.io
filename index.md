@@ -8,11 +8,13 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 
 You can find a short list of my most recent publications below (for abstracts, plus download and data links, click [here](https://kennethbunker.github.io/blog.html)):
 
-* 2021\. “The age cleavage: Cultural backlash in Chile” *América Latina Hoy*. (Forthcoming).
+* 2022\. “Forecasting two-horse races in new democracies: Accuracy, precision and error” *Revista Lationamericana de Opinión Pública*. (Forthcoming).
 
-* 2020\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
+* 2021\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
 
-* 2020\. “A two-stage model to forecast elections in new democracies” *International Journal of Forecasting* 36: 1407-1419. [doi](https://doi.org/10.1016/j.ijforecast.2020.02.004).
+* 2021\. “The age cleavage: Cultural backlash in Chile” *América Latina Hoy* 87: 1-26.
+
+* 2021\. “A two-stage model to forecast elections in new democracies” *International Journal of Forecasting* 36(4): 1407-1419. [doi](https://doi.org/10.1016/j.ijforecast.2020.02.004).
 
 * 2019\. “Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America.” *Revista de Estudios Políticos* 186(4): 171-199. [doi](https://doi.org/10.18042/cepc/rep.186.06).
 
