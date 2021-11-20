@@ -88,6 +88,8 @@ title: Press
 
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november.
 
+- **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november.
+
 
 ## 2018
 
