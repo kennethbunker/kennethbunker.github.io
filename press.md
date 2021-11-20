@@ -5,7 +5,7 @@ title: Press
 
 <h1>In the press</h1>
 
-2021
+## 2021
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
 
@@ -61,17 +61,17 @@ title: Press
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
-2020
+## 2020
 
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
 
-- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977)
+- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march
 
-- **El País**.	[Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html)
+- **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
 
-- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094)
+- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
 
-- **El País**.	[Chile decide en las urnas el futuro de la Constitucion de Augusto Pinochet](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html)
+- **El País**.	[Chile decide en las urnas el futuro de la Constitución de Augusto Pinochet](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html) 23 october.
 
 - **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution)
 
