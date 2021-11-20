@@ -5,7 +5,7 @@ title: Press
 
 <h1>In the press</h1>
 
-Below is a list of articles to which I have contributed to. The list is divided into years.
+Below is a list of articles to which I have contributed to. The list is divided into years. Please feel free to contact me for interviews.
 
 2021
 
