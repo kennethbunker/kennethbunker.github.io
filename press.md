@@ -5,6 +5,8 @@ title: Press
 
 <h1>In the press</h1>
 
+Below is a list of articles to which I have contributed to. The list is divided into years.
+
 2021
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
@@ -44,6 +46,9 @@ title: Press
 - **Gestión**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november.
 
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
+
+- **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october.
+
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
