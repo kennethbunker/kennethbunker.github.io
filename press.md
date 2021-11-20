@@ -45,7 +45,6 @@ title: Press
 
 - **Gestión**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november.
 
-
 - **La Razón**. [Pinochet se cuela en la campaña electoral de Chile, liderada por Jose Antonio Kast.](https://www.larazon.es/internacional/20211116/czzom3ijgncfncazyfubowssyu.html) 16 november.
 
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
@@ -83,6 +82,11 @@ title: Press
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
 
 - **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
+
+
+## 2019
+
+- **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november.
 
 
 ## 2018
