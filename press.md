@@ -5,8 +5,6 @@ title: Press
 
 <h1>In the press</h1>
 
-Below is a list of articles to which I have contributed to. The list is divided into years. Please feel free to contact me for interviews.
-
 2021
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
@@ -22,7 +20,6 @@ Below is a list of articles to which I have contributed to. The list is divided 
 - **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) 20 november.
 
 - **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november.
-
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
 
@@ -54,14 +51,13 @@ Below is a list of articles to which I have contributed to. The list is divided 
 
 - **The Washington Post**.	[Los mapuches y la Convención Constitucional. Las vacunas y Bolsonaro. Raffaella Carrà.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july.
 
-- **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
-
 - **BBC**.	[La "batalla de Santiago": qué se vota este domingo en Chile (y por qué es importante de cara a la elección presidencial).](https://www.bbc.com/mundo/noticias-america-latina-57343734) 11 june.
 
 - **Bloomberg**.	[Chile Stocks Surge as Communist Knocked Out of Presidential Race.](https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race) 18 july.
 
 - **Rtve**.	[Independientes y oposición marcarán la pauta en la nueva Constitución de Chile.](https://www.rtve.es/noticias/20210517/chile-resultados-elecciones-constituyentes-regionales-concejales-alcaldes/2090594.shtml) 17 may.
 
+- **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
 2020
 
