@@ -10,3 +10,10 @@ title: Press
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) (20 november).
 
 - **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) (20 november).
+
+
+2020
+
+- **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) (20 november).
+
+- **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) (20 november).
