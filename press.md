@@ -101,6 +101,8 @@ title: Press
 
 - **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october.
 
+- **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july.
+
 
 ## 2015
 - **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august.
