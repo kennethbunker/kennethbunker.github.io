@@ -57,6 +57,8 @@ title: Press
 
 - **Rtve**.	[Independientes y oposición marcarán la pauta en la nueva Constitución de Chile.](https://www.rtve.es/noticias/20210517/chile-resultados-elecciones-constituyentes-regionales-concejales-alcaldes/2090594.shtml) 17 may.
 
+- **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may.
+
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
@@ -73,6 +75,6 @@ title: Press
 
 - **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
 
-- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
-
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
+
+- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
