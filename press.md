@@ -21,9 +21,11 @@ title: Press
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
 
-- **El País Uruguay**.	[Boric y Kast, dos extremos que van por la presidencia en Chile](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html)
+- **El País**.	[Boric y Kast, dos extremos que van por la presidencia en Chile](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html)
 
 - **El Comercio**.	[Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar)](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/)
+
+- **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre)
 
 - **America Economía**.	[¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre)
 
