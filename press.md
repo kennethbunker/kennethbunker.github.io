@@ -3,7 +3,7 @@ layout: default
 title: Press
 ---
 
-<h1>My remarks in the press</h1>
+<h1>In the press</h1>
 
 2021
 
@@ -20,6 +20,9 @@ title: Press
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
+
+- **Bloomberg**. [Latin America’s year of elections will test the region’s democracies](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 6 february.
+
 
 
 2020
