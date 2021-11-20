@@ -19,6 +19,9 @@ title: Press
 
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
 
+- **The Economist**. [Latin America’s year of elections will test the region’s democracies](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
 
 2020
+
+- **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
