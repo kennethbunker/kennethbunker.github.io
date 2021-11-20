@@ -45,6 +45,9 @@ title: Press
 
 - **Gestión**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november.
 
+
+- **La Razón**. [Pinochet se cuela en la campaña electoral de Chile, liderada por Jose Antonio Kast.](https://www.larazon.es/internacional/20211116/czzom3ijgncfncazyfubowssyu.html) 16 november.
+
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
 
 - **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october.
@@ -58,6 +61,8 @@ title: Press
 - **Rtve**.	[Independientes y oposición marcarán la pauta en la nueva Constitución de Chile.](https://www.rtve.es/noticias/20210517/chile-resultados-elecciones-constituyentes-regionales-concejales-alcaldes/2090594.shtml) 17 may.
 
 - **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may.
+
+- **France24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 23 may.
 
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
 
