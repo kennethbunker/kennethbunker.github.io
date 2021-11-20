@@ -25,9 +25,13 @@ title: Press
 
 - **El Comercio**.	[Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar)](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/)
 
+- **America Economía**.	[¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre)
+
 - **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
 
 - **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826)
+
+- **Infobae**.	[Una semana que definirá hacia dónde va el nuevo Chile](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/)
 
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
 
