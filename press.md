@@ -109,9 +109,12 @@ title: Press
 
 
 ## 2015
+
 - **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august.
 
 
 ## 2013
 
 - **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december.
+
+- **Washington Post**.	[A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december.
