@@ -83,3 +83,29 @@ title: Press
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
 
 - **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
+
+
+## 2018
+
+- **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march.
+
+- **BBC**. [Por qué el segundo gobierno de Michelle Bachelet es considerado por muchos el más importante en décadas en Chile.](https://www.bbc.com/mundo/noticias-america-latina-43339035) 11 march.
+
+
+## 2017
+
+- **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march.
+
+
+## 2016
+
+- **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october.
+
+
+## 2015
+- **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august.
+
+
+## 2013
+
+- **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december.
