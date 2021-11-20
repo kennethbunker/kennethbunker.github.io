@@ -13,8 +13,7 @@ title: Press
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 20 november.
 
-- **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades
-) 20 november.
+- **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
 
 
 
