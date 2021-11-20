@@ -27,6 +27,10 @@ title: Press
 
 - **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre)
 
+- **El Peruano**.	[Chile: cambio de ciclo y el ocaso de los partidos tradicionales.](https://elperuano.pe/noticia/133757-chile-un-cambio-de-ciclo)
+
+- **The Saxon**. [Elections in Chile: the Mapuche conflict, a hot brick that the next government will inherit.](https://thesaxon.org/elections-in-chile-the-mapuche-conflict-a-hot-brick-that-the-next-government-will-inherit/98159/)
+
 - **America Economía**.	[¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización.](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre)
 
 - **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
