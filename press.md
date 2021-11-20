@@ -63,7 +63,7 @@ title: Press
 
 ## 2020
 
-- **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october
+- **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october.
 
 - **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
 
