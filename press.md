@@ -9,6 +9,8 @@ title: Press
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
 
+- **NBC**. [Chile Set To Elect New President](https://www.youtube.com/watch?v=7Qvik6ORvEw)
+
 - **Deutsche Welle**. [Präsidentschaftswahl in Chile: Stillstand oder Wandel?](https://www.dw.com/de/pr%C3%A4sidentschaftswahl-in-chile-stillstand-oder-wandel/a-59885356) 20 november.
 
 - **CNN**. [Make Chile great again? Meet the far-right presidential candidate tempting voters from Chile's left and center.](https://edition.cnn.com/2021/11/20/americas/chile-election-kast-boric-intl-latam/index.html) 20 november.
@@ -16,6 +18,8 @@ title: Press
 - **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) 20 november.
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
+
+- **El País Uruguay**.	[Boric y Kast, dos extremos que van por la presidencia en Chile](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html)
 
 - **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
 
