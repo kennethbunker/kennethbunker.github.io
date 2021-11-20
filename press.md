@@ -21,9 +21,9 @@ title: Press
 
 - **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november.
 
-- **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
-
 - **El País**.	[Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november.
+
+- **France 24**.	[Chile encara las elecciones presidenciales más polarizadas en décadas.](https://www.france24.com/es/am%C3%A9rica-latina/20211120-chile-elecciones-presidenciales-protestas-polarizacion) 20 november.
 
 - **El Comercio**.	[Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar).](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/) 20 november.
 
@@ -36,6 +36,8 @@ title: Press
 - **America Economía**.	[¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización.](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre) 20 november.
 
 - **Hindustan Times**. ['Burning the metro': Chile election divides voters between protest and order.](https://www.hindustantimes.com/world-news/burning-the-metro-chile-election-divides-voters-between-protest-and-order-101637410223375.html) 19 november.
+
+- **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 20 november.
 
 - **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
 
