@@ -41,6 +41,8 @@ title: Press
 
 - **Diario Financiero**.	[Elecciones parlamentarias: El pronostico de los expertos de cara al Congreso 2022.](https://www.df.cl/noticias/economia-y-politica/politica/elecciones-parlamentarias-el-pronostico-de-los-expertos-de-cara-al/2021-11-19/150543.html) 19 november.
 
+- **Gestion**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november.
+
 - **The Guardian**. [‘I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
