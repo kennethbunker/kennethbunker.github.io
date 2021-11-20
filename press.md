@@ -49,7 +49,7 @@ title: Press
 
 - **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october.
 
-- **The Washington Post**.	[Los mapuches y la Convención Constitucional. Las vacunas y Bolsonaro. Raffaella Carrà.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july.
+- **The Washington Post**.	[Los mapuches y la Convención Constitucional.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july.
 
 - **BBC**.	[La "batalla de Santiago": qué se vota este domingo en Chile (y por qué es importante de cara a la elección presidencial).](https://www.bbc.com/mundo/noticias-america-latina-57343734) 11 june.
 
@@ -59,22 +59,22 @@ title: Press
 
 - **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may.
 
-- **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
+- **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
 ## 2020
 
-- **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october.
+- **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october.
 
-- **El País**.	[Chile decide en las urnas el futuro de la Constitución de Augusto Pinochet](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html) 25 october.
+- **El País**.	[Chile decide en las urnas el futuro de la Constitución de Augusto Pinochet.](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html) 25 october.
 
-- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
+- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter.](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
 
-- **Expansión**.	[Chile decide si deja atrás el último vestigio de la dictadura de Pinochet](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet) 23 october.
+- **Expansión**.	[Chile decide si deja atrás el último vestigio de la dictadura de Pinochet.](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet) 23 october.
 
-- **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
+- **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
 
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
 
-- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
+- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
