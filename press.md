@@ -35,9 +35,11 @@ title: Press
 
 - **America Economía**.	[¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización.](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre) 20 november.
 
+- **Hindustan Times**. ['Burning the metro': Chile election divides voters between protest and order.](https://www.hindustantimes.com/world-news/burning-the-metro-chile-election-divides-voters-between-protest-and-order-101637410223375.html) 19 november.
+
 - **Nasdaq**. [Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november.
 
-- **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826) 20 november.
+- **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826) 18 november.
 
 - **Infobae**.	[Una semana que definirá hacia dónde va el nuevo Chile.](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/) 20 november.
 
