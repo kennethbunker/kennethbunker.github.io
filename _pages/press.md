@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "Press"
 permalink: /press/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
