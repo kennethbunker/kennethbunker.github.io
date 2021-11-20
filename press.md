@@ -21,7 +21,6 @@ title: Press
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
-- **Bloomberg**. [Latin America’s year of elections will test the region’s democracies](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 6 february.
 
 
 
