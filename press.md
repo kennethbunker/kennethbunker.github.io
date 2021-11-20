@@ -90,7 +90,7 @@ title: Press
 
 - **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november.
 
-- **Bloomberg**. [En un país símbolo del libre mercado dos jovenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August.
+- **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August.
 
 
 ## 2018
