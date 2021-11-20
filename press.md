@@ -9,7 +9,7 @@ title: Press
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
 
-- **NBC**. [Chile Set To Elect New President](https://www.youtube.com/watch?v=7Qvik6ORvEw)
+- **NBC**. [Chile Set To Elect New President.](https://www.youtube.com/watch?v=7Qvik6ORvEw)
 
 - **Deutsche Welle**. [Präsidentschaftswahl in Chile: Stillstand oder Wandel?](https://www.dw.com/de/pr%C3%A4sidentschaftswahl-in-chile-stillstand-oder-wandel/a-59885356) 20 november.
 
@@ -21,7 +21,7 @@ title: Press
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
 
-- **El País**.	[Boric y Kast, dos extremos que van por la presidencia en Chile](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html)
+- **El País**.	[Boric y Kast, dos extremos que van por la presidencia en Chile.s](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html)
 
 - **El Comercio**.	[Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar).](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/)
 
