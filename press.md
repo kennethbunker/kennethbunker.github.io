@@ -65,7 +65,9 @@ title: Press
 
 - **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may.
 
-- **France24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 23 may.
+- **France 24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may.
+
+- **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 13 may.
 
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
 
