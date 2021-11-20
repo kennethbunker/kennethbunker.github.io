@@ -21,6 +21,9 @@ Below is a list of articles to which I have contributed to. The list is divided 
 
 - **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) 20 november.
 
+- **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november.
+
+
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november.
 
 - **El País**.	[Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november.
