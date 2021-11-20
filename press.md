@@ -64,3 +64,15 @@ title: Press
 2020
 
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
+
+- **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977)
+
+- **El País**.	[Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html)
+
+- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094)
+
+- **El País**.	[Chile decide en las urnas el futuro de la Constitucion de Augusto Pinochet](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html)
+
+- **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution)
+
+- **Expansión**.	[Chile decide si deja atrás el último vestigio de la dictadura de Pinochet](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet)
