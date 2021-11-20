@@ -67,9 +67,9 @@ title: Press
 
 - **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october.
 
-- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
-
 - **El País**.	[Chile decide en las urnas el futuro de la Constitución de Augusto Pinochet](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html) 25 october.
+
+- **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
 
 - **Expansión**.	[Chile decide si deja atrás el último vestigio de la dictadura de Pinochet](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet) 23 october.
 
