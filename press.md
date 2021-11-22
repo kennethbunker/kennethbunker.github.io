@@ -7,6 +7,7 @@ title: Press
 
 ## 2021
 
+- **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 novemeber.
 
 - **Reuters**. [Chileans, after two years of drifting left, veer back right](https://www.reuters.com/world/americas/chileans-after-two-years-drifting-left-veer-back-right-2021-11-22/) 22 november.
 
