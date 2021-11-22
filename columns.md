@@ -6,23 +6,15 @@ title: Columns
 <h1>LUN</h1>
 
 <ol reversed>
-  <li>Police Academy (Series)
-  <li>Harry Potter (Series)
-  <li>Back to the Future (Trilogy)
-  <li>Star Wars (Saga)
-  <li>The Lord of the Rings (Trilogy)
-</ol>
-
-
-20211123 - Diez resultados de la elección
-20211117 - Preferencias variables
-20211116 - Un debate incierto
-20211115 - 12 temas de la eleccion
-20211113 - Compromiso irrestricto
-20211111 - La saña
-20211110 - Socialdemocracia
-20211105 - El estándar
-20211102 - Ganar por ganar
+<li> 20211123 - Diez resultados de la elección
+<li> 20211117 - Preferencias variables
+<li>20211116 - Un debate incierto
+<li> 20211115 - 12 temas de la eleccion
+<li> 20211113 - Compromiso irrestricto
+<li> 20211111 - La saña
+<li> 20211110 - Socialdemocracia
+<li> 20211105 - El estándar
+<li>  20211102 - Ganar por ganar
 20211020 - Octubre contra Noviembre
 20211019 - Detener las banalidades
 20211013 - El fin justifica los medios
@@ -169,3 +161,5 @@ title: Columns
 20180113 - Por qué Bachelet coopera con Piñera
 20180106 - El éxodo de Mariana
 20180102 - Los tres gabinetes de Piñera
+
+</ol>
