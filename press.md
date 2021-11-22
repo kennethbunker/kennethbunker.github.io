@@ -7,9 +7,7 @@ title: Press
 
 ## 2021
 
-
-
-- **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 22 november.
+- **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 21 november.
 
 - **BBC**.	[Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).]( https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 novemeber.
 
