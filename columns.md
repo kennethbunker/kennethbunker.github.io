@@ -8,6 +8,7 @@ title: Columns
 ## Las Últimas Noticias
 
 <ol reversed>
+
 <li> 20211123 - Diez resultados de la elección
 <li> 20211117 - Preferencias variables
 <li> 20211116 - Un debate incierto
@@ -168,48 +169,48 @@ title: Columns
 
 <ol reversed>
 
-<li> 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
-<li> 20210124 - Rincón versus Undurraga y el declive de la DC
-<li> 20210131 - Los dilemas de Paula Narváez
-<li> 0210205 - La última oportunidad
-<li> 20210212 - Incendio en Revolución Democrática
-<li> 20210219 - Chile Vamos y la mega elección de marzo
-<li> 20210226 - Unidad Constituyente necesita un líder
-<li> 20210306 - El balance de Boric
-<li> 20210312 - El problema no es la estatua, es la violencia
-<li> 20210319 - Una tormenta perfecta para Unidad Constituyente
-<li> 20210326 - La pelota en el piso
-<li> 20210402 - La ventaja de la derecha y su fragilidad
-<li> 20210416 - La pelota está en la cancha del gobierno
-<li> 20210423 - El pc es la locomotora
-<li> 20210428 - Secuencia de oportunidades desperdiciadas: los costos para el gobierno y la derecha
-<li> 20210430 - El increíble y peligroso ascenso de Pamela Jiles
-<li> 20210507 - Una elección incierta
-<li> 20210513 - Los dos tercios están en el centro
-<li> 20210521 - La rearticulación de la socialdemocracia
-<li> 20210604 - La reconstrucción de la derecha
-<li> 20210611 - Amenaza al proceso constitucional
-<li> 20210614 - Una nueva era de turbulencia política
-<li> 20210618 - La política de lo imposible
-<li> 20210625 - Es la hora de Yasna Provoste
-<li> 20210702 - Tensión constitucional
-<li> 20210709 - Reglas imparciales favorecen el éxito
-<li> 20210716 - Ganadores y perdedores de la primaria presidencial
-<li> 20210724 - Yasna Provoste y el drama de la centroizquierda
-<li> 20210731 - Los errores de la derecha y la oportunidad de Sichel
-<li> 20210806 - Quién se parece más a Bachelet
-<li> 20210812 - El auge y declive de la lista del pueblo
-<li> 20210903 - Lo que está en juego es la hegemonía de la izquierda
-<li> 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
-<li> 20210917 - Cambio de reglas en la mitad del partido
-<li> 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
-<li> 20211001 - El elefante
-<li> 20211008 - Lo importancia de la inmediatez
-<li> 20211015 - Realineamiento en la recta final
-<li> 20211022 - Orden, violencia, elite y pueblo
-<li> 20211029 - Polarización y gobernabilidad
-<li> 0211105 - King makers
-<li> 20211112 - Las dos almas de Apruebo Dignidad
 <li> 20211119 - Claves de la elección legislativa
+<li> 20211112 - Las dos almas de Apruebo Dignidad
+<li> 20211105 - King makers
+<li> 20211029 - Polarización y gobernabilidad
+<li> 20211022 - Orden, violencia, elite y pueblo
+<li> 20211015 - Realineamiento en la recta final
+<li> 20211008 - Lo importancia de la inmediatez
+<li> 20211001 - El elefante
+<li> 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
+<li> 20210917 - Cambio de reglas en la mitad del partido
+<li> 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
+<li> 20210903 - Lo que está en juego es la hegemonía de la izquierda
+<li> 20210812 - El auge y declive de la lista del pueblo
+<li> 20210806 - Quién se parece más a Bachelet
+<li> 20210731 - Los errores de la derecha y la oportunidad de Sichel
+<li> 20210724 - Yasna Provoste y el drama de la centroizquierda
+<li> 20210716 - Ganadores y perdedores de la primaria presidencial
+<li> 20210709 - Reglas imparciales favorecen el éxito
+<li> 20210702 - Tensión constitucional
+<li> 20210625 - Es la hora de Yasna Provoste
+<li> 20210618 - La política de lo imposible
+<li> 20210614 - Una nueva era de turbulencia política
+<li> 20210611 - Amenaza al proceso constitucional
+<li> 20210604 - La reconstrucción de la derecha
+<li> 20210521 - La rearticulación de la socialdemocracia
+<li> 20210513 - Los dos tercios están en el centro
+<li> 20210507 - Una elección incierta
+<li> 20210430 - El increíble y peligroso ascenso de Pamela Jiles
+<li> 20210428 - Secuencia de oportunidades desperdiciadas - los costos para el gobierno y la derecha
+<li> 20210423 - El pc es la locomotora
+<li> 20210416 - La pelota está en la cancha del gobierno
+<li> 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
+<li> 20210402 - La ventaja de la derecha y su fragilidad
+<li> 20210326 - La pelota en el piso
+<li> 20210319 - Una tormenta perfecta para Unidad Constituyente
+<li> 20210312 - El problema no es la estatua, es la violencia
+<li> 20210306 - El balance de Boric
+<li> 20210226 - Unidad Constituyente necesita un líder
+<li> 20210219 - Chile Vamos y la mega elección de marzo
+<li> 20210212 - Incendio en Revolución Democrática
+<li> 20210205 - La última oportunidad
+<li> 20210131 - Los dilemas de Paula Narváez
+<li> 20210124 - Rincón versus Undurraga y el declive de la DC
 
 </ol>
