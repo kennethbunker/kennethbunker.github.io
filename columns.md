@@ -167,10 +167,7 @@ title: Columns
 <li> 20180106 - El éxodo de Mariana
 <li> 20180102 - Los tres gabinetes de Piñera
 
-</ol>
-
-
-</section>
+</ol></section>
 
 <section>
 
