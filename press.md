@@ -13,6 +13,8 @@ title: Press
 
 - **Americas Quarterly**. [Chile Sends Kast and Boric to Runoff.](https://www.americasquarterly.org/article/reaction-chile-sends-kast-and-boric-to-runoff/) 22 november.
 
+- **Infobae**.	[Tras dos años de agitación social, los chilenos favorecen propuesta de orden de Kast.](https://www.infobae.com/america/agencias/2021/11/22/tras-dos-anos-de-agitacion-social-los-chilenos-favorecen-propuesta-de-orden-de-kast/) 22 november.
+
 - **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 21 november.
 
 - **BBC**.	[Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).]( https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 novemeber.
