@@ -3,6 +3,10 @@ layout: default
 title: Columns
 ---
 
+<html>
+<body>
+
+
 <h1>Columns</h1>
 
 <h2>Las Últimas Noticias</h2>
@@ -217,3 +221,7 @@ title: Columns
 <li> 20210124 - Rincón versus Undurraga y el declive de la DC
 
 </ol>
+
+
+</body>
+</html>
