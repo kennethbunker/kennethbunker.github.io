@@ -7,8 +7,6 @@ title: Columns
 
 <h2>Las Últimas Noticias</h2>
 
-<p>
-
 <ol reversed>
 
 <li> 20211123 - Diez resultados de la elección
@@ -167,7 +165,7 @@ title: Columns
 
 </ol>
 
-## Ex-Ante
+<h2>Ex-Ante</h2>
 
 <ol reversed>
 
