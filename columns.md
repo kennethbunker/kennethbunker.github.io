@@ -7,7 +7,7 @@ title: Columns
 
 <h2>Las Últimas Noticias</h2>
 
-<ol reversed>
+<p><ol reversed>
 
 <li> 20211123 - Diez resultados de la elección
 <li> 20211117 - Preferencias variables
@@ -164,6 +164,7 @@ title: Columns
 <li> 20180102 - Los tres gabinetes de Piñera
 
 </ol>
+</p>
 
 <h2>Ex-Ante</h2>
 
