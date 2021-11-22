@@ -181,7 +181,7 @@ title: Columns
 <li> 20211001 - El elefante
 <li> 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
 <li> 20210917 - Cambio de reglas en la mitad del partido
-<li> 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
+<li> 20210910 - El cuarto retiro y las falencias de los candidatos
 <li> 20210903 - Lo que está en juego es la hegemonía de la izquierda
 <li> 20210812 - El auge y declive de la lista del pueblo
 <li> 20210806 - Quién se parece más a Bachelet
@@ -199,7 +199,7 @@ title: Columns
 <li> 20210513 - Los dos tercios están en el centro
 <li> 20210507 - Una elección incierta
 <li> 20210430 - El increíble y peligroso ascenso de Pamela Jiles
-<li> 20210428 - Secuencia de oportunidades desperdiciadas: los costos para el gobierno y la derecha
+<li> 20210428 - Secuencia de oportunidades desperdiciadas
 <li> 20210423 - El PC es la locomotora
 <li> 20210416 - La pelota está en la cancha del gobierno
 <li> 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
