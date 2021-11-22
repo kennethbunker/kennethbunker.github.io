@@ -154,7 +154,7 @@ title: Columns
 <li> 20180321 - Intolerancia en una universidad
 <li> 20180312 - Polos opuestos
 <li> 20180307 - Un saludo a la bandera
-<li> 20180225 - Cómo se viene la mano con los ministros y subsecretarios de Piñera
+<li> 20180225 - Cómo se viene la mano
 <li> 20180227 - El trampolín político
 <li> 20180217 - Qué debe hacer el nuevo congreso
 <li> 20180124 - El ministro verde oliva
