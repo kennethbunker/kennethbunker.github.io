@@ -7,6 +7,12 @@ title: Press
 
 ## 2021
 
+
+
+- **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 22 november.
+
+- **BBC**.	[Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).]( https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 novemeber.
+
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
 
 - **NBC**. [Chile Set To Elect New President.](https://www.youtube.com/watch?v=7Qvik6ORvEw) 20 november.
