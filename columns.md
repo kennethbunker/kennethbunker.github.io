@@ -122,43 +122,42 @@ title: Columns
 <li> 20180712 - El talon de Aquiles de Bachelet
 <li> 20180708 - Por que la oposicion esta desarticulada
 <li> 20180612 - Lógica impecable
-20180608 - La peor forma de negociar
-20180824 - Un show pobre
-20180810 - Disciplina y cohesion
-20180730 - A favor de la eutanasia
-20180719 - Respeto a un invitado
-20180724 - El ministro pasapalabras
-20180619 - Orden en la casa
-20180618 - Falta lógica de coalición en la derecha
-20180615 - El grave error del senador
-20180527 - Las divisiones internas de la DC
-20180518 - Francotirador sin balas
-20180509 - Los errores de Abbott
-20180514 - Protagonistas de la fama
-20180511 - Los tropiezos cuestan caro
-20180507 - El makeover de Moreno
-20180504 - Una maquina aceitada
-20180503 - La derecha civilizada contra la derecha cavernaria
-20180427 - Por qué a Piñera le interesa Macri y viceversa
-20180422 - Los primeros autogoles del gobierno
-20180420 - La súper torpeza
-20180418 - Es una tarjeta roja antojadiza
-20180419 - Máquinas versus políticos
-20180414 - Un politico amateur
-20180413 - Ahora todo vale
-20180406 - Una decisión apresurada
-20180403 - Mejor ser panelista que político
-20180328 - Adónde va ese tuiteo
-20180321 - Intolerancia en una universidad
-20180312 - Polos opuestos
-20180307 - Un saludo a la bandera
-20180225 - Cómo se viene la mano con los ministros y subsecretarios de Piñera
-20180227 - El trampolín político
-20180217 - Qué debe hacer el nuevo congreso
-20180124 - El ministro verde oliva
-20180121 - Posverdad y el Banco Mundial
-20180113 - Por qué Bachelet coopera con Piñera
-20180106 - El éxodo de Mariana
-20180102 - Los tres gabinetes de Piñera
+<li> 20180608 - La peor forma de negociar
+<li> 20180824 - Un show pobre
+<li> 20180810 - Disciplina y cohesion
+<li> 20180730 - A favor de la eutanasia
+<li> 20180719 - Respeto a un invitado
+<li> 20180724 - El ministro pasapalabras
+<li> 20180619 - Orden en la casa
+<li> 20180618 - Falta lógica de coalición en la derecha
+<li> 20180615 - El grave error del senador
+<li> 20180527 - Las divisiones internas de la DC
+<li> 20180518 - Francotirador sin balas
+<li> 20180509 - Los errores de Abbott
+<li> 20180514 - Protagonistas de la fama
+<li> 20180507 - El makeover de Moreno
+<li> 20180504 - Una maquina aceitada
+<li> 20180503 - La derecha civilizada contra la derecha cavernaria
+<li> 20180427 - Por qué a Piñera le interesa Macri y viceversa
+<li> 20180422 - Los primeros autogoles del gobierno
+<li> 20180420 - La súper torpeza
+<li> 20180418 - Es una tarjeta roja antojadiza
+<li> 20180419 - Máquinas versus políticos
+<li> 20180414 - Un politico amateur
+<li> 20180413 - Ahora todo vale
+<li> 20180406 - Una decisión apresurada
+<li> 20180403 - Mejor ser panelista que político
+<li> 20180328 - Adónde va ese tuiteo
+<li> 20180321 - Intolerancia en una universidad
+<li> 20180312 - Polos opuestos
+<li> 20180307 - Un saludo a la bandera
+<li> 20180225 - Cómo se viene la mano con los ministros y subsecretarios de Piñera
+<li> 20180227 - El trampolín político
+<li> 20180217 - Qué debe hacer el nuevo congreso
+<li> 20180124 - El ministro verde oliva
+<li> 20180121 - Posverdad y el Banco Mundial
+<li> 20180113 - Por qué Bachelet coopera con Piñera
+<li> 20180106 - El éxodo de Mariana
+<li> 20180102 - Los tres gabinetes de Piñera
 
 </ol>
