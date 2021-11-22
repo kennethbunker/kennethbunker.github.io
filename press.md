@@ -9,6 +9,8 @@ title: Press
 
 - **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 novemeber.
 
+- **L'Express**. [Présidentielle au Chili : "Le premier tour est un tremblement de terre politique total"](https://www.lexpress.fr/actualite/monde/amerique-sud/presidentielle-au-chili-le-premier-tour-est-un-tremblement-de-terre-politique-total_2162848.html) 22 november.
+
 - **Reuters**. [Chileans, after two years of drifting left, veer back right](https://www.reuters.com/world/americas/chileans-after-two-years-drifting-left-veer-back-right-2021-11-22/) 22 november.
 
 - **Americas Quarterly**. [Chile Sends Kast and Boric to Runoff.](https://www.americasquarterly.org/article/reaction-chile-sends-kast-and-boric-to-runoff/) 22 november.
