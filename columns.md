@@ -14,15 +14,15 @@ title: Columns
 <li> 20211111 - La saña
 <li> 20211110 - Socialdemocracia
 <li> 20211105 - El estándar
-<li>  20211102 - Ganar por ganar
-20211020 - Octubre contra Noviembre
-20211019 - Detener las banalidades
-20211013 - El fin justifica los medios
-20211012 - La gran tragedia
-20210101 - Inconsecuencia
-20210929 - Demasiado tibio
-20210928 - La sospecha
-20210925 - Los incentivos
+<li> 20211102 - Ganar por ganar
+<li> 20211020 - Octubre contra Noviembre
+<li> 20211019 - Detener las banalidades
+<li> 20211013 - El fin justifica los medios
+<li> 20211012 - La gran tragedia
+<li> 20210101 - Inconsecuencia
+<li> 20210929 - Demasiado tibio
+<li> 20210928 - La sospecha
+<li> 20210925 - Los incentivos
 20210916 - Una cuerda delicada
 20210921 - Deterioro
 20210915 - Los dos tercios
