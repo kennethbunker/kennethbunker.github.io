@@ -49,18 +49,18 @@ title: Columns
 <li> 20210416 - Cuotas de poder
 <li> 20210414 - Populismo
 <li> 20210408 - La mesa de trabajo
-20210402 - Poder municipal
-20210331 - Improvisación permanente
-20210326 - Nadie sobra
-20210318 - La ave fenix
-20210216 - Barco a la deriva
-20210215 - Luces y sombras
-20210123 - La contradicción de RN
-20210126 - Frei Montalva
-20200126 - La sombra de Frei
-20201230 - El trabajo dignifica
-20201219 - En sus marcas
-20201216 - Gravedad extrema
+<li> 20210402 - Poder municipal
+<li> 20210331 - Improvisación permanente
+<li> 20210326 - Nadie sobra
+<li> 20210318 - La ave fenix
+<li> 20210216 - Barco a la deriva
+<li> 20210215 - Luces y sombras
+<li> 20210123 - La contradicción de RN
+<li> 20210126 - Frei Montalva
+<li> 20200126 - La sombra de Frei
+<li> 20201230 - El trabajo dignifica
+<li> 20201219 - En sus marcas
+<li> 20201216 - Gravedad extrema
 20201204 - Más pequeno, menos influyente
 20201202 - Chiste repetido
 20201120 - Una oportunidad
