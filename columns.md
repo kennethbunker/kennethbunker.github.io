@@ -164,7 +164,9 @@ title: Columns
 <li> 20180102 - Los tres gabinetes de Piñera
 </ol>
 
-<h2>Ex-Ante</h2> 
+<br>
+
+<h2>Ex-Ante</h2>
 
 <ol reversed>
 
@@ -197,7 +199,7 @@ title: Columns
 <li> 20210507 - Una elección incierta
 <li> 20210430 - El increíble y peligroso ascenso de Pamela Jiles
 <li> 20210428 - Secuencia de oportunidades desperdiciadas: los costos para el gobierno y la derecha
-<li> 20210423 - El pc es la locomotora
+<li> 20210423 - El PC es la locomotora
 <li> 20210416 - La pelota está en la cancha del gobierno
 <li> 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
 <li> 20210402 - La ventaja de la derecha y su fragilidad
