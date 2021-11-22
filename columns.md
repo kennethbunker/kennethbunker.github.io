@@ -61,8 +61,8 @@ title: Columns
 <li> 20201230 - El trabajo dignifica
 <li> 20201219 - En sus marcas
 <li> 20201216 - Gravedad extrema
-20201204 - Más pequeno, menos influyente
-20201202 - Chiste repetido
+<li> 20201204 - Más pequeno, menos influyente
+<li> 20201202 - Chiste repetido
 <li> 20201120 - Una oportunidad
 <li> 20201031 - Una deuda moral
 <li> 20201111 - Seriedad, honorables
