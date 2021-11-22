@@ -5,6 +5,8 @@ title: Columns
 
 <h1>Columns</h1>
 
+<section>
+
 <h2>Las Últimas Noticias</h2>
 
 <p>
@@ -168,6 +170,10 @@ title: Columns
 </ol>
 
 
+</section>
+
+<section>
+
 <h2>Ex-Ante</h2>
 
 <ol reversed>
@@ -217,3 +223,5 @@ title: Columns
 <li> 20210124 - Rincón versus Undurraga y el declive de la DC
 
 </ol>
+
+</section>
