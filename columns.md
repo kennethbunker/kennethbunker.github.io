@@ -3,7 +3,9 @@ layout: default
 title: Columns
 ---
 
-<h1>LUN</h1>
+<h1>Columns</h1>
+
+## LUN
 
 <ol reversed>
 <li> 20211123 - Diez resultados de la elección
@@ -162,7 +164,7 @@ title: Columns
 
 </ol>
 
-<h1>Ex-Ante</h1>
+## Ex-Ante
 
 <ol reversed>
 
