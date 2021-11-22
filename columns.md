@@ -5,7 +5,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-## LUN
+## Las Últimas Noticias
 
 <ol reversed>
 <li> 20211123 - Diez resultados de la elección
