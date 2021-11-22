@@ -106,22 +106,22 @@ title: Columns
 <li> 20191011 - La falla de San Ramón
 <li> 20190619 - La teleserie socialista
 <li> 20190606 - Llegó la hora de privatizar TVN
-20180516 - Fin al chipe libre
-20190328 - Mucho ruido pocas nueces
-20190320 - Oposición
-20190313 - Whatsapp
-20181125 - Costo político
-20181019 - La astuta
-20181016 - Hay que pedir la renuncia NP
-20181010 - Algo huele mal en la contraloría
-20181009 - La amenaza populista
-20181002 - Fallo de la Haya
-20180830 - Cites inhumanos
-20180917 - El ascenso de los evangélicos NP
-20180814 - Somos poco tolerantes
-20180712 - El talon de Aquiles de Bachelet
-20180708 - Por que la oposicion esta desarticulada
-20180612 - Lógica impecable
+<li> 20180516 - Fin al chipe libre
+<li> 20190328 - Mucho ruido pocas nueces
+<li> 20190320 - Oposición
+<li> 20190313 - Whatsapp
+<li> 20181125 - Costo político
+<li> 20181019 - La astuta
+<li> 20181016 - Hay que pedir la renuncia NP
+<li> 20181010 - Algo huele mal en la contraloría
+<li> 20181009 - La amenaza populista
+<li> 20181002 - Fallo de la Haya
+<li> 20180830 - Cites inhumanos
+<li> 20180917 - El ascenso de los evangélicos NP
+<li> 20180814 - Somos poco tolerantes
+<li> 20180712 - El talon de Aquiles de Bachelet
+<li> 20180708 - Por que la oposicion esta desarticulada
+<li> 20180612 - Lógica impecable
 20180608 - La peor forma de negociar
 20180824 - Un show pobre
 20180810 - Disciplina y cohesion
