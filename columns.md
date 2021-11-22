@@ -8,7 +8,7 @@ title: Columns
 <ol reversed>
 <li> 20211123 - Diez resultados de la elección
 <li> 20211117 - Preferencias variables
-<li>20211116 - Un debate incierto
+<li> 20211116 - Un debate incierto
 <li> 20211115 - 12 temas de la eleccion
 <li> 20211113 - Compromiso irrestricto
 <li> 20211111 - La saña
@@ -23,32 +23,32 @@ title: Columns
 <li> 20210929 - Demasiado tibio
 <li> 20210928 - La sospecha
 <li> 20210925 - Los incentivos
-20210916 - Una cuerda delicada
-20210921 - Deterioro
-20210915 - Los dos tercios
-20210910 - Responsabilidad histórica
-20210729 - Un sistema inestable
-20210727 - Una comuna con futuro
-20210724 - La revancha
-20210721 - Una salida elegante
-20210720 - La alegoría de las redes sociales
-20210719 - El carpetazo
-20210713 - Promesas de libertad
-20210707 - Problema político
-20210705 - Instalación Constituyente
-20210614 - Batalla de las izquierdas
-20210506 - La estrategia de Yasna
-20210602 - El último discurso
-20210517 - Una nueva fuerza
-20210516 - Llegar a acuerdos
-20210511 - No son todos iguales
-20210508 - Notable abandono de deberes
-20210430 - Error de cálculo
-20210428 - Situación delicada
-20210417 - Trapos sucios
-20210416 - Cuotas de poder
-20210414 - Populismo
-20210408 - La mesa de trabajo
+<li> 20210916 - Una cuerda delicada
+<li> 20210921 - Deterioro
+<li> 20210915 - Los dos tercios
+<li> 20210910 - Responsabilidad histórica
+<li> 20210729 - Un sistema inestable
+<li> 20210727 - Una comuna con futuro
+<li> 20210724 - La revancha
+<li> 20210721 - Una salida elegante
+<li> 20210720 - La alegoría de las redes sociales
+<li> 20210719 - El carpetazo
+<li> 20210713 - Promesas de libertad
+<li> 20210707 - Problema político
+<li> 20210705 - Instalación Constituyente
+<li> 20210614 - Batalla de las izquierdas
+<li> 20210506 - La estrategia de Yasna
+<li> 20210602 - El último discurso
+<li> 20210517 - Una nueva fuerza
+<li> 20210516 - Llegar a acuerdos
+<li> 20210511 - No son todos iguales
+<li> 20210508 - Notable abandono de deberes
+<li> 20210430 - Error de cálculo
+<li> 20210428 - Situación delicada
+<li> 20210417 - Trapos sucios
+<li> 20210416 - Cuotas de poder
+<li> 20210414 - Populismo
+<li> 20210408 - La mesa de trabajo
 20210402 - Poder municipal
 20210331 - Improvisación permanente
 20210326 - Nadie sobra
