@@ -164,7 +164,7 @@ title: Columns
 <li> 20180102 - Los tres gabinetes de Piñera
 </ol>
 
-<br>
+<section>
 
 <h2>Ex-Ante</h2>
 
