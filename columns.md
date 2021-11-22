@@ -5,6 +5,14 @@ title: Columns
 
 <h1>LUN</h1>
 
+<ol reversed>
+  <li>Police Academy (Series)
+  <li>Harry Potter (Series)
+  <li>Back to the Future (Trilogy)
+  <li>Star Wars (Saga)
+  <li>The Lord of the Rings (Trilogy)
+</ol>
+
 
 20211123 - Diez resultados de la elección
 20211117 - Preferencias variables
