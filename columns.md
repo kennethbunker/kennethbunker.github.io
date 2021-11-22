@@ -180,15 +180,15 @@ title: Columns
 <li> 20211015 - Realineamiento en la recta final
 <li> 20211008 - Lo importancia de la inmediatez
 <li> 20211001 - El elefante
-<li> 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
+<li> 20210924 - Yasna Provoste y los huérfanos
 <li> 20210917 - Cambio de reglas en la mitad del partido
 <li> 20210910 - El cuarto retiro y las falencias de los candidatos
-<li> 20210903 - Lo que está en juego es la hegemonía de la izquierda
+<li> 20210903 - Lo que está en juego es la hegemonía
 <li> 20210812 - El auge y declive de la lista del pueblo
 <li> 20210806 - Quién se parece más a Bachelet
-<li> 20210731 - Los errores de la derecha y la oportunidad de Sichel
+<li> 20210731 - Los errores de la derecha
 <li> 20210724 - Yasna Provoste y el drama de la centroizquierda
-<li> 20210716 - Ganadores y perdedores de la primaria presidencial
+<li> 20210716 - Ganadores y perdedores de la primaria
 <li> 20210709 - Reglas imparciales favorecen el éxito
 <li> 20210702 - Tensión constitucional
 <li> 20210625 - Es la hora de Yasna Provoste
@@ -203,7 +203,7 @@ title: Columns
 <li> 20210428 - Secuencia de oportunidades desperdiciadas
 <li> 20210423 - El PC es la locomotora
 <li> 20210416 - La pelota está en la cancha del gobierno
-<li> 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
+<li> 20210409 - El ascenso de Pamela Jiles
 <li> 20210402 - La ventaja de la derecha y su fragilidad
 <li> 20210326 - La pelota en el piso
 <li> 20210319 - Una tormenta perfecta para Unidad Constituyente
