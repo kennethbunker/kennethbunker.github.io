@@ -5,8 +5,6 @@ title: Columns
 
 <h1>Columns</h1>
 
-<section>
-
 <h2>Las Últimas Noticias</h2>
 
 <p>
@@ -167,11 +165,9 @@ title: Columns
 <li> 20180106 - El éxodo de Mariana
 <li> 20180102 - Los tres gabinetes de Piñera
 
-</ol></section>
+</ol>
 
-<section>
-
-<h2>Ex-Ante</h2>
+## Ex-Ante
 
 <ol reversed>
 
@@ -220,5 +216,3 @@ title: Columns
 <li> 20210124 - Rincón versus Undurraga y el declive de la DC
 
 </ol>
-
-</section>
