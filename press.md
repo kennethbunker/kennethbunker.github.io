@@ -87,7 +87,7 @@ title: Press
 
 - **France 24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may.
 
-- **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 13 may.
+- **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 13 may.
 
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
 
@@ -134,6 +134,8 @@ title: Press
 ## 2017
 
 - **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november.
+
+- **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november.
 
 - **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march.
 
