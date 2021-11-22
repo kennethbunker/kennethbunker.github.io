@@ -7,6 +7,9 @@ title: Press
 
 ## 2021
 
+
+- **Reuters**. [Chileans, after two years of drifting left, veer back right](https://www.reuters.com/world/americas/chileans-after-two-years-drifting-left-veer-back-right-2021-11-22/) 22 november.
+
 - **Americas Quarterly**. [Chile Sends Kast and Boric to Runoff.](https://www.americasquarterly.org/article/reaction-chile-sends-kast-and-boric-to-runoff/) 22 november.
 
 - **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 21 november.
