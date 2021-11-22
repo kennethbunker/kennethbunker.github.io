@@ -5,7 +5,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-## Las Últimas Noticias
+<h2>Las Últimas Noticias</h2>
 
 <ol reversed>
 
@@ -162,10 +162,9 @@ title: Columns
 <li> 20180113 - Por qué Bachelet coopera con Piñera
 <li> 20180106 - El éxodo de Mariana
 <li> 20180102 - Los tres gabinetes de Piñera
-
 </ol>
 
-## Ex-Ante
+<h2>Ex-Ante</h2> 
 
 <ol reversed>
 
