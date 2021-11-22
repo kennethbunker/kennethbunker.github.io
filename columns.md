@@ -63,50 +63,49 @@ title: Columns
 <li> 20201216 - Gravedad extrema
 20201204 - Más pequeno, menos influyente
 20201202 - Chiste repetido
-20201120 - Una oportunidad
-20201031 - Una deuda moral
-20201111 - Seriedad, honorables
-20201105 - Señal de renovación
-20201104 - Victorias espurias
-2020103 - La deuda moral
-20201026 - Una nueva etapa
-20201014 - Chile falló menos
-20201001 - Pacto fallido
-20200930 - El tango presidencial
-20200917 - Lapidario
-20200826 - La carreta delante de los bueyes
-20200820 - Modernizar con responsabilidad
-20200729 - La defensa
-20200723 - El plan
-20200721 - El gesto perfecto
-20200709 - Una oportunidad
-20200706 - Cambio de rumbo
-20200703 - Más que la madre de la presidenta
-20200701 - Un gobierno más pragmático
-20200619 - Pensar a largo plazo
-20200614 - La hora de convocar y escuchar
-20200612 - El informante
-20200604 - Buena decisión
-20200609 - La belleza del debate
-20200530 - Llegó el momento
-20200527 - Con el viento a favor
-20200514 - El sheriff virtual
-20200512 - Prudencia
-20200507 - La partida de Mick Jagger
-20200505 - Una maquina necesaria
-20200417 - Fibre moral
-20200401 - Falta de compromiso
-20200320 - El parto constitucional
-20200307 - La mayoría silenciosa
-20200303 - Presunción de inocencia
-20200229 - Cubillos
-20200124 - Impuesto Millennial
-20191216 - El poder real de los alcaldes
-20191206 - Carabineros
-20191019 - La teoría del iceberg
-20191011 - La falla de San Ramón
-20190619 - La teleserie socialista
-20190606 - Llegó la hora de privatizar TVN
+<li> 20201120 - Una oportunidad
+<li> 20201031 - Una deuda moral
+<li> 20201111 - Seriedad, honorables
+<li> 20201105 - Señal de renovación
+<li> 20201104 - Victorias espurias
+<li> 2020103 - La deuda moral
+<li> 20201026 - Una nueva etapa
+<li> 20201014 - Chile falló menos
+<li> 20201001 - Pacto fallido
+<li> 20200930 - El tango presidencial
+<li> 20200917 - Lapidario
+<li> 20200820 - Modernizar con responsabilidad
+<li> 20200729 - La defensa
+<li> 20200723 - El plan
+<li> 20200721 - El gesto perfecto
+<li> 20200709 - Una oportunidad
+<li> 20200706 - Cambio de rumbo
+<li> 20200703 - Más que la madre de la presidenta
+<li> 20200701 - Un gobierno más pragmático
+<li> 20200619 - Pensar a largo plazo
+<li> 20200614 - La hora de convocar y escuchar
+<li> 20200612 - El informante
+<li> 20200604 - Buena decisión
+<li> 20200609 - La belleza del debate
+<li> 20200530 - Llegó el momento
+<li> 20200527 - Con el viento a favor
+<li> 20200514 - El sheriff virtual
+<li> 20200512 - Prudencia
+<li> 20200507 - La partida de Mick Jagger
+<li> 20200505 - Una maquina necesaria
+<li> 20200417 - Fibre moral
+<li> 20200401 - Falta de compromiso
+<li> 20200320 - El parto constitucional
+<li> 20200307 - La mayoría silenciosa
+<li> 20200303 - Presunción de inocencia
+<li> 20200229 - Cubillos
+<li> 20200124 - Impuesto Millennial
+<li> 20191216 - El poder real de los alcaldes
+<li> 20191206 - Carabineros
+<li> 20191019 - La teoría del iceberg
+<li> 20191011 - La falla de San Ramón
+<li> 20190619 - La teleserie socialista
+<li> 20190606 - Llegó la hora de privatizar TVN
 20180516 - Fin al chipe libre
 20190328 - Mucho ruido pocas nueces
 20190320 - Oposición
