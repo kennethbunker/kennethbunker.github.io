@@ -69,7 +69,9 @@ title: Press
 
 - **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?.](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/) 24 october.
 
-- **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october.
+- **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october
+
+- **Reuters**.	[Uncertainty reigns as Chile presidential election enters home stretch.](https://www.reuters.com/world/americas/uncertainty-reigns-chile-presidential-election-enters-home-stretch-2021-08-24/) 24 august
 
 - **The Washington Post**.	[Los mapuches y la Convención Constitucional.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july.
 
@@ -81,11 +83,15 @@ title: Press
 
 - **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may.
 
+- **Reuters**. [Explainer: How Chile is rewriting its Pinochet-era constitution.](https://www.reuters.com/world/americas/how-chile-is-rewriting-its-pinochet-era-constitution-2021-05-14/) 13 may.
+
 - **France 24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may.
 
 - **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 13 may.
 
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may.
+
+- **Bloomberg**.	[Chicago Boys’ Free-Market Pension Model Is Unraveling in Chile.](https://www.bloomberg.com/news/articles/2021-05-10/chicago-boys-free-market-pension-model-is-unraveling-in-chile) 10 may.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february.
 
