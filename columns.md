@@ -180,7 +180,7 @@ title: Columns
 <li> 20210402 - La ventaja de la derecha y su fragilidad
 <li> 20210416 - La pelota está en la cancha del gobierno
 <li> 20210423 - El pc es la locomotora
-<li> 20210428 - Secuencia de oportunidades desperdiciadas - los costos para el gobierno y la derecha
+<li> 20210428 - Secuencia de oportunidades desperdiciadas: los costos para el gobierno y la derecha
 <li> 20210430 - El increíble y peligroso ascenso de Pamela Jiles
 <li> 20210507 - Una elección incierta
 <li> 20210513 - Los dos tercios están en el centro
@@ -209,4 +209,5 @@ title: Columns
 <li> 0211105 - King makers
 <li> 20211112 - Las dos almas de Apruebo Dignidad
 <li> 20211119 - Claves de la elección legislativa
+
 </ol>
