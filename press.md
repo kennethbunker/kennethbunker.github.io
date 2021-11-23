@@ -7,6 +7,8 @@ title: Press
 
 ## 2021
 
+- **Bloomberg**.	[Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 23 novemeber.
+
 - **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 novemeber.
 
 - **L'Express**. [Présidentielle au Chili : "Le premier tour est un tremblement de terre politique total"](https://www.lexpress.fr/actualite/monde/amerique-sud/presidentielle-au-chili-le-premier-tour-est-un-tremblement-de-terre-politique-total_2162848.html) 22 november.
