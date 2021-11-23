@@ -7,6 +7,8 @@ title: Press
 
 ## 2021
 
+- **Reuterss**.	[Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 novemeber.
+
 - **Bloomberg**.	[Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 23 novemeber.
 
 - **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 novemeber.
