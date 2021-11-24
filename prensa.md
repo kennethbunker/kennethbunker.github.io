@@ -15,6 +15,12 @@ title: Prensa
 
 - **La Tercera**. [Algunas claves para leer la elección parlamentaria.](https://www.latercera.com/la-tercera-domingo/noticia/algunas-claves-para-leer-la-eleccion-parlamentaria/IN5I3WJU7NCYHB4HKWQOCUVJC4/)
 
+- **El Mercurio**. [Analista Kenneth Bunker: "Son todos los candidatos presidenciales inconsistentes".](https://www.emol.com/noticias/Nacional/2021/10/01/1034262/kenneth-bunker-por-sichel-10.html)
+
+- **Ex-Ante**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/)
+
+
+
 - **El Líbero**. [En cuenta regresiva para el 21-N: los hitos que pueden afectar el resultado de la elección.](https://ellibero.cl/actualidad/en-cuenta-regresiva-para-el-21-n-los-hitos-que-pueden-afectar-el-resultado-de-la-eleccion/)
 
 - **Cooperativa**. [Kenneth Bunker: Apoyo de legisladores a candidatos externos a su coalición puede "inclinar la balanza".](https://cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-apoyo-de-legisladores-a-candidatos-externos-a-su/2021-10-08/101831.html)
