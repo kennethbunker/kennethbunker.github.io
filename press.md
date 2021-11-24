@@ -119,34 +119,34 @@ title: Press
 
 ## Pre-2019
 
-- **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november.
+- **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november, 2019.
 
-- **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november.
+- **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november, 2019.
 
-- **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August.
+- **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August, 2019.
 
-- **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march.
+- **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march, 2019.
 
-- **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march.
+- **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
 
-- **BBC**. [Por qué el segundo gobierno de Michelle Bachelet es considerado por muchos el más importante en décadas en Chile.](https://www.bbc.com/mundo/noticias-america-latina-43339035) 11 march.
+- **BBC**. [Por qué el segundo gobierno de Michelle Bachelet es considerado por muchos el más importante en décadas en Chile.](https://www.bbc.com/mundo/noticias-america-latina-43339035) 11 march, 2018.
 
-- **Diario Financiero**. [La polémica sobre Chilezuela analizada desde la perspectiva](https://www.df.cl/noticias/economia-y-politica/actualidad/la-polemica-sobre-chilezuela-analizada-desde-la-perspectiva/2017-12-15/125501.html)
+- **Diario Financiero**. [La polémica sobre Chilezuela analizada desde la perspectiva.](https://www.df.cl/noticias/economia-y-politica/actualidad/la-polemica-sobre-chilezuela-analizada-desde-la-perspectiva/2017-12-15/125501.html) 15 december, 2019.
 
-- **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november.
+- **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november, 2017.
 
-- **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november.
+- **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november, 2017.
 
-- **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march.
+- **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march, 2017.
 
-- **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october.
+- **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october, 2016.
 
-- **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july.
+- **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july, 2015.
 
-- **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august.
+- **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august, 2015.
 
-**BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp)
+**BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp)  30 june, 2013.
 
-- **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december.
+- **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december, 2013.
 
-- **Washington Post**.	[A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december.
+- **Washington Post**.	[A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december, 2013.
