@@ -7,11 +7,11 @@ title: Press
 
 ## 2021
 
-- **Reuters**.	[Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 novemeber.
+- **Reuters**.	[Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 november.
 
-- **Bloomberg**.	[Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 23 novemeber.
+- **Bloomberg**.	[Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 23 november.
 
-- **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 novemeber.
+- **BBC**.	[Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 november.
 
 - **L'Express**. [Présidentielle au Chili : "Le premier tour est un tremblement de terre politique total"](https://www.lexpress.fr/actualite/monde/amerique-sud/presidentielle-au-chili-le-premier-tour-est-un-tremblement-de-terre-politique-total_2162848.html) 22 november.
 
@@ -113,6 +113,8 @@ title: Press
 - **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
 
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
+
+- **La Nación**.	[Sebastián Piñera se apoya en la derecha dura y renueva por quinta vez su gabinete.](https://www.lanacion.com.ar/el-mundo/pinera-gira-derecha-mas-dura-renueva-quinta-nid2406716/) 21 march.
 
 - **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
 
