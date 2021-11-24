@@ -102,6 +102,9 @@ title: Press
 
 ## 2020
 
+
+- **Expansión**.	[Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december.
+
 - **Courrier Francia**.	[Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution) 26 october.
 
 - **El País**.	[Chile decide en las urnas el futuro de la Constitución de Augusto Pinochet.](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html) 25 october.
