@@ -7,9 +7,9 @@ title: Prensa
 
 ## 2021
 
-- **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados.](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november.
+- **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados.](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/)
 
-- **Diario Financiero**.	[Elecciones parlamentarias: El pronóstico de los expertos de cara al Congreso 2022.](https://www.df.cl/noticias/economia-y-politica/politica/elecciones-parlamentarias-el-pronostico-de-los-expertos-de-cara-al/2021-11-19/150543.html) 19 november.
+- **Diario Financiero**.	[Elecciones parlamentarias: El pronóstico de los expertos de cara al Congreso 2022.](https://www.df.cl/noticias/economia-y-politica/politica/elecciones-parlamentarias-el-pronostico-de-los-expertos-de-cara-al/2021-11-19/150543.html) 
 
 - **The Clinic**. [Análisis tras escándalo por rendiciones millonarias: el incierto escenario electoral de Karina Oliva como candidata a senadora por la RM.](https://www.theclinic.cl/2021/11/18/analisis-tras-escandalo-por-rendiciones-millonarias-el-incierto-escenario-electoral-de-karina-oliva-como-candidata-a-senadora-por-la-rm/)
 
@@ -53,8 +53,8 @@ title: Prensa
 
 - **Concierto**. [Kenneth Bunker: «Pamela Jiles tiene rasgos populistas, y es por eso que es tan peligrosa para la democracia».](https://www.concierto.cl/2021/04/kenneth-bunker-pamela-jiles-tiene-rasgos-populistas-y-es-por-eso-que-es-tan-peligrosa-para-la-democracia/)
 
-- **T13**. [La incertidumbre con que Chile llega a las primeras elecciones en 16 años sin Piñera y Bachelet.](https://www.t13.cl/noticia/elecciones-2021/politica/bbc/la-incertidumbre-con-que-chile-llega-a-las-primeras-elecciones-en-16-anos-sin-pinera-y-bachelet-y-cuales-son-los-posibles-escenarios) 21 noviembre.
+- **T13**. [La incertidumbre con que Chile llega a las primeras elecciones en 16 años sin Piñera y Bachelet.](https://www.t13.cl/noticia/elecciones-2021/politica/bbc/la-incertidumbre-con-que-chile-llega-a-las-primeras-elecciones-en-16-anos-sin-pinera-y-bachelet-y-cuales-son-los-posibles-escenarios)
 
-- **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/) 24 october.
+- **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/)
 
 - **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november.
