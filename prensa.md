@@ -13,19 +13,25 @@ title: Prensa
 
 - **The Clinic**. [Análisis tras escándalo por rendiciones millonarias: el incierto escenario electoral de Karina Oliva como candidata a senadora por la RM.](https://www.theclinic.cl/2021/11/18/analisis-tras-escandalo-por-rendiciones-millonarias-el-incierto-escenario-electoral-de-karina-oliva-como-candidata-a-senadora-por-la-rm/)
 
+- **El Mostrador**. ["Síndrome Jadue" se instala en la campaña de Sichel: temen decrecimiento en el último tercio de la carrera.](https://www.elmostrador.cl/noticias/pais/2021/09/29/sindrome-jadue-se-instala-en-la-campana-de-sichel-temen-decrecimiento-en-el-ultimo-tercio-de-la-carrera/)
+
 - **La Tercera**. [Algunas claves para leer la elección parlamentaria.](https://www.latercera.com/la-tercera-domingo/noticia/algunas-claves-para-leer-la-eleccion-parlamentaria/IN5I3WJU7NCYHB4HKWQOCUVJC4/)
 
 - **El Mercurio**. [Analista Kenneth Bunker: "Son todos los candidatos presidenciales inconsistentes".](https://www.emol.com/noticias/Nacional/2021/10/01/1034262/kenneth-bunker-por-sichel-10.html)
 
-- **Ex-Ante**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/)
+- **Ex-Ante**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”.](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/)
 
-
+- **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](https://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/)
 
 - **El Líbero**. [En cuenta regresiva para el 21-N: los hitos que pueden afectar el resultado de la elección.](https://ellibero.cl/actualidad/en-cuenta-regresiva-para-el-21-n-los-hitos-que-pueden-afectar-el-resultado-de-la-eleccion/)
 
 - **Cooperativa**. [Kenneth Bunker: Apoyo de legisladores a candidatos externos a su coalición puede "inclinar la balanza".](https://cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-apoyo-de-legisladores-a-candidatos-externos-a-su/2021-10-08/101831.html)
 
 - **El Mostrador**. [Incertidumbre en la derecha: tropezón monumental de Kast y buena performance de Sichel cambian percepciones en el último tranco de la presidencial.](https://www.elmostrador.cl/noticias/pais/2021/11/16/incertidumbre-en-la-derecha-tropezon-monumental-de-kast-y-buena-performance-de-sichel-cambian-percepciones-en-el-ultimo-tranco-de-la-presidencial/)
+
+- **The Clinic**. [Cinco analistas responden: ¿Cómo cambió Chile después del estallido?](https://www.theclinic.cl/2021/10/18/cinco-analistas-responden-como-cambio-chile-despues-del-estallido/)
+
+- **Biobío**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml)
 
 - **El Mostrador**. [La semana en que el Gobierno perdió el pudor y aplicó 10 veces la comunicación de trinchera con miras a la presidencial.](https://www.elmostrador.cl/noticias/pais/2021/10/29/la-semana-en-que-el-gobierno-perdio-el-pudor-y-aplico-10-veces-la-comunicacion-de-trinchera-con-miras-a-la-presidencial/)
 
