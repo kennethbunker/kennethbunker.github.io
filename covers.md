@@ -13,9 +13,8 @@ title: Covers
 
 ![La Segunda](/img/20210806%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20211004%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210909%20-%20La%20Segunda.png){:height="32%" width="32%"}
 
-
 ![La Segunda](/img/20210824%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210922%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210924%20-%20La%20Segunda.png){:height="32%" width="32%"}
 
-![La Segunda](/img/20211009%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210927%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210905%20-%20La%20Segunda.png){:height="32%" width="32%"}
+![La Segunda](/img/20210909%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210927%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210905%20-%20La%20Segunda.png){:height="32%" width="32%"}
 
 ![El Mercurio Valparaíso](/img/20210808%20-%20MercurioValpo.png){:height="32%" width="32%"}
