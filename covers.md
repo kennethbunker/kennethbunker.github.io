@@ -7,4 +7,4 @@ title: Covers
 
 ## 2021
 
-- **La Segunda**. [Kaiser](https://digital.lasegunda.com/2021/11/24/A/34426DOE#zoom=page-width) 24 november.
+![Las Últimas Noticias](/img/20201026%20-%20LUN.png){:height="33%" width="33%"}
