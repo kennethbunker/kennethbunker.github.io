@@ -117,7 +117,7 @@ title: Press
 - **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
 
 
-## 2019
+## Pre-2019
 
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november.
 
@@ -125,17 +125,13 @@ title: Press
 
 - **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August.
 
-
-## 2018
-
 - **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march.
 
 - **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march.
 
 - **BBC**. [Por qué el segundo gobierno de Michelle Bachelet es considerado por muchos el más importante en décadas en Chile.](https://www.bbc.com/mundo/noticias-america-latina-43339035) 11 march.
 
-
-## 2017
+- **Diario Financiero**. [La polémica sobre Chilezuela analizada desde la perspectiva](https://www.df.cl/noticias/economia-y-politica/actualidad/la-polemica-sobre-chilezuela-analizada-desde-la-perspectiva/2017-12-15/125501.html)
 
 - **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november.
 
@@ -143,24 +139,13 @@ title: Press
 
 - **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march.
 
-
-## 2016
-
 - **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october.
 
 - **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july.
 
-
-## 2015
-
 - **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august.
 
-
-## 2013
-
-
 **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp)
-
 
 - **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december.
 
