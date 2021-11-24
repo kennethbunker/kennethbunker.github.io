@@ -158,6 +158,10 @@ title: Press
 
 ## 2013
 
+
+**BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp)
+
+
 - **USA Today**.	[Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december.
 
 - **Washington Post**.	[A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december.
