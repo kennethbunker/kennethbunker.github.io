@@ -5,7 +5,7 @@ title: Prensa
 
 <h1>En la prensa</h1>
 
-*Para una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press).*
+*Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press).*
 
 ## 2021
 
@@ -55,8 +55,15 @@ title: Prensa
 
 - **Concierto**. [Kenneth Bunker: «Pamela Jiles tiene rasgos populistas, y es por eso que es tan peligrosa para la democracia».](https://www.concierto.cl/2021/04/kenneth-bunker-pamela-jiles-tiene-rasgos-populistas-y-es-por-eso-que-es-tan-peligrosa-para-la-democracia/)
 
+- **CNN Chile**. [Lo acusan de usar bots para doblar resultados: Eliminan a J. A. Kast de encuesta presidencial de analistas políticos](https://www.cnnchile.com/pais/lo-acusan-de-usar-bots-para-doblar-resultados-eliminan-a-j-a-kast-de-encuesta-presidencial-de-analistas-politicos_20190418/)
+
+
 - **T13**. [La incertidumbre con que Chile llega a las primeras elecciones en 16 años sin Piñera y Bachelet.](https://www.t13.cl/noticia/elecciones-2021/politica/bbc/la-incertidumbre-con-que-chile-llega-a-las-primeras-elecciones-en-16-anos-sin-pinera-y-bachelet-y-cuales-son-los-posibles-escenarios)
 
 - **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/)
 
 - **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/)
+
+- **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/)
+
+- **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos.](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/)

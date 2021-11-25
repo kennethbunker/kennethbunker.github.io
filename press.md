@@ -113,9 +113,11 @@ title: Press
 
 - **Bloomberg**.	[Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter.](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094) 23 october.
 
+- **El País**. [La participación electoral es la gran incógnita del plebiscito constitucional en Chile](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october
+
 - **Expansión**.	[Chile decide si deja atrás el último vestigio de la dictadura de Pinochet.](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet) 23 october.
 
-- **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
+- **El País**. [Chile llega al Plebiscito Constitucional con la gran incógnita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october.
 
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?](https://time.com/5900901/chile-constitution-referendum/) 17 october.
 
@@ -124,7 +126,7 @@ title: Press
 - **Deutsche Welle**.	[“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march.
 
 
-## Pre-2019
+## Pre-2020
 
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statues.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november, 2019.
 
@@ -132,7 +134,11 @@ title: Press
 
 - **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 August, 2019.
 
+- **CNN Chile**. [Lo acusan de usar bots para doblar resultados: Eliminan a J. A. Kast de encuesta presidencial de analistas políticos](https://www.cnnchile.com/pais/lo-acusan-de-usar-bots-para-doblar-resultados-eliminan-a-j-a-kast-de-encuesta-presidencial-de-analistas-politicos_20190418/)
+
 - **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march, 2019.
+
+- **Perfil**. [Muerte de un dirigente mapuche revive el conflicto más antiguo de Chile](https://www.perfil.com/noticias/bloomberg/bc-muerte-de-comunero-mapuche-revive-conflicto-mas-antiguo-de-chile.phtml)
 
 - **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
 
