@@ -9,6 +9,8 @@ title: Press
 
 ## 2021
 
+- **L'Express**. [Un pro-Pinochet aux portes du pouvoir.](https://www.lexpress.fr/actualite/monde/amerique-sud/un-pro-pinochet-aux-portes-du-pouvoir-print-only_2163064.html) 25 november.
+
 - **Reuters**.	[Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 november.
 
 - **Bloomberg**.	[Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 23 november.
@@ -25,7 +27,7 @@ title: Press
 
 - **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 21 november.
 
-- **BBC**.	[Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).]( https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 novemeber.
+- **BBC**.	[Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).]( https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 november.
 
 - **TIME**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november.
 
