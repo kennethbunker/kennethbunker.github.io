@@ -5,7 +5,7 @@ title: Press
 
 <h1>In the press</h1>
 
-*For my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa)*
+*For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa).*
 
 ## 2021
 

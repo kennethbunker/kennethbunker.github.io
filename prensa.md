@@ -5,7 +5,7 @@ title: Prensa
 
 <h1>En la prensa</h1>
 
-*For my comments in the international press, click [here](https://kennethbunker.github.io/press)*
+*For a collection of my comments in the international press, click [here](https://kennethbunker.github.io/press).*
 
 ## 2021
 
@@ -59,4 +59,4 @@ title: Prensa
 
 - **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/)
 
-- **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november.
+- **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/)
