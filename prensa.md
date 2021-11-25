@@ -67,6 +67,9 @@ title: Prensa
 
 - **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos.](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/)
 
+
+## Otros
+
 - **La Tercera** [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados.](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/)
 - **La Tercera** [Algunas claves para leer la elección parlamentaria.](https://www.latercera.com/la-tercera-domingo/noticia/algunas-claves-para-leer-la-eleccion-parlamentaria/IN5I3WJU7NCYHB4HKWQOCUVJC4/)
 - **El Mercurio** [Analista Kenneth Bunker: "Son todos los candidatos presidenciales inconsistentes.](https://www.emol.com/noticias/Nacional/2021/10/01/1034262/kenneth-bunker-por-sichel-10.html)
