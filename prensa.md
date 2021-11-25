@@ -5,7 +5,7 @@ title: Prensa
 
 <h1>En la prensa</h1>
 
-*For a collection of my comments in the international press, click [here](https://kennethbunker.github.io/press).*
+*Para una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press).* *For a collection of my comments in the international press, click [here](https://kennethbunker.github.io/press).*
 
 ## 2021
 
