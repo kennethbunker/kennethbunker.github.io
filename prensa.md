@@ -33,7 +33,7 @@ title: Prensa
 
 - **The Clinic**. [Cinco analistas responden: ¿Cómo cambió Chile después del estallido?](https://www.theclinic.cl/2021/10/18/cinco-analistas-responden-como-cambio-chile-despues-del-estallido/)
 
-- **Biobío**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml)
+- **Biobío**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml)
 
 - **El Mostrador**. [La semana en que el Gobierno perdió el pudor y aplicó 10 veces la comunicación de trinchera con miras a la presidencial.](https://www.elmostrador.cl/noticias/pais/2021/10/29/la-semana-en-que-el-gobierno-perdio-el-pudor-y-aplico-10-veces-la-comunicacion-de-trinchera-con-miras-a-la-presidencial/)
 
