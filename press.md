@@ -5,7 +5,8 @@ title: Press
 
 <h1>In the press</h1>
 
-*For comments in Chilean media, click [here](https://kennethbunker.github.io/prensa)*
+*For my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa)*
+
 ## 2021
 
 - **Reuters**.	[Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 november.
