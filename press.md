@@ -69,7 +69,7 @@ title: Press
 
 - **El Diario**. [Cascada de ataques al ultraderechista Kast tensan el último debate presidencial en Chile.](https://www.eldiario.es/politica/cascada-ataques-ultraderechista-kast-tensan-ultimo-debate-presidencial-chile_1_8493362.html) 16 november, 2021.
 
-- **Euronews **. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
+- **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
 
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
