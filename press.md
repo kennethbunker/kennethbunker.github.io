@@ -56,7 +56,7 @@ title: Press
 - **Infobae**. [Incertidumbre marca inicio de carrera presidencial chilena.](https://www.infobae.com/america/agencias/2021/08/24/incertidumbre-marca-inicio-de-carrera-presidencial-chilena/) 24 august, 2021.
 - **Reuters**. [Uncertainty reigns as Chile presidential election enters home stretch.](https://www.reuters.com/world/americas/uncertainty-reigns-chile-presidential-election-enters-home-stretch-2021-08-24/) 24 august, 2021.
 - **Swissinfo**. [Uncertainty reigns as Chile presidential election enters home stretch.](https://www.swissinfo.ch/eng/uncertainty-reigns-as-chile-presidential-election-enters-home-stretch/46892502) 24 august, 2021.
-- **Revista Noticias **. [Chile: las urnas jubilaron a los dinosaurios de la izquierda y la derecha.](https://noticias.perfil.com/noticias/internacionales/chile-las-urnas-jubilaron-a-los-dinosaurios-de-la-izquierda-y-la-derecha.html) 27 july, 2021.
+- **Revista Noticias**. [Chile: las urnas jubilaron a los dinosaurios de la izquierda y la derecha.](https://noticias.perfil.com/noticias/internacionales/chile-las-urnas-jubilaron-a-los-dinosaurios-de-la-izquierda-y-la-derecha.html) 27 july, 2021.
 - **Bloomberg**. [Chile Stocks Surge as Communist Knocked Out of Presidential Race.](https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race) 18 july, 2021.
 - **Radio Infinita**. [Convención Constitucional aprueba protocolo sanitario.](https://www.infinita.cl/noticias/2021/07/13/constituyentes-protocolo-sanitario.html) 13 july, 2021.
 - **The Washington Post**. [Los mapuches y la Convención Constitucional. Las vacunas y Bolsonaro. Raffaella Carrà.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july, 2021.
@@ -83,10 +83,10 @@ title: Press
 - **Latin News**. [Chile: Ready to hold ‘mega election’.](https://www.latinnews.com/component/k2/item/88474.html?period=May%202021&archive=3&Itemid=6&cat_id=825394:chile-ready-to-hold-mega-election) 14 may, 2021.
 - **Reuters**. [Explainer: How Chile is rewriting its Pinochet-era constitution.](https://www.reuters.com/article/chile-politics-constitution/explainer-how-chile-is-rewriting-its-pinochet-era-constitution-idUSL1N2MX2LE) 14 may, 2021.
 - **Reuters**. [Explainer: How Chile is rewriting its Pinochet-era constitution.](https://www.reuters.com/world/americas/how-chile-is-rewriting-its-pinochet-era-constitution-2021-05-14/) 14 may, 2021.
-- **Buenos Aires Times**. [New constitution, new dawn for Chile?.](https://batimes.com.ar/news/latin-america/new-constitution-new-dawn-for-chile.phtml) 13 may, 2021.
-- **France 24**. [New constitution, new dawn for Chile?.](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may, 2021.
-- **Malaysia Yahoo**. [New constitution, new dawn for Chile?.](https://malaysia.news.yahoo.com/constitution-dawn-chile-063039839.html) 13 may, 2021.
-- **RFI France**. [New constitution, new dawn for Chile?.](https://www.rfi.fr/en/new-constitution-new-dawn-for-chile) 13 may, 2021.
+- **Buenos Aires Times**. [New constitution, new dawn for Chile?](https://batimes.com.ar/news/latin-america/new-constitution-new-dawn-for-chile.phtml) 13 may, 2021.
+- **France 24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may, 2021.
+- **Malaysia Yahoo**. [New constitution, new dawn for Chile?](https://malaysia.news.yahoo.com/constitution-dawn-chile-063039839.html) 13 may, 2021.
+- **RFI France**. [New constitution, new dawn for Chile?](https://www.rfi.fr/en/new-constitution-new-dawn-for-chile) 13 may, 2021.
 - **Swissinfo**. [Chile vota entre el descrédito de partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones--serie-especial---repetici%C3%B3n-_chile-vota-entre-el-descr%C3%A9dito-de-partidos-y-la-burbuja-de-los-independientes/46615348) 11 may, 2021.
 - **Liberation**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
 - **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
@@ -94,8 +94,7 @@ title: Press
 - **Bloomberg**. [Chicago Boys’ Free-Market Pension Model Is Unraveling in Chile.](https://www.bloomberg.com/news/articles/2021-05-10/chicago-boys-free-market-pension-model-is-unraveling-in-chile) 10 may, 2021.
 - **Deutsche Welle**. [Tras el estallido, el gobierno de Piñera pasó a ser irrelevante.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may, 2021.
 - **El Demócrata**. [El modelo de pensiones de libre mercado de los Chicago Boys sale a la luz en Chile.](https://www.eldemocrata.cl/el-modelo-de-pensiones-de-libre-mercado-de-los-chicago-boys-sale-a-la-luz-en-chile/) 10 may, 2021.
-"- **France 24**. [New constitution, new dawn for Chile?
-.](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 10 may, 2021."
+- **France 24**. [New constitution, new dawn for Chile?](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 10 may, 2021.
 - **Informe Político**. [Chile: En la recta final de una elección que definirá un nuevo pacto social.](https://informepolitico.com.ar/chile-en-la-recta-final-de-una-eleccion-que-definira-un-nuevo-pacto-social/) 10 may, 2021.
 - **Portafolio Colombia**. [El emblemático modelo de pensiones de Chile lucha por su supervivencia.](https://www.portafolio.co/internacional/el-emblematico-modelo-de-pensiones-de-chile-lucha-por-su-supervivencia-551796) 10 may, 2021.
 - **Clarín**. [Tras las protestas de 2019, Chile va a las urnas con la esperanza de construir nuevo pacto social.](https://www.clarin.com/mundo/protestas-2019-chile-va-urnas-esperanza-construir-nuevo-pacto-social_0_5hYVV2e1b.html) 9 may, 2021.
