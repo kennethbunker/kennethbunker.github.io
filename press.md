@@ -256,7 +256,7 @@ title: Press
 
 - **La Discusión**. [Voto joven pesará más en el plebiscito que en elecciones anteriores.](http://www.ladiscusion.cl/voto-joven-pesara-mas-en-el-plebiscito-que-en-elecciones-anteriores/) 17 october, 2020.
 
-- **Time**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?.](https://time.com/5900901/chile-constitution-referendum/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 17 october, 2020.
+- **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?.](https://time.com/5900901/chile-constitution-referendum/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 17 october, 2020.
 
 - **Deutsche Welle**. [“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march, 2020.
 
