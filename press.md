@@ -236,28 +236,53 @@ title: Press
 ## Pre-2021
 
 - **Expansión**. [Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december, 2020.
+
 - **Courrier Francia**. [Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 26 october, 2020.
+
 - **El País**. [Chile decide en las urnas el futuro de la Constitucion de Augusto Pinochet.](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html?ssm=TW_CC&utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 25 october, 2020.
+
 - **Bloomberg**. [Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter.](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 3 october, 2020.
+
 - **El País**. [A participacao eleitoral e a grande incognita do Plebiscito Constitucional no Chile.](https://brasil.elpais.com/internacional/2020-10-23/a-participacao-eleitoral-e-a-grande-incognita-do-plebiscito-constitucional-no-chile.html) 23 october, 2020.
+
 - **Expansión**. [Chile decide si deja atrás el último vestigio de la dictadura de Pinochet.](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 3 october, 2020.
+
 - **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october, 2020.
+
 - **La Discusión**. [Voto joven pesará más en el plebiscito que en elecciones anteriores.](http://www.ladiscusion.cl/voto-joven-pesara-mas-en-el-plebiscito-que-en-elecciones-anteriores/) 17 october, 2020.
+
 - **Time**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?.](https://time.com/5900901/chile-constitution-referendum/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 17 october, 2020.
+
 - **Deutsche Welle**. [“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march, 2020.
+
 - **Diario Financiero**. [La polémica sobre Chilezuela analizada desde la perspectiva.](https://www.df.cl/noticias/economia-y-politica/actualidad/la-polemica-sobre-chilezuela-analizada-desde-la-perspectiva/2017-12-15/125501.html) 15 december, 2019.
+
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statue.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november, 2019.
+
 - **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november, 2019.
+
 - **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 august, 2019.
+
 - **RFI**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march, 2019.
+
 - **Perfil**. [Muerte de un dirigente mapuche revive el conflicto más antiguo de Chile.](https://www.perfil.com/noticias/bloomberg/bc-muerte-de-comunero-mapuche-revive-conflicto-mas-antiguo-de-chile.phtml) 19 november, 2018.
+
 - **BBC**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
+
 - **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
+
 - **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november, 2017.
+
 - **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march, 2017.
+
 - **RFI**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october, 2016.
+
 - **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august, 2015.
+
 - **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july, 2015.
+
 - **USA Today**. [Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december, 2013.
+
 - **Washington Post**. [A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december, 2013.
+
 - **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?.](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
