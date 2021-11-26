@@ -45,7 +45,7 @@ title: Press
 
 - **NBC**. [Chile Set To Elect New President.](https://www.youtube.com/watch?v=7Qvik6ORvEw) 20 november, 2021.
 
-"- **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826) 20 november, 2021."
+- **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826) 20 november, 2021.
 
 - **The Saxon**. [Elections in Chile: the Mapuche conflict, a hot brick that the next government will inherit.](https://thesaxon.org/elections-in-chile-the-mapuche-conflict-a-hot-brick-that-the-next-government-will-inherit/98159/) 20 november, 2021.
 
