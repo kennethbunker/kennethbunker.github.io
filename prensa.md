@@ -104,22 +104,39 @@ title: Prensa
 - **La Segunda**. [La oportunidad de Provoste para salir de la incercia.](https://digital.lasegunda.com/2021/09/22/A) 22 september, 2021.
 
 - **El Mostrador**. [Cuarto retiro de las AFP: la valla con espinas que deberán saltar los candidatos en el último tramo de la campaña.](https://www.elmostrador.cl/noticias/pais/2021/09/15/cuarto-retiro-de-las-afp-la-valla-con-espinas-que-deberan-saltar-los-candidatos-en-el-ultimo-tramo-de-la-campana/) 15 september, 2021.
+
 - **La Segunda**. [Cómo una foto avivó el choque entre Chahuán y Sichel: la trastienda del conflicto.](https://digital.lasegunda.com/2021/09/09/A/18413FKP#zoom=page-width) 9 september, 2021.
+
 - **Emol**. [Impacto y desafíos del caso Rojas en la Convención: "Afecta la confianza", pero abre opción para "marcar un estándar".](https://www.emol.com/noticias/Nacional/2021/09/07/1031839/afecta-convencion-caso-rojas-vade.html) 7 september, 2021.
+
 - **Emol**. ["La orgánica e institucionalidad son importantes": El debate que abrió la corta aspiración presidencial de La Lista del Pueblo.](https://www.emol.com/noticias/Nacional/2021/08/28/1030968/efectos-institucionalidad-lista-del-pueblo.html) 28 august, 2021.
+
 - **La Segunda**. [Las 4 claves que deja la inscripción de anoche .](https://digital.lasegunda.com/2021/08/24/A) 24 august, 2021.
+
 - **La Segunda**. [Críticas y efectos de la decisión de ME-O se apoderan de Twitter.](https://digital.lasegunda.com/2021/08/23/A/FA40R5U3#zoom=page-width) 23 august, 2021.
+
 - **Pauta**. [La proliferación de los candidatos presidenciales independientes.](https://www.pauta.cl/lorenzini-dr-file-franco-parisi-candidatos-presidenciales-independientes) 16 august, 2021.
+
 - **La Segunda**. [Fabiola Campillay tiene en alerta a sus rivales en la senatorial por Santiago.](https://digital.lasegunda.com/2021/08/12/A/M440MP4B#zoom=page-width) 12 august, 2021.
+
 - **Cooperativa**. [Estado de excepción: Gobierno pide que, al votar la prórroga, el Congreso "escuche a los vecinos de La Araucanía".](https://cooperativa.cl/noticias/pais/regiones/zona-sur/estado-de-excepcion-gobierno-pide-que-al-votar-la-prorroga-el/2021-11-08/192429.html) 11 august, 2021.
+
 - **El Mercurio de Valparaiso**. ["El Frente Amplio va a tener un particular eco en el interior" .](https://www.mercuriovalpo.cl/impresa/2021/08/08/full/cuerpo-principal/9/) 8 august, 2021.
+
 - **El libero**. [Cristián Cuevas, el “rival directo” de Boric que puede conquistar a los “viudos de Jadue”.](https://ellibero.cl/actualidad/cristian-cuevas-quien-es-el-candidato-de-la-lista-del-pueblo/) 7 august, 2021.
+
 - **Emol**. [Carta de Lista del Pueblo, J. A. Kast y Parisi: ¿A quiénes amenazan las candidaturas que emergen fuera de las coaliciones?.](https://www.emol.com/noticias/Nacional/2021/08/06/1028922/cuevas-jak-parisi-amenazan-candidaturas.html) 6 august, 2021.
+
 - **La Segunda**. [Cómo la sopresiva candidatura de Cuevas podría impactar a Boric.](https://digital.lasegunda.com/2021/08/06/A/F940BJ12#zoom=page-width) 6 august, 2021.
+
 - **La Tercera**. [Foco en las primarias: el disímil resultado de los pactos en comunas vulnerables de la RM y en la “zona roja” del conflicto mapuche.](https://www.latercera.com/la-tercera-sabado/noticia/foco-en-las-primarias-el-disimil-resultado-de-los-pactos-en-comunas-vulnerables-de-la-rm-y-en-la-zona-roja-del-conflicto-mapuche/6CP7UW4WLJGZVGNIPWGS2M3T3A/) 30 july, 2021.
+
 - **24 horas**. [Brecha de participación: En las 20 comunas más pobres votó poco más de un tercio de la población que sufragó en las más ricas.](https://www.24horas.cl/data/participacion-electoral-comunas-mas-pobres-y-menos-pobres--4892082) 27 july, 2021.
+
 - **LUN**. [Tabla con 20 candidatos que pretenden llegar a la papeleta presidencial en noviembre.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-23&PaginaId=16&bodyid=0) 3 july, 2021.
+
 - **El Mostrador**. [Elecciones parlamentarias en la derecha: un asunto de "vida o muerte" ante el riesgo de quedarse sin poder.](https://m.elmostrador.cl/noticias/pais/2021/07/22/elecciones-parlamentarias-en-la-derecha-un-asunto-de-vida-o-muerte-ante-el-riesgo-de-quedarse-sin-poder/) 22 july, 2021.
+
 - **El Líbero**. [La incomoda herencia de Jadue en el triunfo de Gabriel Boric.](https://ellibero.cl/actualidad/la-incomoda-herencia-de-jadue-en-el-triunfo-de-gabriel-boric/) 20 july, 2021.
 
 - **El Mercurio de Valparaíso**. [Analistas advierten que Chile Vamos corre riesgo de no llegar al balotage.](https://www.mercuriovalpo.cl/impresa/2021/07/20/full/cuerpo-principal/4/) 20 july, 2021.
@@ -140,7 +157,9 @@ title: Prensa
 - **Diario Financiero**. [Expertos temen que si la Convención no aborda pronto los temas de fondo.](https://www.df.cl/noticias/df-constitucional/expertos-temen-que-si-la-convencion-no-aborda-pronto-los-temas-de-fondo/2021-07-15/110736.html) 15 july, 2021.
 
 - **La Tercera**. [¿Afectará el feriado la participación en las primarias? MOP estima que más de 200 mil vehículos dejarán la capital.](https://www.latercera.com/earlyaccess/noticia/afectara-el-feriado-la-participacion-en-las-primarias-mop-estima-que-mas-de-200-mil-vehiculos-dejaran-la-capital/D3MXBCTAK5EKRBCFTMKCJ73VSY/) 15 july, 2021.
+
 - **The Clinic**. [Logan lo quiere todo: La fórmula del único constituyente electo independiente y fuera de listas.](https://www.theclinic.cl/2021/07/08/logan-lo-quiere-todo-la-formula-del-unico-constituyente-electo-independiente-y-fuera-de-listas/) 8 july, 2021.
+
 - **El Líbero**. [La carrera por el Senado: Vidal, Peñailillo, Schalper, Cruz-Coke y Teillier a la cancha.](https://ellibero.cl/actualidad/la-carrera-por-el-senado-vidal-penailillo-schalper-cruz-coke-y-teillier-a-la-cancha/) 2 july, 2021.
 
 - **El Mostrador**. [Radiografía a los pecados de Chile Vamos en la hora más crítica de la derecha.](https://www.elmostrador.cl/noticias/pais/2021/06/23/radiografia-a-los-pecados-de-chile-vamos-en-la-hora-mas-critica-de-la-derecha/) 23 june, 2021.
@@ -194,9 +213,13 @@ title: Prensa
 - **Biobio**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
 
 - **Biobio**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
+
 - **Gamba**. [Medio argentino trató a Pamela Jiles de populista y la comparó con Donald Trump.](https://www.gamba.cl/2021/05/medio-argentino-trato-a-pamela-jiles-de-populista-y-la-comparo-con-donald-trump/) 8 may, 2021.
+
 - **El Dínamo**. [“Líder populista con tintes trumpistas”: el análisis de la prensa argentina a Pamela Jiles.](https://www.eldinamo.cl/politica/2021/05/07/lider-populista-con-tintes-trumpistas-el-analisis-de-la-prensa-argentina-a-pamela-jiles/) 7 may, 2021.
+
 - **En Cancha**. ["Pamela Jiles, la líder populista con tintes trumpistas que sorprende a Chile": así califican en Argentina a la diputada.](https://www.encancha.cl/enlahora/nacional/2021/5/7/pamela-jiles-la-lider-populista-con-tintes-trumpistas-que-sorprende-chile-asi-califican-en-argentina-la-diputada-95356.html) 7 may, 2021.
+
 - **La Segunda**. ["Matthei, Jadue, Lavín y Jiles son los presidenciables que arriesgan más".](https://digital.lasegunda.com/2021/05/07/A/333V8L2A#zoom=page-width) 7 may, 2021.
 
 - **LUN**. [UDI se tensiona por la decisión presidencial de Evelyn Matthei.](https://digital.lasegunda.com/2021/05/03/A/3R3V6M7H#zoom=page-width) 3 may, 2021.
@@ -220,28 +243,50 @@ title: Prensa
 - **El Mostrador**. [La estrategia del TC y los beneficios a cuentagotas que tienen al Gobierno caminando en la cornisa.](https://www.elmostrador.cl/noticias/pais/2021/04/22/la-estrategia-del-tc-y-los-beneficios-a-cuentagotas-que-tienen-al-gobierno-caminando-en-la-cornisa/) 22 april, 2021.
 
 - **Concierto**. [Kenneth Bunker: «Pamela Jiles tiene rasgos populistas, y es por eso que es tan peligrosa para la democracia».](https://www.concierto.cl/2021/04/kenneth-bunker-pamela-jiles-tiene-rasgos-populistas-y-es-por-eso-que-es-tan-peligrosa-para-la-democracia/) 20 april, 2021.
+
 - **El Mercurio de Valparaíso**. [Proyeccion  de Tres Quintos para la Convención Constitucional: Chile Vamos lideraría en la región.](https://www.mercuriovalpo.cl/impresa/2021/04/19/full/cuerpo-principal/7/) 19 april, 2021.
+
 - **Piensa Chile**. [Enfrentando las elecciones de mayo .](https://piensachile.com/2021/04/18/enfrentando-las-elecciones-de-mayo/) 19 april, 2021.
+
 - **El Mercurio**. [La ignorada, pero decisiva elección de Gobernadores.](https://digital.elmercurio.com/2021/04/18/R/AB3UPUI9) 18 april, 2021.
+
 - **Diario Financiero**. [Independientes, los principales afectados por la "pausa" de la campaña.](https://www.df.cl/noticias/df-constitucional/independientes-los-principales-afectados-por-la-pausa-en-la/2021-04-13/135235.html) 16 april, 2021.
+
 - **La Tercera**. [Genio y Figura.](https://www.latercera.com/opinion/noticia/genio-y-figura/7V6G7F7VIZC57AFRJ2OJVGUHVE/) 16 april, 2021.
+
 - **El Líbero**. [Con “mano de seda”, así tratan los presidenciables oficialistas a sus contrincantes de extrema izquierda.](https://ellibero.cl/actualidad/con-mano-de-seda-asi-tratan-los-presidenciables-oficialistas-a-sus-contrincantes-de-extrema-izquierda/) 14 april, 2021.
+
 - **La Segunda**. [JAK también busca firmas: le faltan 670 para ser candidato y legalizar partido en todo Chile.](https://digital.lasegunda.com/2021/04/13/A/JC3UT4DP#zoom=page-width) 13 april, 2021.
+
 - **LUN**. [Analistas desmenuzan el 20% de aprobación de Pamela Jiles en última encuesta Cadem.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-04-13&SupplementId=0&PaginaId=13) 3 april, 2021.
+
 - **Crónica Chillán**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.cronicachillan.cl/impresa/2021/04/11/full/cuerpo-reportajes/5/) 11 april, 2021.
+
 - **El Líbero**. [Las claves para un voto estratégico constituyente: qué analizar a la hora de votar.](https://ellibero.cl/actualidad/las-claves-para-un-voto-estrategico-constituyente-que-analizar-a-la-hora-de-votar/) 11 april, 2021.
+
 - **El Llanquihue**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.ellanquihue.cl/impresa/2021/04/11/full/cuerpo-reportajes/10/) 11 april, 2021.
+
 - **El Mercurio de Antofagasta**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.mercurioantofagasta.cl/impresa/2021/04/11/full/cuerpo-reportajes/4/) 11 april, 2021.
+
 - **El Mercurio de Valparaíso**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.mercuriovalpo.cl/impresa/2021/04/11/full/cuerpo-reportajes/14/) 11 april, 2021.
+
 - **Emol**. [Candidatos presidenciales con cargos de representación: ¿Una condición de ventaja o un arma de doble filo?.](https://www.emol.com/noticias/Nacional/2021/04/11/1017466/Candidatos-Presidenciales-Cargos-Analisis.html) 11 april, 2021.
 - **Austral Temuco**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australtemuco.cl/impresa/2021/04/10/papel/) 10 april, 2021.
+
 - **El Líbero**. [Primarias de oposición: todos los caminos conducen a Jadue… y a Jiles.](https://ellibero.cl/actualidad/primarias-de-oposicion-todos-los-caminos-conducen-a-jadue-y-a-jiles/) 7 april, 2021.
+
 - **El Mercurio de Valparaíso**. [Elección de gobernador: Millones pasaría a segunda vuelta contra A. Valle o R. Mundaca.](https://www.mercuriovalpo.cl/impresa/2021/04/04/papel/) 4 april, 2021.
+
 - **Biobio**. [La justificación de jefa de campaña de Paula Narváez ante pálidos números en encuesta presidencial.](https://www.biobiochile.cl/noticias/nacional/chile/2021/04/02/la-justificacion-de-jefa-de-campana-de-paula-narvaez-ante-palidos-numeros-en-encuesta-presidencial.shtml) 2 april, 2021.
+
 - **ADN**. [Diputado Pepe Auth y elecciones: “La derecha va a tener el peor resultado de su historia desde 1989 hasta 2017”.](https://www.adnradio.cl/politica/2021/03/30/diputado-pepe-auth-y-elecciones-la-derecha-va-a-tener-el-peor-resultado-de-su-historia-desde-1989-hasta-2017.html) 30 march, 2021.
+
 - **El Líbero**. [Ocho nudos a resolver con el cambio de fecha de las elecciones.](https://ellibero.cl/actualidad/ocho-nudos-a-resolver-con-el-cambio-de-fecha-de-las-elecciones/) 30 march, 2021.
+
 - **El Mostrador**. [Postergación de las elecciones cuesta arriba: oposición advierte que no basta con correr la fecha y emplaza a La Moneda a tomar medidas tanto sanitarias como económicas.](https://www.elmostrador.cl/noticias/pais/2021/03/29/postergacion-de-las-elecciones-cuesta-arriba-oposicion-advierte-que-no-basta-con-correr-la-fecha-y-emplaza-a-la-moneda-a-tomar-medidas-tanto-sanitarias-como-economicas/) 29 march, 2021.
+
 - **CNN**. [Académicos y parlamentarios proponen sumar un tercer día a elecciones: Posponer debiera ser un “último recurso”.](https://www.cnnchile.com/pais/academicos-parlamentarios-tercer-dia-elecciones-abril_20210328/) 28 march, 2021.
+
 - **El Mercurio**. [Marinovic, la candida que ha sorprendido en el distrito más codiciado.](https://digital.elmercurio.com/2021/03/28/R/CE3UGO7V#zoom=page-width) 28 march, 2021.
 
 - **El Mostrador**. [Tres días de votación y bandas horarias: Expertos electorales presentaron alternativa a potencial postergación de las elecciones del 11 de abril.](https://www.elmostrador.cl/destacado/2021/03/28/tres-dias-de-votacion-y-bandas-horarias-expertos-electorales-presentaron-alternativa-a-potencial-postergacion-de-las-elecciones-del-11-de-abril/) 28 march, 2021.
@@ -307,14 +352,22 @@ title: Prensa
 - **Ex Ante**. [Kenneth Bunker, experto electoral: “El sistema uninominal es el más justo y simple”.](https://www.ex-ante.cl/kenneth-bunker-experto-electoral-el-sistema-uninominal-es-el-mas-justo-y-simple/) 21 december, 2020.
 
 - **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras.](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/) 4 december, 2020.
+
 - **The Clinic**. [140 días, cuatro escenarios y una sola convención: así se vislumbra la Constituyente de abril.](https://www.theclinic.cl/2020/12/03/140-dias-cuatro-escenarios-y-una-sola-convencion-asi-se-vislumbra-la-constituyente-de-abril/) 3 december, 2020.
+
 - **La Voz de los que Sobran**. [Primarias 2021: Solo el 23% de los precandidatos a Gobernadores Regionales son mujeres.](https://lavozdelosquesobran.cl/primarias-2021-solo-el-23-de-los-precandidatos-a-gobernadores-regionales-son-mujeres/) 29 november, 2020.
+
 - **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos..](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/) 20 november, 2020.
+
 - **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras.](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/) 20 november, 2020.
+
 - **The Clinic**. [¿Quién gana con la dispersión de listas para la Constituyente? Cientistas políticos adelantan complejo escenario para las elecciones de abril.](https://www.theclinic.cl/2020/11/18/quien-gana-con-la-dispersion-de-listas-para-la-constituyente-cientistas-politicos-adelantan-complejo-escenario-para-las-elecciones-de-abril/) 18 november, 2020.
 - **The Clinic**. [El curioso fenómeno Parisi o cuando las encuestas no te olvidan.](https://www.theclinic.cl/2020/11/16/el-curioso-fenomeno-parisi-o-cuando-las-encuestas-no-te-olvidan/) 16 november, 2020.
+
 - **Pauta**. [El sistema que permitirá elegir a los convencionales constituyentes.](https://www.pauta.cl/politica/el-sistema-que-permitira-elegir-a-los-convencionales-constituyentes) 11 november, 2020.
+
 - **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos.](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 24 october, 2020.
+
 - **La Tercera**. [Territorio en disputa: Por qué tanta candidatura a constituyente por los distritos electorales 10 y 11 en la capital.](https://www.latercera.com/la-tercera-pm/noticia/territorio-en-disputa-por-que-tanta-candidatura-a-constituyente-por-los-distritos-electorales-10-y-11-en-la-capital/J4XUIJ6RINE5JJUG6DTCJUGRYA/) 24 october, 2020.
 
 - **Duna**. [Kenneth Bunker y Plebiscito 2020: “Depende de cuánto gane el Apruebo y el Rechazo para ver quién toma el poder en la derecha”.](https://www.duna.cl/programa/ahora-en-duna/2020/10/23/kenneth-bunker-y-plebiscito-2020-depende-de-cuanto-gane-el-apruebo-y-el-rechazo-para-ver-quien-toma-el-poder-en-la-derecha/) 23 october, 2020.
