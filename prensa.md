@@ -271,6 +271,7 @@ title: Prensa
 - **El Mercurio de Valparaíso**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.mercuriovalpo.cl/impresa/2021/04/11/full/cuerpo-reportajes/14/) 11 april, 2021.
 
 - **Emol**. [Candidatos presidenciales con cargos de representación: ¿Una condición de ventaja o un arma de doble filo?.](https://www.emol.com/noticias/Nacional/2021/04/11/1017466/Candidatos-Presidenciales-Cargos-Analisis.html) 11 april, 2021.
+
 - **Austral Temuco**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australtemuco.cl/impresa/2021/04/10/papel/) 10 april, 2021.
 
 - **El Líbero**. [Primarias de oposición: todos los caminos conducen a Jadue… y a Jiles.](https://ellibero.cl/actualidad/primarias-de-oposicion-todos-los-caminos-conducen-a-jadue-y-a-jiles/) 7 april, 2021.
@@ -348,6 +349,9 @@ title: Prensa
 - **La Tercera**. [Constituyentes y constitucionalistas: Quiénes son los abogados que postularán por un cupo en la Convención.](https://www.latercera.com/reconstitucion/noticia/constituyentes-y-constitucionalistas-quienes-son-los-abogados-que-postularan-por-un-cupo-en-la-convencion/ACF7P24VLFDOLKPVY7EXQTI2XU/) 9 january, 2021.
 
 - **Diario Financiero**. [La seducción de los distritos 10 y 11.](https://www.df.cl/noticias/df-constitucional/la-seduccion-de-los-distritos-10-y-11-que-atrae-a-tantos-aspirantes-a-la/2021-01-08/183507.html) 8 january, 2021.
+
+
+## Pre-2021
 
 - **Ex Ante**. [Kenneth Bunker, experto electoral: “El sistema uninominal es el más justo y simple”.](https://www.ex-ante.cl/kenneth-bunker-experto-electoral-el-sistema-uninominal-es-el-mas-justo-y-simple/) 21 december, 2020.
 

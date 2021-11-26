@@ -237,6 +237,7 @@ title: Press
 
 - **La Discusión**. [Políticos, independientes y viejos conocidos: el dilema de la Constituyente.](http://www.ladiscusion.cl/politicos-independientes-y-viejos-conocidos-el-dilema-de-la-constituyente/) 10 january, 2021.
 
+
 ## Pre-2021
 
 - **Expansión**. [Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december, 2020.
