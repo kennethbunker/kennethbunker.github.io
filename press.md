@@ -38,9 +38,13 @@ title: Press
 - **El Comercio**. [Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar).](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/) 20 november, 2021.
 
 - **El País**. [Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november, 2021.
-- **El País **. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
+
+- **El País**. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
+
 - **El Peruano**. [Chile: cambio de ciclo y el ocaso de los partidos tradicionales.](https://elperuano.pe/noticia/133757-chile-un-cambio-de-ciclo) 20 november, 2021.
+
 - **France 24**. [Chile encara las elecciones presidenciales más polarizadas en décadas.](https://www.france24.com/es/am%C3%A9rica-latina/20211120-chile-elecciones-presidenciales-protestas-polarizacion) 20 november, 2021.
+
 - **Kelo**. [‘Burning the metro’: Chile election divides voters between protest and order.](https://kelo.com/2021/11/20/burning-the-metro-chile-election-divides-voters-between-protest-and-order/) 20 november, 2021.
 
 - **NBC**. [Chile Set To Elect New President.](https://www.youtube.com/watch?v=7Qvik6ORvEw) 20 november, 2021.
@@ -62,6 +66,7 @@ title: Press
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?.](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 18 november, 2021.
 
 - **Euronews **. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
+
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
 - **Swissinfo**. ["Cambios" y "seguridad", razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevar%C3%A1n-a-los-chilenos-a-las-urnas/47126826) 18 november, 2021.
