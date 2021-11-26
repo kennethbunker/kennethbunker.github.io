@@ -85,13 +85,11 @@ title: Press
 
 - **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 24 october, 2021.
 
-- **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 1 october, 2021.
-
 - **Bloomberg**. [Los coletazos del engaño de Rojas Vade en la Convención Constituyente.](https://www.bloomberglinea.cl/2021/09/08/los-coletazos-del-engano-de-rojas-vade-en-la-convencion-constituyente/) 8 september, 2021.
 
 - **News Americas Now**. [Countdown Begins To Presidential Elections In Chile.](https://www.newsamericasnow.com/latin-america-news-chile-news-election-countdown-begins/) 25 august, 2021.
 
-- **Ámbito **. [Chile: la incertidumbre marca el inicio de la carrera para suceder a Piñera.](https://www.ambito.com/mundo/chile/la-incertidumbre-marca-el-inicio-la-carrera-suceder-pinera-n5259388) 24 august, 2021.
+- **Ámbito**. [Chile: la incertidumbre marca el inicio de la carrera para suceder a Piñera.](https://www.ambito.com/mundo/chile/la-incertidumbre-marca-el-inicio-la-carrera-suceder-pinera-n5259388) 24 august, 2021.
 
 - **Infobae**. [Incertidumbre marca inicio de carrera presidencial chilena.](https://www.infobae.com/america/agencias/2021/08/24/incertidumbre-marca-inicio-de-carrera-presidencial-chilena/) 24 august, 2021.
 
@@ -112,8 +110,6 @@ title: Press
 - **La Izquierda Diario**. [Segunda vuelta. La centroizquierda tradicional chilena gana la capital y la mayoría de las gobernaciones en Chile.](https://www.laizquierdadiario.com/La-centroizquierda-chilena-gana-la-capital-y-la-mayoria-de-las-gobernaciones-en-Chile) 14 june, 2021.
 
 - **BBC**. [La "batalla de Santiago": qué se vota este domingo en Chile (y por qué es importante de cara a la elección presidencial).](https://www.bbc.com/mundo/noticias-america-latina-57343734) 11 june, 2021.
-
-- **BBC**. [La "batalla de Santiago": qué se vota este domingo en Chile (y por qué es importante de cara a la elección presidencial).](https://www.bbc.com/mundo/noticias-america-latina-57343734) 14 june, 2021.
 
 - **Nueva Tribuna**. [Chile despertó y abrió las grandes alamedas.](https://nuevatribuna.publico.es/articulo/global/chile-desperto-abrio-grandes-alamedas/20210523095032187997.html) 23 may, 2021.
 
@@ -211,31 +207,15 @@ title: Press
 
 - **Swissinfo**. [Chile asimila históricos comicios y abre el debate sobre el voto voluntario.](https://www.swissinfo.ch/spa/chile-elecciones--previsi%C3%B3n-_chile-asimila-hist%C3%B3ricos-comicios-y-abre-el-debate-sobre-el-voto-voluntario/46629916) 18 april, 2021.
 
-- **El Austral de la Araucanía**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australtemuco.cl/impresa/2021/04/11/full/cuerpo-reportajes/10/) 11 april, 2021.
-
-- **El Austral Osorno**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australosorno.cl/impresa/2021/04/11/full/cuerpo-reportajes/8/) 11 april, 2021.
-
-- **El Sur Concepción**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.elsur.cl/impresa/2021/04/11/full/cuerpo-reportajes/4/) 11 april, 2021.
-
-- **La Estrella de Iquique**. ["Sumados, los candidatos del oficialismo marcan más del 50%".](https://www.estrellaiquique.cl/impresa/2021/04/11/full/cuerpo-principal/6/) 11 april, 2021.
-
 - **El Portal de Aysén**. [Cambio de fecha en Elecciones: ¿Qué pasa con las campañas?.](https://elportaldeaysen.cl/regional/cambio-de-fecha-en-elecciones-que-pasa-con-las-campanas/) 29 march, 2021.
 
 - **As**. [Coronavirus en Chile y comunas en cuarentena: calendario de vacunación.](https://chile.as.com/chile/2021/03/28/actualidad/1616933522_446766.html) 28 march, 2021.
 
 - **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
 
-- **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](http://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 march, 2021.
-
 - **Bloomberg**. [Chile’s New Constitution Likely to Be Agreed Upon by Moderates.](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 2 march, 2021.
 
-- **Nostalgica**. [Bunker y pugna DC y PS en Ñuñoa: “El problema de fondo es que dentro de Unidad Constituyente no hay un liderazgo”.](https://www.nostalgica.cl/bunker-y-pugna-dc-y-ps-en-nunoa-el-problema-de-fondo-es-que-dentro-de-unidad-constituyente-no-hay-un-liderazgo/) 26 february, 2021.
-
-- **La Batalla Maipú**. [Y usted, ¿ya decidió por quién votar?: Las proyecciones de Tresquintos para Maipú.](https://www.labatalla.cl/las-proyecciones-de-tresquintos-para-maipu/) 23 february, 2021.
-
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february, 2021.
-
-- **La Discusión**. [Políticos, independientes y viejos conocidos: el dilema de la Constituyente.](http://www.ladiscusion.cl/politicos-independientes-y-viejos-conocidos-el-dilema-de-la-constituyente/) 10 january, 2021.
 
 
 ## Pre-2021
@@ -259,8 +239,6 @@ title: Press
 - **TIME**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?.](https://time.com/5900901/chile-constitution-referendum/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 17 october, 2020.
 
 - **Deutsche Welle**. [“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march, 2020.
-
-- **Diario Financiero**. [La polémica sobre Chilezuela analizada desde la perspectiva.](https://www.df.cl/noticias/economia-y-politica/actualidad/la-polemica-sobre-chilezuela-analizada-desde-la-perspectiva/2017-12-15/125501.html) 15 december, 2019.
 
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statue.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november, 2019.
 
