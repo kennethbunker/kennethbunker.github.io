@@ -65,7 +65,7 @@ title: Press
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?.](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 18 november, 2021.
 
-- **Euronews **. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
+- **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
 
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
@@ -99,7 +99,7 @@ title: Press
 
 - **Swissinfo**. [Uncertainty reigns as Chile presidential election enters home stretch.](https://www.swissinfo.ch/eng/uncertainty-reigns-as-chile-presidential-election-enters-home-stretch/46892502) 24 august, 2021.
 
-- **Revista Noticias **. [Chile: las urnas jubilaron a los dinosaurios de la izquierda y la derecha.](https://noticias.perfil.com/noticias/internacionales/chile-las-urnas-jubilaron-a-los-dinosaurios-de-la-izquierda-y-la-derecha.html) 27 july, 2021.
+- **Revista Noticias**. [Chile: las urnas jubilaron a los dinosaurios de la izquierda y la derecha.](https://noticias.perfil.com/noticias/internacionales/chile-las-urnas-jubilaron-a-los-dinosaurios-de-la-izquierda-y-la-derecha.html) 27 july, 2021.
 
 - **Bloomberg**. [Chile Stocks Surge as Communist Knocked Out of Presidential Race.](https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race) 18 july, 2021.
 
@@ -170,7 +170,6 @@ title: Press
 - **Swissinfo**. [Chile, entre el descrédito de los partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones-independientes--serie-previa-_chile--entre-el-descr%C3%A9dito-de-los-partidos-y-la-burbuja-de-los-independientes/46612428) 12 may, 2021.
 
 - **Bloomberg**. [Chicago Boys free market pension model is unraveling in Chile.](https://www.bloomberg.com/news/articles/2021-05-10/chicago-boys-free-market-pension-model-is-unraveling-in-chile) 10 may, 2021.
-
 
 - **Deutsche Welle**. [“Tras el estallido, el gobierno de Piñera pasó a ser irrelevante”.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may, 2021.
 
