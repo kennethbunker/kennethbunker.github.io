@@ -255,6 +255,8 @@ title: Press
 
 - **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november, 2017.
 
+- **Daily Mail**. [Chile left-wing candidates could form alliance, threatening market rally.](https://www.dailymail.co.uk/wires/reuters/article-4923082/Chile-left-wing-candidates-form-alliance-threatening-market-rally.html#new_tab) 26 september, 2017.
+
 - **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october, 2016.
 
 - **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july, 2015.
