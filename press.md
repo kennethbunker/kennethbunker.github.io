@@ -21,6 +21,8 @@ title: Press
 
 - **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 22 november, 2021.
 
+- **EFE**. [Kast y Boric inician la carrera por el centro de cara al balotaje en Chile.](https://www.efe.com/efe/america/politica/kast-y-boric-inician-la-carrera-por-el-centro-de-cara-al-balotaje-en-chile/20000035-4681839) 22 november, 2021.
+
 - **Infobae**. [Tras dos años de agitación social, los chilenos favorecen propuesta de orden de Kast.](https://www.infobae.com/america/agencias/2021/11/22/tras-dos-anos-de-agitacion-social-los-chilenos-favorecen-propuesta-de-orden-de-kast/) 22 november, 2021.
 
 - **L’Express**. [Présidentielle au Chili : “Le premier tour est un tremblement de terre politique total”.](https://www.lexpress.fr/actualite/monde/amerique-sud/presidentielle-au-chili-le-premier-tour-est-un-tremblement-de-terre-politique-total_2162848.html) 22 november, 2021.

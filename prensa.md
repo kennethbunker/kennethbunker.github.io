@@ -9,6 +9,10 @@ title: Prensa
 
 ## 2021
 
+- **Ciper**. [El puzle de Kast y Boric: las comunas con su peor cosecha de votos, las de mejor rendimiento y aquellas en que pueden crecer.](https://www.ciperchile.cl/2021/11/27/el-puzle-de-kast-y-boric-las-comunas-con-su-peor-cosecha-de-votos-las-de-mejor-rendimiento-y-aquellas-en-que-pueden-crecer/) 28 november, 2021.
+
+- **La Tercera**. [Dos almas que tensionan al PC en su mejor momento electoral.](https://www.latercera.com/la-tercera-domingo/noticia/dos-almas-que-tensionan-al-pc-en-su-mejor-momento-electoral/IJ26T6GNCNCP3EFKE23LOCMWHA/) 28 november, 2021.
+
 - **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados.](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november, 2021.
 
 - **La Tercera**. [Algunas claves para leer la elección parlamentaria.](https://www.latercera.com/la-tercera-domingo/noticia/algunas-claves-para-leer-la-eleccion-parlamentaria/IN5I3WJU7NCYHB4HKWQOCUVJC4/) 20 november, 2021.
