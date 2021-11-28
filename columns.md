@@ -185,7 +185,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20211001 - El elefante
 - 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
 - 20210917 - Cambio de reglas en la mitad del partido
-- 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
+- 20210910 - El cuarto retiro y las falencias ...
 - 20210903 - Lo que está en juego es la hegemonía de la izquierda
 - 20210812 - El auge y declive de la lista del pueblo
 - 20210806 - Quién se parece más a Bachelet
