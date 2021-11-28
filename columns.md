@@ -8,7 +8,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-My columns in [Las Últimas Noticias](https://kennethbunker.github.io/columns#Las%20Últimas%20Noticias), [Ex-Ante](https://kennethbunker.github.io/columns#ex-ante) and [La Tercera](https://kennethbunker.github.io/columns#La%20Tercera)
+My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/) and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera).
 
 
 ## Las Últimas Noticias
@@ -18,7 +18,7 @@ My columns in [Las Últimas Noticias](https://kennethbunker.github.io/columns#La
 - 20211123 - Diez resultados de la elección
 - 20211117 - Preferencias variables
 - 20211116 - Un debate incierto
-- 20211115 - 12 temas de la eleccion
+- 20211115 - 12 temas de la elección
 - 20211113 - Compromiso irrestricto
 - 20211111 - La saña
 - 20211110 - Socialdemocracia
@@ -43,7 +43,7 @@ My columns in [Las Últimas Noticias](https://kennethbunker.github.io/columns#La
 - 20210719 - El carpetazo
 - 20210713 - Promesas de libertad
 - 20210707 - Problema político
-- 20210705 - Instalación Constituyente
+- 20210705 - Instalación constituyente
 - 20210614 - Batalla de las izquierdas
 - 20210602 - El último discurso
 - 20210517 - Una nueva fuerza
@@ -300,3 +300,17 @@ My columns in [Las Últimas Noticias](https://kennethbunker.github.io/columns#La
 - 20130728 - El mapa de las elecciones legislativas
 - 20130718 - Un plan puntual
 - 20100331 - Salida de la crisis de legitimidad
+
+## T13
+
+- 20160619 - Pudo ser mejor
+- 20150707 - Criterios para el cambio de gabinete
+- 20150325 - La amenaza democrática
+- 20150309 - Caso Penta - Segunda Tanda
+- 20150203 - El 11% del país
+- 20150128 - El peso de la democracia
+- 20150114 - Caso Penta - una nueva era
+- 20141231 - La incertidumbre de las reformas
+- 20141216 - Penta: borrón y cuenta nueva
+- 20141202 - El cambio de gabinete
+- 20141117 - Interpelaciones y presión política
