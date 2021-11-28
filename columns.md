@@ -8,7 +8,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [La Tercera](https://en.wikipedia.org/wiki/La_Tercera), and [T13](https://es.wikipedia.org/wiki/Teletrece).
+My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). 
 
 
 ## Las Últimas Noticias (2018 - )
@@ -220,6 +220,21 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20210124 - Rincón versus Undurraga y el declive de la DC
 
 
+## T13 (2014 - 2016)
+
+- 20160619 - Pudo ser mejor
+- 20150707 - Criterios para el cambio de gabinete
+- 20150325 - La amenaza democrática
+- 20150309 - Caso Penta - segunda tanda
+- 20150203 - El 11% del país
+- 20150128 - El peso de la democracia
+- 20150114 - Caso Penta - una nueva era
+- 20141231 - La incertidumbre de las reformas
+- 20141216 - Penta: borrón y cuenta nueva
+- 20141202 - El cambio de gabinete
+- 20141117 - Interpelaciones y presión política
+
+
 ## La Tercera (2013 - 2017)
 
 - 20170731 - La debacle de la DC
@@ -300,17 +315,3 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20130728 - El mapa de las elecciones legislativas
 - 20130718 - Un plan puntual
 - 20100331 - Salida de la crisis de legitimidad
-
-## T13 (2014 - 2016)
-
-- 20160619 - Pudo ser mejor
-- 20150707 - Criterios para el cambio de gabinete
-- 20150325 - La amenaza democrática
-- 20150309 - Caso Penta - segunda tanda
-- 20150203 - El 11% del país
-- 20150128 - El peso de la democracia
-- 20150114 - Caso Penta - una nueva era
-- 20141231 - La incertidumbre de las reformas
-- 20141216 - Penta: borrón y cuenta nueva
-- 20141202 - El cambio de gabinete
-- 20141117 - Interpelaciones y presión política
