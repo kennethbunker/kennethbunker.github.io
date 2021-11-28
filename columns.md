@@ -8,7 +8,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-Below are some of my columns published in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). I have also written for [La Segunda](https://en.wikipedia.org/wiki/La_Segunda), [El Mostrador](https://en.wikipedia.org/wiki/El_Mostrador).
+Below are some of my columns published in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). I have also written columns for [La Segunda](https://en.wikipedia.org/wiki/La_Segunda) and [El Mostrador](https://en.wikipedia.org/wiki/El_Mostrador).
 
 
 ## Las Últimas Noticias (2018 - )
@@ -119,7 +119,7 @@ Below are some of my columns published in [Las Últimas Noticias](https://en.wik
 - 20190313 - Whatsapp
 - 20181125 - Costo político
 - 20181019 - La astuta
-- 20181016 - Hay que pedir la renuncia NP
+- 20181016 - Hay que pedir la renuncia
 - 20181010 - Algo huele mal en la contraloría
 - 20181009 - La amenaza populista
 - 20181002 - Fallo de la Haya
@@ -168,7 +168,6 @@ Below are some of my columns published in [Las Últimas Noticias](https://en.wik
 - 20180113 - Por qué Bachelet coopera con Piñera
 - 20180106 - El éxodo de Mariana
 - 20180102 - Los tres gabinetes de Piñera
-- 2020103 - La deuda moral
 
 
 ## Ex-Ante (2021 - )
@@ -241,7 +240,7 @@ Below are some of my columns published in [Las Últimas Noticias](https://en.wik
 - 20170615 - Conflictos reales y artificiales
 - 20170601 - Si no les puedes ganar
 - 20170426 - Un triste espectáculo
-- 20170407 - El Partido Socialista tiene en sus manos la próxima elección presidencial
+- 20170407 - El Partido Socialista tiene en sus manos la próxima elección
 - 20170310 - Un balance negativo
 - 20170105 - Una carrera de dos caballos
 - 20161207 - El estado de la carrera presidencial
