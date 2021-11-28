@@ -11,15 +11,15 @@ title: Columns
 ## Las Últimas Noticias
 
 - 20211127 - Capital humano
-- 20211125 - Las raíces.docx
-- 20211123 - Diez resultados de la elección.docx
-- 20211117 - Preferencias variables.docx
+- 20211125 - Las raíces
+- 20211123 - Diez resultados de la elección.
+- 20211117 - Preferencias variables.
 - 20211116 - Un debate incierto
-- 20211115 - 12 temas de la eleccion.docx
+- 20211115 - 12 temas de la eleccion.
 - 20211113 - Compromiso irrestricto
 - 20211111 - La saña
 - 20211110 - Socialdemocracia
-- 20211105 - El estándar.docx
+- 20211105 - El estándar.
 - 20211102 - Ganar por ganar
 - 20211020 - Octubre contra Noviembre
 - 20211019 - Detener las banalidades
@@ -104,68 +104,68 @@ title: Columns
 - 20200307 - La mayoría silenciosa
 - 20200303 - Presunción de inocencia
 - 20200229 - Cubillos
-- 20200126 - La sombra de Frei.docx
+- 20200126 - La sombra de Frei.
 - 20200124 - Impuesto Millennial
-- 20191216 - El poder real de los alcaldes.docx
-- 20191206 - Carabineros.docx
-- 20191019 - La teoría del iceberg.docx
-- 20191011 - La falla de San Ramón.docx
-- 20190619 - La teleserie socialista.docx
-- 20190606 - Llegó la hora de privatizar TVN.docx
-- 20190328 - Mucho ruido pocas nueces.docx
-- 20190320 - Oposición.docx
-- 20190313 - Whatsapp.docx
-- 20181125 - Costo político.docx
-- 20181019 - La astuta.docx
-- 20181016 - Hay que pedir la renuncia NP.docx
-- 20181010 - Algo huele mal en la contraloría.docx
-- 20181009 - La amenaza populista.docx
-- 20181002 - Fallo de la Haya.docx
-- 20180917 - El ascenso de los evangélicos NP.docx
-- 20180830 - Cites inhumanos.docx
-- 20180824 - Un show pobre.docx
-- 20180814 - Somos poco tolerantes.docx
-- 20180810 - Disciplina y cohesion.docx
-- 20180730 - A favor de la eutanasia.docx
-- 20180724 - El ministro pasapalabras.docx
-- 20180719 - Respeto a un invitado.docx
-- 20180712 - El talon de Aquiles de Bachelet.docx
-- 20180708 - Por que la oposicion esta desarticulada.docx
-- 20180619 - Orden en la casa.docx
-- 20180618 - Falta lógica de coalición en la derecha.docx
-- 20180615 - El grave error del senador.docx
-- 20180612 - Lógica impecable.docx
-- 20180608 - La peor forma de negociar.docx
-- 20180527 - Las divisiones internas de la DC.docx
-- 20180518 - Francotirador sin balas.docx
-- 20180516 - Fin al chipe libre.docx
-- 20180514 - Protagonistas de la fama.docx
-- 20180511 - Los tropiezos cuestan caro.docx
-- 20180509 - Los errores de Abbott.docx
-- 20180507 - El makeover de Moreno.docx
-- 20180504 - Una maquina aceitada.docx
-- 20180503 - La derecha civilizada contra la derecha cavernaria.docx
-- 20180427 - Por qué a Piñera le interesa Macri y viceversa.docx
-- 20180422 - Los primeros autogoles del gobierno.docx
-- 20180420 - La súper torpeza.docx
-- 20180419 - Máquinas versus políticos.docx
-- 20180418 - Es una tarjeta roja antojadiza.docx
-- 20180414 - Un politico amateur.docx
-- 20180413 - Ahora todo vale.docx
-- 20180406 - Una decisión apresurada.docx
-- 20180403 - Mejor ser panelista que político.docx
-- 20180328 - Adónde va ese tuiteo.docx
-- 20180321 - Intolerancia en una universidad.docx
-- 20180312 - Polos opuestos.docx
-- 20180307 - Un saludo a la bandera.docx
-- 20180227 - El trampolín político.docx
-- 20180225 - Cómo se viene la mano con los ministros y subsecretarios de Piñera.docx
-- 20180217 - Qué debe hacer el nuevo congreso.docx
-- 20180124 - El ministro verde oliva.docx
-- 20180121 - Posverdad y el Banco Mundial.docx
-- 20180113 - Por qué Bachelet coopera con Piñera.docx
-- 20180106 - El éxodo de Mariana.docx
-- 20180102 - Los tres gabinetes de Piñera.docx
+- 20191216 - El poder real de los alcaldes.
+- 20191206 - Carabineros.
+- 20191019 - La teoría del iceberg.
+- 20191011 - La falla de San Ramón.
+- 20190619 - La teleserie socialista.
+- 20190606 - Llegó la hora de privatizar TVN.
+- 20190328 - Mucho ruido pocas nueces.
+- 20190320 - Oposición.
+- 20190313 - Whatsapp.
+- 20181125 - Costo político.
+- 20181019 - La astuta.
+- 20181016 - Hay que pedir la renuncia NP.
+- 20181010 - Algo huele mal en la contraloría.
+- 20181009 - La amenaza populista.
+- 20181002 - Fallo de la Haya.
+- 20180917 - El ascenso de los evangélicos NP.
+- 20180830 - Cites inhumanos.
+- 20180824 - Un show pobre.
+- 20180814 - Somos poco tolerantes.
+- 20180810 - Disciplina y cohesion.
+- 20180730 - A favor de la eutanasia.
+- 20180724 - El ministro pasapalabras.
+- 20180719 - Respeto a un invitado.
+- 20180712 - El talon de Aquiles de Bachelet.
+- 20180708 - Por que la oposicion esta desarticulada.
+- 20180619 - Orden en la casa.
+- 20180618 - Falta lógica de coalición en la derecha.
+- 20180615 - El grave error del senador.
+- 20180612 - Lógica impecable.
+- 20180608 - La peor forma de negociar.
+- 20180527 - Las divisiones internas de la DC.
+- 20180518 - Francotirador sin balas.
+- 20180516 - Fin al chipe libre.
+- 20180514 - Protagonistas de la fama.
+- 20180511 - Los tropiezos cuestan caro.
+- 20180509 - Los errores de Abbott.
+- 20180507 - El makeover de Moreno.
+- 20180504 - Una maquina aceitada.
+- 20180503 - La derecha civilizada contra la derecha cavernaria.
+- 20180427 - Por qué a Piñera le interesa Macri y viceversa.
+- 20180422 - Los primeros autogoles del gobierno.
+- 20180420 - La súper torpeza.
+- 20180419 - Máquinas versus políticos.
+- 20180418 - Es una tarjeta roja antojadiza.
+- 20180414 - Un politico amateur.
+- 20180413 - Ahora todo vale.
+- 20180406 - Una decisión apresurada.
+- 20180403 - Mejor ser panelista que político.
+- 20180328 - Adónde va ese tuiteo.
+- 20180321 - Intolerancia en una universidad.
+- 20180312 - Polos opuestos.
+- 20180307 - Un saludo a la bandera.
+- 20180227 - El trampolín político.
+- 20180225 - Cómo se viene la mano con los ministros y subsecretarios de Piñera.
+- 20180217 - Qué debe hacer el nuevo congreso.
+- 20180124 - El ministro verde oliva.
+- 20180121 - Posverdad y el Banco Mundial.
+- 20180113 - Por qué Bachelet coopera con Piñera.
+- 20180106 - El éxodo de Mariana.
+- 20180102 - Los tres gabinetes de Piñera.
 - 2020103 - La deuda moral
 
 
@@ -210,91 +210,89 @@ title: Columns
 - 20211008 - Lo importancia de la inmediatez
 - 20211015 - Realineamiento en la recta final
 - 20211022 - Orden, violencia, elite y pueblo
-- 20211029 - Polarización y gobernabilidad.docx
+- 20211029 - Polarización y gobernabilidad.
 - 20211105 - King makers
 - 20211112 - Las dos almas de Apruebo Dignidad
-- 20211119 - Claves de la elección legislativa.docx
-- 20211126 - El peregrinaje.docx
+- 20211119 - Claves de la elección legislativa.
+- 20211126 - El peregrinaje.
 
 ## La Tercera
 
-- 20170731 - La debacle de la DC.docx
-- 20170629 - La peor pesadilla.docx
-- 20170615 - Conflictos reales y artificiales.docx
-- 20170601 - Si no les puedes ganar.docx
-- 20170426 - Un triste espectáculo.docx
-- 20170407 - El Partido Socialista tiene en sus manos la próxima elección presidencial.docx
-- 20170310 - Un balance negativo.docx
-- 20170105 - Una carrera de dos caballos.docx
-- 20161207 - El estado de la carrera presidencial.docx
-- 20161104 - La entrada de Guillier.docx
-- 20160803 - La salida de Javiera Blanco.docx
-- 20160718 - Trigo y cizaña en la derecha.docx
-- 20160619 - Pudo ser mejor.docx
-- 20160610 - El freno a mano.docx
-- 20160519 - 21 de Mayo.pages
-- 20160512 - Las dos derechas.docx
-- 20160413 - Aylwin.docx
-- 20160405 - La tardía renuncia de Pizarro.docx
-- 20160311 - A ensuciarse las manos.docx
-- 20160209 - El documental de Bachelet.pages
-- 20160209 - El documental de Bachelet.docx
-- 20160128 - La salida del Partido Comunista de la Nueva Mayoría.docx
-- 20160111 - DC entre la espada y la pared.docx
-- 20151015 - Florecimiento de partidos.docx
-- 20151014 - Viablidad de la Nueva Constitución.docx
-- 20150827 - La apuesta de Insulza.docx
-- 20150817 - El candidato presidencial de la derecha.docx
-- 20150730 - Fecha de caducidad .docx
-- 20150715 - Segundo tiempo.docx
-- 20150617 - Agravamiento de la crisis política.docx
-- 20150605 - Proceso constituyente.docx
-- 20150506 - Limite a la reelección un paso en la dirección correcta.docx
-- 20150423 - Cambio de gabinete tarde y pauteado.docx
-- 20150331 - Salida de la crisis de legitimidad.docx
-- 20150310 - No vale la pena.docx
-- 20150203 - Póngale nombre a la coalición.rtf
-- 20150107 - Golpe de timón.rtf
-- 20141224 - Sebastián Piñera Candidato Presidencial.rtf
-- 20141216 - Las palabras de Bachelet.rtf
-- 20141202 - La batalla por el centro.rtf
-- 20141118 - Propuestas de financiamiento a la política.rtf
-- 20141104 - El futuro de la DC en la Nueva Mayoría.rtf
-- 20141022 - Tiempos Turbulentos.rtf
-- 20141014 - La ruta de Velasco.docx
-- 20140916 - Un flanco imprevisto.docx
-- 20140905 - Concertación al gabinete.docx
-- 20140829 - Pauteando el gobierno.docx
-- 20140819 - El desliz del CEP.docx
-- 20140801 - La Nueva Mayoría sin la Democracia Cristiana.docx
-- 20140708 - Entre Enriquez-Ominami y Velasco.docx
-- 20140609 - Reformas express.docx
-- 20140519 - El sistema proporcional moderado.docx
-- 20140311 - Bachelet entre el congreso y la calle.docx
-- 20140113 - El primer gabinete.docx
-- 20131215 - Los presidentes de los partidos (despues de primer computo).docx
-- 20131215 - Los presidentes de los partidos (antes de primer computo).docx
-- 20131205 - El voto que decide la segunda vuelta.docx
-- 20131128 - Una segunda vuelta testimonial.docx
-- 20131118 - Las llaves del Congreso.docx
-- 20131117 - Los desafíos de Bachelet.docx
-- 20131113 - Lo que está en juego.docx
-- 20131106 - Aprobación presidencial de Piñera, intención de voto de Matthei.docx
-- 20131031 - Cambio de táctica.docx
-- 20131028 - Tasas de renovación.docx
-- 20131023 - La victoria pírrica de Matthei.docx
-- 20131014 - La segunda vuelta.docx
-- 20131010 - El costo de no debatir.docx
-- 20131001 - La crisis de la derecha.docx
-- 20130925 - Debatir en la medida de lo conveniente.docx
-- 20130916 - Doblajes, descolgados y díscolos.docx
-- 20130911 - La repostulación de Piñera.docx
-- 20130903 - Las falencias metodológicas de la encuesta CEP.docx
-- 20130828 - El mito de la renovación.docx
-- 20130820 - El costo de una campaña electoral.docx
-- 20130813 - La oferta electoral.docx
-- 20130805 - El show de las primarias.docx
-- 20130731 - Piñera y el ingreso mínimo mensual.docx
-- 20130728 - El mapa de las elecciones legislativas.docx
-- 20130718 - Un plan puntual.docx
-- 20100331 - Salida de la crisis de legitimidad.docx
+- 20170731 - La debacle de la DC
+- 20170629 - La peor pesadilla
+- 20170615 - Conflictos reales y artificiales
+- 20170601 - Si no les puedes ganar
+- 20170426 - Un triste espectáculo
+- 20170407 - El Partido Socialista tiene en sus manos la próxima elección presidencial
+- 20170310 - Un balance negativo
+- 20170105 - Una carrera de dos caballos
+- 20161207 - El estado de la carrera presidencial
+- 20161104 - La entrada de Guillier
+- 20160803 - La salida de Javiera Blanco
+- 20160718 - Trigo y cizaña en la derecha
+- 20160619 - Pudo ser mejor
+- 20160610 - El freno a mano
+- 20160519 - 21 de Mayo
+- 20160512 - Las dos derechas
+- 20160413 - Aylwin
+- 20160405 - La tardía renuncia de Pizarro
+- 20160311 - A ensuciarse las manos
+- 20160209 - El documental de Bachelet
+- 20160209 - El documental de Bachelet
+- 20160128 - La salida del Partido Comunista de la Nueva Mayoría
+- 20160111 - DC entre la espada y la pared
+- 20151015 - Florecimiento de partidos
+- 20151014 - Viablidad de la Nueva Constitución
+- 20150827 - La apuesta de Insulza
+- 20150817 - El candidato presidencial de la derecha
+- 20150730 - Fecha de caducidad
+- 20150715 - Segundo tiempo
+- 20150617 - Agravamiento de la crisis política
+- 20150605 - Proceso constituyente
+- 20150506 - Limite a la reelección un paso en la dirección correcta
+- 20150423 - Cambio de gabinete tarde y pauteado
+- 20150331 - Salida de la crisis de legitimidad
+- 20150310 - No vale la pena
+- 20150203 - Póngale nombre a la coalición
+- 20150107 - Golpe de timón
+- 20141224 - Sebastián Piñera Candidato Presidencial
+- 20141216 - Las palabras de Bachelet
+- 20141202 - La batalla por el centro
+- 20141118 - Propuestas de financiamiento a la política
+- 20141104 - El futuro de la DC en la Nueva Mayoría
+- 20141022 - Tiempos Turbulentos
+- 20141014 - La ruta de Velasco
+- 20140916 - Un flanco imprevisto
+- 20140905 - Concertación al gabinete
+- 20140829 - Pauteando el gobierno
+- 20140819 - El desliz del CEP
+- 20140801 - La Nueva Mayoría sin la Democracia Cristiana.
+- 20140708 - Entre Enriquez-Ominami y Velasco.
+- 20140609 - Reformas express.
+- 20140519 - El sistema proporcional moderado.
+- 20140311 - Bachelet entre el congreso y la calle.
+- 20140113 - El primer gabinete.
+- 20131215 - Los presidentes de los partidos (después de primer computo)
+- 20131128 - Una segunda vuelta testimonial
+- 20131118 - Las llaves del Congreso
+- 20131117 - Los desafíos de Bachelet
+- 20131113 - Lo que está en juego
+- 20131106 - Aprobación presidencial de Piñera, intención de voto de Matthei
+- 20131031 - Cambio de táctica
+- 20131028 - Tasas de renovación
+- 20131023 - La victoria pírrica de Matthei
+- 20131014 - La segunda vuelta
+- 20131010 - El costo de no debatir
+- 20131001 - La crisis de la derecha
+- 20130925 - Debatir en la medida de lo conveniente
+- 20130916 - Doblajes, descolgados y díscolos
+- 20130911 - La repostulación de Piñera
+- 20130903 - Las falencias metodológicas de la encuesta CEP
+- 20130828 - El mito de la renovación
+- 20130820 - El costo de una campaña electoral
+- 20130813 - La oferta electoral
+- 20130805 - El show de las primarias
+- 20130731 - Piñera y el ingreso mínimo mensual
+- 20130728 - El mapa de las elecciones legislativas
+- 20130718 - Un plan puntual
+- 20100331 - Salida de la crisis de legitimidad
