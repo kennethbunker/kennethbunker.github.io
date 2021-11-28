@@ -8,6 +8,9 @@ title: Columns
 
 <h1>Columns</h1>
 
+My columns in [Las Últimas Noticias](https://kennethbunker.github.io/columns#Las%20Últimas%20Noticias), [Ex-Ante](https://kennethbunker.github.io/columns#ex-ante) and [La Tercera](https://kennethbunker.github.io/columns#La%20Tercera).
+
+
 ## Las Últimas Noticias
 
 - 20211127 - Capital humano
