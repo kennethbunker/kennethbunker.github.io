@@ -8,7 +8,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). 
+My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera).
 
 
 ## Las Últimas Noticias (2018 - )
@@ -60,7 +60,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20210402 - Poder municipal
 - 20210331 - Improvisación permanente
 - 20210326 - Nadie sobra
-- 20210318 - La ave fenix
+- 20210318 - La ave fénix
 - 20210216 - Barco a la deriva
 - 20210215 - Luces y sombras
 - 20210126 - Frei Montalva
@@ -114,7 +114,6 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20191019 - La teoría del iceberg
 - 20191011 - La falla de San Ramón
 - 20190619 - La teleserie socialista
-- 20190606 - Llegó la hora de privatizar TVN
 - 20190328 - Mucho ruido pocas nueces
 - 20190320 - Oposición
 - 20190313 - Whatsapp
@@ -124,7 +123,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20181010 - Algo huele mal en la contraloría
 - 20181009 - La amenaza populista
 - 20181002 - Fallo de la Haya
-- 20180917 - El ascenso de los evangélicos NP
+- 20180917 - El ascenso de los evangélicos
 - 20180830 - Cites inhumanos
 - 20180824 - Un show pobre
 - 20180814 - Somos poco tolerantes
@@ -147,7 +146,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20180509 - Los errores de Abbott
 - 20180507 - El makeover de Moreno
 - 20180504 - Una maquina aceitada
-- 20180503 - La derecha civilizada contra la derecha cavernariaA
+- 20180503 - La derecha civilizada contra la derecha cavernaria
 - 20180427 - Por qué a Piñera le interesa Macri y viceversa
 - 20180422 - Los primeros autogoles del gobierno
 - 20180420 - La súper torpeza
