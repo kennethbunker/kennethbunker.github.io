@@ -219,90 +219,83 @@ title: Columns
 
 ## La Tercera
 
-20141022 - Tiempos Turbulentos.rtf
-20100331 - Salida de la crisis de legitimidad.docx
-20131117 - Los desafíos de Bachelet.docx
-20131118 - Las llaves del Congreso.docx
-20131128 - Una segunda vuelta testimonial.docx
-20131205 - El voto que decide la segunda vuelta.docx
-20131215 - Los presidentes de los partidos (antes de primer computo).docx
-20131215 - Los presidentes de los partidos (despues de primer computo).docx
-20140113 - El primer gabinete.docx
-20140311 - Bachelet entre el congreso y la calle.docx
-20140519 - El sistema proporcional moderado.docx
-20140609 - Reformas express.docx
-20140708 - Entre Enriquez-Ominami y Velasco.docx
-20140801 - La Nueva Mayoría sin la Democracia Cristiana.docx
-20140819 - El desliz del CEP.docx
-20140829 - Pauteando el gobierno.docx
-20140905 - Concertación al gabinete.docx
-20140916 - Un flanco imprevisto.docx
-20141014 - La ruta de Velasco.docx
-20141104 - El futuro de la DC en la Nueva Mayoría.rtf
-20141118 - Propuestas de financiamiento a la política.rtf
-20141202 - La batalla por el centro.rtf
-20141216 - Las palabras de Bachelet.rtf
-20141224 - Sebastián Piñera Candidato Presidencial.rtf
-20150107 - Golpe de timón.rtf
-20150203 - Póngale nombre a la coalición.rtf
-20150310 - No vale la pena.docx
-20150331 - Salida de la crisis de legitimidad.docx
-20150423 - Cambio de gabinete tarde y pauteado.docx
-20150506 - Limite a la reelección un paso en la dirección correcta.docx
-20150605 - Proceso constituyente.docx
-20150617 - Agravamiento de la crisis política.docx
-20150715 - Segundo tiempo.docx
-20150730 - Fecha de caducidad .docx
-20150817 - El candidato presidencial de la derecha.docx
-20150827 - La apuesta de Insulza.docx
-20151014 - Viablidad de la Nueva Constitución.docx
-20151015 - Florecimiento de partidos.docx
-20160111 - DC entre la espada y la pared.docx
-20160128 - La salida del Partido Comunista de la Nueva Mayoría.docx
-20160209 - El documental de Bachelet.docx
-20160209 - El documental de Bachelet.pages
-20160311 - A ensuciarse las manos.docx
-20160311 - Huevos.pages
 20160405 - La tardía renuncia de Pizarro.docx
-20160413 - Aylwin.docx
-20160512 - Las dos derechas.docx
-20160519 - 21 de Mayo.pages
-20160610 - El freno a mano.docx
-20160610 - El freno a mano.pages
-20160619 - Pudo ser mejor.pages
-20160718 - Trigo y cizaña en la derecha.docx
-20160803 - La salida de Javiera Blanco.docx
-20160803 - La salida de Javiera Blanco.pages
-20161104 - La entrada de Guillier.docx
-20161207 - El estado de la carrera presidencial.docx
-20170105 - Una carrera de dos caballos.docx
-20170310 - Un balance negativo.docx
-20170407 - El Partido Socialista tiene en sus manos la próxima elección presidencial.docx
-20170426 - Un triste espectáculo.docx
-20170601 - Si no les puedes ganar.docx
-20170615 - Conflictos reales y artificiales.docx
-20170629 - La peor pesadilla.docx
 20170731 - La debacle de la DC.docx
-Aprobación presidencial de Piñera, intención de voto de Matthei.docx
-Cambio de táctica.docx
-Debatir en la medida de lo conveniente.docx
-Doblajes (intro).docx
-Doblajes (reporte).docx
-Doblajes otros (reporte).docx
-Doblajes, descolgados y díscolos.docx
-El costo de no debatir.docx
-El costo de una campaña electoral.docx
-El mapa de las elecciones legislativas.docx
-El mito de la renovación.docx
-El show de las primarias.docx
-Eliminatorias Brasil 2014 Fecha 15.docx
-La crisis de la derecha.docx
-La oferta electoral.docx
-La repostulación de Piñera.docx
-La segunda vuelta.docx
-La victoria pírrica de Matthei.docx
-Las falencias metodológicas de la encuesta CEP.docx
-Lo que está en juego.docx
-Piñera y el ingreso mínimo mensual.docx
-Tasas de renovación.docx
-Un plan puntual.docx
+20170629 - La peor pesadilla.docx
+20170615 - Conflictos reales y artificiales.docx
+20170601 - Si no les puedes ganar.docx
+20170426 - Un triste espectáculo.docx
+20170407 - El Partido Socialista tiene en sus manos la próxima elección presidencial.docx
+20170310 - Un balance negativo.docx
+20170105 - Una carrera de dos caballos.docx
+20161207 - El estado de la carrera presidencial.docx
+20161104 - La entrada de Guillier.docx
+20160803 - La salida de Javiera Blanco.docx
+20160718 - Trigo y cizaña en la derecha.docx
+20160619 - Pudo ser mejor.docx
+20160610 - El freno a mano.docx
+20160519 - 21 de Mayo.pages
+20160512 - Las dos derechas.docx
+20160413 - Aylwin.docx
+20160311 - A ensuciarse las manos.docx
+20160209 - El documental de Bachelet.pages
+20160209 - El documental de Bachelet.docx
+20160128 - La salida del Partido Comunista de la Nueva Mayoría.docx
+20160111 - DC entre la espada y la pared.docx
+20151015 - Florecimiento de partidos.docx
+20151014 - Viablidad de la Nueva Constitución.docx
+20150827 - La apuesta de Insulza.docx
+20150817 - El candidato presidencial de la derecha.docx
+20150730 - Fecha de caducidad .docx
+20150715 - Segundo tiempo.docx
+20150617 - Agravamiento de la crisis política.docx
+20150605 - Proceso constituyente.docx
+20150506 - Limite a la reelección un paso en la dirección correcta.docx
+20150423 - Cambio de gabinete tarde y pauteado.docx
+20150331 - Salida de la crisis de legitimidad.docx
+20150310 - No vale la pena.docx
+20150203 - Póngale nombre a la coalición.rtf
+20150107 - Golpe de timón.rtf
+20141224 - Sebastián Piñera Candidato Presidencial.rtf
+20141216 - Las palabras de Bachelet.rtf
+20141202 - La batalla por el centro.rtf
+20141118 - Propuestas de financiamiento a la política.rtf
+20141104 - El futuro de la DC en la Nueva Mayoría.rtf
+20141022 - Tiempos Turbulentos.rtf
+20141014 - La ruta de Velasco.docx
+20140916 - Un flanco imprevisto.docx
+20140905 - Concertación al gabinete.docx
+20140829 - Pauteando el gobierno.docx
+20140819 - El desliz del CEP.docx
+20140801 - La Nueva Mayoría sin la Democracia Cristiana.docx
+20140708 - Entre Enriquez-Ominami y Velasco.docx
+20140609 - Reformas express.docx
+20140519 - El sistema proporcional moderado.docx
+20140311 - Bachelet entre el congreso y la calle.docx
+20140113 - El primer gabinete.docx
+20131215 - Los presidentes de los partidos (despues de primer computo).docx
+20131215 - Los presidentes de los partidos (antes de primer computo).docx
+20131205 - El voto que decide la segunda vuelta.docx
+20131128 - Una segunda vuelta testimonial.docx
+20131118 - Las llaves del Congreso.docx
+20131117 - Los desafíos de Bachelet.docx
+20131113 - Lo que está en juego.docx
+20131106 - Aprobación presidencial de Piñera, intención de voto de Matthei.docx
+20131031 - Cambio de táctica.docx
+20131028 - Tasas de renovación.docx
+20131023 - La victoria pírrica de Matthei.docx
+20131014 - La segunda vuelta.docx
+20131010 - El costo de no debatir.docx
+20131001 - La crisis de la derecha.docx
+20130925 - Debatir en la medida de lo conveniente.docx
+20130916 - Doblajes, descolgados y díscolos.docx
+20130911 - La repostulación de Piñera.docx
+20130903 - Las falencias metodológicas de la encuesta CEP.docx
+20130828 - El mito de la renovación.docx
+20130820 - El costo de una campaña electoral.docx
+20130813 - La oferta electoral.docx
+20130805 - El show de las primarias.docx
+20130731 - Piñera y el ingreso mínimo mensual.docx
+20130728 - El mapa de las elecciones legislativas.docx
+20130718 - Un plan puntual.docx
+20100331 - Salida de la crisis de legitimidad.docx
