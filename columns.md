@@ -11,7 +11,7 @@ title: Columns
 My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/) and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera).
 
 
-## Las Últimas Noticias
+## Las Últimas Noticias (2018 - )
 
 - 20211127 - Capital humano
 - 20211125 - Las raíces
@@ -172,13 +172,13 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 2020103 - La deuda moral
 
 
-## Ex-Ante
+## Ex-Ante (2021 - )
 
-- 20211126 - El peregrinajedocx
-- 20211119 - Claves de la elección legislativadocx
+- 20211126 - El peregrinaje
+- 20211119 - Claves de la elección legislativa
 - 20211112 - Las dos almas de Apruebo Dignidad
 - 20211105 - King makers
-- 20211029 - Polarización y gobernabilidaddocx
+- 20211029 - Polarización y gobernabilidad
 - 20211022 - Orden, violencia, elite y pueblo
 - 20211015 - Realineamiento en la recta final
 - 20211008 - Lo importancia de la inmediatez
@@ -220,7 +220,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20210124 - Rincón versus Undurraga y el declive de la DC
 
 
-## La Tercera
+## La Tercera (2013 - 2017)
 
 - 20170731 - La debacle de la DC
 - 20170629 - La peor pesadilla
@@ -301,12 +301,12 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20130718 - Un plan puntual
 - 20100331 - Salida de la crisis de legitimidad
 
-## T13
+## T13 (2014 - 2016)
 
 - 20160619 - Pudo ser mejor
 - 20150707 - Criterios para el cambio de gabinete
 - 20150325 - La amenaza democrática
-- 20150309 - Caso Penta - Segunda Tanda
+- 20150309 - Caso Penta - segunda tanda
 - 20150203 - El 11% del país
 - 20150128 - El peso de la democracia
 - 20150114 - Caso Penta - una nueva era
