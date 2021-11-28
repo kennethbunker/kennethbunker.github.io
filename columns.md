@@ -8,7 +8,7 @@ title: Columns
 
 <h1>Columns</h1>
 
-My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/) and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera).
+My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [La Tercera](https://en.wikipedia.org/wiki/La_Tercera), and [T13](https://es.wikipedia.org/wiki/Teletrece).
 
 
 ## Las Últimas Noticias (2018 - )
