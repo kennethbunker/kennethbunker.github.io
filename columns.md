@@ -204,7 +204,7 @@ My columns in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Alt
 - 20210507 - Una elección incierta
 - 20210430 - El increíble y peligroso ascenso de Pamela Jiles
 - 20210428 - Secuencia de oportunidades desperdiciadas
-- 20210423 - El pc es la locomotora
+- 20210423 - El PC es la locomotora de la oposición
 - 20210416 - La pelota está en la cancha del gobierno
 - 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
 - 20210402 - La ventaja de la derecha y su fragilidad
