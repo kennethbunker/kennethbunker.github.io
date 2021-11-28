@@ -171,50 +171,51 @@ title: Columns
 
 ## Ex-Ante
 
+- 20211126 - El peregrinaje.docx
+- 20211119 - Claves de la elección legislativa.docx
+- 20211112 - Las dos almas de Apruebo Dignidad
+- 20211105 - King makers
+- 20211029 - Polarización y gobernabilidad.docx
+- 20211022 - Orden, violencia, elite y pueblo
+- 20211015 - Realineamiento en la recta final
+- 20211008 - Lo importancia de la inmediatez
+- 20211001 - El elefante
+- 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
+- 20210917 - Cambio de reglas en la mitad del partido
+- 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
+- 20210903 - Lo que está en juego es la hegemonía de la izquierda
+- 20210812 - El auge y declive de la lista del pueblo
+- 20210806 - Quién se parece más a Bachelet
+- 20210731 - Los errores de la derecha y la oportunidad de Sichel
+- 20210724 - Yasna Provoste y el drama de la centroizquierda
+- 20210716 - Ganadores y perdedores de la primaria presidencial
+- 20210709 - Reglas imparciales favorecen el éxito
+- 20210702 - Tensión constitucional
+- 20210625 - Es la hora de Yasna Provoste
+- 20210618 - La política de lo imposible
+- 20210614 - Una nueva era de turbulencia política
+- 20210611 - Amenaza al proceso constitucional
+- 20210604 - La reconstrucción de la derecha
+- 20210521 - La rearticulación de la socialdemocracia
+- 20210513 - Los dos tercios están en el centro
+- 20210507 - Una elección incierta
+- 20210430 - El increíble y peligroso ascenso de Pamela Jiles
+- 20210428 - Secuencia de oportunidades desperdiciadas - los costos para el gobierno y la derecha
+- 20210423 - El pc es la locomotora
+- 20210416 - La pelota está en la cancha del gobierno
+- 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
+- 20210402 - La ventaja de la derecha y su fragilidad
+- 20210326 - La pelota en el piso
+- 20210319 - Una tormenta perfecta para Unidad Constituyente
 - 20210312 - El problema no es la estatua, es la violencia
 - 20210306 - El balance de Boric
-- 20210124 - Rincón versus Undurraga y el declive de la DC
-- 20210131 - Los dilemas de Paula Narváez
-- 20210205 - La última oportunidad
-- 20210212 - Incendio en Revolución Democrática
-- 20210219 - Chile Vamos y la mega elección de marzo
 - 20210226 - Unidad Constituyente necesita un líder
-- 20210319 - Una tormenta perfecta para Unidad Constituyente
-- 20210326 - La pelota en el piso
-- 20210402 - La ventaja de la derecha y su fragilidad
-- 20210409 - El ascenso de Pamela Jiles y los costos de su instalación
-- 20210416 - La pelota está en la cancha del gobierno
-- 20210423 - El pc es la locomotora
-- 20210428 - Secuencia de oportunidades desperdiciadas - los costos para el gobierno y la derecha
-- 20210430 - El increíble y peligroso ascenso de Pamela Jiles
-- 20210507 - Una elección incierta
-- 20210513 - Los dos tercios están en el centro
-- 20210521 - La rearticulación de la socialdemocracia
-- 20210604 - La reconstrucción de la derecha
-- 20210611 - Amenaza al proceso constitucional
-- 20210614 - Una nueva era de turbulencia política
-- 20210618 - La política de lo imposible
-- 20210625 - Es la hora de Yasna Provoste
-- 20210702 - Tensión constitucional
-- 20210709 - Reglas imparciales favorecen el éxito
-- 20210716 - Ganadores y perdedores de la primaria presidencial
-- 20210724 - Yasna Provoste y el drama de la centroizquierda
-- 20210731 - Los errores de la derecha y la oportunidad de Sichel
-- 20210806 - Quién se parece más a Bachelet
-- 20210812 - El auge y declive de la lista del pueblo
-- 20210903 - Lo que está en juego es la hegemonía de la izquierda
-- 20210910 - El cuarto retiro y las falencias de los candidatos presidenciales
-- 20210917 - Cambio de reglas en la mitad del partido
-- 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
-- 20211001 - El elefante
-- 20211008 - Lo importancia de la inmediatez
-- 20211015 - Realineamiento en la recta final
-- 20211022 - Orden, violencia, elite y pueblo
-- 20211029 - Polarización y gobernabilidad.
-- 20211105 - King makers
-- 20211112 - Las dos almas de Apruebo Dignidad
-- 20211119 - Claves de la elección legislativa.
-- 20211126 - El peregrinaje.
+- 20210219 - Chile Vamos y la mega elección de marzo
+- 20210212 - Incendio en Revolución Democrática
+- 20210205 - La última oportunidad
+- 20210131 - Los dilemas de Paula Narváez
+- 20210124 - Rincón versus Undurraga y el declive de la DC
+
 
 ## La Tercera
 
@@ -266,18 +267,18 @@ title: Columns
 - 20140905 - Concertación al gabinete
 - 20140829 - Pauteando el gobierno
 - 20140819 - El desliz del CEP
-- 20140801 - La Nueva Mayoría sin la Democracia Cristiana.
-- 20140708 - Entre Enriquez-Ominami y Velasco.
-- 20140609 - Reformas express.
+- 20140801 - La Nueva Mayoría sin la Democracia Cristiana
+- 20140708 - Entre Enriquez-Ominami y Velasco
+- 20140609 - Reformas express
 - 20140519 - El sistema proporcional moderado.
-- 20140311 - Bachelet entre el congreso y la calle.
-- 20140113 - El primer gabinete.
-- 20131215 - Los presidentes de los partidos (después de primer computo)
+- 20140311 - Bachelet entre el congreso y la calle
+- 20140113 - El primer gabinete
+- 20131215 - Los presidentes de los partidos
 - 20131128 - Una segunda vuelta testimonial
 - 20131118 - Las llaves del Congreso
 - 20131117 - Los desafíos de Bachelet
 - 20131113 - Lo que está en juego
-- 20131106 - Aprobación presidencial de Piñera, intención de voto de Matthei
+- 20131106 - Aprobación presidencial de Piñera
 - 20131031 - Cambio de táctica
 - 20131028 - Tasas de renovación
 - 20131023 - La victoria pírrica de Matthei
