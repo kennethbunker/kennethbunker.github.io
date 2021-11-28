@@ -41,7 +41,7 @@ title: Press
 
 - **El País**. [Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november, 2021.
 
-- **El País **. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
+- **El País**. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
 
 - **El Peruano**. [Chile: cambio de ciclo y el ocaso de los partidos tradicionales.](https://elperuano.pe/noticia/133757-chile-un-cambio-de-ciclo) 20 november, 2021.
 
