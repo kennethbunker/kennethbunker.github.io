@@ -39,7 +39,7 @@ title: Press
 
 - **El País**. [Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november, 2021.
 
-- **El País **. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
+- **El País**. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
 
 - **El Peruano**. [Chile: cambio de ciclo y el ocaso de los partidos tradicionales.](https://elperuano.pe/noticia/133757-chile-un-cambio-de-ciclo) 20 november, 2021.
 
@@ -65,7 +65,7 @@ title: Press
 
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?.](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 18 november, 2021.
 
-- **Euronews **. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
+- **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
 
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
@@ -166,8 +166,6 @@ title: Press
 - **Swissinfo**. [Chile vota entre el descrédito de partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones--serie-especial---repetici%C3%B3n-_chile-vota-entre-el-descr%C3%A9dito-de-partidos-y-la-burbuja-de-los-independientes/46615348) 11 may, 2021.
 
 - **Liberation**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
-
-- **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
 
 - **Swissinfo**. [Chile, entre el descrédito de los partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones-independientes--serie-previa-_chile--entre-el-descr%C3%A9dito-de-los-partidos-y-la-burbuja-de-los-independientes/46612428) 12 may, 2021.
 
@@ -350,4 +348,4 @@ title: Press
 
 - **Washington Post**. [A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december, 2013.
 
-- **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?.](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
+- **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
