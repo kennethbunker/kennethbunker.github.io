@@ -17,13 +17,9 @@ title: Prensa
 
 - **La Tercera**. [Algunas claves para leer la elección parlamentaria.](https://www.latercera.com/la-tercera-domingo/noticia/algunas-claves-para-leer-la-eleccion-parlamentaria/IN5I3WJU7NCYHB4HKWQOCUVJC4/) 20 november, 2021.
 
-- **Pauta**. [El método D'Hondt: así se eligió a los constituyentes.](https://www.pauta.cl/politica/metodo-de-d-hondt-elecciones-constituyentes-votaciones) 20 november, 2021.
-
 - **Tele 13**. [La incertidumbre con que Chile llega a las primeras elecciones en 16 años sin Piñera y Bachelet.](https://www.t13.cl/noticia/elecciones-2021/politica/bbc/la-incertidumbre-con-que-chile-llega-a-las-primeras-elecciones-en-16-anos-sin-pinera-y-bachelet-y-cuales-son-los-posibles-escenarios) 20 november, 2021.
 
-- **Diario Financiero**. [Elecciones parlamentarias: El pronostico de los expertos de cara al Congreso 2022.](https://www.df.cl/noticias/economia-y-politica/politica/elecciones-parlamentarias-el-pronostico-de-los-expertos-de-cara-al/2021-11-19/150543.html) 19 november, 2021.
-
-- **El Desconcierto**. [Elecciones: Una carrera presidencial sacudida por los Pandora Papers y el cerco a Piñera.](https://www.eldesconcierto.cl/nacional/2021/11/19/elecciones-una-carrera-sacudida-por-los-pandora-papers-y-el-cerco-a-pinera.html) 19 november, 2021.
+- **El Desconcierto**. [Una carrera presidencial sacudida por los Pandora Papers y el cerco a Piñera.](https://www.eldesconcierto.cl/nacional/2021/11/19/elecciones-una-carrera-sacudida-por-los-pandora-papers-y-el-cerco-a-pinera.html) 19 november, 2021.
 
 - **Diario Financiero**. [Elecciones parlamentarias: El pronostico de los expertos de cara al Congreso 2022.](https://www.theclinic.cl/2021/11/18/analisis-tras-escandalo-por-rendiciones-millonarias-el-incierto-escenario-electoral-de-karina-oliva-como-candidata-a-senadora-por-la-rm/) 18 november, 2021.
 
@@ -157,8 +153,6 @@ title: Prensa
 - **La Tercera**. [“Era imposible proyectar”: el mea culpa de los encuestadores tras el fail de los sondeos previos a la elección.](https://www.latercera.com/la-tercera-pm/noticia/era-imposible-proyectar-el-mea-culpa-de-los-encuestadores-tras-el-fail-de-los-sondeos-previos-a-la-eleccion/USQITALFE5DVNE7XQTQ4Q7A34U/) 24 may, 2021.
 
 - **Ex-Ante**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”.](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/) 17 may, 2021.
-
-- **ExAnte**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”.](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/) 17 may, 2021.
 
 - **TVN**. [Participación vuelve a caer y queda muy por debajo del Plebiscito: El 43% de los votantes asistieron a las urnas.](https://www.24horas.cl/data/participacion-electoral-cae-4781228) 17 may, 2021.
 
