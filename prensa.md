@@ -9,6 +9,8 @@ title: Prensa
 
 ## 2021
 
+- **La Segunda**. [Los riesgos de volverse Parisi Lovers.](https://digital.lasegunda.com/2021/11/30/A) 30 november, 2021.
+
 - **Ciper**. [El puzle de Kast y Boric: las comunas con su peor cosecha de votos, las de mejor rendimiento y aquellas en que pueden crecer.](https://www.ciperchile.cl/2021/11/27/el-puzle-de-kast-y-boric-las-comunas-con-su-peor-cosecha-de-votos-las-de-mejor-rendimiento-y-aquellas-en-que-pueden-crecer/) 28 november, 2021.
 
 - **La Tercera**. [Dos almas que tensionan al PC en su mejor momento electoral.](https://www.latercera.com/la-tercera-domingo/noticia/dos-almas-que-tensionan-al-pc-en-su-mejor-momento-electoral/IJ26T6GNCNCP3EFKE23LOCMWHA/) 28 november, 2021.
@@ -71,9 +73,9 @@ title: Prensa
 
 - **La Segunda**. [¿Kast amenaza las aspiraciones de Sichel de pasar a segunda vuelta?.](https://digital.lasegunda.com/2021/09/24/A) 24 september, 2021.
 
-- **Ex-Ante**. [Kenneth Bunker y el debate presidencial: “Boric sigue siendo el favorito”.](https://www.ex-ante.cl/kenneth-bunker-y-el-debate-presidencial-boric-sigue-siendo-el-favorito/) 23 september, 2021.
-
 - **La Segunda**. [Así se vió el debate en Twitter.](https://digital.lasegunda.com/2021/09/23/A) 23 september, 2021.
+
+- **Ex-Ante**. [Kenneth Bunker y el debate presidencial: “Boric sigue siendo el favorito”.](https://www.ex-ante.cl/kenneth-bunker-y-el-debate-presidencial-boric-sigue-siendo-el-favorito/) 23 september, 2021.
 
 - **La Segunda**. [La oportunidad de Provoste para salir de la incercia.](https://digital.lasegunda.com/2021/09/22/A) 22 september, 2021.
 
