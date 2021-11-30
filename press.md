@@ -69,6 +69,8 @@ title: Press
 
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
+- **El Diario**. [Una carrera presidencial sacudida por los Papeles de Pandora y el cerco a Piñera.](https://www.eldiario.es/politica/carrera-presidencial-sacudida-papeles-pandora-cerco-pinera_1_8503302.html) 18 november, 2021.
+
 - **Swissinfo**. ["Cambios" y "seguridad", razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevar%C3%A1n-a-los-chilenos-a-las-urnas/47126826) 18 november, 2021.
 
 - **El Diario**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://www.eldiario.es/politica/ocaso-partidos-tradicionales-acerca-chile-cambio-ciclo_1_8499147.html) 17 november, 2021.
