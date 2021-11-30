@@ -191,25 +191,45 @@ title: Prensa
 - **El Mercurio**. [Las claves que marcan las elecciones, a menos de una semana.](https://digital.elmercurio.com/2021/05/09/R/G03V40V3#zoom=page-width) 9 may, 2021.
 
 - **Biobio**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
+
 - **Biobio**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
+
 - **Gamba**. [Medio argentino trató a Pamela Jiles de populista y la comparó con Donald Trump.](https://www.gamba.cl/2021/05/medio-argentino-trato-a-pamela-jiles-de-populista-y-la-comparo-con-donald-trump/) 8 may, 2021.
+
 - **El Dínamo**. [“Líder populista con tintes trumpistas”: el análisis de la prensa argentina a Pamela Jiles.](https://www.eldinamo.cl/politica/2021/05/07/lider-populista-con-tintes-trumpistas-el-analisis-de-la-prensa-argentina-a-pamela-jiles/) 7 may, 2021.
+
 - **En Cancha**. ["Pamela Jiles, la líder populista con tintes trumpistas que sorprende a Chile": así califican en Argentina a la diputada.](https://www.encancha.cl/enlahora/nacional/2021/5/7/pamela-jiles-la-lider-populista-con-tintes-trumpistas-que-sorprende-chile-asi-califican-en-argentina-la-diputada-95356.html) 7 may, 2021.
+
 - **La Segunda**. ["Matthei, Jadue, Lavín y Jiles son los presidenciables que arriesgan más".](https://digital.lasegunda.com/2021/05/07/A/333V8L2A#zoom=page-width) 7 may, 2021.
+
 - **Las Últimas Noticias**. [UDI se tensiona por la decisión presidencial de Evelyn Matthei.](https://digital.lasegunda.com/2021/05/03/A/3R3V6M7H#zoom=page-width) 3 may, 2021.
+
 - **Concierto**. [Kenneth Bunker: "Pamela Jiles tiene rasgos populistas, y es por eso que es tan peligrosa para la democracia".](https://www.concierto.cl/2021/04/kenneth-bunker-pamela-jiles-tiene-rasgos-populistas-y-es-por-eso-que-es-tan-peligrosa-para-la-democracia/) 30 april, 2021.
+
 - **El Líbero**. [El 41% de los chilenos se identifica con el centro pero la Unidad Constituyente “brilla por su ausencia”.](https://ellibero.cl/actualidad/el-41-de-los-chilenos-se-identifica-con-el-centro-pero-la-unidad-constituyente-brilla-por-su-ausencia/) 30 april, 2021.
+
 - **Rock and Pop**. [Kenneth Bunker: «Mucha gente no creía que el fenómeno de Pamela Jiles era real».](https://www.rockandpop.cl/2021/04/kenneth-bunker-mucha-gente-no-creia-que-el-fenomeno-de-pamela-jiles-era-real/) 30 april, 2021.
+
 - **El Mercurio de Valparaíso**. [Crisis del Gobierno por retiro del 10% pone en peligro a Chile Vamos.](https://www.mercuriovalpo.cl/impresa/2021/04/29/full/cuerpo-principal/5/) 29 april, 2021.
+
 - **El Zorro Nortino**. [Una crisis política de dimensiones históricas. Por Kenneth Bunker.](https://www.elzorronortino.cl/opinion/una-crisis-politica-de-dimensiones-historicas-por-kenneth-bunker/) 29 april, 2021.
+
 - **La Segunda**. [Jiles se depega en la CEP: Cualés son sus fortalezas y quiénes sus seguidores.](https://digital.lasegunda.com/2021/04/29/A/HG3V5CGM#zoom=page-width) 29 april, 2021.
+
 - **TVN**. [Doctor en Ciencia Política por Pamela Jiles como la política mejor evaluada: "Es cualquier cosa menos una sorpresa".](https://www.24horas.cl/videos/entrevistas24/doctor-ciencia-politica-pamela-jiles-personaje-politico-mejor-evaluado-4759418) 29 april, 2021.
+
 - **La Segunda**. [Gobierno subre fuerte derrota en el TC: Obligado a negociar.](https://digital.lasegunda.com/2021/04/27/A/HP3V4DV2#zoom=page-width) 27 april, 2021.
+
 - **El Diario de Atacama**. [Proyectan escenario electoral para constituyentes y gobernador regional.](https://www.diarioatacama.cl/impresa/2021/04/22/full/cuerpo-principal/5/) 22 april, 2021.
+
 - **El Mostrador**. [La estrategia del TC y los beneficios a cuentagotas que tienen al Gobierno caminando en la cornisa.](https://www.elmostrador.cl/noticias/pais/2021/04/22/la-estrategia-del-tc-y-los-beneficios-a-cuentagotas-que-tienen-al-gobierno-caminando-en-la-cornisa/) 22 april, 2021.
+
 - **El Mercurio de Valparaíso**. [Proyeccion  de Tres Quintos para la Convención Constitucional: Chile Vamos lideraría en la región.](https://www.mercuriovalpo.cl/impresa/2021/04/19/full/cuerpo-principal/7/) 19 april, 2021.
+
 - **Piensa Chile**. [Enfrentando las elecciones de mayo .](https://piensachile.com/2021/04/18/enfrentando-las-elecciones-de-mayo/) 19 april, 2021.
+
 - **El Mercurio**. [La ignorada, pero decisiva elección de Gobernadores.](https://digital.elmercurio.com/2021/04/18/R/AB3UPUI9) 18 april, 2021.
+
 - **Diario Financiero**. [Independientes, los principales afectados por la "pausa" de la campaña.](https://www.df.cl/noticias/df-constitucional/independientes-los-principales-afectados-por-la-pausa-en-la/2021-04-13/135235.html) 16 april, 2021.
 - **La Tercera**. [Genio y Figura.](https://www.latercera.com/opinion/noticia/genio-y-figura/7V6G7F7VIZC57AFRJ2OJVGUHVE/) 16 april, 2021.
 - **El Líbero**. [Con “mano de seda”, así tratan los presidenciables oficialistas a sus contrincantes de extrema izquierda.](https://ellibero.cl/actualidad/con-mano-de-seda-asi-tratan-los-presidenciables-oficialistas-a-sus-contrincantes-de-extrema-izquierda/) 14 april, 2021.

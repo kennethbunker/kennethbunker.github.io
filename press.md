@@ -212,9 +212,13 @@ title: Press
 - **As**. [Coronavirus en Chile y comunas en cuarentena: calendario de vacunación.](https://chile.as.com/chile/2021/03/28/actualidad/1616933522_446766.html) 28 march, 2021.
 
 - **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
+
 - **Bloomberg**. [Chile’s New Constitution Likely to Be Agreed Upon by Moderates.](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 2 march, 2021.
+
 - **Nostalgica**. [Bunker y pugna DC y PS en Ñuñoa: “El problema de fondo es que dentro de Unidad Constituyente no hay un liderazgo”.](https://www.nostalgica.cl/bunker-y-pugna-dc-y-ps-en-nunoa-el-problema-de-fondo-es-que-dentro-de-unidad-constituyente-no-hay-un-liderazgo/) 26 february, 2021.
+
 - **La Batalla Maipú**. [Y usted, ¿ya decidió por quién votar?: Las proyecciones de Tresquintos para Maipú.](https://www.labatalla.cl/las-proyecciones-de-tresquintos-para-maipu/) 23 february, 2021.
+
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february, 2021.
 - **Expansión**. [Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december, 2020.
 - **Courrier Francia**. [Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 26 october, 2020.
