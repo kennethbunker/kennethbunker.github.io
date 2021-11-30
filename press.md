@@ -70,76 +70,147 @@ title: Press
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
 
 - **Swissinfo**. ["Cambios" y "seguridad", razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevar%C3%A1n-a-los-chilenos-a-las-urnas/47126826) 18 november, 2021.
+
 - **El Diario**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://www.eldiario.es/politica/ocaso-partidos-tradicionales-acerca-chile-cambio-ciclo_1_8499147.html) 17 november, 2021.
+
 - **El Diario**. [Fabiola Campillai, ciega por una agresión policial y aspirante a senadora en Chile: "La política es de todos.](https://www.eldiario.es/internacional/theguardian/fabiola-campillai-agredida-policia-chile-aspirante-senadora-politica_128_8498927.html) 17 november, 2021.
+
 - **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 20 november, 2021.
+
 - **Gestion**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november, 2021.
+
 - **El Diario**. [Cascada de ataques al ultraderechista Kast tensan el último debate presidencial en Chile.](https://www.eldiario.es/politica/cascada-ataques-ultraderechista-kast-tensan-ultimo-debate-presidencial-chile_1_8493362.html) 16 november, 2021.
+
 - **La Razón**. [Pinochet se cuela en la campaña electoral de Chile, liderada por Jose Antonio Kast.](https://www.larazon.es/internacional/20211116/czzom3ijgncfncazyfubowssyu.html) 16 november, 2021.
+
 - **Infobae**. [Una semana que definirá hacia dónde va el nuevo Chile.](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/) 13 november, 2021.
+
 - **Infobae**. [Una semana que definirá hacia dónde va el nuevo Chile.](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/) 13 november, 2021.
+
 - **The Guardian**. [I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november, 2021.
+
 - **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 24 october, 2021.
+
 - **Bloomberg**. [Los coletazos del engaño de Rojas Vade en la Convención Constituyente.](https://www.bloomberglinea.cl/2021/09/08/los-coletazos-del-engano-de-rojas-vade-en-la-convencion-constituyente/) 8 september, 2021.
+
 - **News Americas Now**. [Countdown Begins To Presidential Elections In Chile.](https://www.newsamericasnow.com/latin-america-news-chile-news-election-countdown-begins/) 25 august, 2021.
+
 - **Ámbito**. [Chile: la incertidumbre marca el inicio de la carrera para suceder a Piñera.](https://www.ambito.com/mundo/chile/la-incertidumbre-marca-el-inicio-la-carrera-suceder-pinera-n5259388) 24 august, 2021.
+
 - **Infobae**. [Incertidumbre marca inicio de carrera presidencial chilena.](https://www.infobae.com/america/agencias/2021/08/24/incertidumbre-marca-inicio-de-carrera-presidencial-chilena/) 24 august, 2021.
+
 - **Reuters**. [Uncertainty reigns as Chile presidential election enters home stretch.](https://www.reuters.com/world/americas/uncertainty-reigns-chile-presidential-election-enters-home-stretch-2021-08-24/) 24 august, 2021.
+
 - **Swissinfo**. [Uncertainty reigns as Chile presidential election enters home stretch.](https://www.swissinfo.ch/eng/uncertainty-reigns-as-chile-presidential-election-enters-home-stretch/46892502) 24 august, 2021.
+
 - **Revista Noticias**. [Chile: las urnas jubilaron a los dinosaurios de la izquierda y la derecha.](https://noticias.perfil.com/noticias/internacionales/chile-las-urnas-jubilaron-a-los-dinosaurios-de-la-izquierda-y-la-derecha.html) 27 july, 2021.
+
 - **Bloomberg**. [Chile Stocks Surge as Communist Knocked Out of Presidential Race.](https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race) 18 july, 2021.
+
 - **The Washington Post**. [Los mapuches y la Convención Constitucional. Las vacunas y Bolsonaro. Raffaella Carrà.](https://www.washingtonpost.com/es/el-washington-post-podcast/los-mapuches-y-la-convencin-constitucional-las-vacunas-y-bolsonaro-raffaella-carr/) 6 july, 2021.
+
 - **La Izquierda**. [Segunda vuelta. La centroizquierda tradicional chilena gana la capital y la mayoría de las gobernaciones en Chile.](https://www.laizquierdadiario.com/La-centroizquierda-chilena-gana-la-capital-y-la-mayoria-de-las-gobernaciones-en-Chile) 14 june, 2021.
+
 - **BBC**. [La "batalla de Santiago": qué se vota este domingo en Chile (y por qué es importante de cara a la elección presidencial).](https://www.bbc.com/mundo/noticias-america-latina-57343734) 11 june, 2021.
+
 - **Nueva Tribuna**. [Chile despertó y abrió las grandes alamedas.](https://nuevatribuna.publico.es/articulo/global/chile-desperto-abrio-grandes-alamedas/20210523095032187997.html) 23 may, 2021.
+
 - **El Peruano**. [Chile debate volver al sufragio obligatorio.](https://elperuano.pe/noticia/121000-chile-debate-volver-al-sufragio-obligatorio) 19 may, 2021.
+
 - **Todo Texcoco**. [Pensiones en Chile se encaminan al abismo y las Afores ponen sus barbas a remojar.](https://todotexcoco.com/pensiones-en-chile-se-encaminan-al-abismo-y-las-afores-ponen-sus-barbas-a-remojar-e3TU2e3ze33OA.html) 19 may, 2021.
+
 - **La Prensa Latina**. [Chile assimilates historic poll results, opens debate on mandatory voting.](https://www.laprensalatina.com/chile-assimilates-historic-poll-results-opens-debate-on-mandatory-voting/) 18 may, 2021.
+
 - **Swissinfo**. [Chile asimila históricos comicios y abre el debate sobre el voto voluntario.](https://www.swissinfo.ch/spa/chile-elecciones--previsi%C3%B3n-_chile-asimila-hist%C3%B3ricos-comicios-y-abre-el-debate-sobre-el-voto-voluntario/46629930) 18 may, 2021.
+
 - **Diario El Pueblo**. [Autoridades sanitarias de Chile piden no celebrar los resultados de los megacomicios.](https://diarioelpueblo.com.uy/autoridades-sanitarias-de-chile-piden-no-celebrar-los-resultados-de-los-megacomicios/) 17 may, 2021.
+
 - **El Heraldo**. [Chilenos no votaron en masa por Carta Magna.](https://www.elheraldo.co/mundo/chilenos-no-votaron-en-masa-por-carta-magna-817979) 17 may, 2021.
+
 - **Rtve**. [Independientes y oposición marcarán la pauta en la nueva Constitución de Chile.](https://www.rtve.es/noticias/20210517/chile-resultados-elecciones-constituyentes-regionales-concejales-alcaldes/2090594.shtml) 17 may, 2021.
+
 - **Rtve**. [Independientes y oposición marcarán la pauta en la nueva Constitución de Chile.](https://www.rtve.es/noticias/20210517/chile-resultados-elecciones-constituyentes-regionales-concejales-alcaldes/2090594.shtml) 17 may, 2021.
+
 - **Vanguardia México**. [Finalizan las elecciones constituyentes en Chile.](https://vanguardia.com.mx/articulo/finalizan-las-elecciones-constituyentes-en-chile) 17 may, 2021.
+
 - **El Comercio**. [Qué se vota y qué está en juego en la “megaelección” de este fin de semana en Chile.](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-chile-que-se-vota-y-que-esta-en-juego-en-la-megaeleccion-de-este-fin-de-semana-nueva-constitucion-sebastian-pinera-asamblea-constituyente-noticia/) 16 may, 2021.
+
 - **Swissinfo**. [Chile comienza el conteo de votos en históricos comicios constituyentes.](https://www.swissinfo.ch/spa/chile-elecciones_chile-comienza-el-conteo-de-votos-en-hist%C3%B3ricos-comicios-constituyentes/46623616) 16 may, 2021.
+
 - **Cronista**. [Elecciones en Chile: qué se vota, cómo será la nueva constitución y qué se juega Piñera.](https://www.cronista.com/internacionales/elecciones-chile-que-se-vota-hoy-nueva-constitucion-y-el-futuro-de-pinera/) 15 may, 2021.
+
 - **El Peruano**. [La hora de los independientes.](https://elperuano.pe/noticia/120757-la-hora-de-los-independientes) 15 may, 2021.
+
 - **Infobae**. [Chile vota en “mega elecciones” para elegir gobernadores, alcaldes y constituyentes camino a las próximas presidenciales.](https://www.infobae.com/america/america-latina/2021/05/15/chile-vota-en-mega-elecciones-para-elegir-gobernadores-alcaldes-y-constituyentes-camino-a-las-proximas-presidenciales/) 15 may, 2021.
+
 - **América Economía**. [Chile se prepara para elegir a los responsables de reescribir la Constitución de la era Pinochet.](https://www.americaeconomia.com/politica-sociedad/politica/chile-se-prepara-para-elegir-los-responsables-de-reescribir-la) 14 may, 2021.
+
 - **BBC**. [Qué se vota y qué está en juego en la "megaelección" de este fin de semana en Chile.](https://www.bbc.com/mundo/noticias-america-latina-57089260) 14 may, 2021.
+
 - **Glas Istre**. [Čile bira ustavotvorce, sviće li toj zemlji nova zora?.](https://www.glasistre.hr/svijet/cile-bira-ustavotvorce-svice-li-toj-zemlji-nova-zora-721030) 14 may, 2021.
+
 - **Latin News**. [Chile: Ready to hold ‘mega election’.](https://www.latinnews.com/component/k2/item/88474.html?period=May%202021&archive=3&Itemid=6&cat_id=825394:chile-ready-to-hold-mega-election) 14 may, 2021.
+
 - **Reuters**. [Explainer: How Chile is rewriting its Pinochet-era constitution.](https://www.reuters.com/article/chile-politics-constitution/explainer-how-chile-is-rewriting-its-pinochet-era-constitution-idUSL1N2MX2LE) 14 may, 2021.
+
 - **Reuters**. [Explainer: How Chile is rewriting its Pinochet-era constitution.](https://www.reuters.com/world/americas/how-chile-is-rewriting-its-pinochet-era-constitution-2021-05-14/) 14 may, 2021.
+
 - **Buenos Aires Times**. [New constitution, new dawn for Chile?.](https://batimes.com.ar/news/latin-america/new-constitution-new-dawn-for-chile.phtml) 13 may, 2021.
+
 - **France 24**. [New constitution, new dawn for Chile?.](https://www.france24.com/en/live-news/20210513-new-constitution-new-dawn-for-chile) 13 may, 2021.
+
 - **Malaysia Yahoo**. [New constitution, new dawn for Chile?.](https://malaysia.news.yahoo.com/constitution-dawn-chile-063039839.html) 13 may, 2021.
+
 - **RFI France**. [New constitution, new dawn for Chile?.](https://www.rfi.fr/en/new-constitution-new-dawn-for-chile) 13 may, 2021.
+
 - **Swissinfo**. [Chile vota entre el descrédito de partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones--serie-especial---repetici%C3%B3n-_chile-vota-entre-el-descr%C3%A9dito-de-partidos-y-la-burbuja-de-los-independientes/46615348) 11 may, 2021.
+
 - **Liberation**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
+
 - **Libération**. [Les Chiliens s’apprêtent à enterrer la Constitution de Pinochet.](https://www.liberation.fr/international/amerique/les-chiliens-sappretent-a-enterrer-la-constitution-de-pinochet-20210512_WGHNK7K4BVCZZNGETULIQGN32I/) 12 may, 2021.
+
 - **Swissinfo**. [Chile, entre el descrédito de los partidos y la burbuja de los independientes.](https://www.swissinfo.ch/spa/chile-elecciones-independientes--serie-previa-_chile--entre-el-descr%C3%A9dito-de-los-partidos-y-la-burbuja-de-los-independientes/46612428) 12 may, 2021.
+
 - **Bloomberg**. [Chicago Boys’ Free-Market Pension Model Is Unraveling in Chile.](https://www.bloomberg.com/news/articles/2021-05-10/chicago-boys-free-market-pension-model-is-unraveling-in-chile) 10 may, 2021.
+
 - **Deutsche Welle**. [Tras el estallido, el gobierno de Piñera pasó a ser irrelevante.](https://www.dw.com/es/tras-el-estallido-el-gobierno-de-pi%C3%B1era-pas%C3%B3-a-ser-irrelevante/a-57486535) 10 may, 2021.
+
 - **El Demócrata**. [El modelo de pensiones de libre mercado de los Chicago Boys sale a la luz en Chile.](https://www.eldemocrata.cl/el-modelo-de-pensiones-de-libre-mercado-de-los-chicago-boys-sale-a-la-luz-en-chile/) 10 may, 2021.
+
 - **Informe Político**. [Chile: En la recta final de una elección que definirá un nuevo pacto social.](https://informepolitico.com.ar/chile-en-la-recta-final-de-una-eleccion-que-definira-un-nuevo-pacto-social/) 10 may, 2021.
+
 - **Portafolio Colombia**. [El emblemático modelo de pensiones de Chile lucha por su supervivencia.](https://www.portafolio.co/internacional/el-emblematico-modelo-de-pensiones-de-chile-lucha-por-su-supervivencia-551796) 10 may, 2021.
+
 - **Clarín**. [Tras las protestas de 2019, Chile va a las urnas con la esperanza de construir nuevo pacto social.](https://www.clarin.com/mundo/protestas-2019-chile-va-urnas-esperanza-construir-nuevo-pacto-social_0_5hYVV2e1b.html) 9 may, 2021.
+
 - **El Heraldo**. [Chile a elecciones con la esperanza de construir nuevo pacto social.](https://www.elheraldo.hn/mundo/1462450-466/chile-a-elecciones-con-la-esperanza-de-construir-nuevo-pacto-social) 8 may, 2021.
+
 - **France 24**. [Chile acudirá a las urnas con la esperanza de construir nuevo pacto social.](https://www.france24.com/es/minuto-a-minuto/20210508-chile-acudir%C3%A1-a-las-urnas-con-la-esperanza-de-construir-nuevo-pacto-social) 8 may, 2021.
+
 - **La Diaria Uruguay**. [Chile elige una convención constitucional en el peor momento para el gobierno de Piñera.](https://ladiaria.com.uy/politica/articulo/2021/5/chile-elige-una-convencion-constitucional-en-el-peor-momento-para-el-gobierno-de-pinera/) 8 may, 2021.
+
 - **La Nación**. [Chilenos acudirán a las urnas con la esperanza de construir nuevo pacto social.](https://www.nacion.com/cables/chile-acudira-a-las-urnas-con-la-esperanza-de/BFFBAYI4TZH2JALWD3BQE3FN34/story/) 8 may, 2021.
+
 - **Swissinfo**. [Chile acudirá a las urnas con la esperanza de construir nuevo pacto social.](https://www.swissinfo.ch/spa/chile-acudir%C3%A1-a-las-urnas-con-la-esperanza-de-construir-nuevo-pacto-social/46602050) 8 may, 2021.
+
 - **El Periscopo**. [Prensa argentina calificó a Pamela Jiles de "populista" y la comparó con Donald Trump.](https://www.elperiscopio.cl/destacado-1/prensa-argentina-califico-a-pamela-jiles-de-populista-y-la-comparo-con-donald-trump/) 7 may, 2021.
+
 - **La Nación**. [Pamela Jiles, la líder populista con tintes trumpistas que sorprende a Chile.](https://www.lanacion.com.ar/el-mundo/pamela-jiles-la-lider-populista-con-tintes-trumpistas-que-sorprende-a-chile-nid07052021/) 7 may, 2021.
+
 - **Mega**. ["Líder populista con tintes trumpistas": Así califica medio argentino a Pamela Jiles.](https://www.meganoticias.cl/nacional/335919-pamela-jiles-la-nacion-argentina-donald-trump-trumpistas-jrx07.html) 7 may, 2021.
+
 - **ANSA Latina**. [Comicios con muchas incógnitas.](https://ansabrasil.com.br/americalatina/noticia/politica/2021/05/06/comicios-con-muchas-incognitas_dc2ca1d8-5d82-4553-9f44-bb49a7ee9867.html) 5 may, 2021.
+
 - **Clarín**. [ANSA/Chile: Comicios con muchas incógnitas.](https://www.clarin.com/agencias/ansa-ansa-chile-comicios-muchas-incognitas_0_CN0js6G7oW.html) 5 may, 2021.
+
 - **Bloomberg**. [Chile’s Pinera Opens to Pension Withdrawals in Policy Shift (2).](https://www.bloomberg.com/news/articles/2021-04-22/chile-senate-takes-up-pension-withdrawals-as-pinera-fights-back) 26 april, 2021.
+
 - **Nuevo Poder**. [La pelota está en la cancha del gobierno-Kenneth Bunker.](http://www.nuevopoder.cl/la-pelota-esta-en-la-cancha-del-gobierno-kenneth-bunker/) 18 april, 2021.
+
 - **Swissinfo**. [Chile asimila históricos comicios y abre el debate sobre el voto voluntario.](https://www.swissinfo.ch/spa/chile-elecciones--previsi%C3%B3n-_chile-asimila-hist%C3%B3ricos-comicios-y-abre-el-debate-sobre-el-voto-voluntario/46629916) 18 april, 2021.
+
 - **As**. [Coronavirus en Chile y comunas en cuarentena: calendario de vacunación.](https://chile.as.com/chile/2021/03/28/actualidad/1616933522_446766.html) 28 march, 2021.
+
 - **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
 - **Bloomberg**. [Chile’s New Constitution Likely to Be Agreed Upon by Moderates.](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 2 march, 2021.
 - **Nostalgica**. [Bunker y pugna DC y PS en Ñuñoa: “El problema de fondo es que dentro de Unidad Constituyente no hay un liderazgo”.](https://www.nostalgica.cl/bunker-y-pugna-dc-y-ps-en-nunoa-el-problema-de-fondo-es-que-dentro-de-unidad-constituyente-no-hay-un-liderazgo/) 26 february, 2021.
