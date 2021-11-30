@@ -10,35 +10,65 @@ title: Press
 ## 2021
 
 - **L’Express**. [Un pro-Pinochet aux portes du pouvoir.](https://www.lexpress.fr/actualite/monde/amerique-sud/un-pro-pinochet-aux-portes-du-pouvoir-print-only_2163064.html) 25 november, 2021.
+
 - **Bloomberg**. [Moderar programas para atrapar al centro, el reto de Kast y Boric.](https://www.bloomberglinea.com/2021/11/24/moderar-programas-para-atrapar-al-centro-el-reto-de-kast-y-boric/) 24 november, 2021.
+
 - **Reuters**. [Enigmatic economist outperformed in Chile ballot. His votes could decide runoff.](https://www.reuters.com/world/americas/enigmatic-economist-outperformed-chile-ballot-his-votes-could-decide-runoff-2021-11-23/) 23 november, 2021.
+
 - **Americas Quarterly**. [Chile Sends Kast and Boric to Runoff.](https://www.americasquarterly.org/article/reaction-chile-sends-kast-and-boric-to-runoff/) 22 november, 2021.
+
 - **BBC**. [Elecciones en Chile: la aparente paradoja entre el éxito de Kast en primera vuelta y los que votaron por una nueva Constitución).](https://www.bbc.com/mundo/noticias-america-latina-59377209) 22 november, 2021.
+
 - **Euronews**. [Chileans head to the polls with two radically different visions on the ballot.](https://www.euronews.com/2021/11/22/us-chile-election) 22 november, 2021.
+
 - **Infobae**. [Tras dos años de agitación social, los chilenos favorecen propuesta de orden de Kast.](https://www.infobae.com/america/agencias/2021/11/22/tras-dos-anos-de-agitacion-social-los-chilenos-favorecen-propuesta-de-orden-de-kast/) 22 november, 2021.
+
 - **L’Express**. [Présidentielle au Chili : “Le premier tour est un tremblement de terre politique total”.](https://www.lexpress.fr/actualite/monde/amerique-sud/presidentielle-au-chili-le-premier-tour-est-un-tremblement-de-terre-politique-total_2162848.html) 22 november, 2021.
+
 - **Reuters**. [Chileans, after two years of drifting left, veer back right.](https://www.reuters.com/world/americas/chileans-after-two-years-drifting-left-veer-back-right-2021-11-22/) 22 november, 2021.
+
 - **BBC**. [Elecciones en Chile: la incertidumbre con que el país llega a los primeros comicios en 16 años sin Piñera y Bachelet (y cuáles son los posibles escenarios).](https://www.bbc.com/mundo/noticias-america-latina-59205619) 21 november, 2021.
+
 - **Clarín**. [Elecciones en Chile: el conflicto mapuche, un ladrillo caliente que heredará el próximo gobierno.](https://www.clarin.com/mundo/elecciones-chile-conflicto-mapuche-ladrillo-caliente-heredara-proximo-gobierno_0_9x39shIPf.html) 20 november, 2021.
+
 - **CNN**. [Make Chile great again? Meet the far-right presidential candidate tempting voters from Chile's left and center.](https://edition.cnn.com/2021/11/20/americas/chile-election-kast-boric-intl-latam/index.html) 20 november, 2021.
+
 - **Deutsche Welle**. [Präsidentschaftswahl in Chile: Stillstand oder Wandel?.](https://www.dw.com/de/pr%C3%A4sidentschaftswahl-in-chile-stillstand-oder-wandel/a-59885356) 20 november, 2021.
+
 - **El Comercio**. [Cómo José Antonio Kast suma a Chile al auge mundial de la ultraderecha (y con posibilidades de ganar).](https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-jose-antonio-kast-suma-a-chile-al-auge-mundial-de-la-ultraderecha-en-la-politica-y-con-posibilidades-de-ganar-la-moneda-noticia/) 20 november, 2021.
+
 - **El País**. [Boric y Kast, dos extremos que van por la presidencia en Chile.](https://www.elpais.com.uy/mundo/boric-kast-extremos-presidencia-chile.html) 20 november, 2021.
+
 - **El País **. [Chile acude a las urnas con una venda en los ojos.](https://elpais.com/internacional/2021-11-20/chile-acude-a-las-urnas-con-una-venda-en-los-ojos.html) 20 november, 2021.
+
 - **El Peruano**. [Chile: cambio de ciclo y el ocaso de los partidos tradicionales.](https://elperuano.pe/noticia/133757-chile-un-cambio-de-ciclo) 20 november, 2021.
+
 - **France 24**. [Chile encara las elecciones presidenciales más polarizadas en décadas.](https://www.france24.com/es/am%C3%A9rica-latina/20211120-chile-elecciones-presidenciales-protestas-polarizacion) 20 november, 2021.
+
 - **Hindustan Times**. [Burning the metro': Chile election divides voters between protest and order.](https://www.hindustantimes.com/world-news/burning-the-metro-chile-election-divides-voters-between-protest-and-order-101637410223375.html) 20 november, 2021.
+
 - **Kelo**. [‘Burning the metro’: Chile election divides voters between protest and order.](https://kelo.com/2021/11/20/burning-the-metro-chile-election-divides-voters-between-protest-and-order/) 20 november, 2021.
+
 - **NBC**. [Chile Set To Elect New President.](https://www.youtube.com/watch?v=7Qvik6ORvEw) 20 november, 2021.
+
 - **Swissinfo**. [Cambios y seguridad, razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevarán-a-los-chilenos-a-las-urnas/47126826) 20 november, 2021.
+
 - **The Saxon**. [Elections in Chile: the Mapuche conflict, a hot brick that the next government will inherit.](https://thesaxon.org/elections-in-chile-the-mapuche-conflict-a-hot-brick-that-the-next-government-will-inherit/98159/) 20 november, 2021.
+
 - **Time**. [The Leftist Millennial Who Could Lead One of Latin America's Wealthiest and Most Unequal Countries.](https://time.com/6121561/gabriel-boric-chile-election/) 20 november, 2021.
+
 - **América Economía**. [¿Orden o cambio?: Chile elige un nuevo presidente en medio de incertidumbre y polarización.](https://www.americaeconomia.com/politica-sociedad/politica/orden-o-cambio-chile-elige-un-nuevo-presidente-en-medio-de-incertidumbre) 19 november, 2021.
+
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?.](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 19 november, 2021.
+
 - **El Mercurio en Cuenca**. [Chile: Una carrera presidencial sacudida por Papeles de Pandora y el cerco a Piñera.](https://elmercurio.com.ec/2021/11/19/chile-una-carrera-presidencial-sacudida-por-papeles-de-pandora-y-el-cerco-a-pinera/) 19 november, 2021.
+
 - **Deutsche Welle**. [Elecciones presidenciales en Chile: ¿orden o cambio?.](https://www.dw.com/es/elecciones-presidenciales-en-chile-orden-o-cambio/a-59869427) 18 november, 2021.
+
 - **Euronews **. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 18 november, 2021.
+
 - **Nasdaq**. [EXPLAINER-Chile is set for its most polarized election in decades.](https://www.nasdaq.com/articles/explainer-chile-is-set-for-its-most-polarized-election-in-decades) 18 november, 2021.
+
 - **Swissinfo**. ["Cambios" y "seguridad", razones que llevarán a los chilenos a las urnas.](https://www.swissinfo.ch/spa/chile-elecciones_-cambios--y--seguridad---razones-que-llevar%C3%A1n-a-los-chilenos-a-las-urnas/47126826) 18 november, 2021.
 - **El Diario**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://www.eldiario.es/politica/ocaso-partidos-tradicionales-acerca-chile-cambio-ciclo_1_8499147.html) 17 november, 2021.
 - **El Diario**. [Fabiola Campillai, ciega por una agresión policial y aspirante a senadora en Chile: "La política es de todos.](https://www.eldiario.es/internacional/theguardian/fabiola-campillai-agredida-policia-chile-aspirante-senadora-politica_128_8498927.html) 17 november, 2021.
