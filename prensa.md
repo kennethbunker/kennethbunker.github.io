@@ -9,9 +9,9 @@ title: Prensa
 
 ## 2021
 
-- **Ciper**. [El puzle de Kast y Boric: las comunas con su peor cosecha de votos, las de mejor rendimiento y aquellas en que pueden crecer.](https://www.ciperchile.cl/2021/11/27/el-puzle-de-kast-y-boric-las-comunas-con-su-peor-cosecha-de-votos-las-de-mejor-rendimiento-y-aquellas-en-que-pueden-crecer/ 28 november, 2021.
+- **Ciper**. [El puzle de Kast y Boric: las comunas con su peor cosecha de votos, las de mejor rendimiento y aquellas en que pueden crecer.](https://www.ciperchile.cl/2021/11/27/el-puzle-de-kast-y-boric-las-comunas-con-su-peor-cosecha-de-votos-las-de-mejor-rendimiento-y-aquellas-en-que-pueden-crecer/) 28 november, 2021.
 
-- **La Tercera**. [Dos almas que tensionan al PC en su mejor momento electoral.](https://www.latercera.com/la-tercera-domingo/noticia/dos-almas-que-tensionan-al-pc-en-su-mejor-momento-electoral/IJ26T6GNCNCP3EFKE23LOCMWHA/ 28 november, 2021.
+- **La Tercera**. [Dos almas que tensionan al PC en su mejor momento electoral.](https://www.latercera.com/la-tercera-domingo/noticia/dos-almas-que-tensionan-al-pc-en-su-mejor-momento-electoral/IJ26T6GNCNCP3EFKE23LOCMWHA/) 28 november, 2021.
 
 - **La Tercera**. [¿Tres tercios?, cambio en las hegemonías y nuevas caras: Guía para entender la elección de diputados.](https://www.latercera.com/la-tercera-pm/noticia/tres-tercios-cambio-en-las-hegemonias-y-nuevas-caras-guia-para-entender-la-eleccion-de-diputados/7A33WIF64FDEPA53535HJ3XF5A/) 20 november, 2021.
 
@@ -110,46 +110,86 @@ title: Prensa
 - **La Segunda**. [Cómo la sopresiva candidatura de Cuevas podría impactar a Boric.](https://digital.lasegunda.com/2021/08/06/A/F940BJ12#zoom=page-width) 6 august, 2021.
 
 - **La Tercera**. [Foco en las primarias: el disímil resultado de los pactos en comunas vulnerables de la RM y en la “zona roja” del conflicto mapuche.](https://www.latercera.com/la-tercera-sabado/noticia/foco-en-las-primarias-el-disimil-resultado-de-los-pactos-en-comunas-vulnerables-de-la-rm-y-en-la-zona-roja-del-conflicto-mapuche/6CP7UW4WLJGZVGNIPWGS2M3T3A/) 30 july, 2021.
+
 - **TVN**. [Brecha de participación: En las 20 comunas más pobres votó poco más de un tercio de la población que sufragó en las más ricas.](https://www.24horas.cl/data/participacion-electoral-comunas-mas-pobres-y-menos-pobres--4892082) 27 july, 2021.
+
 - **Las Últimas Noticias**. [Tabla con 20 candidatos que pretenden llegar a la papeleta presidencial en noviembre.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-23&PaginaId=16&bodyid=0) 3 july, 2021.
+
 - **El Mostrador**. [Elecciones parlamentarias en la derecha: un asunto de "vida o muerte" ante el riesgo de quedarse sin poder.](https://m.elmostrador.cl/noticias/pais/2021/07/22/elecciones-parlamentarias-en-la-derecha-un-asunto-de-vida-o-muerte-ante-el-riesgo-de-quedarse-sin-poder/) 22 july, 2021.
+
 - **El Líbero**. [La incomoda herencia de Jadue en el triunfo de Gabriel Boric.](https://ellibero.cl/actualidad/la-incomoda-herencia-de-jadue-en-el-triunfo-de-gabriel-boric/) 20 july, 2021.
+
 - **El Mercurio de Valparaíso**. [Analistas advierten que Chile Vamos corre riesgo de no llegar al balotage.](https://www.mercuriovalpo.cl/impresa/2021/07/20/full/cuerpo-principal/4/) 20 july, 2021.
+
 - **La Segunda**. [Recambio de votantes en las últimas elecciones: jóvenes entre 25 y 34 años predominan en el Plebiscito.](https://digital.lasegunda.com/2021/07/20/A/LA40BFN2#zoom=page-width) 20 july, 2021.
+
 - **Las Últimas Noticias**. [Primarias: ¿Por qué les fue tan mal a los favoritos de las redes sociales?.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-20&PaginaId=1&bodyid=0) 20 july, 2021.
+
 - **La Tercera**. [Los cinco obstáculos que deberá vencer Sichel con miras a noviembre.](https://www.latercera.com/earlyaccess/noticia/los-obstaculos-que-debera-vencer-sichel-con-miras-a-noviembre/WROCUMCUWFBZPBEDCWTEYAH56A/) 19 july, 2021.
+
 - **Las Últimas Noticias**. [Sichel y Boric ganan las primarias presidenciales.](https://www.lun.com/default.aspx?dt=2021-07-19) 19 july, 2021.
+
 - **El Mostrador**. [Resultados preliminares en el extranjero: se impone Daniel Jadue en Apruebo Dignidad y Sebastián Sichel en primaria de Chile Vamos.](https://www.elmostrador.cl/elecciones-2021/2021/07/18/resultados-preliminares-en-el-extranjero-se-impone-daniel-jadue-en-apruebo-dignidad-y-sebastian-sichel-en-primaria-de-chile-vamos/) 18 july, 2021.
+
 - **En Cancha**. [Elecciones Primarias 2021: Gabriel Boric y Sebastián Sichel se impusieron en sus bloques.](https://www.encancha.cl/enlahora/nacional/2021/7/18/minuto-minuto-primarias-2021-gabriel-boric-sebastian-sichel-se-perfilan-como-ganadores-110779.html) 18 july, 2021.
 - **En Cancha**. [Primarias en el extranjero: resultados de las elecciones por Apruebo Dignidad y Chile Vamos en otros países.](https://www.encancha.cl/enlahora/mundo/2021/7/18/primarias-en-el-extranjero-resultados-de-las-elecciones-por-apruebo-dignidad-chile-vamos-en-otros-paises-110873.html) 18 july, 2021.
+
 - **Diario Financiero**. [Expertos temen que si la Convención no aborda pronto los temas de fondo.](https://www.df.cl/noticias/df-constitucional/expertos-temen-que-si-la-convencion-no-aborda-pronto-los-temas-de-fondo/2021-07-15/110736.html) 15 july, 2021.
+
 - **La Tercera**. [¿Afectará el feriado la participación en las primarias? MOP estima que más de 200 mil vehículos dejarán la capital.](https://www.latercera.com/earlyaccess/noticia/afectara-el-feriado-la-participacion-en-las-primarias-mop-estima-que-mas-de-200-mil-vehiculos-dejaran-la-capital/D3MXBCTAK5EKRBCFTMKCJ73VSY/) 15 july, 2021.
+
 - **Radio Infinita**. [Convención Constitucional aprueba protocolo sanitario.](https://www.infinita.cl/noticias/2021/07/13/constituyentes-protocolo-sanitario.html) 13 july, 2021.
+
 - **The Clinic**. [Logan lo quiere todo: La fórmula del único constituyente electo independiente y fuera de listas.](https://www.theclinic.cl/2021/07/08/logan-lo-quiere-todo-la-formula-del-unico-constituyente-electo-independiente-y-fuera-de-listas/) 8 july, 2021.
+
 - **El Líbero**. [La carrera por el Senado: Vidal, Peñailillo, Schalper, Cruz-Coke y Teillier a la cancha.](https://ellibero.cl/actualidad/la-carrera-por-el-senado-vidal-penailillo-schalper-cruz-coke-y-teillier-a-la-cancha/) 2 july, 2021.
+
 - **El Mostrador**. [Radiografía a los pecados de Chile Vamos en la hora más crítica de la derecha.](https://www.elmostrador.cl/noticias/pais/2021/06/23/radiografia-a-los-pecados-de-chile-vamos-en-la-hora-mas-critica-de-la-derecha/) 23 june, 2021.
+
 - **The Clinic**. [De la mancuerna Lavín-Desbordes hasta el factor Piñera: Analistas políticos desmenuzan el primer debate presidencial de Chile Vamos.](https://www.theclinic.cl/2021/06/22/de-la-mancuerna-lavin-desbordes-hasta-el-factor-pinera-analistas-politicos-desmenuzan-el-primer-debate-presidencial-de-chile-vamos/) 22 june, 2021.
+
 - **The Clinic**. [La paradoja de Willy Sabor: Analista explica las implicancias de actuar como partido político sin reconocerlo.](https://www.theclinic.cl/2021/06/16/la-paradoja-de-willy-sabor-analista-explica-las-implicancias-de-actuar-como-partido-politico-sin-reconocerlo/) 16 june, 2021.
+
 - **El Líbero**. [Segunda vuelta de gobernadores: las apuestas y los pronósticos de una tímida participación.](https://ellibero.cl/actualidad/segunda-vuelta-de-gobernadores-las-apuestas-y-los-pronosticos-de-una-timida-participacion/) 10 june, 2021.
+
 - **Pauta**. [La nueva UDI tras el fin del ciclo de los coroneles.](https://www.pauta.cl/politica/quienes-lideres-jovenes-udi-fin-era-coroneles) 8 june, 2021.
+
 - **El Líbero**. [Cuatro expertos electorales recomiendan a la derecha ir a votar en la elección Orrego-Oliva.](https://ellibero.cl/actualidad/cuatro-expertos-electorales-recomiendan-a-la-derecha-ir-a-votar-en-la-eleccion-orrego-oliva/) 5 june, 2021.
+
 - **La Tercera**. [“Era imposible proyectar”: el mea culpa de los encuestadores tras el fail de los sondeos previos a la elección.](https://www.latercera.com/la-tercera-pm/noticia/era-imposible-proyectar-el-mea-culpa-de-los-encuestadores-tras-el-fail-de-los-sondeos-previos-a-la-eleccion/USQITALFE5DVNE7XQTQ4Q7A34U/) 24 may, 2021.
+
 - **Ex-Ante**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”.](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/) 17 may, 2021.
+
 - **ExAnte**. [Cientista político Kenneth Bunker: “Lavín fue el que menos perdió en la derecha”.](https://www.ex-ante.cl/cientista-politico-kenneth-bunker-lavin-fue-el-que-menos-perdio-en-la-derecha/) 17 may, 2021.
+
 - **TVN**. [Participación vuelve a caer y queda muy por debajo del Plebiscito: El 43% de los votantes asistieron a las urnas.](https://www.24horas.cl/data/participacion-electoral-cae-4781228) 17 may, 2021.
+
 - **Pauta**. [El método D'Hondt: así se eligió a los constituyentes.](https://www.pauta.cl/politica/metodo-de-d-hondt-elecciones-constituyentes-votaciones) 16 may, 2021.
+
 - **The Clinic**. [¿Dónde está la otra mitad del país?: Expertos entregan los primeros análisis en caliente sobre la alta abstención.](https://www.theclinic.cl/2021/05/16/donde-esta-la-otra-mitad-del-pais-expertos-entregan-los-primeros-analisis-en-caliente-sobre-la-alta-abstencion/) 16 may, 2021.
+
 - **La Tercera**. [Claves de una elección histórica: ¿cómo leer los resultados de este domingo?.](https://www.latercera.com/la-tercera-domingo/noticia/claves-de-una-eleccion-historica-como-leer-los-resultados-de-esta-noche/TZJ7ZEJQN5GRBJLYB4TOFMKDLQ/) 15 may, 2021.
+
 - **Emol TV**. [En vivo Kenneth Bunker analiza el escenario electoral.](https://tv.emol.com/detail/20210513164917618/en-vivo-kenneth-bunker-analiza-el-escenario-electoral) 14 may, 2021.
+
 - **Duna**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.duna.cl/programa/nada-personal/2021/05/12/kenneth-bunker-la-explicacion-al-metodo-dhondt/) 12 may, 2021.
+
 - **The Clinic**. [Expertos electorales se la juegan: su pronóstico es que participación en elecciones no superaría el 50%.](https://www.theclinic.cl/2021/05/12/expertos-electorales-se-la-juegan-su-pronostico-es-que-participacion-en-elecciones-no-superaria-el-50/?utm_source=masvistos&utm_medium=post&utm_campaign=thc) 12 may, 2021.
+
 - **Biobio**. [Analistas aseguran que "tras el estallido social, el gobierno de Piñera pasó a ser irrelevante".](https://www.biobiochile.cl/noticias/nacional/chile/2021/05/11/analistas-aseguran-que-tras-el-estallido-social-el-gobierno-de-pinera-paso-a-ser-irrelevante.shtml) 11 may, 2021.
+
 - **Emol**. [Correcciones por paridad, primeros acercamientos y posibles alianzas: El día después de la elección de convencionales.](https://www.emol.com/noticias/Nacional/2021/05/11/1020466/dia-despues-eleccion-convencionales.html) 11 may, 2021.
+
 - **Diario Financiero**. [Bloomber: El modelo de pensiones de libre mercado de los Chicago Boys se está derrumbando en Cile.](https://www.df.cl/noticias/site/artic/20210510/pags/20210510135551.html) 10 may, 2021.
+
 - **El Líbero**. [La televisión-farándula: el nuevo bastión de los políticos.](https://ellibero.cl/actualidad/la-television-farandula-el-nuevo-bastion-de-los-politicos/) 10 may, 2021.
+
 - **Emol**. [Impacto en las coaliciones e influencia en la parlamentaria: Lo que hay que mirar de la elección de gobernadores.](https://www.emol.com/noticias/Nacional/2021/05/10/1020337/Eleccion-Gobernadores-Analisis.html) 10 may, 2021.
+
 - **La Tercera**. [Bloomberg: El modelo de pensiones de libre mercado de Chicago Boys se está desmoronando en Chile.](https://www.latercera.com/pulso-pm/noticia/bloomberg-el-modelo-de-pensiones-de-libre-mercado-de-chicago-boys-se-esta-desmoronando-en-chile/URSZ7WEWIZB47BL2QJLC4C3JOE/) 10 may, 2021.
+
 - **El Mercurio**. [Las claves que marcan las elecciones, a menos de una semana.](https://digital.elmercurio.com/2021/05/09/R/G03V40V3#zoom=page-width) 9 may, 2021.
+
 - **Biobio**. [Chile se alista para ir a las urnas en las elecciones más importantes en tres décadas.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
 - **Biobio**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.biobiochile.cl/especial/una-constitucion-para-chile/noticias/2021/05/08/chile-se-alista-para-ir-a-las-urnas-en-las-elecciones-mas-importantes-en-tres-decadas.shtml) 8 may, 2021.
 - **Gamba**. [Medio argentino trató a Pamela Jiles de populista y la comparó con Donald Trump.](https://www.gamba.cl/2021/05/medio-argentino-trato-a-pamela-jiles-de-populista-y-la-comparo-con-donald-trump/) 8 may, 2021.
