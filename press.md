@@ -225,66 +225,129 @@ title: Press
 ## Pre-2021
 
 - **Expansión**. [Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december, 2020.
+
 - **Courrier Francia**. [Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 26 october, 2020.
+
 - **El País**. [Chile decide en las urnas el futuro de la Constitucion de Augusto Pinochet.](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html?ssm=TW_CC&utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 25 october, 2020.
+
 - **Bloomberg**. [Jolted by Social Demands, Chile Is Poised to Rewrite Its Charter.](https://www.bnnbloomberg.ca/jolted-by-social-demands-chile-is-poised-to-rewrite-its-charter-1.1512094?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 3 october, 2020.
+
 - **El País**. [A participacao eleitoral e a grande incognita do Plebiscito Constitucional no Chile.](https://brasil.elpais.com/internacional/2020-10-23/a-participacao-eleitoral-e-a-grande-incognita-do-plebiscito-constitucional-no-chile.html) 23 october, 2020.
+
 - **Expansión**. [Chile decide si deja atrás el último vestigio de la dictadura de Pinochet.](https://expansion.mx/mundo/2020/10/23/chile-decide-si-deja-atras-el-ultimo-vestigio-de-la-dictadura-de-pinochet?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 3 october, 2020.
+
 - **El País**. [Chile llega al Plebiscito Constitucional con la gran incognita sobre los niveles de participación.](https://elpais.com/internacional/2020-10-22/chile-llega-al-plebiscito-constitucional-con-la-gran-incognita-sobre-los-niveles-de-participacion.html) 22 october, 2020.
+
 - **Time**. [Chileans Are About to Vote on Rewriting Their Whole Constitution. Will It Turn a 'Social Explosion' Into a New Plan for the Country?.](https://time.com/5900901/chile-constitution-referendum/?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 17 october, 2020.
+
 - **Deutsche Welle**. [“No se confíen, esto no es una simple gripe”.](https://www.dw.com/es/no-se-conf%C3%ADen-esto-no-es-una-simple-gripe/a-52864977) 21 march, 2020.
+
 - **The Guardian**. [Conquistadors tumble as indigenous Chileans tear down statue.](https://www.theguardian.com/world/2019/nov/05/chile-statues-indigenous-mapuche-conquistadors) 5 november, 2019.
+
 - **Americas Quarterly**. [Four Ways Chile’s Protests Could Reshape Its Politics.](https://www.americasquarterly.org/article/four-ways-chiles-protests-could-reshape-its-politics/) 1 november, 2019.
+
 - **Bloomberg**. [En un país símbolo del libre mercado dos jóvenes comunistas están sorpresivamente marcando la agenda.](https://www.df.cl/noticias/economia-y-politica/politica/bloomberg-en-un-pais-simbolo-del-libre-mercado-dos-jovenes-comunistas/2019-08-20/104726.html) 20 august, 2019.
+
 - **RFI France**. [Chile: ‘Piñera va a buscar mejorar los programas de Bachelet’.](https://www.rfi.fr/es/americas/20180312-chile-pinera-va-buscar-mejorar-los-programas-de-bachelet) 12 march, 2019.
+
 - **Perfil**. [Muerte de un dirigente mapuche revive el conflicto más antiguo de Chile.](https://www.perfil.com/noticias/bloomberg/bc-muerte-de-comunero-mapuche-revive-conflicto-mas-antiguo-de-chile.phtml) 19 november, 2018.
+
 - **BBC**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
+
 - **O Globo**. [Piñera assume Presidência do Chile pela segunda vez com 'mais maturidade'.](https://oglobo.globo.com/mundo/pinera-assume-presidencia-do-chile-pela-segunda-vez-com-mais-maturidade-22478364) 11 march, 2018.
+
 - **MENA FN**. [Chile's Pinera gets strong mandate for presidency markets cheer.](http://menafn.com/1096262342/Chiles-Pinera-gets-strong-mandate-for-presidency-markets-cheer) 21 december, 2017.
+
 - **Extra News**. [El analista Kenneth Bunker dialogó con ExtraNews sobre la victoria conservadora en Chile.](http://extranews.com.ar/analista-kenneth-bunker-dialogo-extranews-la-victoria-conservadora-chile/) 19 december, 2017.
+
 - **UCV TV**. [Entrevista Kenneth Bunker.](https://www.youtube.com/watch?v=yMMxIeB_uSI) 19 december, 2017.
+
 - **Aljazeera**. [Conservative Sebastian Pinera wins Chile's election.](http://www.aljazeera.com/news/2017/12/chile-election-sebastian-pinera-projected-win-171217201006569.html) 18 december, 2017.
+
 - **Cadena 3**. [Gestos de convivencia y diálogo en el triunfo de Piñera.](http://www.cadena3.com/contenido/2017/12/18/Gestos-de-convivencia-y-dialogo-en-el-triunfo-de-Pinera-198221.asp) 18 december, 2017.
+
 - **News Tvbs**. [智利選出68歲富豪總統　身價27億美元.](https://news.tvbs.com.tw/focus/838179) 18 december, 2017.
+
 - **Reuters**. [Chile's Pinera gets strong mandate for presidency; markets cheer.](https://www.reuters.com/article/us-chile-election/markets-cheer-as-chiles-pinera-gets-strong-mandate-for-presidency-idUSKBN1EC1MU) 18 december, 2017.
+
 - **Bloomberg**. [Billionaire Pinera Sweeps to Victory in Chile Run-Off Election.](https://www.bloomberg.com/news/articles/2017-12-17/billionaire-pinera-takes-early-lead-in-chile-s-presidential-vote) 17 december, 2017.
+
 - **Zero**. ["Es muy bueno para el Frente Amplio que la centroizquierda tradicional no pueda perpetuarse en el poder".](duna.cl) 17 december, 2017.
+
 - **ABC News**. [Uncertainty reigns in tight Chilean presidential election .](http://abcnews.go.com/amp/International/wireStory/uncertainty-reigns-tight-chilean-presidential-election-51825113) 16 december, 2017.
+
 - **Bloomberg**. [Billionaire Candidate Goes on the Attack in Tight Chile Election.](https://www.bloomberg.com/news/articles/2017-12-14/venezuela-scaremongering-emerges-in-chile-as-election-gets-tight) 14 december, 2017.
+
 - **BN Americas**. [BNamericas Political Risk Report: Which way will Chile go?.](http://www.bnamericas.com/en/news/privatization/bnamericas-political-risk-report-which-way-will-chile-go) 11 december, 2017.
+
 - **BN Americas**. [100% Chile elections.](https://soundcloud.com/user-788270731/bnamericas-podcast-5) 5 december, 2017.
+
 - **La Nación**. [El caro error de Piñera de cara al balotaje: El nuevo escenario presidencial con el voto de Sánchez.](http://lanacion.cl/2017/12/05/el-caro-error-de-pinera-de-cara-al-balotaje-el-nuevo-escenario-presidencial-con-el-voto-de-sanchez/) 5 december, 2017.
+
 - **Bloomberg**. [From Street Protests to Kingmaker, Chile’s New Left Comes of Age.](https://www.bloomberg.com/news/articles/2017-11-21/from-street-protests-to-kingmaker-chile-s-new-left-comes-of-age) 21 november, 2017.
+
 - **Reuters**. [Pinera aims for center in tight battle for Chile's top job.](https://www.reuters.com/article/us-chile-election/pinera-aims-for-center-in-tight-battle-for-chiles-top-job-idUSKBN1DK23S) 21 november, 2017.
+
 - **TPI News**. [Grande incertezza dopo il primo turno alle elezioni presidenziali .](https://www.tpi.it/2017/11/21/incertezza-primo-turno-presidenziali-cile/) 21 november, 2017.
+
 - **Bloomberg**. [Chile Election Turnout Hits New Low.](https://www.bloomberg.com/news/articles/2017-11-20/chile-s-election-fails-to-inspire-voters-as-turnout-hits-new-low) 20 november, 2017.
+
 - **El País**. [Piñera y el oficialista Guillier van a segunda vuelta en Chile.](https://www.elpais.com.uy/mundo/pinera-oficialista-guillier-segunda-vuelta-chile.html) 20 november, 2017.
+
 - **La Nación**. [Frente Amplio: Los dueños de la llave a la Moneda para Guillier.](http://lanacion.cl/2017/11/20/frente-amplio-los-duenos-de-la-llave-a-la-moneda-para-guillier/) 20 november, 2017.
+
 - **La Nación**. [Opositor Piñera y oficialista Guillier disputarán la Presidencia de Chile.](http://www.nacion.com/el-mundo/politica/chile-vota-para-suceder-a-michelle-bachelet/SCOBFBPW7NHZ5BDYQVMC2IRVXY/story/) 20 november, 2017.
+
 - **La República**. [Acciones y moneda de Chile caen tras débil resultado de Piñera.](https://www.larepublica.co/globoeconomia/acciones-y-moneda-de-chile-caen-tras-debil-resultado-de-pinera-2571741) 20 november, 2017.
+
 - **L’Express**. [Chili: le conservateur Sebastian Piñera au 2e tour de la présidentielle .](https://www.lexpress.fr/actualite/monde/amerique-sud/chili-le-conservateur-sebastian-pinera-au-2e-tour-de-la-presidentielle_1962033.html) 20 november, 2017.
+
 - **Nasdaq**. [Pinera aims for center in tight battle for Chile's top job.](http://www.nasdaq.com/article/pinera-aims-for-center-in-tight-battle-for-chiles-top-job-20171120-01119) 20 november, 2017.
+
 - **Univisión**. [Chile se prepara para elegir al sucesor de Michelle Bachelet.](https://www.univision.com/noticias/america-latina/chile-se-prepara-para-elegir-al-sucesor-de-michelle-bachelet) 16 november, 2017.
+
 - **Bloomberg**. [Empresas chilenas esperan vuelta de acaudalado con mano de Midas.](https://www.bloomberg.com/latam/blog/empresas-chilenas-esperan-vuelta-de-acaudalado-con-mano-de-midas/) 13 november, 2017.
+
 - **Gestión**. [Empresas chilenas esperan vuelta de acaudalado con mano de Midas.](https://gestion.pe/economia/empresas/empresas-chilenas-esperan-vuelta-acaudalado-mano-midas-150317) 13 november, 2017.
+
 - **América Economía**. [Sebastián Piñera deberá ir a la caza de votos"desencantados" para ganar el balotaje .](https://www.americaeconomia.com/politica-sociedad/politica/sebastian-pinera-debera-ir-la-caza-de-votos-de-desencantados-para-ganar) 6 november, 2017.
+
 - **La Nación**. [Último debate presidencial: la pelea por el cuarto lugar.](http://lanacion.cl/2017/11/06/ultimo-debate-presidencial-la-pelea-por-el-cuarto-lugar/) 6 november, 2017.
+
 - **Reuters**. [Low turnout in Chile election could hand victory to Pinera.](https://www.reuters.com/article/us-chile-politics-idUSKBN1D62CV) 4 november, 2017.
+
 - **Reuters**. [Piñera, a la caza de votos de "desencantados" para triunfo en balotaje presidencial en Chile.](https://lta.reuters.com/article/topNews/idLTAKBN1D31GA-OUSLT) 3 november, 2017.
+
 - **News Hub**. [Analista: Centroizquierda necesita acuerdos para enfrentar a Piñera en segunda vuelta.](http://cl.newshub.org/analista-centroizquierda-necesita-acuerdos-enfrentar-a-pi%C3%B1era-segunda-vuelta-27670044.html#) 25 october, 2017.
+
 - **América Economía**. [Posible pacto entre Sánchez, Guillier y Goic amenaza con aguar fiesta a inversionistas.](https://www.americaeconomia.com/economia-mercados/finanzas/chile-posible-pacto-entre-candidatos-de-centroizquierda-amenaza) 27 september, 2017.
+
 - **Reuters**. [Chile left-wing candidates could form alliance, threatening market rally.](https://www.reuters.com/article/us-chile-election-markets/chile-left-wing-candidates-could-form-alliance-threatening-market-rally-idUSKCN1C131G) 26 september, 2017.
+
 - **Swissinfo**. [Posible pacto entre Sánchez, Guillier y Goic amenaza con aguar fiesta a inversionistas.](https://www.swissinfo.ch/spa/posible-pacto-entre-candidatos-de-centroizquierda-en-chile-amenaza-con-aguar-fiesta-a-inversores/43549792) 26 september, 2017.
+
 - **Bloomberg**. [Chile’s entire economic team resigns in government crisis.](https://www.bloomberg.com/news/articles/2017-08-31/chile-s-finance-minister-valdes-resigns-in-government-crisis) 31 august, 2017.
+
 - **Reuters**. [Chile’s entire economic team resigns in government crisis.](https://www.reuters.com/article/us-chile-valdes/chilean-economic-officials-resign-in-blow-to-center-left-coalition-idUSKCN1BB2F6?il=0) 31 august, 2017.
+
 - **Spokesman**. [Chile’s entire economic team resigns in government crisis.](http://www.spokesman.com/stories/2017/aug/31/chiles-entire-economic-team-resigns-in-government-/) 31 august, 2017.
+
 - **América Economía**. [Piñera triunfa con amplia ventaja en las primarias presidenciales de Chile.](https://www.americaeconomia.com/politica-sociedad/politica/pinera-triunfa-con-amplia-ventaja-en-las-primarias-presidenciales-de) 2 july, 2017.
+
 - **RFI France**. [Vicios y virtudes de los referendos.](https://www.rfi.fr/es/americas/20161006-el-referendo-un-arma-de-doble-filo) 6 october, 2016.
+
 - **Cadena 3**. [Bunker: “Puede ser la elección más reñida desde 1990”.](http://www.cadena3.com/audio.asp?id=399564) 15 december, 2015.
+
 - **Gestión**. [Alarmismo venezolano surge en Chile antes de reñida elección.](https://gestion.pe/mundo/alarmismo-venezolano-surge-chile-renida-eleccion-222811) 15 december, 2015.
+
 - **Libération**. [Au Chili, la gauche retrouve des couleurs .](http://www.liberation.fr/planete/2017/12/15/au-chili-la-gauche-retrouve-des-couleurs_1617025) 15 december, 2015.
+
 - **RFI France**. [Nous irons au Chili, à deux jours, du deuxième tour de l'élections présidentielles..](http://m.rfi.fr/emission/20171215-internet-riches-etats-unis-renoncent-neutralite-net-vitesse-acces) 15 december, 2015.
+
 - **Financial Times**. [Lithium: Chile’s buried treasure.](https://www.ft.com/content/cde8f984-43c7-11e6-b22f-79eb4891c97d) 7 july, 2015.
+
 - **USA Today**. [Bachelet has big win in Chile presidential vote.](https://www.usatoday.com/story/news/world/2013/12/15/michelle-bachelet-chile-presidency/4033693/) 15 december, 2013.
+
 - **Washington Post**. [A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december, 2013.
+
 - **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?.](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
