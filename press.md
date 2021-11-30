@@ -85,8 +85,6 @@ title: Press
 
 - **Infobae**. [Una semana que definirá hacia dónde va el nuevo Chile.](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/) 13 november, 2021.
 
-- **Infobae**. [Una semana que definirá hacia dónde va el nuevo Chile.](https://www.infobae.com/america/america-latina/2021/11/13/una-semana-que-definira-hacia-donde-va-el-nuevo-chile/) 13 november, 2021.
-
 - **The Guardian**. [I will never get my eyes back’: the Chilean woman blinded by police who is running for senate.](https://www.theguardian.com/global-development/2021/nov/09/fabiola-campillai-chile-blinded-by-police-senate-candidate) 9 november, 2021.
 
 - **Bloomberg**. [La crisis migratoria escala en Chile y se enquista en la agenda política.](https://www.bloomberglinea.com/2021/10/01/la-crisis-migratoria-escala-en-chile-y-se-enquista-en-la-agenda-politica/) 24 october, 2021.
