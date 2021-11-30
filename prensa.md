@@ -231,64 +231,120 @@ title: Prensa
 - **El Mercurio**. [La ignorada, pero decisiva elección de Gobernadores.](https://digital.elmercurio.com/2021/04/18/R/AB3UPUI9) 18 april, 2021.
 
 - **Diario Financiero**. [Independientes, los principales afectados por la "pausa" de la campaña.](https://www.df.cl/noticias/df-constitucional/independientes-los-principales-afectados-por-la-pausa-en-la/2021-04-13/135235.html) 16 april, 2021.
+
 - **La Tercera**. [Genio y Figura.](https://www.latercera.com/opinion/noticia/genio-y-figura/7V6G7F7VIZC57AFRJ2OJVGUHVE/) 16 april, 2021.
+
 - **El Líbero**. [Con “mano de seda”, así tratan los presidenciables oficialistas a sus contrincantes de extrema izquierda.](https://ellibero.cl/actualidad/con-mano-de-seda-asi-tratan-los-presidenciables-oficialistas-a-sus-contrincantes-de-extrema-izquierda/) 14 april, 2021.
+
 - **La Segunda**. [JAK también busca firmas: le faltan 670 para ser candidato y legalizar partido en todo Chile.](https://digital.lasegunda.com/2021/04/13/A/JC3UT4DP#zoom=page-width) 13 april, 2021.
+
 - **Las Últimas Noticias**. [Analistas desmenuzan el 20% de aprobación de Pamela Jiles en última encuesta Cadem.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-04-13&SupplementId=0&PaginaId=13) 3 april, 2021.
+
 - **Crónica Chillán**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.cronicachillan.cl/impresa/2021/04/11/full/cuerpo-reportajes/5/) 11 april, 2021.
+
 - **El Austral de la Araucanía**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australtemuco.cl/impresa/2021/04/11/full/cuerpo-reportajes/10/) 11 april, 2021.
+
 - **El Austral Osorno**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australosorno.cl/impresa/2021/04/11/full/cuerpo-reportajes/8/) 11 april, 2021.
+
 - **El Líbero**. [Las claves para un voto estratégico constituyente: qué analizar a la hora de votar.](https://ellibero.cl/actualidad/las-claves-para-un-voto-estrategico-constituyente-que-analizar-a-la-hora-de-votar/) 11 april, 2021.
+
 - **El Llanquihue**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.ellanquihue.cl/impresa/2021/04/11/full/cuerpo-reportajes/10/) 11 april, 2021.
+
 - **El Mercurio de Antofagasta**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.mercurioantofagasta.cl/impresa/2021/04/11/full/cuerpo-reportajes/4/) 11 april, 2021.
+
 - **El Mercurio de Valparaíso**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.mercuriovalpo.cl/impresa/2021/04/11/full/cuerpo-reportajes/14/) 11 april, 2021.
+
 - **El Sur Concepción**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.elsur.cl/impresa/2021/04/11/full/cuerpo-reportajes/4/) 11 april, 2021.
+
 - **Emol**. [Candidatos presidenciales con cargos de representación: ¿Una condición de ventaja o un arma de doble filo?.](https://www.emol.com/noticias/Nacional/2021/04/11/1017466/Candidatos-Presidenciales-Cargos-Analisis.html) 11 april, 2021.
+
 - **La Estrella de Iquique**. ["Sumados, los candidatos del oficialismo marcan más del 50%".](https://www.estrellaiquique.cl/impresa/2021/04/11/full/cuerpo-principal/6/) 11 april, 2021.
+
 - **Austral Temuco**. ["Sumados, los candidatos del oficialismo marcan más del 50%; eso pasa porque los que están a la izquierda no suman".](https://www.australtemuco.cl/impresa/2021/04/10/papel/) 10 april, 2021.
+
 - **El Líbero**. [Primarias de oposición: todos los caminos conducen a Jadue… y a Jiles.](https://ellibero.cl/actualidad/primarias-de-oposicion-todos-los-caminos-conducen-a-jadue-y-a-jiles/) 7 april, 2021.
+
 - **El Mercurio de Valparaíso**. [Elección de gobernador: Millones pasaría a segunda vuelta contra A. Valle o R. Mundaca.](https://www.mercuriovalpo.cl/impresa/2021/04/04/papel/) 4 april, 2021.
+
 - **Biobio**. [La justificación de jefa de campaña de Paula Narváez ante pálidos números en encuesta presidencial.](https://www.biobiochile.cl/noticias/nacional/chile/2021/04/02/la-justificacion-de-jefa-de-campana-de-paula-narvaez-ante-palidos-numeros-en-encuesta-presidencial.shtml) 2 april, 2021.
+
 - **ADN**. [Diputado Pepe Auth y elecciones: “La derecha va a tener el peor resultado de su historia desde 1989 hasta 2017”.](https://www.adnradio.cl/politica/2021/03/30/diputado-pepe-auth-y-elecciones-la-derecha-va-a-tener-el-peor-resultado-de-su-historia-desde-1989-hasta-2017.html) 30 march, 2021.
+
 - **El Líbero**. [Ocho nudos a resolver con el cambio de fecha de las elecciones.](https://ellibero.cl/actualidad/ocho-nudos-a-resolver-con-el-cambio-de-fecha-de-las-elecciones/) 30 march, 2021.
+
 - **El Mostrador**. [Postergación de las elecciones cuesta arriba: oposición advierte que no basta con correr la fecha y emplaza a La Moneda a tomar medidas tanto sanitarias como económicas.](https://www.elmostrador.cl/noticias/pais/2021/03/29/postergacion-de-las-elecciones-cuesta-arriba-oposicion-advierte-que-no-basta-con-correr-la-fecha-y-emplaza-a-la-moneda-a-tomar-medidas-tanto-sanitarias-como-economicas/) 29 march, 2021.
+
 - **El Portal de Aysén**. [Cambio de fecha en Elecciones: ¿Qué pasa con las campañas?.](https://elportaldeaysen.cl/regional/cambio-de-fecha-en-elecciones-que-pasa-con-las-campanas/) 29 march, 2021.
+
 - **CNN**. [Académicos y parlamentarios proponen sumar un tercer día a elecciones: Posponer debiera ser un “último recurso”.](https://www.cnnchile.com/pais/academicos-parlamentarios-tercer-dia-elecciones-abril_20210328/) 28 march, 2021.
+
 - **El Mercurio**. [Marinovic, la candida que ha sorprendido en el distrito más codiciado.](https://digital.elmercurio.com/2021/03/28/R/CE3UGO7V#zoom=page-width) 28 march, 2021.
+
 - **El Mostrador**. [Tres días de votación y bandas horarias: Expertos electorales presentaron alternativa a potencial postergación de las elecciones del 11 de abril.](https://www.elmostrador.cl/destacado/2021/03/28/tres-dias-de-votacion-y-bandas-horarias-expertos-electorales-presentaron-alternativa-a-potencial-postergacion-de-las-elecciones-del-11-de-abril/) 28 march, 2021.
+
 - **Emol**. [Las complejidades que influirán en la difusa construcción de bloques y alianzas en la Convención.](https://www.emol.com/noticias/Nacional/2021/03/28/1016114/Conformacion-tercios-convencion-constitucional.html) 28 march, 2021.
+
 - **La Tercera**. [Tres días de votación y fijar bandas horarias: analistas electorales elaboran propuesta para realizar comicios en abril y desaconsejan postergar la fecha.](https://www.latercera.com/politica/noticia/tres-dias-de-votacion-y-fijar-bandas-horarias-analistas-electorales-elaboran-propuesta-para-realizar-comicios-en-abril-y-desaconsejan-postergar-la-fecha/PWK6RG5U7ZCDBIQCYAK5WB6FJE/) 28 march, 2021.
+
 - **Pauta**. [Los efectos políticos en cadena que se vienen si se aplazan las elecciones de abril.](https://www.pauta.cl/politica/los-otros-factores-que-influyen-en-la-postergacion-de-la-eleccion-abril) 28 march, 2021.
+
 - **Emol**. [Caciques en retirada, zonas "presidencializadas" e incumbentes en problemas: Las batallas a seguir en las municipales.](https://www.emol.com/noticias/Nacional/2021/03/27/1016119/Elecciones-Municipales-Batallas.html) 27 march, 2021.
+
 - **La Discusión**. [Gobernadores y constituyentes acaparan aportes en Ñuble.](http://www.ladiscusion.cl/gobernadores-y-constituyentes-acaparan-aportes-en-nuble/) 27 march, 2021.
+
 - **La Tercera**. [¿Confirmar o postergar las elecciones del 10 y 11 de abril? La trastienda de una compleja decisión.](https://www.latercera.com/la-tercera-domingo/noticia/confirmar-o-postergar-las-elecciones-del-10-y-11-de-abril-la-trastienda-de-una-compleja-decision/X2COJ5WRURD3VKMZ53DHQFTDKI/) 27 march, 2021.
+
 - **Las Últimas Noticias**. [Tres analistas explican en que fijarse para decidir entre la gran cantidad de postulantes a constituyentes.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-03-22&PaginaId=31&bodyid=0) 2 march, 2021.
+
 - **El Mercurio**. [¿Los mismo de siempre? Desde EE.UU estudian a los candidatos chilenos.](https://digital.elmercurio.com/2021/03/21/R/G03UIPFS?fromSearch=1&q=siavelis&GotoArticle=3B3UJ1DG) 21 march, 2021.
+
 - **El Líbero**. [Con todo, si no para qué: las razones de Boric para ir a primera vuelta.](https://ellibero.cl/actualidad/con-todo-si-no-para-que-las-razones-de-boric-para-ir-a-primera-vuelta/) 19 march, 2021.
+
 - **Duna**. [Plan de vacunación, elecciones de abril y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-abril-y-mauricio-hernandez-norambuena/) 17 march, 2021.
+
 - **El Mercurio**. [Analistas cuestionan aparición de presidenciables en franja de la Convención.](https://digital.elmercurio.com/2021/03/13/C/8B3U9R4C#zoom=page-width) 13 march, 2021.
+
 - **Diario Financiero**. [Apuesta de los expertos.](https://www.df.cl/noticias/df-constitucional/apuesta-de-los-expertos-a-la-convencion-llegarian-mas-militantes-de/2021-02-12/193852.html) 8 march, 2021.
+
 - **El Líbero**. [Las dramáticas cifras que demuestran el declive del Frente Amplio.](https://ellibero.cl/actualidad/las-dramaticas-cifras-que-demuestran-el-declive-del-frente-amplio/) 7 march, 2021.
+
 - **El Mercurio**. [La Competitiva carrera a la Convención Constitucional.](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width) 7 march, 2021.
+
 - **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](https://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 marzo, 2021.
-- **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](http://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 march, 2021.
+
 - **La Tercera**. [El “factor” constituyente que dispara la incertidumbre de la elección municipal.](https://www.latercera.com/la-tercera-domingo/noticia/el-factor-constituyente-que-dispara-la-incertidumbre-de-la-eleccion-municipal/UEFRDTBR25CT5L65NKAWUZTITE/) 27 february, 2021.
 - **Emol**. [Bunker dice que "tiene sentido" agrupar elección municipal con segunda vuelta de gobernadores.](https://tv.emol.com/detail/20210225164821074/en-vivo-kenneth-bunker-analiza-el-escenario-electoral) 26 february, 2021.
+
 - **El Mercurio**. [Reforma para que comicios del 11 de abril se realicen en dos días ingresará la próxima semanas, en medio de dudas de los expertos.](https://digital.elmercurio.com/2021/02/25/A/CR3U3I9H#zoom=page-width) 25 february, 2021.
+
 - **El Mostrador**. [Tras elecciones de Constituyentes, primarias oficialistas prometen traer de vuelta el “canibalismo” político.](https://www.elmostrador.cl/destacado/2021/02/23/fair-play-con-fecha-de-expiracion-los-dos-meses-en-que-las-primarias-oficialistas-prometen-traer-de-vuelta-el-canibalismo/) 23 february, 2021.
+
 - **La Segunda**. [Joignant "Hacer las elecciones en dos días me parece una excelente idea".](https://digital.lasegunda.com/2021/02/22/A/MI3U5LUO#zoom=page-width) 22 february, 2021.
+
 - **El Líbero**. [Kenneth Bunker: “RD está prácticamente varado y sin el capitán Jackson en el timón, es un barco a la deriva”.](https://ellibero.cl/actualidad/kenneth-bunker-rd-esta-practicamente-varado-y-sin-el-capitan-jackson-en-el-timon-es-un-barco-a-la-deriva/) 19 february, 2021.
-- **El Líbero**. [Kenneth Bunker: “RD está prácticamente varado y sin el capitán Jackson en el timón, es un barco a la deriva”.](https://ellibero.cl/actualidad/kenneth-bunker-rd-esta-practicamente-varado-y-sin-el-capitan-jackson-en-el-timon-es-un-barco-a-la-deriva/) 19 february, 2021.
+
 - **La Tercera**. [Hasta ocho veces más candidatos: la dispersión opositora que favorece a Chile Vamos en la contienda constituyente.](https://www.latercera.com/earlyaccess/noticia/hasta-ocho-veces-mas-candidatos-la-dispersion-opositora-que-favorece-a-chile-vamos-en-la-contienda-constituyente/MGYB7I5ZNNBM5ICJOWVOYQCAXM/) 16 february, 2021.
+
 - **Las Últimas Noticias**. [¿Cómo funciona el sistema dHondt?.](http://www.lun.com/Pages/NewsDetail.aspx?dt=2021-02-07&NewsID=465226&BodyID=0&PaginaId=8) 7 february, 2021.
+
 - **La Tercera**. [El gráfico ¿Cuánto duran los ministros de Hacienda en el gabinete?.](https://www.latercera.com/pulso/noticia/el-grafico-cuanto-duran-los-ministros-de-hacienda-en-el-gabinete/NWVK7EXS3NGXNFJZAKNFJM4NNM/) 26 january, 2021.
+
 - **The Clinic**. [¿Cómo influirá el método d’Hondt en la elección constituyente?: Expertos proyectan escenarios para abril.](https://www.theclinic.cl/2021/01/15/como-influira-el-metodo-dhondt-en-la-eleccion-constituyente-expertos-proyectan-escenarios-para-abril/) 15 january, 2021.
+
 - **Emol**. [Coaliciones debilitadas e incógnita sobre los independientes: Las conclusiones tras la inscripción de candidatos a la constituyente.](https://www.emol.com/noticias/Nacional/2021/01/13/1009226/Inscripcion-Candidatos-Analisis.html) 13 january, 2021.
+
 - **Ex-Ante**. [Kenneth Bunker tras inscripción de listas para la constituyente: “Chile Vamos partió con el pie derecho”.](https://www.ex-ante.cl/kenneth-bunker-tras-inscripcion-de-listas-para-la-constituyente-chile-vamos-partio-con-el-pie-derecho/) 12 january, 2021.
+
 - **Concierto**. [Analista por caso luminarias: Es difícil que Jadue "pueda escapar de esto sin ningún rasguño".](https://www.concierto.cl/2021/01/analista-por-caso-luminarias-es-dificil-que-jadue-pueda-escapar-de-esto-sin-ningun-rasguno/) 11 january, 2021.
+
 - **La Discusión**. [Políticos, independientes y viejos conocidos: el dilema de la Constituyente.](http://www.ladiscusion.cl/politicos-independientes-y-viejos-conocidos-el-dilema-de-la-constituyente/) 10 january, 2021.
+
 - **La Tercera**. [Constituyentes y constitucionalistas: Quiénes son los abogados que postularán por un cupo en la Convención.](https://www.latercera.com/reconstitucion/noticia/constituyentes-y-constitucionalistas-quienes-son-los-abogados-que-postularan-por-un-cupo-en-la-convencion/ACF7P24VLFDOLKPVY7EXQTI2XU/) 9 january, 2021.
+
 - **Diario Financiero**. [La seducción de los distritos 10 y 11.](https://www.df.cl/noticias/df-constitucional/la-seduccion-de-los-distritos-10-y-11-que-atrae-a-tantos-aspirantes-a-la/2021-01-08/183507.html) 8 january, 2021.
+
+## Pre-2021
+
 - **Ex-Ante**. [Kenneth Bunker, experto electoral: “El sistema uninominal es el más justo y simple”.](https://www.ex-ante.cl/kenneth-bunker-experto-electoral-el-sistema-uninominal-es-el-mas-justo-y-simple/) 21 december, 2020.
 - **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras.](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/) 4 december, 2020.
 - **The Clinic**. [140 días, cuatro escenarios y una sola convención: así se vislumbra la Constituyente de abril.](https://www.theclinic.cl/2020/12/03/140-dias-cuatro-escenarios-y-una-sola-convencion-asi-se-vislumbra-la-constituyente-de-abril/) 3 december, 2020.

@@ -220,6 +220,10 @@ title: Press
 - **La Batalla Maipú**. [Y usted, ¿ya decidió por quién votar?: Las proyecciones de Tresquintos para Maipú.](https://www.labatalla.cl/las-proyecciones-de-tresquintos-para-maipu/) 23 february, 2021.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february, 2021.
+
+
+## Pre-2021
+
 - **Expansión**. [Sudamérica se prepara para un año de reconstrucción tras un duro 2020.](https://expansion.mx/mundo/2020/12/30/sudamerica-se-prepara-para-un-ano-de-reconstruccion-tras-un-duro-2020) 30 december, 2020.
 - **Courrier Francia**. [Amérique latine. Le Chili approuve massivement un changement de Constitution.](https://www.courrierinternational.com/article/amerique-latine-le-chili-approuve-massivement-un-changement-de-constitution?utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 26 october, 2020.
 - **El País**. [Chile decide en las urnas el futuro de la Constitucion de Augusto Pinochet.](https://elpais.com/internacional/2020-10-25/chile-decide-en-las-urnas-el-futuro-de-la-constitucion-de-augusto-pinochet.html?ssm=TW_CC&utm_source=Lista+de+distribuci%C3%B3n+de+Tresquintos&utm_campaign=ed803bc7a6-EMAIL_CAMPAIGN_2020_07_17_08_27_COPY_01&utm_medium=email&utm_term=0_8c164eff0f-ed803bc7a6-153457015) 25 october, 2020.
