@@ -237,7 +237,7 @@ title: Columns
 - 20170615 - Conflictos reales y artificiales
 - 20170601 - Si no les puedes ganar
 - 20170426 - Un triste espectáculo
-- 20170407 - El Partido Socialista tiene en sus manos la próxima elección
+- 20170407 - El Partido Socialista tiene en sus manos ...
 - 20170310 - Un balance negativo
 - 20170105 - Una carrera de dos caballos
 - 20161207 - El estado de la carrera presidencial
@@ -310,3 +310,45 @@ title: Columns
 - 20130728 - El mapa de las elecciones legislativas
 - 20130718 - Un plan puntual
 - 20100331 - Salida de la crisis de legitimidad
+
+
+## Others 1
+
+- "Sistema electoral binominal cobra nueva victima: Marco Enríquez-Ominami", La Tercera, 14 diciembre, 2009.
+- "CEP: Un devenir casi inevitable", La Tercera, 12 noviembre, 2009.
+- "El primer debate presidencial", La Tercera, 24 septiembre, 2009.
+- "La gran colusión", La Tercera, 12 agosto, 2009.
+- "Proyección electoral para Marco Enríquez-Ominami", La Tercera, 15 junio, 2009.
+- "4 lecciones para Piñera tras la dimisión de Longueira", La Tercera, 16 abril, 2009.
+- "Estados Unidos y Latinoamérica: ¿la misma historia, otros actores?", La Tercera, 23 marzo, 2009.
+- "Los diputados designados", La Tercera, 13 marzo, 2009.
+- "La desigualdad y la izquierda en América Latina", La Tercera, 23 febrero, 2009.
+- "IAVV: Bueno, pero no tan bueno", La Tercera, 22 enero, 2009.
+- "Inscripción automática, voto voluntario: mapa y calculadora", La Tercera, 16 enero, 2009.
+- "¿Elecciones primarias en la Concertacion?", La Tercera, 06 enero, 2009.
+- "Detenidos Aparecidos", La Tercera, 29 diciembre, 2008.
+- "¿Vacaciones para los parlamentarios?", La Tercera, 24 diciembre, 2008.
+- "Cores: una elección injusta", La Tercera, 21 diciembre, 2008.
+- "Un sistema electoral absurdo", La Segunda, 11 diciembre, 2008.
+- "Concertación: un barco que se hunde sin Capitán", La Tercera. 05 diciembre, 2008.
+- "La guerra de Perú", La Tercera, 28 noviembre, 2008.
+- "El secuestro de la democracia", La Tercera, 25 noviembre, 2008.
+- "La Obamamanía", La Tercera. 11 noviembre, 2008.
+- "Barrack Obama: Altas votaciones, altas espectativas", La Tercera, 05 noviembre, 2008.
+- "¿Cuántos partidos políticos hay en Chile?", La Tercera, 27 octubre, 2008.
+- "El experto a domicilio", La Tercera, 24 octubre, 2008.
+- "El Presidente de la comuna", La Tercera, 10 octubre, 2008.
+- "La larga batalla (electoral) entre RN y la UDI", La Tercera, 09 octubre, 2008.
+
+## Others 2
+
+- "El estado de la carrera presidencial en EE.UU", La Nación, 08 octubre, 2008.
+- "El proceso político de puertas cerradas", El Ciudadano, 21 octubre, 2008.
+- “Los privilegios de los políticos”, Revista Capital, 03 septiembre, 2008.
+- “La política chilena tiene una lección que aprender”, El Mostrador, 13 septiembre, 2008.
+- “Segunda etapa: Bachelet y los Partidos”, El Mostrador, 19 febrero, 2008.
+- “Reelección Indefinida en los cargos públicos”, Radio Universidad de Chile, 15 noviembre, 2007.
+- “Elecciones municipales 2008, 4 claves”, Radio Universidad de Chile, 01 noviembre, 2007.
+- “Oh Sr. Transantiago, ¿para dónde va la micro?”, VivaChile.org, 07 diciembre, 2007.
+- “4 puntos acerca del femicidio político y la ley de cuotas”, VivaChile.org, 07 noviembre, 2007.
+- “Participación ciudadana y calidad de las políticas sociales” Diario Financiero, 21 febrero, 2007.
