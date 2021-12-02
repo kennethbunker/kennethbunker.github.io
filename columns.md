@@ -312,33 +312,32 @@ title: Columns
 - 20100331 - Salida de la crisis de legitimidad
 
 
-## Others 1 (La Tercera)
+## La Tercera (2008)
 
-- "Sistema electoral binominal cobra nueva víctima: Marco Enríquez-Ominami", La Tercera, 14 diciembre, 2009.
-- "CEP: Un devenir casi inevitable", La Tercera, 12 noviembre, 2009.
-- "El primer debate presidencial", La Tercera, 24 septiembre, 2009.
-- "La gran colusión", La Tercera, 12 agosto, 2009.
-- "Proyección electoral para Marco Enríquez-Ominami", La Tercera, 15 junio, 2009.
-- "Cuatro lecciones para Piñera tras la dimisión de Longueira", La Tercera, 16 abril, 2009.
-- "Estados Unidos y Latinoamérica: ¿la misma historia, otros actores?", La Tercera, 23 marzo, 2009.
-- "Los diputados designados", La Tercera, 13 marzo, 2009.
-- "La desigualdad y la izquierda en América Latina", La Tercera, 23 febrero, 2009.
-- "IAVV: Bueno, pero no tan bueno", La Tercera, 22 enero, 2009.
-- "Inscripción automática, voto voluntario: mapa y calculadora", La Tercera, 16 enero, 2009.
-- "¿Elecciones primarias en la Concertación?", La Tercera, 06 enero, 2009.
-- "Detenidos Aparecidos", La Tercera, 29 diciembre, 2008.
-- "¿Vacaciones para los parlamentarios?", La Tercera, 24 diciembre, 2008.
-- "Cores: una elección injusta", La Tercera, 21 diciembre, 2008.
-- "Un sistema electoral absurdo", La Segunda, 11 diciembre, 2008.
-- "Concertación: un barco que se hunde sin Capitán", La Tercera. 05 diciembre, 2008.
-- "La guerra de Perú", La Tercera, 28 noviembre, 2008.
-- "El secuestro de la democracia", La Tercera, 25 noviembre, 2008.
-- "La Obamamanía", La Tercera. 11 noviembre, 2008.
-- "Barrack Obama: Altas votaciones, altas espectativas", La Tercera, 05 noviembre, 2008.
-- "¿Cuántos partidos políticos hay en Chile?", La Tercera, 27 octubre, 2008.
-- "El experto a domicilio", La Tercera, 24 octubre, 2008.
-- "El Presidente de la comuna", La Tercera, 10 octubre, 2008.
-- "La larga batalla (electoral) entre RN y la UDI", La Tercera, 09 octubre, 2008.
+- 20091214 - Sistema electoral binominal cobra nueva víctima
+- 20091112 - CEP: Un devenir casi inevitable
+- 20090924 - El primer debate presidencial
+- 20090812 - La gran colusión
+- 20090615 - Proyección electoral para Marco Enríquez-Ominami
+- 20090416 - Cuatro lecciones para Piñera tras la dimisión de Longueira
+- 20090323 - Estados Unidos y Latinoamérica
+- 20090313 - Los diputados designados
+- 20090223 - La desigualdad y la izquierda en América Latina
+- 20090122 - IAVV: Bueno, pero no tan bueno
+- 20090116 - Inscripción automática, voto voluntario: mapa y calculadora
+- 20090106 - ¿Elecciones primarias en la Concertación?
+- 20081224 - ¿Vacaciones para los parlamentarios?
+- 20081221 - Cores: una elección injusta
+- 20081211 - Un sistema electoral absurdo
+- 20081205 - Concertación: un barco que se hunde sin Capitán
+- 20081128 - La guerra de Perú
+- 20081125 - El secuestro de la democracia
+- 20081111 - La Obamamanía
+- 20081105 - Barrack Obama: Altas votaciones, altas expectativas
+- 20081027 - ¿Cuántos partidos políticos hay en Chile?
+- 20081024 - El experto a domicilio
+- 20081010 - El presidente de la comuna
+- 20081009 - La larga batalla (electoral) entre RN y la UDI
 
 ## Others 2
 
