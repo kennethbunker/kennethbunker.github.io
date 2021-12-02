@@ -342,13 +342,11 @@ title: Columns
 
 ## Others 2
 
-- "El estado de la carrera presidencial en EE.UU", La Nación, 08 octubre, 2008.
-- "El proceso político de puertas cerradas", El Ciudadano, 21 octubre, 2008.
-- “Los privilegios de los políticos”, Revista Capital, 03 septiembre, 2008.
-- “La política chilena tiene una lección que aprender”, El Mostrador, 13 septiembre, 2008.
-- “Segunda etapa: Bachelet y los Partidos”, El Mostrador, 19 febrero, 2008.
-- “Reelección Indefinida en los cargos públicos”, Radio Universidad de Chile, 15 noviembre, 2007.
-- “Elecciones municipales 2008, cuatro claves”, Radio Universidad de Chile, 01 noviembre, 2007.
-- “Oh Sr. Transantiago, ¿para dónde va la micro?”, VivaChile.org, 07 diciembre, 2007.
-- “4 puntos acerca del femicidio político y la ley de cuotas”, VivaChile.org, 07 noviembre, 2007.
-- “Participación ciudadana y calidad de las políticas sociales” Diario Financiero, 21 febrero, 2007.
+- 20081008 - El estado de la carrera presidencial en EE.UU, La Nación.
+- 20081021 - El proceso político de puertas cerradas, El Ciudadano.
+- 20080903 - Los privilegios de los políticos, Revista Capital
+- 20080913 - La política chilena tiene una lección que aprender, El Mostrador.
+- 20080219 - Segunda etapa: Bachelet y los Partidos, El Mostrador.
+- 20071115 - Reelección Indefinida en los cargos públicos, Radio Universidad de Chile.
+- 20071101 - Elecciones municipales 2008, cuatro claves, Radio Universidad de Chile.
+- 20070221 - Participación ciudadana y calidad de las políticas sociales, Diario Financiero.
