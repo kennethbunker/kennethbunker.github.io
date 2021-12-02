@@ -312,20 +312,20 @@ title: Columns
 - 20100331 - Salida de la crisis de legitimidad
 
 
-## Others 1
+## Others 1 (La Tercera)
 
-- "Sistema electoral binominal cobra nueva victima: Marco Enríquez-Ominami", La Tercera, 14 diciembre, 2009.
+- "Sistema electoral binominal cobra nueva víctima: Marco Enríquez-Ominami", La Tercera, 14 diciembre, 2009.
 - "CEP: Un devenir casi inevitable", La Tercera, 12 noviembre, 2009.
 - "El primer debate presidencial", La Tercera, 24 septiembre, 2009.
 - "La gran colusión", La Tercera, 12 agosto, 2009.
 - "Proyección electoral para Marco Enríquez-Ominami", La Tercera, 15 junio, 2009.
-- "4 lecciones para Piñera tras la dimisión de Longueira", La Tercera, 16 abril, 2009.
+- "Cuatro lecciones para Piñera tras la dimisión de Longueira", La Tercera, 16 abril, 2009.
 - "Estados Unidos y Latinoamérica: ¿la misma historia, otros actores?", La Tercera, 23 marzo, 2009.
 - "Los diputados designados", La Tercera, 13 marzo, 2009.
 - "La desigualdad y la izquierda en América Latina", La Tercera, 23 febrero, 2009.
 - "IAVV: Bueno, pero no tan bueno", La Tercera, 22 enero, 2009.
 - "Inscripción automática, voto voluntario: mapa y calculadora", La Tercera, 16 enero, 2009.
-- "¿Elecciones primarias en la Concertacion?", La Tercera, 06 enero, 2009.
+- "¿Elecciones primarias en la Concertación?", La Tercera, 06 enero, 2009.
 - "Detenidos Aparecidos", La Tercera, 29 diciembre, 2008.
 - "¿Vacaciones para los parlamentarios?", La Tercera, 24 diciembre, 2008.
 - "Cores: una elección injusta", La Tercera, 21 diciembre, 2008.
@@ -348,7 +348,7 @@ title: Columns
 - “La política chilena tiene una lección que aprender”, El Mostrador, 13 septiembre, 2008.
 - “Segunda etapa: Bachelet y los Partidos”, El Mostrador, 19 febrero, 2008.
 - “Reelección Indefinida en los cargos públicos”, Radio Universidad de Chile, 15 noviembre, 2007.
-- “Elecciones municipales 2008, 4 claves”, Radio Universidad de Chile, 01 noviembre, 2007.
+- “Elecciones municipales 2008, cuatro claves”, Radio Universidad de Chile, 01 noviembre, 2007.
 - “Oh Sr. Transantiago, ¿para dónde va la micro?”, VivaChile.org, 07 diciembre, 2007.
 - “4 puntos acerca del femicidio político y la ley de cuotas”, VivaChile.org, 07 noviembre, 2007.
 - “Participación ciudadana y calidad de las políticas sociales” Diario Financiero, 21 febrero, 2007.
