@@ -15,7 +15,7 @@ title: Columns
 - 20211123 - Diez resultados de la elección
 - 20211117 - Preferencias variables
 - 20211116 - Un debate incierto
-- 20211115 - 12 temas de la elección
+- 20211115 - Doce temas de la elección
 - 20211113 - Compromiso irrestricto
 - 20211111 - La saña
 - 20211110 - Socialdemocracia
@@ -310,10 +310,6 @@ title: Columns
 - 20130728 - El mapa de las elecciones legislativas
 - 20130718 - Un plan puntual
 - 20100331 - Salida de la crisis de legitimidad
-
-
-## La Tercera (2008)
-
 - 20091214 - Sistema electoral binominal cobra nueva víctima
 - 20091112 - CEP: Un devenir casi inevitable
 - 20090924 - El primer debate presidencial
@@ -340,13 +336,33 @@ title: Columns
 - 20081009 - La larga batalla (electoral) entre RN y la UDI
 
 
-## Others 2
+## La Nación
 
 - 20081008 - El estado de la carrera presidencial en EE.UU, La Nación.
+
+
+## El Ciudadano
+
 - 20081021 - El proceso político de puertas cerradas, El Ciudadano.
+
+
+## Revista Capital
+
 - 20080903 - Los privilegios de los políticos, Revista Capital
+
+
+## El Mostrador
+
 - 20080913 - La política chilena tiene una lección que aprender, El Mostrador.
 - 20080219 - Segunda etapa: Bachelet y los Partidos, El Mostrador.
+
+
+# Radio Universidad de Chile
+
 - 20071115 - Reelección Indefinida en los cargos públicos, Radio Universidad de Chile.
 - 20071101 - Elecciones municipales 2008, cuatro claves, Radio Universidad de Chile.
+
+
+# Diario Financiero
+
 - 20070221 - Participación ciudadana y calidad de las políticas sociales, Diario Financiero.
