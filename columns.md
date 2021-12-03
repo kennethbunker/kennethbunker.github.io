@@ -128,7 +128,7 @@ title: Columns
 - 20180730 - A favor de la eutanasia
 - 20180724 - El ministro pasapalabras
 - 20180719 - Respeto a un invitado
-- 20180712 - El talon de Aquiles de Bachelet
+- 20180712 - El taloó de Áquiles de Bachelet
 - 20180708 - Por que la oposicion esta desarticulada
 - 20180619 - Orden en la casa
 - 20180618 - Falta lógica de coalición en la derecha
@@ -149,7 +149,7 @@ title: Columns
 - 20180420 - La súper torpeza
 - 20180419 - Máquinas versus políticos
 - 20180418 - Es una tarjeta roja antojadiza
-- 20180414 - Un politico amateur
+- 20180414 - Un político amateur
 - 20180413 - Ahora todo vale
 - 20180406 - Una decisión apresurada
 - 20180403 - Mejor ser panelista que político
@@ -177,7 +177,7 @@ title: Columns
 - 20211022 - Orden, violencia, elite y pueblo
 - 20211015 - Realineamiento en la recta final
 - 20211008 - Lo importancia de la inmediatez
-- 20211001 - El elefante
+- 20211001 - El elefante en la habitación
 - 20210924 - Yasna Provoste y los huérfanos de la centroizquierda
 - 20210917 - Cambio de reglas en la mitad del partido
 - 20210910 - El cuarto retiro y las falencias ...
