@@ -336,33 +336,13 @@ title: Columns
 - 20081009 - La larga batalla (electoral) entre RN y la UDI
 
 
-## El Mostrador
+## Others (La Nación, La Segunda, El Mostrador)
 
 - 20080913 - La política chilena tiene una lección que aprender
-- 20080219 - Segunda etapa: Bachelet y los Partidos
-
-
-## Radio Universidad de Chile
-
+- 20080219 - Segunda etapa: Bachelet y los partidos
 - 20071115 - Reelección Indefinida en los cargos públicos
 - 20071101 - Elecciones municipales 2008, cuatro claves
-
-
-## La Nación
-
 - 20081008 - El estado de la carrera presidencial en EE.UU
-
-
-## El Ciudadano
-
 - 20081021 - El proceso político de puertas cerradas
-
-
-## Revista Capital
-
 - 20080903 - Los privilegios de los políticos
-
-
-## Diario Financiero
-
 - 20070221 - Participación ciudadana y calidad de las políticas sociales
