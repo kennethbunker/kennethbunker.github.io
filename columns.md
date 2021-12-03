@@ -320,7 +320,7 @@ title: Columns
 - 20090313 - Los diputados designados
 - 20090223 - La desigualdad y la izquierda en América Latina
 - 20090122 - IAVV: Bueno, pero no tan bueno
-- 20090116 - Inscripción automática, voto voluntario: mapa y calculadora
+- 20090116 - Voto voluntario: mapa y calculadora
 - 20090106 - ¿Elecciones primarias en la Concertación?
 - 20081224 - ¿Vacaciones para los parlamentarios?
 - 20081221 - Cores: una elección injusta
@@ -334,6 +334,18 @@ title: Columns
 - 20081024 - El experto a domicilio
 - 20081010 - El presidente de la comuna
 - 20081009 - La larga batalla (electoral) entre RN y la UDI
+
+
+## El Mostrador
+
+- 20080913 - La política chilena tiene una lección que aprender, El Mostrador.
+- 20080219 - Segunda etapa: Bachelet y los Partidos, El Mostrador.
+
+
+## Radio Universidad de Chile
+
+- 20071115 - Reelección Indefinida en los cargos públicos, Radio Universidad de Chile.
+- 20071101 - Elecciones municipales 2008, cuatro claves, Radio Universidad de Chile.
 
 
 ## La Nación
@@ -351,18 +363,6 @@ title: Columns
 - 20080903 - Los privilegios de los políticos, Revista Capital
 
 
-## El Mostrador
-
-- 20080913 - La política chilena tiene una lección que aprender, El Mostrador.
-- 20080219 - Segunda etapa: Bachelet y los Partidos, El Mostrador.
-
-
-# Radio Universidad de Chile
-
-- 20071115 - Reelección Indefinida en los cargos públicos, Radio Universidad de Chile.
-- 20071101 - Elecciones municipales 2008, cuatro claves, Radio Universidad de Chile.
-
-
-# Diario Financiero
+## Diario Financiero
 
 - 20070221 - Participación ciudadana y calidad de las políticas sociales, Diario Financiero.
