@@ -9,7 +9,10 @@ title: Press
 
 ## 2021
 
-- **Rest of the World**. [Campaña remota: golpe maestro del candidato presidencial de Chile en EE.UU.]( https://restofworld.org/2021/campana-chile-franco-parisi/) 30 november, 2021.
+- **Le Monde**. [Gabriel Boric, un jeune espoir contre l’extrême droite chilienne.](https://www.lemonde.fr/m-le-mag/article/2021/12/07/gabriel-boric-un-jeune-espoir-contre-l-extreme-droite-chilienne_6104963_4500055.html
+) 7 december, 2021.
+
+- **Rest of the World**. [Campaña remota: golpe maestro del candidato presidencial de Chile en EE.UU.](https://restofworld.org/2021/campana-chile-franco-parisi/) 30 november, 2021.
 
 - **L’Express**. [Un pro-Pinochet aux portes du pouvoir.](https://www.lexpress.fr/actualite/monde/amerique-sud/un-pro-pinochet-aux-portes-du-pouvoir-print-only_2163064.html) 25 november, 2021.
 
