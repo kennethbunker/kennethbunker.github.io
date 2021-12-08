@@ -3,7 +3,10 @@ layout: default
 title: Covers
 ---
 
-<h1>In the press</h1>
+<h1>On the front page</h1>
+
+*For a collection of my comments in the international press, click [here](https://kennethbunker.github.io/press). For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa).*
+
 
 ## 2021
 
