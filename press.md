@@ -83,7 +83,7 @@ title: Press
 
 - **Euronews**. [El ascenso del ultraconservador José Antonio Kast, la contrarrevolución de Chile.](https://es.euronews.com/2021/11/17/ascenso-ultraconservador-jose-antonio-kast-contrarrevolucion-chile-elecciones-21-noviembre) 20 november, 2021.
 
-- **Gestion**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november, 2021.
+- **Gestión**. [El ocaso de los partidos tradicionales acerca a Chile a un cambio de ciclo.](https://gestion.pe/mundo/internacional/el-ocaso-de-los-partidos-tradicionales-acerca-a-chile-a-un-cambio-de-ciclo-noticia/) 17 november, 2021.
 
 - **El Diario**. [Cascada de ataques al ultraderechista Kast tensan el último debate presidencial en Chile.](https://www.eldiario.es/politica/cascada-ataques-ultraderechista-kast-tensan-ultimo-debate-presidencial-chile_1_8493362.html) 16 november, 2021.
 
@@ -213,13 +213,7 @@ title: Press
 
 - **As**. [Coronavirus en Chile y comunas en cuarentena: calendario de vacunación.](https://chile.as.com/chile/2021/03/28/actualidad/1616933522_446766.html) 28 march, 2021.
 
-- **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
-
 - **Bloomberg**. [Chile’s New Constitution Likely to Be Agreed Upon by Moderates.](https://www.bloomberg.com/news/articles/2021-03-02/moderates-poised-to-hold-sway-over-chile-s-new-constitution) 2 march, 2021.
-
-- **Nostalgica**. [Bunker y pugna DC y PS en Ñuñoa: “El problema de fondo es que dentro de Unidad Constituyente no hay un liderazgo”.](https://www.nostalgica.cl/bunker-y-pugna-dc-y-ps-en-nunoa-el-problema-de-fondo-es-que-dentro-de-unidad-constituyente-no-hay-un-liderazgo/) 26 february, 2021.
-
-- **La Batalla Maipú**. [Y usted, ¿ya decidió por quién votar?: Las proyecciones de Tresquintos para Maipú.](https://www.labatalla.cl/las-proyecciones-de-tresquintos-para-maipu/) 23 february, 2021.
 
 - **The Economist**. [Latin America’s year of elections will test the region’s democracies.](https://www.economist.com/the-americas/2021/02/06/latin-americas-year-of-elections-will-test-the-regions-democracies) 6 february, 2021.
 

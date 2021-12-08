@@ -296,6 +296,8 @@ title: Prensa
 
 - **Duna**. [Plan de vacunación, elecciones de abril y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-abril-y-mauricio-hernandez-norambuena/) 17 march, 2021.
 
+- **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
+
 - **El Mercurio**. [Analistas cuestionan aparición de presidenciables en franja de la Convención.](https://digital.elmercurio.com/2021/03/13/C/8B3U9R4C#zoom=page-width) 13 march, 2021.
 
 - **Diario Financiero**. [Apuesta de los expertos.](https://www.df.cl/noticias/df-constitucional/apuesta-de-los-expertos-a-la-convencion-llegarian-mas-militantes-de/2021-02-12/193852.html) 8 march, 2021.
@@ -307,6 +309,10 @@ title: Prensa
 - **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](https://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 marzo, 2021.
 
 - **La Tercera**. [El “factor” constituyente que dispara la incertidumbre de la elección municipal.](https://www.latercera.com/la-tercera-domingo/noticia/el-factor-constituyente-que-dispara-la-incertidumbre-de-la-eleccion-municipal/UEFRDTBR25CT5L65NKAWUZTITE/) 27 february, 2021.
+
+- **Nostalgica**. [Bunker y pugna DC y PS en Ñuñoa: “El problema de fondo es que dentro de Unidad Constituyente no hay un liderazgo”.](https://www.nostalgica.cl/bunker-y-pugna-dc-y-ps-en-nunoa-el-problema-de-fondo-es-que-dentro-de-unidad-constituyente-no-hay-un-liderazgo/) 26 february, 2021.
+
+- **La Batalla Maipú**. [Y usted, ¿ya decidió por quién votar?: Las proyecciones de Tresquintos para Maipú.](https://www.labatalla.cl/las-proyecciones-de-tresquintos-para-maipu/) 23 february, 2021.
 
 - **Emol**. [Bunker dice que "tiene sentido" agrupar elección municipal con segunda vuelta de gobernadores.](https://tv.emol.com/detail/20210225164821074/en-vivo-kenneth-bunker-analiza-el-escenario-electoral) 26 february, 2021.
 
@@ -450,7 +456,7 @@ title: Prensa
 
 - **Emol**. [¿Estrategia o error?: Qué hay detrás de los duros dichos de Guillier contra el Frente Amplio.](http://www.emol.com/noticias/Nacional/2017/11/28/885092/Estrategia-o-error-Expertos-evaluan-los-duros-dichos-de-Guillier-contra-el-Frente-Amplio.html) 28 november, 2017.
 
-- **La Segunda**. [Giradi, el gran derrotado en santiago .](http://impresa.lasegunda.com/2017/11/28/A/MJ39GC8E) 28 november, 2017.
+- **La Segunda**. [Giradi, el gran derrotado en Santiago.](http://impresa.lasegunda.com/2017/11/28/A/MJ39GC8E) 28 november, 2017.
 
 - **Pulso**. [Congreso sin mayorías: Próximo gobierno no tendría reformar la constitución  .](http://www.pulso.cl/actualidad-politica/congreso-sin-mayorias-proximo-gobierno-no-podria-reformar-la-constitucion/#) 24 november, 2017.
 
@@ -495,8 +501,6 @@ title: Prensa
 - **Cooperativa**. [Bunker: Participó en estudio para analizar los resultados en vivo de las elecciones presidenciales..](Parte I: http://www.litoralpress.cl/deposito/audios/7720590.mp3) 19 november, 2017.
 
 - **Cooperativa**. [Sebastián Piñera y Alejandro Guillier medirán sus fuerzas en segunda vuelta .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/sebastian-pinera-y-alejandro-guillier-mediran-sus-fuerzas-en-segunda/2017-11-19/192055.html) 19 november, 2017.
-
-- **El Mercurio de Antofagasta**. [Expertos proyectan escdenario político que enfrentará el futuro presidente .](http://www.mercurioantofagasta.cl/impresa/2017/11/19/full/cuerpo-principal/6/) 19 november, 2017.
 
 - **El Mercurio de Antofagasta**. [Expertos proyectan escdenario político que enfrentará el futuro presidente .](http://www.mercurioantofagasta.cl/impresa/2017/11/19/full/cuerpo-principal/6/) 19 november, 2017.
 
