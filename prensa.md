@@ -9,6 +9,8 @@ title: Prensa
 
 ## 2021
 
+- **La Segunda**. [Rechazado cuarto retiro: analistas miden impacto en Boric.](https://digital.lasegunda.com/2021/12/03/A/D0423EAR#zoom=page-width) 3 december, 2021.
+
 - **La Segunda**. [Los riesgos de volverse Parisi Lovers.](https://digital.lasegunda.com/2021/11/30/A) 30 november, 2021.
 
 - **Ciper**. [El puzle de Kast y Boric: las comunas con su peor cosecha de votos, las de mejor rendimiento y aquellas en que pueden crecer.](https://www.ciperchile.cl/2021/11/27/el-puzle-de-kast-y-boric-las-comunas-con-su-peor-cosecha-de-votos-las-de-mejor-rendimiento-y-aquellas-en-que-pueden-crecer/) 28 november, 2021.
