@@ -9,6 +9,9 @@ title: Prensa
 
 ## 2021
 
+
+- **Ex-Ante**. [9 factores que definirán el resultado de la elección Kast-Boric, según los expertos.](https://www.ex-ante.cl/9-factores-que-definiran-el-resultado-de-la-eleccion-kast-boric-segun-los-expertos/) 9 december, 2021.
+
 - **La Segunda**. [Rechazado cuarto retiro: analistas miden impacto en Boric.](https://digital.lasegunda.com/2021/12/03/A/D0423EAR#zoom=page-width) 3 december, 2021.
 
 - **La Segunda**. [Los riesgos de volverse Parisi Lovers.](https://digital.lasegunda.com/2021/11/30/A) 30 november, 2021.
