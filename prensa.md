@@ -289,7 +289,7 @@ title: Prensa
 
 - **El Mostrador**. [Postergación de las elecciones cuesta arriba: oposición advierte que no basta con correr la fecha y emplaza a La Moneda a tomar medidas tanto sanitarias como económicas.](https://www.elmostrador.cl/noticias/pais/2021/03/29/postergacion-de-las-elecciones-cuesta-arriba-oposicion-advierte-que-no-basta-con-correr-la-fecha-y-emplaza-a-la-moneda-a-tomar-medidas-tanto-sanitarias-como-economicas/) 29 march, 2021.
 
-- **El Portal de Aysén**. [Cambio de fecha en Elecciones: ¿Qué pasa con las campañas?.](https://elportaldeaysen.cl/regional/cambio-de-fecha-en-elecciones-que-pasa-con-las-campanas/) 29 march, 2021.
+- **El Portal de Aysén**. [Cambio de fecha en Elecciones: ¿Qué pasa con las campañas?](https://elportaldeaysen.cl/regional/cambio-de-fecha-en-elecciones-que-pasa-con-las-campanas/) 29 march, 2021.
 
 - **CNN**. [Académicos y parlamentarios proponen sumar un tercer día a elecciones: Posponer debiera ser un “último recurso”.](https://www.cnnchile.com/pais/academicos-parlamentarios-tercer-dia-elecciones-abril_20210328/) 28 march, 2021.
 
@@ -376,8 +376,6 @@ title: Prensa
 - **La Voz de los que Sobran**. [Primarias 2021: Solo el 23% de los precandidatos a Gobernadores Regionales son mujeres.](https://lavozdelosquesobran.cl/primarias-2021-solo-el-23-de-los-precandidatos-a-gobernadores-regionales-son-mujeres/) 29 november, 2020.
 
 - **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos..](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/) 20 november, 2020.
-
-- **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras.](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/) 20 november, 2020.
 
 - **The Clinic**. [¿Quién gana con la dispersión de listas para la Constituyente? Cientistas políticos adelantan complejo escenario para las elecciones de abril.](https://www.theclinic.cl/2020/11/18/quien-gana-con-la-dispersion-de-listas-para-la-constituyente-cientistas-politicos-adelantan-complejo-escenario-para-las-elecciones-de-abril/) 18 november, 2020.
 
@@ -523,17 +521,17 @@ title: Prensa
 
 - **Cooperativa**. [Sebastián Piñera y Alejandro Guillier medirán sus fuerzas en segunda vuelta .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/sebastian-pinera-y-alejandro-guillier-mediran-sus-fuerzas-en-segunda/2017-11-19/192055.html) 19 november, 2017.
 
-- **El Mercurio de Antofagasta**. [Expertos proyectan escdenario político que enfrentará el futuro presidente .](http://www.mercurioantofagasta.cl/impresa/2017/11/19/full/cuerpo-principal/6/) 19 november, 2017.
+- **El Mercurio de Antofagasta**. [Expertos proyectan escdenario político que enfrentará el futuro presidente.](http://www.mercurioantofagasta.cl/impresa/2017/11/19/full/cuerpo-principal/6/) 19 november, 2017.
 
-- **El Chañarcillo**. [Expertos electorales revelan sus pronósticos .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SNLACf2X27ouvZ3TxUECHD0PAdaBP5zca8+7rIdqrzEQXeHPY74t/tLTu3sm2RZXy) 18 november, 2017.
+- **El Chañarcillo**. [Expertos electorales revelan sus pronósticos.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SNLACf2X27ouvZ3TxUECHD0PAdaBP5zca8+7rIdqrzEQXeHPY74t/tLTu3sm2RZXy) 18 november, 2017.
 
-- **El Siglo**. [Elecciones: lo minímo de los partidos políticos .](http://www.elsiglo.cl/2017/11/18/elecciones-lo-minimo-de-los-partidos-politicos/) 18 november, 2017.
+- **El Siglo**. [Elecciones: lo mínimo de los partidos políticos.](http://www.elsiglo.cl/2017/11/18/elecciones-lo-minimo-de-los-partidos-politicos/) 18 november, 2017.
 
 - **La Segunda**. [Coca poderosa: expertos creen que la UDI logrará el mayor número de parlamentarios.](http://impresa.lasegunda.com/2017/11/18/A/J439ALVO) 18 november, 2017.
 
 - **Cooperativa**. [A dos días de la elección, dos expertos electorales revelan sus pronósticos .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/a-dos-dias-de-la-eleccion-dos-expertos-electorales-revelan-sus/2017-11-17/091026.html) 17 november, 2017.
 
-- **Cooperativa**. [Analizó los posibles resultados de las elecciones presidenciales de este domingo..](http://www.litoralpress.cl/deposito/audios/7717550.mp3) 17 november, 2017.
+- **Cooperativa**. [Analizó los posibles resultados de las elecciones presidenciales de este domingo.](http://www.litoralpress.cl/deposito/audios/7717550.mp3) 17 november, 2017.
 
 - **Cooperativa**. [Experto electoral de RN: " el gran perdedor va ser la UC".](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/experto-electoral-de-rn-el-gran-perdedor-va-a-ser-la-dc/2017-11-17/084655.html) 17 november, 2017.
 
@@ -692,8 +690,6 @@ title: Prensa
 - **El Mensajero**. [Récord histórico de senadores y diputados que buscan la reelección.](http://elmensajero.cl/2017/10/16/record-historico-de-senadores-y-diputados-que-buscan-la-reeleccion/) 16 october, 2017.
 
 - **El Mercurio de Calama**. [Estudio proyecta qué listas tendrían opción a elegir sus candidatos.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRzMMJCEKObvY1u2nhtcAUPa0ZddmEUzxruJ9Ie6fmWsVxLkNZHfvVMDmixID3/sfA) 16 october, 2017.
-
-- **La Segunda**. [Kenneth Bunker: "Escalona es la mejor esperanza del PS".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtAlT/0e6wHp0fJV2YbCvFvHynCBCxaFPrjGpGx90PTuDYwiA7s171WD6w27UsmsU) 16 october, 2017.
 
 - **La Segunda**. [Kenneth Bunker: "Escalona es la mejor esperanza del PS".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtAlT/0e6wHp0fJV2YbCvFvHynCBCxaFPrjGpGx90PTuDYwiA7s171WD6w27UsmsU) 16 october, 2017.
 
