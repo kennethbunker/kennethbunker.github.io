@@ -16,8 +16,6 @@ title: Covers
 
 ![Mercurio Valparaíso](/img/20210411%20-%20MercurioValpo.png){:height="32%" width="32%"} ![El Sur](/img/20210411%20-%20El_Sur.png){:height="32%" width="32%"} ![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}
 
-
-
 ![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}
 
 ![La Segunda](/img/20211203%20-%20La%20Segunda.png){:height="32%" width="32%"}
