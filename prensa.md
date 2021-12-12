@@ -9,6 +9,11 @@ title: Prensa
 
 ## 2021
 
+
+- **El Llanquihue**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.ellanquihue.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
+
+- **El Austral de Osorno**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australosorno.cl/impresa/2021/12/12/full/cuerpo-reportajes/8/) 12 december, 2021.
+
 - **Diario Austral**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australvaldivia.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/) 12 december, 2021.
 
 - **El Austral**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australtemuco.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
