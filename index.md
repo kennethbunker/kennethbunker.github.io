@@ -4,7 +4,7 @@ I received my PhD in political science from The London School of Economics in 20
 
 ---
 
-📍 [**Click here to see a collection of my comments in the international press!** updated: december 2021 (Time, The Economist, The Guardian, BBC, Le Monde, Deutsche Welle, El País, CNN, Bloomberg, Nasdaq, ...)](https://kennethbunker.github.io/press)📍
+📍 [**Click here to see a collection of my comments in the international press!** (Time, The Economist, The Guardian, BBC, Le Monde, Deutsche Welle, El País, CNN, Bloomberg, Nasdaq, ...) updated: december 2021](https://kennethbunker.github.io/press)📍
 
 ---
 
