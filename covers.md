@@ -20,13 +20,13 @@ title: Covers
 
 [![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}](/img/20210411%20-%20Estrella_Iquique.png)
 
-![La Segunda](/img/20211130%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20211124%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210719%20-%20La%20Segunda.png){:height="32%" width="32%"}
+[![La Segunda](/img/20211130%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211130%20-%20La%20Segunda.png) [![La Segunda](/img/20211124%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211124%20-%20La%20Segunda.png) [![La Segunda](/img/20210719%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210719%20-%20La%20Segunda.png)
 
-![La Segunda](/img/20210806%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/2021019%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20211004%20-%20La%20Segunda.png){:height="32%" width="32%"}
+[![La Segunda](/img/20210806%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210806%20-%20La%20Segunda.png) [![La Segunda](/img/2021019%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/2021019%20-%20La%20Segunda.png) [![La Segunda](/img/20211004%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211004%20-%20La%20Segunda.png)
 
-![La Segunda](/img/20210909%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210824%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210922%20-%20La%20Segunda.png){:height="32%" width="32%"}
+[![La Segunda](/img/20210909%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210909%20-%20La%20Segunda.png) [![La Segunda](/img/20210824%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210824%20-%20La%20Segunda.png) [![La Segunda](/img/20210922%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210922%20-%20La%20Segunda.png)
 
-![La Segunda](/img/20210924%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210927%20-%20La%20Segunda.png){:height="32%" width="32%"} ![La Segunda](/img/20210905%20-%20La%20Segunda.png){:height="32%" width="32%"}
+[![La Segunda](/img/20210924%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210924%20-%20La%20Segunda.png) [![La Segunda](/img/20210927%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210927%20-%20La%20Segunda.png) [![La Segunda](/img/20210905%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210905%20-%20La%20Segunda.png)
 
 [![La Segunda](/img/20210301%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210301%20-%20La%20Segunda.png) [![La Segunda](/img/20211203%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211203%20-%20La%20Segunda.png)
 
