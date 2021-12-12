@@ -2,7 +2,11 @@
 
 I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also Associate Researcher at the Observatorio Político Electoral of Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/0zx2kmx35ah8z8s/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information :)
 
+---
+
 📍 [**Click here to see a collection of my comments in the international press!**](https://kennethbunker.github.io/press) updated: december 2021 📍
+
+---
 
 I am interested in the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America), a paper in which I attempt to contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
 
