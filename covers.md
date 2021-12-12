@@ -12,9 +12,9 @@ title: Covers
 
 ![Austral de Valdivia](/img/20211212%20-%20AustralValdivia.png){:height="32%" width="32%"} ![Austral Osorno](/img/20210411%20-%20AustralOsorno.png){:height="32%" width="32%"} ![El Llanquihue](/img/20211212%20-%20El_Llanquihue.png){:height="32%" width="32%"}
 
-![Mercurio Valparaíso](/img/20211212%20-%20MercurioValpo.png){:height="32%" width="32%"} ![Mercurio Calama](/img/20211212%20-%20MercurioCalama.png){:height="32%" width="32%"} ![Austral Osorno](/img/20211212%20-%20AustralOsorno.png){:height="32%" width="32%"} 
+![Mercurio Valparaíso](/img/20211212%20-%20MercurioValpo.png){:height="32%" width="32%"} ![Mercurio Calama](/img/20211212%20-%20MercurioCalama.png){:height="32%" width="32%"} ![Mercurio Valparaíso](/img/20210411%20-%20MercurioValpo.png){:height="32%" width="32%"}
 
-![Mercurio Valparaíso](/img/20210411%20-%20MercurioValpo.png){:height="32%" width="32%"}
+![Austral Osorno](/img/20211212%20-%20AustralOsorno.png){:height="32%" width="32%"}
 
 ![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}
 
