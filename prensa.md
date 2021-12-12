@@ -10,6 +10,10 @@ title: Prensa
 ## 2021
 
 
+- **El Austral**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australtemuco.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
+
+
+
 - **El Diario de Atacama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.diarioatacama.cl/impresa/2021/12/12/full/cuerpo-reportajes/2/) 12 december, 2021.
 
 - **El Mercurio de Calama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.mercuriocalama.cl/impresa/2021/12/12/full/cuerpo-reportajes/1/) 12 december, 2021.
