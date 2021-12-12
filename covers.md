@@ -16,7 +16,7 @@ title: Covers
 
 ![Austral Osorno](/img/20211212%20-%20AustralOsorno.png){:height="32%" width="32%"} ![Austral Osorno](/img/20210411%20-%20AustralOsorno.png){:height="32%" width="32%"}
 
-![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"} ![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}
+[![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"}](/img/20210719%20-%20LUN.png) [![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png) [![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}](/img/20211122%20-%20LUN.png)
 
 ![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}
 
