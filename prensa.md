@@ -805,6 +805,8 @@ title: Prensa
 
 - **Pulso**. [Analistas y parlamentarios descartan que Bachelet cierre su mandato sobre el 50% de aprobación.](http://www.pulso.cl/actualidad-politica/analistas-parlamentarios-descartan-bachelet-cierre-mandato-50-aprobacion/) 28 august, 2017.
 
+- **El Centro**. ["Para Alejandro Guillier y Carolina Goic no ir a primarias podría generarles un costo".](https://issuu.com/diarioelcentro/docs/temas_2352e21fa6fb92/9?ff=true) 25 august, 2017.
+
 - **Cooperativa**. [Ley de cuotas: ¿Medida eficaz o saludo a la bandera?.](https://www.cooperativa.cl/noticias/pais/politica/parlamentarias/ley-de-cuotas-medida-eficaz-o-saludo-a-la-bandera/2017-08-24/075430.html) 24 august, 2017.
 
 - **Emol**. [¿Sirve la ley de cuotas exigida por el nuevo sistema electoral? Expertos opinan.](http://www.emol.com/noticias/Nacional/2017/08/24/872427/Ley-de-cuotas-Es-eficiente-o-un-parche-que-no-conducira-a-cambios-Expertos-opinan.html) 24 august, 2017.

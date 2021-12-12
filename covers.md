@@ -33,3 +33,5 @@ title: Covers
 ![El Mercurio Valparaíso](/img/20210808%20-%20MercurioValpo.png){:height="32%" width="32%"}
 
 ![El Mercurio](/img/20210225%20-%20Mercurio.png){:height="32%" width="32%"} ![El Sur](/img/20210411%20-%20El_Sur.png){:height="32%" width="32%"}
+
+![El Centro](/img/20160522%20-%20El_Centro.png){:height="32%" width="32%"}
