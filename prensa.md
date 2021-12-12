@@ -865,6 +865,8 @@ title: Prensa
 
 - **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march, 2017.
 
+- **El Centro**. ["Si Bachelet entrega una economía a medio morir saltando, la gente votará por un candidato con mayor responsabilidad fiscal".](https://issuu.com/diarioelcentro/docs/temas_2352e21fa6fb92/9?ff=true) 22 may, 2016.
+
 - **Diario Financiero**. [Fragmentado y más diverso: el congreso que espera al nuevo presiednte electo.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4Si86lkLpronSdXn0L5HW/5PZPl6kq751g3F34CEBsuzbPrLpbh8DpgCs4wnalKUrv) 15 december, 2015.
 
 - **El Mostrador**. [Bloomberg y las presidenciales: alarmismo venezolano surge en Chile en la previa de reñida elección.](http://www.elmostrador.cl/mercados/2017/12/14/bloomberg-y-las-presidenciales-alarmismo-venezolano-surge-en-chile-en-la-previa-de-renida-eleccion/) 15 december, 2015.
