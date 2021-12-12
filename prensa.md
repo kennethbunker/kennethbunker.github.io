@@ -7,8 +7,8 @@ title: Prensa
 
 *Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press).*
 
-## 2021
 
+## 2021
 
 - **El Llanquihue**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.ellanquihue.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
 
