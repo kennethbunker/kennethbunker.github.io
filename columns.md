@@ -6,10 +6,11 @@ title: Columns
 
 <h1>Columns</h1>
 
-*Below are some of my columns published in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). I have also written for [La Segunda](https://en.wikipedia.org/wiki/La_Segunda) and [El Mostrador](https://en.wikipedia.org/wiki/El_Mostrador).*
+*Below are some of my columns published in [Las Últimas Noticias](https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias), [Ex-Ante](https://www.ex-ante.cl/), [T13](https://es.wikipedia.org/wiki/Teletrece), and [La Tercera](https://en.wikipedia.org/wiki/La_Tercera). For a collection of my comments in the international press, click [here](https://kennethbunker.github.io/press). For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa). To see some of my printed press front page appearances, click [here](https://kennethbunker.github.io/covers).*
 
 ## Las Últimas Noticias (2018 - )
 
+- 20211211 - La ley del que grita más fuerte
 - 20211127 - Capital humano
 - 20211125 - Las raíces
 - 20211123 - Diez resultados de la elección
@@ -169,6 +170,8 @@ title: Columns
 
 ## Ex-Ante (2021 - )
 
+- 20211211 - Un cuarto del apoyo
+- 20211204 - En la cuerda floja
 - 20211126 - El peregrinaje
 - 20211119 - Claves de la elección legislativa
 - 20211112 - Las dos almas de Apruebo Dignidad
