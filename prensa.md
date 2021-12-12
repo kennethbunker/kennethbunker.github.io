@@ -507,4 +507,370 @@ title: Prensa
 
 - **Economía y Negocios**. [Expertos coinciden en que es necesario cambiar el sistema de predicciones para detectar de mejor manera el "voto probable".](http://www.economiaynegocios.cl/noticias/noticias.asp?id=418748) 20 november, 2017.
 
-- **El Mercurio**. [Expertos coinciden en que es necesario cambiar el sistema de predicciones para d
+- **El Mercurio**. [Expertos coinciden en que es necesario cambiar el sistema de predicciones para detectar de mejor manera el "voto probable".](http://impresa.elmercurio.com/Pages/NewsDetail.aspx?dt=2017-11-20&dtB=20-11-2017%200:00:00&PaginaId=10&bodyid=3) 20 november, 2017.
+
+- **El Mercurio de Valparaíso**. [El rotundo triunfo del FA que se hace bancada en el congreso .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SOCTh2BamrM5Rl5j7CdyzKR3pmRksKQdJ+V/nG8OdVaTvrGPC0kB+d2KXhEBtu8kU) 20 november, 2017.
+
+- **El Muro**. [Primera vuelta presidencial de 2009 y 2017: dos realidades no comparables .](http://elmuro.cl/noticias/primera-vuelta-presidencial-2009-2017-dos-realidades-no-comparables/) 20 november, 2017.
+
+- **Hoy x Hoy**. [Uno de cada dos electores no votó ayer.](http://www.hoyxhoy.cl/2017/11/20/full/cuerpo-principal/6/) 20 november, 2017.
+
+- **La Discusión**. [Se profundiza caída de la participación en Ñuble .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SvsNPCp6vD4Cl5YhqkCvcyZ5pNQun92WfwairuRO6ha4iiX0FlKflDAMadVbZwvzp) 20 november, 2017.
+
+- **Pulso**. [Diputados: Chile Vamos no logra la mayoría y el Frente Amplio se convierte en la tercera fuerza del país.](http://www.pulso.cl/actualidad-politica/diputados-chile-no-logra-la-mayoria-frente-amplio-se-convierte-la-tercera-fuerza-del-pais/) 20 november, 2017.
+
+- **Cooperativa**. [Bunker: Participó en estudio para analizar los resultados en vivo de las elecciones presidenciales..](Parte I: http://www.litoralpress.cl/deposito/audios/7720590.mp3) 19 november, 2017.
+
+- **Cooperativa**. [Sebastián Piñera y Alejandro Guillier medirán sus fuerzas en segunda vuelta .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/sebastian-pinera-y-alejandro-guillier-mediran-sus-fuerzas-en-segunda/2017-11-19/192055.html) 19 november, 2017.
+
+- **El Mercurio de Antofagasta**. [Expertos proyectan escdenario político que enfrentará el futuro presidente .](http://www.mercurioantofagasta.cl/impresa/2017/11/19/full/cuerpo-principal/6/) 19 november, 2017.
+
+- **El Chañarcillo**. [Expertos electorales revelan sus pronósticos .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SNLACf2X27ouvZ3TxUECHD0PAdaBP5zca8+7rIdqrzEQXeHPY74t/tLTu3sm2RZXy) 18 november, 2017.
+
+- **El Siglo**. [Elecciones: lo minímo de los partidos políticos .](http://www.elsiglo.cl/2017/11/18/elecciones-lo-minimo-de-los-partidos-politicos/) 18 november, 2017.
+
+- **La Segunda**. [Coca poderosa: expertos creen que la UDI logrará el mayor número de parlamentarios.](http://impresa.lasegunda.com/2017/11/18/A/J439ALVO) 18 november, 2017.
+
+- **Cooperativa**. [A dos días de la elección, dos expertos electorales revelan sus pronósticos .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/a-dos-dias-de-la-eleccion-dos-expertos-electorales-revelan-sus/2017-11-17/091026.html) 17 november, 2017.
+
+- **Cooperativa**. [Analizó los posibles resultados de las elecciones presidenciales de este domingo..](http://www.litoralpress.cl/deposito/audios/7717550.mp3) 17 november, 2017.
+
+- **Cooperativa**. [Experto electoral de RN: " el gran perdedor va ser la UC".](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/experto-electoral-de-rn-el-gran-perdedor-va-a-ser-la-dc/2017-11-17/084655.html) 17 november, 2017.
+
+- **Cooperativa**. [Kenneth Bunker: Piñera está en un piso de 43 por ciento, pase lo que pase .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-pinera-esta-en-un-piso-de-43-por-ciento-pase-lo-que-pase/2017-11-17/084246.html) 17 november, 2017.
+
+- **Diario Financiero**. [Primera vuelta: Piñera sacaría más de 40% y ventaja de 10 puntos aseguraría su triunfo en balotaje".](https://www.df.cl/noticias/economia-y-politica/actualidad/primera-vuelta-pinera-sacaria-mas-del-40-y-ventaja-de-10-puntos/2017-11-16/214013.html) 17 november, 2017.
+
+- **El Diario News**. [Cuál sería el mejor y elpeor (y el más probable) resultado para cada candidato .](https://eldiario.news/nacional/cual_seria_el_mejor_y_el_peor_y_el_mas_probable_resultado_para_cada_candidato) 17 november, 2017.
+
+- **El Diario News**. [Sebastián Piñera y Alejandro Guillier medirán sus fuerzas en segunda vuelta .](https://eldiario.news/nacional/sebastian_pinera_y_alejandro_guillier_mediran_sus_fuerzas_en_segunda_vuelta) 17 november, 2017.
+
+- **El Heraldo Austral**. [Chile, el país con un congreso sin espacio para las mujeres .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SztLoPpZDLdOrFMYYYbBgHIX3f51Jr7NpbgTEmsoM+8qMB59P0hTda8BLL5jokXha) 17 november, 2017.
+
+- **Emol**. [Cuál sería el mejor y elpeor (y el más probable) resultado para cada candidato .](http://www.emol.com/noticias/Nacional/2017/11/17/883649/Cual-seria-el-mejor-y-el-peor-y-el-mas-probable-resultado-para-cada-candidato-en-las-elecciones-del-domingo.html) 17 november, 2017.
+
+- **Pulso**. [Expertos apuestan: Piiñera sobre un 44%, dura disputa RN_UDI y riesgos de la DC serán claves .](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SwPta29hMI8sXGfRUq5a1hnYvXGL3kQS8tE8YskAb0Rw0VKI6j4HbT6fHBYRnD+nG) 17 november, 2017.
+
+- **Diario Financiero**. [Último pronóstico electoral da alto favoritismo a Piñera, pero descarta victoria en primera vuelta.](https://www.df.cl/noticias/economia-y-politica/actualidad/ultimo-pronostico-electoral-da-alto-favoritismo-a-pinera-pero-descarta/2017-11-15/100437.html) 15 november, 2017.
+
+- **EL Mostrador**. [Pronóstico electoral de Tresquintos refuerza proyección de empate técnico por el cuarto lugar.](http://www.elmostrador.cl/noticias/pais/2017/11/15/pronostico-electoral-de-tresquintos-refuerza-proyeccion-de-empate-tecnico-por-el-cuarto-lugar/) 15 november, 2017.
+
+- **El Muro**. [El riesgo de desplome de Amplitud y Ciudadanos tras las elecciones.](http://elmuro.cl/noticias/riesgo-desplome-amplitud-ciudadanos-tras-las-elecciones/) 15 november, 2017.
+
+- **Tele 13**. [Comentó sus proyecciones para las elecciones presidenciales..](http://www.litoralpress.cl/deposito/audios/7714732.mp3) 15 november, 2017.
+
+- **Cooperativa**. [Experto electoral  explicó cómo funciona el nuevo sistema proporcional  .](http://www.cooperativa.cl/noticias/pais/politica/experto-electoral-explico-como-funciona-el-nuevo-sistema-proporcional/2017-11-14/135815.html) 14 november, 2017.
+
+- **Cooperativa**. [Se refirió a las proyecciones electorales para el día domingo 19 de noviembre..](http://www.litoralpress.cl/deposito/audios/7712099.mp3) 14 november, 2017.
+
+- **El Diario News**. [Piñera VS.Guillier: los escenarios que se abren para una posible segunda vuelta .](https://eldiario.news/nacional/pinera_vs_guillier_los_escenarios_que_se_abren_para_una_posible_segunda_vuelta) 14 november, 2017.
+
+- **Diario Financiero**. [Empresarios chilenos están en ansiosa espera ante eventual triunfo de Sebastián Piñera.](https://www.df.cl/noticias/economia-y-politica/actualidad/las-empresas-chilenas-esperan-la-vuelta-del-acaudalado-con-mano-de-midas/2017-11-13/094525.html) 13 november, 2017.
+
+- **EL Mostrador**. [Empresarios chilenos están en ansiosa espera ante eventual triunfo de Sebastián Piñera.](http://www.elmostrador.cl/mercados/2017/11/13/empresarios-esperan-ansiosos-el-toque-de-rey-midas-del-millonario-pinera/) 13 november, 2017.
+
+- **El Muro**. [El PS y la DC son los partidos que tienen más en juego en esta elección.](http://elmuro.cl/noticias/ps-la-dc-los-partidos-tienen-mas-juego-esta-eleccion/) 13 november, 2017.
+
+- **Emol**. [Piñera versus Guillier: Los escenarios que se abren en segunda vuelta dependiendo de los resultados del domingo.](http://www.emol.com/noticias/Nacional/2017/11/13/883096/Escenarios-de-segunda-vuelta-Expertos-debaten-cual-es-la-diferencia-con-Pinera-que-Guillier-podria-remontar.html?error=access_denied&error_code=200&error_description=Permissions%20error&error_reason=user_denied#_=_) 13 november, 2017.
+
+- **Pulso**. [Bloomberg por Piñera: Empresarios chilenos esperan el regreso del multimillonario con el  "toque de midas"  .](http://www.pulso.cl/actualidad-politica/bloomberg-pinera-empresarios-chilenos-esperan-regreso-del-multimillonario-toque-midas/) 13 november, 2017.
+
+- **La Discusión**. [Ruralidad sigue empujando la participación electoral en Ñuble.](http://www.ladiscusion.cl/detalle/17458/Ruralidad-sigue-empujando-la-Participaci%C3%B3n-electoral-en-%C3%91uble#sthash.hrlsdy86.dpbs) 11 november, 2017.
+
+- **Radio Agricultura**. [Los duros cuestionamientos entre los candidatos presidenciales Alejandro Guillier y Sebastián Piñera..](http://www.litoralpress.cl/deposito/audios/7705072.mp3) 9 november, 2017.
+
+- **Emol**. [Distrito 12: La competencia en la zona donde Ossandón se impuso a Piñera en las primarias.](http://www.emol.com/noticias/Nacional/2017/11/08/882367/Distrito-12-La-competencia-en-la-zona-donde-Ossandon-se-impuso-a-Pinera-en-las-primarias.html) 8 november, 2017.
+
+- **La Segunda**. [Arengazo de Guillier: ¿Por qué endureció su discurso?.](http://impresa.lasegunda.com/2017/11/08/A/4S3939A7) 8 november, 2017.
+
+- **El Diario News**. [El Termómetro Digital: “narcoescándalo” en el PS domina la conversación política en Internet y golpea la imagen de Guillier.](https://eldiario.news/nacional/distrito_10_la_ventaja_de_los_que_van_a_la_reeleccion_en_la_batalla_mas_emblematica) 7 november, 2017.
+
+- **El Diario News**. [Perfil de abstención : cómo son y donde están loa 8 millones de chilenos que no votan  .](https://eldiario.news/nacional/perfil_de_abstencion_como_son_y_donde_estan_los_8_millones_de_chilenos_que_no_votan) 7 november, 2017.
+
+- **El Mercurio de Antofagasta**. [El esquivo voto joven: ¿ hastío o solo falta de educación cívica?.](http://www.mercurioantofagasta.cl/impresa/2017/11/07/full/cuerpo-principal/3/) 7 november, 2017.
+
+- **El Muro**. [Post Debate: Las dudas que surgen de las últimas discusiones entre los candidatos.](http://elmuro.cl/noticias/post-debate-las-dudas-surgen-las-ultimas-discusiones-los-candidatos/) 7 november, 2017.
+
+- **Emol**. [El día después del debate: Expertos analizan a los candidatos más sólidos del foro .](http://www.emol.com/noticias/Nacional/2017/11/07/882295/Quien-estuvo-mejor-en-el-ultimo-debate-presidencial-Expertos-debaten.html) 7 november, 2017.
+
+- **Radio U de Chile**. [Kenneth Bunker: “Piñera no obtendría mayoría en el Congreso para hacer grandes cambios”.](Radio en vivo) 7 november, 2017.
+
+- **Soy Chile**. [El esquivo voto joven: ¿ hastío o solo falta de educación cívica?.](http://www.soychile.cl/Antofagasta/Sociedad/2017/11/07/497336/Mas-del-80-de-los-jovenes-no-votaran-en-las-proximas-elecciones.aspx ) 7 november, 2017.
+
+- **Algarrobo Digital**. [El perfil de la abstención: Quiénes son y dónde están los ocho millones de chilenos que no votan .](http://www.algarrobodigital.cl/2017/11/el-perfil-de-la-abstencion-quienes-son.html) 6 november, 2017.
+
+- **Carta Abierta**. [Abstención : ¿Quiénes son y dónde están los ocho millones de chilenos que no votan?.](http://cartaabierta.cl/abstencion-quienes-son-y-donde-estan-los-ocho-millones-de-chilenos-que-no-votan/) 6 november, 2017.
+
+- **El Ciudadano**. [A dos semanas de las elecciones, ¿quiénes conforman la abstención?.](http://www.elciudadano.cl/politica/a-dos-semanas-de-las-elecciones-quienes-conforman-la-abstencion/11/06/) 6 november, 2017.
+
+- **El Diario News**. [El positivo panorama de la centroderecha en el distrito 11.](https://eldiario.news/nacional/entre_el_51_y_el_42_el_positivo_panorama_de_la_centroderecha_en_el_distrito_11) 6 november, 2017.
+
+- **Emol**. [¿Rebajar a los 16 años la edad mínima para votar?  Expertos analizan la propuesta de Guillier  .](http://www.emol.com/noticias/Nacional/2017/11/06/882109/Voto-a-los-16-anos--Se-deberia-rebajar-la-edad-minima-para-sufragar.html) 6 november, 2017.
+
+- **Emol**. [Distrito 10: la ventaja de incumbentes en la batalla más emblemática de las parlamentarias .](http://www.emol.com/noticias/Nacional/2017/11/06/881897/Distrito-10-La-ventaja-de-los-incumbentes-en-la-batalla-mas-emblematica-de-las-Parlamentarias.html) 6 november, 2017.
+
+- **Emol**. [El perfil de la abstención: Quiénes son y dónde están los ocho millones de chilenos que no vota.](http://www.emol.com/noticias/Nacional/2017/11/06/881888/El-perfil-de-la-abstencion-Quienes-son-y-donde-estan-los-ocho-millones-chilenos-que-no-votan.html) 6 november, 2017.
+
+- **Tele 13**. [Carolina Goic: verificación de sus afirmaciones como candidata presidencial.](http://www.t13.cl/noticia/politica/carolina-goic-verificacion-sus-afirmaciones-como-candidata-presidencial) 6 november, 2017.
+
+- **El Líbero**. [La disputa DC-PC que se hace carne en la senatorial de Atacama.](http://ellibero.cl/actualidad/la-disputa-dc-pc-que-se-hace-carne-en-la-senatorial-de-atacama/) 4 november, 2017.
+
+- **El Líbero**. [Verónica Foppiano, la parvularia del Frente Amplio que amenaza a las grandes coaliciones en Arica y Parinacota.](http://ellibero.cl/actualidad/veronica-foppiano-la-parvularia-del-frente-amplio-que-amenaza-a-las-grandes-coaliciones-en-arica-y-parinacota/) 3 november, 2017.
+
+- **El Longino**. [El volátil Norte Grande: La disputa por votos de regiones más reacias al duopolio político.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2 lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4SS74NpfQpH8+aUUYO/OE/SG/ZOB3Z6G+5FL/uOAKpMvPVqCyhaiFqcWkv/2t3 rB9f) 3 november, 2017.
+
+- **Emol**. [El positivo panorama de la centroderecha en el distrito11.](http://www.emol.com/noticias/Nacional/2017/11/03/881813/Entre-el-51-y-el-42-El-positivo-panorama-de-la-centroderecha-en-el-Distrito-11.html) 3 november, 2017.
+
+- **Pulso**. [PS pagaría graves costos en elección senatorial por "turismo electoral".](http://www.pulso.cl/actualidad-politica/ps-pagaria-graves-costos-eleccion-senatorial-turismo-electoral/) 3 november, 2017.
+
+- **Antofagasta TV**. [Estudio asegura que legisladores independientes y partidos pequeños serán vitales para lograr cuórums.](http://elmensajero.cl/2017/11/02/estudio-asegura-que-legisladores-independientes-y-partidos-pequenos-seran-vitales-para-lograr-cuorums/) 2 november, 2017.
+
+- **El Mensajero**. [Estudio asegura que legisladores independientes y partidos pequeños serán vitales para lograr cuórums.](http://antofagasta.tv/2017/11/02/estudio-asegura-que-legisladores-independientes-y-partidos-pequenos-seran-vitales-para-lograr-cuorums/) 2 november, 2017.
+
+- **FM Plus**. [Estudio asegura que legisladores independientes y partidos pequeños serán vitales para lograr cuórums.](http://fmplus.cl/2017/11/02/estudio-asegura-que-legisladores-independientes-y-partidos-pequenos-seran-vitales-para-lograr-cuorums/) 2 november, 2017.
+
+- **FM Quiero**. [Estudio asegura que legisladores independientes y partidos pequeños serán vitales para lograr cuórums.](http://fmquiero.cl/2017/11/02/estudio-asegura-que-legisladores-independientes-y-partidos-pequenos-seran-vitales-para-lograr-cuorums/) 2 november, 2017.
+
+- **La Segunda**. [Guillier quedó solo porque el error es "impresentable".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4Syn4iLCHsj7FullK3MoPnfoa/BKEqczafttl/e6He0uEllJ0WEswBYg8icCwIvhm2) 2 november, 2017.
+
+- **Cambio 21**. [La abstención, complice pasivo de la derecha.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4S8J9ABJEPkAkdd2HZakJmjD2zZkfsMuxSHAXJzV8BkykM5pDQYAc0wZiNl9O9xfYK) 31 october, 2017.
+
+- **Cambio 21**. [La abstención, complice pasivo de la derecha.](https://cambio21.cl/cambio21/el-error-de-indignados-y-resignados-la-abstencin-cmplice-pasivo-de-la-derecha-59fd2259cd49b031a1224f7b) 31 october, 2017.
+
+- **El Muro**. [Expertos analizan el errático y agresivo comportamiento del candidato Alejandro Navarro.](http://elmuro.cl/noticias/expertos-analizan-el-erratico-y-agresivo-comportamiento-del-candidato-alejandro-navarro/) 30 october, 2017.
+
+- **El Muro**. [MEO sale a la caza de Beatriz Sánchez y del Frente Amplio.](http://elmuro.cl/noticias/meo-sale-a-la-caza-de-beatriz-sanchez-y-del-frente-amplio/) 30 october, 2017.
+
+- **Radio U de Chile**. [El rol que tendrá la franja electoral después de la Encuesta CEP.](http://radio.uchile.cl/2017/10/28/el-rol-que-ocupara-la-franja-electoral-despues-de-la-encuesta-cep/) 28 october, 2017.
+
+- **Cambio 21**. [Rostros senatoriales a poco más de 20 días de la elección: peligro inminente.](https://cambio21.cl/cambio21/rostros-senatoriales-a-poco-ms-de-20-das-de-la-eleccin-peligro-inminente-59f2557faa2d74523a2b5b4b) 27 october, 2017.
+
+- **El Dínamo**. [El frente interno de Álvaro Elizalde en el Partido Socialista.](http://www.eldinamo.cl/nacional/2017/10/26/el-frente-interno-de-alvaro-elizalde-en-el-partido-socialista/) 26 october, 2017.
+
+- **El Diario News**. [Presidenciales 2017: Hoy se conocen los resultados de la CEP, la última gran encuesta antes de las elecciones.](https://eldiario.news/nacional/hoy_se_conocen_los_resultados_de_la_cep_ultima_gran_encuesta_antes_de_las_presidenciales_2017) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Artés: De un sector "ultra exaltado" de izquierda que le atrae poner "fin al modelo".](http://www.emol.com/noticias/Nacional/2017/10/26/880740/El-perfil-del-votante-de-Artes-Es-de-un-sector-ultra-exaltado-de-izquierda-y-les-atraer-poner-fin-al-modelo.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Goic: Admiran la "obra concertacionista" y les atrae la moderación política.](http://www.emol.com/noticias/Nacional/2017/10/25/880665/El-perfil-del-votante-de-Goic-Admiran-la-obra-concertacionista-y-les-atrae-la-moderacion-politica.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Guillier: Santiaguinos de sectores medios y bajos, quieren continuar reformas "sin tanta velocidad".](http://www.emol.com/noticias/Nacional/2017/10/26/880832/El-perfil-del-votante-de-Guillier-Santiaguinos-de-sectores-medios-y-bajos-quieren-continuar-reformas-sin-tanta-velocidad.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Kast: Atraído por su discurso nacionalista y nostálgico del orden autoritario.](http://www.emol.com/noticias/Nacional/2017/10/24/880495/El-perfil-del-votante-de-Kast-Les-atrae-su-discurso-nacionalista-y-son-nostalgicos-del-orden-autoritario.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de ME-O: Fieles desde su era de "diputado díscolo" y con el peor nivel de conducta electoral.](http://www.emol.com/noticias/Nacional/2017/10/24/880522/El-perfil-del-votante-de-MEO-Fieles-desde-su-era-de-diputado-discolo-y-con-el-peor-nivel-de-conducta-electoral.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Navarro: Pertenecen al antiguo socialismo y buscan "empezar de nuevo".](http://www.emol.com/noticias/Nacional/2017/10/26/880715/El-perfil-del-votante-de-Navarro-Pertenecen-al-antiguo-socialismo-y-buscan-empezar-de-nuevo.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Piñera: Le atrae agenda pro crecimiento y prefiere el orden ante una "izquierda fracturada".](http://www.emol.com/noticias/Nacional/2017/10/25/880700/El-perfil-del-votante-de-Pinera-Le-atrae-agenda-pro-crecimiento-y-prefiere-el-orden-ante-una-izquierda-fracturada.html) 25 october, 2017.
+
+- **Emol**. [El perfil del votante de Sánchez: Jóvenes, mayormente mujeres, que buscan renovación en la política.](http://www.emol.com/noticias/Nacional/2017/10/25/880576/El-perfil-del-votante-de-Sanchez-Jovenes-mayormente-mujeres-y-buscan-renovacion-de-la-politica.html) 25 october, 2017.
+
+- **Emol**. [Presidenciales 2017: Hoy se conocen los resultados de la CEP, la última gran encuesta antes de las elecciones.](http://www.emol.com/noticias/Nacional/2017/10/25/880571/Presidenciales-2017-Hoy-se-conocen-los-resultados-de-la-ultima-encuesta-CEP-a-menos-de-un-mes-de-los-comicios.html) 25 october, 2017.
+
+- **La Segunda**. [Si DC compite sola bajará a 13 diputados.](http://impresa.lasegunda.com/2017/07/25/A/V5370FUN) 25 october, 2017.
+
+- **La Segunda**. [El norte y La Araucanía: Los bolsones electorales de Kast.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4S5OYW4b1vJuAh+9dgrsoNQlmg2HbAmI6810DxBjIyALjjCG4li8nAZ8MYyTSWzvGl) 24 october, 2017.
+
+- **Pulso**. [La cruda disputa de centroizquierda en el distrito 11: 30 candidatos a diputados buscan hacer historia.](http://www.pulso.cl/actualidad-politica/la-cruda-disputa-centroizquierda-distrito-11-30-candidatos-diputados-buscan-historia/) 23 october, 2017.
+
+- **Cooperativa**. [Candidatos presidenciales se enfrentan en debate de Archi.](http://www.cooperativa.cl/noticias/pais/politica/presidenciales/candidatos-presidenciales-se-enfrentan-en-debate-de-archi/2017-10-20/072732.html) 20 october, 2017.
+
+- **La Segunda**. [Analistas: Navarro y Artés son los únicos que reprueban.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRRUzdMUsKjdNRmnDIpCuzqMnA4kIOP/ttrRhjIgwB9kQC+J+/jlVUHpAYUGU+GC0z) 20 october, 2017.
+
+- **Cooperativa**. [DC respalda a Huenchumilla tras difusión de video de cita con empresarios.](http://www.cooperativa.cl/noticias/pais/region-de-la-araucania/dc-respalda-a-huenchumilla-tras-difusion-de-video-de-cita-con-empresarios/2017-10-19/094634.html) 19 october, 2017.
+
+- **El Líbero**. [Seis de siete candidatos “foráneos” corren riesgo de quedar fuera del Senado en las elecciones.](http://ellibero.cl/actualidad/seis-de-siete-candidatos-foraneos-corren-riesgo-de-quedar-fuera-del-senado-en-las-elecciones/) 19 october, 2017.
+
+- **La Segunda**. [Analistas creen que Huenchumilla será electo por una nariz.](http://impresa.lasegunda.com/2017/10/19/A/BG38NN4L/all#D738NNCG) 19 october, 2017.
+
+- **Austral Valdivia**. [Conoce los diputados y senadores que van a reelección por tu distrito.](http://www.australvaldivia.cl/impresa/Politica/2017/10/17/493311/Conoce-los-diputados-y-senadores-que-van-a-reeleccion-por-tu-distrito/ciudad/) 17 october, 2017.
+
+- **Antofagasta TV**. [Récord histórico de senadores y diputados que buscan la reelección.](http://antofagasta.tv/2017/10/16/record-historico-de-senadores-y-diputados-que-buscan-la-reeleccion/) 16 october, 2017.
+
+- **Diario Financiero**. [La zona que daría al PRO su primer escaño en el Congreso.](https://www.df.cl/noticias/economia-y-politica/actualidad/distrito-14-la-zona-que-daria-al-pro-su-primer-escano-en-el-congreso/2017-10-13/201204.html) 16 october, 2017.
+
+- **El Mensajero**. [Récord histórico de senadores y diputados que buscan la reelección.](http://elmensajero.cl/2017/10/16/record-historico-de-senadores-y-diputados-que-buscan-la-reeleccion/) 16 october, 2017.
+
+- **El Mercurio de Calama**. [Estudio proyecta qué listas tendrían opción a elegir sus candidatos.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRzMMJCEKObvY1u2nhtcAUPa0ZddmEUzxruJ9Ie6fmWsVxLkNZHfvVMDmixID3/sfA) 16 october, 2017.
+
+- **La Segunda**. [Kenneth Bunker: "Escalona es la mejor esperanza del PS".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtAlT/0e6wHp0fJV2YbCvFvHynCBCxaFPrjGpGx90PTuDYwiA7s171WD6w27UsmsU) 16 october, 2017.
+
+- **La Segunda**. [Kenneth Bunker: "Escalona es la mejor esperanza del PS".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtAlT/0e6wHp0fJV2YbCvFvHynCBCxaFPrjGpGx90PTuDYwiA7s171WD6w27UsmsU) 16 october, 2017.
+
+- **El Mercurio de Antofagasta**. [Seis listas tienen opciones de elegir diputados en la región.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRSRbVL2mofLR7WmJq8qRLrj4U1wzAOzNpUUAV9hN9ZqaUS16fVGckaXzHQb9uBoIH) 15 october, 2017.
+
+- **El Longino**. [Reporte presidencial: Guillier incrementa probabilidad de pasar a segunda vuelta.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtftYwGLRhyk5G40IYJyshAEo/hr7vSbwoUQ5cczejv6lKxWbABk1XGTM37R4FjwF) 14 october, 2017.
+
+- **Diario El Chañarcillo**. [Expertos proyectan que la UDI sería mayoría en el congreso.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdR+8qQCICVy6tVSAK6UWAUCqo1psSZyUotyZTGwqcdJAotdk6jVk7jwSTh4+snrGnK) 13 october, 2017.
+
+- **El Diario News**. [Parlamentarias: Los distritos y candidatos que podrían marcar cifras récord el 19 de noviembre.](https://eldiario.news/nacional/parlamentarias_los_distritos_y_candidatos_que_podrian_marcar_cifras_record_el_19_de_noviembre) 13 october, 2017.
+
+- **Emol**. [Parlamentarias: Los distritos y candidatos que podrían marcar cifras récord el 19 de noviembre.](http://www.emol.com/noticias/Nacional/2017/10/13/878908/Parlamentarias-Los-distritos-y-candidatos-que-podrian-marcar-cifras-record.html) 13 october, 2017.
+
+- **Austral Valdivia**. [Experto electoral dijo que "es difícil que Piñera gane en primera vuelta".](http://www.australvaldivia.cl/impresa/Politica/2017/10/12/492340/Experto-electoral-dijo-que-es-dificil-que-Pinera-gane-en-primera-vuelta/ciudad/) 12 october, 2017.
+
+- **Cooperativa**. [Explicación de estudio realizado por el programa electoral, referente a las próximas elecciones presidenciales.](www.cooperativa.cl/envivo) 12 october, 2017.
+
+- **Cooperativa**. [Kenneth Bunker analizó el escenario político de cara a las elecciones.](http://www.cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-analizo-el-escenario-politico-de-cara-a-las-elecciones/2017-10-12/083501.html) 12 october, 2017.
+
+- **El Diario News**. [Experto de U. Central proyecta que UDI será partido con mayor participación en Congreso.](https://eldiario.news/nacional/experto_de_u_central_proyecta_que_udi_sera_partido_con_mayor_participacion_en_congreso) 12 october, 2017.
+
+- **El Muro**. [El error del comando de Piñera: Atacar a Kast en vez de fidelizarlo para segunda vuelta.](http://elmuro.cl/el-error-del-comando-de-pinera-atacar-a-kast-en-vez-de-fidelizarlo-para/elmuro/2017-10-12/093727.html) 12 october, 2017.
+
+- **Gran Valparaíso**. [Reporte presidencial: Guillier incrementa probabilidad de pasar a segunda vuelta.](http://www.granvalparaiso.cl/cartas-comunicados/reporte-presidencial-guillier-incrementa-probabilidad-de-pasar-a-segunda-vuelta/) 12 october, 2017.
+
+- **La Segunda**. [Beatriz Sanchez deja de ser amenaza de Guillier.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdR9pERjDlICI2UiWxyO3ukcOpk2OGfMbT9LvVmclvIFR90xq0MQPDPTvzUhs03qdnM) 12 october, 2017.
+
+- **Soy Chile**. [Experto electoral dijo que "es difícil que Piñera gane en primera vuelta".](http://www.soychile.cl/Santiago/Politica/2017/10/12/492340/Experto-electoral-dijo-que-es-dificil-que-Pinera-gane-en-primera-vuelta.aspx) 12 october, 2017.
+
+- **La Segunda**. [Goic mostraría debilidad si anticipa apoyo a Guillier.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRe+otCcSXpxUI6rGg8O7ANkaPRRd0sEcb5Iw/mp9rADQkr9jYjieo81FlB9aHb92B) 11 october, 2017.
+
+- **Diario Financiero**. [Estrecha disputa de los DC pone en riesgo la reelección del conductor de la retroexcavadoraen La Araucanía.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRHSVIVaNM9Xcaw/0SZBZTqDs53cSxaj8Sj824eSY5ISFTs0hC1Ud7q+UCE+Fwkend) 10 october, 2017.
+
+- **Diario Financiero**. [Pacto guillierista se hace espacio para sacarle ventaja a la DC.](https://www.df.cl/noticias/economia-y-politica/actualidad/distrito-13-pacto-guillierista-se-hace-espacio-para-sacarle-ventaja-a/2017-10-05/220924.html) 6 october, 2017.
+
+- **El Muro**. [Kenneth Bunker: “Los votantes de Piñera son de Piñera, no son votantes de derecha”.](http://elmuro.cl/kenneth-bunker-los-votantes-de-pinera-son-de-pinera-no-son-votantes/elmuro/2017-10-03/131915.html) 3 october, 2017.
+
+- **El Mostrador**. [Posible pacto entre Sánchez, Guillier y Goic amenaza con aguar fiesta a inversionistas.](http://www.elmostrador.cl/mercados/2017/09/27/posible-pacto-entre-sanchez-guillier-y-goic-amenaza-con-aguar-fiesta-a-inversionistas/) 27 september, 2017.
+
+- **Diario Financiero**. [Expertos ponen cifra a reacomodo de votos en segunda vuelta.](http://www.litoralpress.cl/sitio/PDF3/litoralpresspdf.aspx?id=41784037&idT=700547&org=no&carp=universidadcentral&ve=0) 26 september, 2017.
+
+- **Diario Financiero**. [Distrito 10: pronósticos de analistas le dan más ventaja a los candidatos de Chile Vamos.](https://www.df.cl/noticias/economia-y-politica/actualidad/distrito-10-pronosticos-de-analistas-le-dan-mas-ventaja-a-los/2017-09-22/194807.html) 25 september, 2017.
+
+- **Diario Financiero**. [Distrito 9: mujeres corren con ventaja en el sector norte de Santiago.](https://www.df.cl/noticias/economia-y-politica/actualidad/distrito-9-mujeres-corren-con-ventaja-en-el-sector-norte-de-santiago/2017-09-13/201443.html) 21 september, 2017.
+
+- **La Voz de Maipú**. [Experto electoral destaca candidatura competitiva del FA en distrito 8.](https://www.lavozdemaipu.cl/2017/09/experto-electoral-destaca-candidatura-competitiva-del-fa-distrito-8/) 21 september, 2017.
+
+- **La Clave**. [Polémica por las elecciones senatoriales en Atacama.](http://www.litoralpress.cl/deposito/audios/7629253.mp3) 15 september, 2017.
+
+- **Duna**. [El futuro de los candidatos presidenciales según reflejan los estudios.](http://www.duna.cl/podcasts/kenneth-bunker-si-la-fuerza-de-mayoria-fracasa-podria-ser-el-primer-gran-paso-del-frente-amplio-para-transformarse-en-una-alternativa-viable-el-2021/) 14 september, 2017.
+
+- **Emol**. [Las consecuencias electorales para la NM que podría ocasionar el conflicto senatorial en Atacama.](http://www.emol.com/noticias/Nacional/2017/09/14/875335/Las-consecuencias-electorales-para-la-NM-que-podria-ocasionar-el-conflicto-senatorial-en-Atacama.html) 14 september, 2017.
+
+- **Radio Polar**. [Estudio revela que Sandra Amar sería uno de los tres diputados electos por Magallanes.](http://radiopolar.com/noticia_135597.html) 14 september, 2017.
+
+- **Cambio 21**. [Claves de campaña: ni mayorías ni certezas, solo temores.](http://www.litoralpress.cl/sitio/PDF3/litoralpresspdf.aspx?id=41692174&idT=700547&org=no&carp=universidadcentral&ve=0) 13 september, 2017.
+
+- **El Dínamo**. [Más mujeres, renovación parcial y mayoría UD.](http://www.eldinamo.cl/nacional/2017/09/13/mas-mujeres-renovacion-parcial-y-mayoria-udi-como-estaria-compuesto-el-congreso-desde-marzo/) 13 september, 2017.
+
+- **Cooperativa**. [Estudio de la Universidad Central sobre tendencias electorales.](cooperativa.cl) 12 september, 2017.
+
+- **El Dínamo**. [Los candidatos que podrían ser electos para el Senado y la Cámara en noviembre.](http://www.eldinamo.cl/nacional/2017/09/12/pronostico-tresquintos-los-candidatos-que-podrian-ser-electos-para-el-senado-y-la-camara-en-noviembre/) 12 september, 2017.
+
+- **El Mostrador**. [Tresquintos: Piñera llega a intención de voto más alto, pero no alcanza mayoría absoluta para imponerse en primera vuelta.](http://www.elmostrador.cl/noticias/pais/2017/09/12/tresquintos-pinera-llega-a-intencion-de-voto-mas-alto-pero-no-alcanza-mayoria-absoluta-para-imponerse-en-primera-vuelta/) 12 september, 2017.
+
+- **La Batalla de Maipú**. [Estos serían los candidatos electos del distrito 8.](http://www.labatalla.cl/estos-serian-los-candidatos-electos-en-el-distrito-8-segun-tresquintos/) 12 september, 2017.
+
+- **Radio Santiago**. [Impacto que tendría un potencial acuerdo entre el Frente Amplio y la Nueva Mayoría.](https://www.radiosantiago.cl/archivo/28079) 12 september, 2017.
+
+- **Cooperativa**. [Análisis de estudio de la Universidad Central sobre tendencias electorales.](http://www.litoralpress.cl/deposito/audios/7623211.mp3) 11 september, 2017.
+
+- **Cooperativa**. [Cientista político: "A Piñera le conviene que vote menos gente".](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/cientista-politico-a-pinera-le-conviene-que-vote-menos-gente/2017-09-11/085614.html) 11 september, 2017.
+
+- **Cooperativa**. [Kenneth Bunker explicó la simulación legislativa .](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-explico-la-simulacion-legislativa-realizada-por-la/2017-09-11/084525.html) 11 september, 2017.
+
+- **Cooperativa**. [Proyección de la Universidad Central: Piñera 44%, Guillier 21%, Sánchez 19% y Goic 5%.](http://www.cooperativa.cl/noticias/pais/politica/presidenciales/proyeccion-de-la-universidad-central-pinera-44-guillier-21-sanchez/2017-09-11/074312.html) 11 september, 2017.
+
+- **Infogate**. [Estudio de la U. Central establece escenario de segunda vuelta con Piñera a la cabeza.](http://www.infogate.cl/2017/09/11/estudio-de-la-u-central-establece-escenario-de-segunda-vuelta-con-pinera-a-la-cabeza/) 11 september, 2017.
+
+- **La Tendencia**. [Encuesta de la U.Central: Piñera 44, Guillier 21, Sánchez 19 y Goic 5 .](http://latendencia.cl/2017/09/11/politica/encuesta-de-u-central-pinera-44-guillier-21-sanchez-19-y-goic-5/) 11 september, 2017.
+
+- **El Muro**. [¿Pierde credibilidad el Frente Amplio si apoya a Guillier en segunda vuelta?.](http://elmuro.cl/pierde-credibilidad-el-frente-amplio-si-apoya-a-guillier-en-segunda/elmuro/2017-09-07/082527.html) 7 september, 2017.
+
+- **Radio U de Chile**. [Gobierno prioriza agenda legislativa en pos de “buen escenario” electoral.](http://radio.uchile.cl/2017/09/06/gobierno-prioriza-agenda-legislativa-en-pos-de-buen-escenario-electoral/) 6 september, 2017.
+
+- **La Segunda**. ["Caso Guillier: Fiscalía analiza pedir antecedentes de todos los senadores".](http://impresa.lasegunda.com/2017/09/05/A/0Q37R09S) 5 september, 2017.
+
+- **Cooperativa**. [Kast hace la diferencia con Piñera: "Tengo un liderazgo más social".](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/kast-hace-la-diferencia-con-pinera-tengo-un-liderazgo-mas-social-/2017-09-04/100201.html) 4 september, 2017.
+
+- **La Segunda**. [Roberto Méndez en su momento del adiós: "las encuestas dan o quitan poder".](http://impresa.lasegunda.com/2017/09/04/A/5M37PM0E) 4 september, 2017.
+
+- **La Prensa Local**. [La burla barata de Chistián Vitorri.](http://prensalocal.cl/2017/09/02/la-burla-barata-de-chistian-vittori/) 2 september, 2017.
+
+- **Cooperativa**. [Por qué encuesta CEP hará a Piñera cada vez más conservador.](http://www.cooperativa.cl/radioenvivo/) 1 september, 2017.
+
+- **Emol**. [Expertos responden tras resultados CEP: ¿Es irremontable la ventaja de Sebastián Piñera de cara a comicios de noviembre.](http://www.emol.com/noticias/Nacional/2017/09/01/873619/Expertos-responden-tras-resultados-de-la-CEP-Es-irremontable-la-ventaja-de-Sebastian-Pinera-de-cara-a-los-comicios-de-noviembre.html) 1 september, 2017.
+
+- **La Segunda**. [Soy el único candidato que pueden reconocer de espalda.](http://impresa.lasegunda.com/2017/09/01/A/DG37OQ7P) 1 september, 2017.
+
+- **Cooperativa**. [Bachelet cambió a integrantes del equipo económico.](https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/bachelet-cambio-a-integrantes-del-equipo-economico/2017-08-31/112609.html) 31 august, 2017.
+
+- **Diario Financiero**. [Distrito 8 ya tiene favoritos: dura batalla enfrentan las nuevas cartas al Parlamento.](https://www.df.cl/noticias/economia-y-politica/actualidad/distrito-8-ya-tiene-favoritos-dura-batalla-enfrentan-las-nuevas-cartas/2017-08-30/212639.html) 31 august, 2017.
+
+- **El Dínamo**. [Proyección Tresquintos: Piñera lidera mientras Guillier y Sánchez quedan en empate técnico.](http://www.eldinamo.cl/nacional/2017/08/29/proyeccion-tresquintos-pinera-lidera-mientras-guillier-y-sanchez-quedan-en-empate-tecnico/) 31 august, 2017.
+
+- **Radio U de Chile**. [Ossandón pide “agenda libre” como requisito para reunirse con Piñera.](http://radio.uchile.cl/2017/08/30/ossandon-pide-agenda-libre-como-requisito-para-reunirse-con-pinera/) 30 august, 2017.
+
+- **La Segunda**. [Valdés profundiza quiebre al interior del gobierno: respaldó críticas de Micco y Céspedes.](http://impresa.lasegunda.com/2017/08/28/A/1F37L940) 28 august, 2017.
+
+- **Pulso**. [Analistas y parlamentarios descartan que Bachelet cierre su mandato sobre el 50% de aprobación.](http://www.pulso.cl/actualidad-politica/analistas-parlamentarios-descartan-bachelet-cierre-mandato-50-aprobacion/) 28 august, 2017.
+
+- **El Centro**. ["Para Alejandro Guillier y Carolina Goic no ir a primarias podría generarles un costo".](https://issuu.com/diarioelcentro/docs/temas_2352e21fa6fb92/9?ff=true) 25 august, 2017.
+
+- **Cooperativa**. [Ley de cuotas: ¿Medida eficaz o saludo a la bandera?.](https://www.cooperativa.cl/noticias/pais/politica/parlamentarias/ley-de-cuotas-medida-eficaz-o-saludo-a-la-bandera/2017-08-24/075430.html) 24 august, 2017.
+
+- **Emol**. [¿Sirve la ley de cuotas exigida por el nuevo sistema electoral? Expertos opinan.](http://www.emol.com/noticias/Nacional/2017/08/24/872427/Ley-de-cuotas-Es-eficiente-o-un-parche-que-no-conducira-a-cambios-Expertos-opinan.html) 24 august, 2017.
+
+- **La Segunda**. [Boric, un presidenciable en construcción.](http://impresa.lasegunda.com/2017/08/24/A/V137J55H) 24 august, 2017.
+
+- **La Segunda**. [Expertos: Caso Dominga debilitó a equipo económico de Bachelet.](http://impresa.lasegunda.com/2017/08/24/A/V137J55Q) 24 august, 2017.
+
+- **Radio U de Chile**. [Análisis de los cambios en el sistema electoral.](http://radio.uchile.cl/senal-en-vivo/) 23 august, 2017.
+
+- **Radio U de Chile**. [Kenneth Bunker: “Con la dispersión que existe, Piñera podría ganar en primer vuelta”.](http://radio.uchile.cl/2017/08/23/kenneth-bunker-la-centro-izquierda-tiene-que-evitar-una-campana-destructiva/) 23 august, 2017.
+
+- **La Segunda**. [Ex parvularia del diputado Mirosevic amenza a grandes bloques en la senatorial de Arica.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRdCnSv286YK2J5Qa9sZSsIN2aUcV5AYOUqFxkk7EwTIm+cwwFj+6AjqYntdJmQ7wR) 20 august, 2017.
+
+- **Cooperativa**. [Analista explicó las mejoras del nuevo sistema electoral que debutará en noviembre.](https://www.cooperativa.cl/noticias/pais/politica/analista-explico-las-mejoras-del-nuevo-sistema-electoral-que-debutara-en/2017-08-18/191722.html) 18 august, 2017.
+
+- **La Tercera**. [Un frente de mal tiempo.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtUj4WZI2tpPxNxA1CJ7bzg/2zNTb0/RNAS5fBZP7FCHeVX1GoEA3KevOqFQdaDuS) 18 august, 2017.
+
+- **Bío Bío**. [Diputado Pérez califica como -equivocados- resultados de simulación legislativa" en el D21.](http://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2017/09/15/diputado-perez-califica-como-equivocados-resultados-de-simulacion-legislativa-en-bio-bio.shtml) 17 august, 2017.
+
+- **Bío Bío**. [Simulación legislativa: Nueva Mayoría tendría más diputados electos en nuevo distrito 21.](http://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2017/09/13/simulacion-legislativa-nueva-mayoria-tendria-mas-diputados-electos-en-nuevo-distrito-21.shtml) 17 august, 2017.
+
+- **Emol**. [¿Cuánto afecta a Beatriz Sánchez el conflicto en el Frente Amplio con Mayol?: Analistas opinan.](http://www.emol.com/noticias/Nacional/2017/08/17/871338/Cuanto-afecta-a-Beatriz-Sanchez-el-conflicto-en-el-Frente-Amplio-con-Mayol-Analistas-opinan.html) 17 august, 2017.
+
+- **Cooperativa**. [La andanada de reacciones que desató el castigo del Frente Amplio a Alberto Mayol.](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/la-andanada-de-reacciones-que-desato-el-castigo-del-frente-amplio-a/2017-08-15/163808.html) 15 august, 2017.
+
+- **Radio U de Chile**. [Los costos y ganancias de Piñera en negociación parlamentaria de Chile Vamos.](http://radio.uchile.cl/2017/08/14/los-costos-y-ganancias-de-negociacion-parlamentaria-de-chile-vamos/) 14 august, 2017.
+
+- **Pulso**. [Tricel rechaza petición de Rincón y Goic elude otros casos que la complican.](http://www.litoralpress.cl/sitio/PDF3/litoralpresspdf.aspx?id=41411242&idT=700547&org=no&carp=universidadcentral&ve=0) 11 august, 2017.
+
+- **La Segunda**. [Duelo entre Jackson y Mayol tensiona al Frente Amplio.](http://impresa.lasegunda.com/2017/08/08/A/QM3799DA) 9 august, 2017.
+
+- **Emol**. [La mediación de Piñera en la lista parlamentaria que divide a Chile Vamos: ¿Le conviene al ex Presidente?.](http://www.emol.com/noticias/Nacional/2017/08/07/870102/La-mediacion-de-Pinera-en-la-lista-parlamentaria-que-divide-a-Chile-Vamos-Le-conviene-al-ex-Presidente.html) 7 august, 2017.
+
+- **Tele 13**. [La mediación de Piñera en la lista parlamentaria que divide a Chile Vamos: ¿Le conviene al ex Presidente?.](http://www.tarapacaonline.cl/2017/08/07/la-mediacion-de-pinera-en-la-lista-parlamentaria-que-divide-a-chile-vamos-le-conviene-al-ex-presidente/) 7 august, 2017.
+
+- **La Segunda**. [Efectos en la candidatura presidencial de Carolina Goic por polémico episodio con Ricardo Rincón..](http://impresa.lasegunda.com/2017/08/03/A/Q1376AMA) 3 august, 2017.
+
+- **Pulso**. [Análisis de los resultados de la última encuesta Adimark.](http://www.pulso.cl/actualidad-politica/adimark-pinera-no-capitaliza-divisiones-la-nm-se-mantiene-estable-preferencias/) 3 august, 2017.
+
+- **Cooperativa**. [Cómo funciona el nuevo sistema electoral proporcional para las Parlamentarias.](https://www.cooperativa.cl/noticias/pais/politica/parlamentarias/como-funciona-el-nuevo-sistema-electoral-proporcional-para-las/2017-07-31/110454.html) 31 july, 2017.
+
+- **La Segunda**. [La DC siempre ha estado dividida.](http://impresa.lasegunda.com/2017/07/31/A/34373BMP) 31 july, 2017.
+
+- **Pulso**. [División de la Nueva Mayoría desataría una “venenosa” campaña senatorial en el país.](http://www.pulso.cl/actualidad-politica/division-la-nueva-mayoria-desataria-una-venenosa-campana-senatorial-pais/) 31 july, 2017.
+
+- **El Muro**. [La batalla de Guillier y Sánchez por imponerse en las encuestas de opinión pública.](http://elmuro.cl/noticias/la-batalla-de-guillier-y-sanchez-por-imponerse-en-las-encuestas-de-opinion-publica/) 25 july, 2017.
+
+- **Pulso**. [El Congreso 2018 que desafiará al próximo Presidente.](http://www.pulso.cl/actualidad-politica/congreso-2018-desafiara-al-proximo-presidente/) 10 july, 2017.
+
+- **Cooperativa**. [Primarias: Chile Vamos denuncia inscripciones irregulares en el Frente Amplio.](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/primarias-chile-vamos-denuncia-inscripciones-irregulares-en-el-frente/2017-07-02/145925.html) 2 july, 2017.
+
+- **Crónica Digital**. [La peor pesadilla de la derecha.](http://www.cronicadigital.cl/2017/07/01/por-kenneth-bunker-la-peor-pesadilla-de-la-derecha/) 1 july, 2017.
+
+- **Tele 13**. [Las caras que podrían convertirse en diputados en el nuevo megadistrito de Santiago.](http://www.t13.cl/noticia/politica/las-caras-podrian-convertirse-diputados-nuevo-megadistrito-santiago) 1 july, 2017.
+
+- **Santiago Times**. [Former Chilean leader Pinera to seek return to presidency.](https://santiagotimes.cl/2017/03/22/former-chilean-leader-pinera-to-seek-return-to-presidency/) 22 march, 2017.
+
+- **Diario Financiero**. [Fragmentado y más diverso: el congreso que espera al nuevo presiednte electo.](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGTxKQZ8Pk1C/ao06DQzg4Si86lkLpronSdXn0L5HW/5PZPl6kq751g3F34CEBsuzbPrLpbh8DpgCs4wnalKUrv) 15 december, 2015.
+
+- **El Mostrador**. [Bloomberg y las presidenciales: alarmismo venezolano surge en Chile en la previa de reñida elección.](http://www.elmostrador.cl/mercados/2017/12/14/bloomberg-y-las-presidenciales-alarmismo-venezolano-surge-en-chile-en-la-previa-de-renida-eleccion/) 15 december, 2015.
+
+- **La Segunda**. [José Antonio Kast: el que más ganó con las elecciones.](http://impresa.lasegunda.com/2017/12/15/A/AE39REI7) 15 december, 2015.
+
+- **La Tercera**. [El sistema electoral pasa su prueba de fuego.](https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/) 20 november, 2015.
+
+- **Santiago Times**. [Los mejores y peores sistemas de votación en América Latina.](https://www.infobae.com/2015/08/30/1751428-los-mejores-y-peores-sistemas-votacion-america-latina/) 30 august, 2015.
