@@ -13,23 +13,23 @@ title: Prensa
 
 ## 2021
 
-- **El Llanquihue**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.ellanquihue.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
+- **El Llanquihue**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.ellanquihue.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
 
-- **El Austral de Osorno**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australosorno.cl/impresa/2021/12/12/full/cuerpo-reportajes/8/) 12 december, 2021.
+- **El Austral de Osorno**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.australosorno.cl/impresa/2021/12/12/full/cuerpo-reportajes/8/) 12 december, 2021.
 
-- **Diario Austral**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australvaldivia.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/) 12 december, 2021.
+- **El Diario de Atacama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.diarioatacama.cl/impresa/2021/12/12/full/cuerpo-reportajes/2/) 12 december, 2021.
 
-- **El Austral**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.australtemuco.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
+- **El Mercurio de Calama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.mercuriocalama.cl/impresa/2021/12/12/full/cuerpo-reportajes/1/) 12 december, 2021.
 
-- **El Diario de Atacama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.diarioatacama.cl/impresa/2021/12/12/full/cuerpo-reportajes/2/) 12 december, 2021.
+- **El Mercurio de Antofagasta**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.mercurioantofagasta.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
 
-- **El Mercurio de Calama**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.mercuriocalama.cl/impresa/2021/12/12/full/cuerpo-reportajes/1/) 12 december, 2021.
+- **El Mercurio de Valparaíso**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".]( https://www.mercuriovalpo.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
 
-- **El Mercurio de Antofagasta**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.mercurioantofagasta.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
+- **Diario Austral de Valdivia**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.australvaldivia.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/) 12 december, 2021.
 
-- **El Mercurio de Valparaíso**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"]( https://www.mercuriovalpo.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
+- **El Austral de Temuco**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.australtemuco.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
 
-- **El Sur**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible"](https://www.elsur.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/=) 12 december, 2021.
+- **El Sur**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.elsur.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/=) 12 december, 2021.
 
 - **Ex-Ante**. [9 factores que definirán el resultado de la elección Kast-Boric, según los expertos.](https://www.ex-ante.cl/9-factores-que-definiran-el-resultado-de-la-eleccion-kast-boric-segun-los-expertos/) 9 december, 2021.
 
