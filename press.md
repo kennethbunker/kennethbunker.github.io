@@ -13,6 +13,9 @@ title: Press
 
 ## 2021
 
+
+- **Bloomberg**. [The Ultra-Conservative Who Vows to Save Chile From Communism.](https://www.bloomberg.com/news/articles/2021-12-13/the-ultra-conservative-who-vows-to-save-chile-from-communism) 13 december, 2021.
+
 - **Le Monde**. [Gabriel Boric, un jeune espoir contre l’extrême droite chilienne.](https://www.lemonde.fr/m-le-mag/article/2021/12/07/gabriel-boric-un-jeune-espoir-contre-l-extreme-droite-chilienne_6104963_4500055.html) 7 december, 2021.
 
 - **Rest of the World**. [Campaña remota: golpe maestro del candidato presidencial de Chile en EE.UU.](https://restofworld.org/2021/campana-chile-franco-parisi/) 30 november, 2021.
