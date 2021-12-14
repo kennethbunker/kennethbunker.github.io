@@ -13,6 +13,7 @@ title: Press
 
 ## 2021
 
+- **Bloomberg**. [Chile’s Presidential Candidates Clash in Crucial, Final Debate.](https://www.bloomberg.com/news/articles/2021-12-14/chile-s-presidential-candidates-clash-in-crucial-final-debate) 14 december, 2021.
 
 - **Bloomberg**. [The Ultra-Conservative Who Vows to Save Chile From Communism.](https://www.bloomberg.com/news/articles/2021-12-13/the-ultra-conservative-who-vows-to-save-chile-from-communism) 13 december, 2021.
 
