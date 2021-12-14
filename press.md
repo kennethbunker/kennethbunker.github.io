@@ -15,6 +15,8 @@ title: Press
 
 - **Bloomberg**. [Chile’s Presidential Candidates Clash in Crucial, Final Debate.](https://www.bloomberg.com/news/articles/2021-12-14/chile-s-presidential-candidates-clash-in-crucial-final-debate) 14 december, 2021.
 
+- **Infobae**. [Encuestas en Chile muestran carrera presidencial más reñida antes del balotaje.](https://www.infobae.com/america/agencias/2021/12/14/encuestas-en-chile-muestran-carrera-presidencial-mas-renida-antes-del-balotaje/) 13 december, 2021.
+
 - **Bloomberg**. [The Ultra-Conservative Who Vows to Save Chile From Communism.](https://www.bloomberg.com/news/articles/2021-12-13/the-ultra-conservative-who-vows-to-save-chile-from-communism) 13 december, 2021.
 
 - **El País**. [Las encuestas en Chile anticipan una victoria incierta del izquierdista Boric frente a Kast.](https://elpais.com/internacional/2021-12-11/las-encuestas-en-chile-anticipan-una-victoria-incierta-del-izquierdista-boric-frente-a-kast.html?ssm=TW_CC) 11 december, 2021.
