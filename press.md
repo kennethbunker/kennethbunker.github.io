@@ -13,6 +13,10 @@ title: Press
 
 ## 2021
 
+- **América Economía**. [Carrera presidencial chilena más reñida antes del balotaje, según las encuestas.](https://www.americaeconomia.com/politica-sociedad/politica/carrera-presidencial-chilena-mas-renida-antes-del-balotaje-segun-las) 14 december, 2021.
+
+- **The Switzerland Times**. [Election poll in Chile shows tighter race as polarized confrontation looms.](https://www.theswitzerlandtimes.com/election-poll-in-chile-shows-tighter-race-as-polarized-confrontation-looms/) 14 december, 2021.
+
 - **Nasdaq**. [Chile election poll shows race tightening as polarized showdown nears.](https://www.nasdaq.com/articles/chile-election-poll-shows-race-tightening-as-polarized-showdown-nears) 14 december, 2021.
 
 - **Bloomberg**. [Chile’s Presidential Candidates Clash in Crucial, Final Debate.](https://www.bloomberg.com/news/articles/2021-12-14/chile-s-presidential-candidates-clash-in-crucial-final-debate) 14 december, 2021.

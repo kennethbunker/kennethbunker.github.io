@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2021
 
+- **La Discusión**. [Agresividad de la campaña podría influir en el nivel de participación.](https://www.ladiscusion.cl/agresividad-de-la-campana-podria-influir-en-el-nivel-de-participacion/) 14 december, 2021.
+
 - **El Llanquihue**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.ellanquihue.cl/impresa/2021/12/12/full/cuerpo-reportajes/10/) 12 december, 2021.
 
 - **El Austral de Osorno**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.australosorno.cl/impresa/2021/12/12/full/cuerpo-reportajes/8/) 12 december, 2021.
