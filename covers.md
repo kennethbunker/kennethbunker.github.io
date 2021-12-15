@@ -21,10 +21,6 @@ title: Covers
 
 [![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"}](/img/20210719%20-%20LUN.png) [![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png) [![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}](/img/20211122%20-%20LUN.png)
 
-[![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}](/img/20210411%20-%20Estrella_Iquique.png)
-
-[![La Discusión de Chillán](/img/20211215%20-%20La_Discusión.png){:height="32%" width="32%"}](/img/20211215%20-%20La_Discusión.png)
-
 [![La Segunda](/img/20211213%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211213%20-%20La%20Segunda.png)
 
 [![La Segunda](/img/20211130%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211130%20-%20La%20Segunda.png) [![La Segunda](/img/20211124%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211124%20-%20La%20Segunda.png) [![La Segunda](/img/20210719%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210719%20-%20La%20Segunda.png)
@@ -42,3 +38,7 @@ title: Covers
 [![El Mercurio](/img/20210225%20-%20Mercurio.png){:height="32%" width="32%"}](/img/20210225%20-%20Mercurio.png) [![El Sur](/img/20210411%20-%20El_Sur.png){:height="32%" width="32%"}](/img/20210411%20-%20El_Sur.png)
 
 [![El Centro](/img/20160522%20-%20El_Centro.png){:height="32%" width="32%"}](https://kennethbunker.github.io/img/20160522%20-%20El_Centro.png)
+
+[![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}](/img/20210411%20-%20Estrella_Iquique.png)
+
+[![La Discusión de Chillán](/img/20211215%20-%20La_Discusión.png){:height="32%" width="32%"}](/img/20211215%20-%20La_Discusión.png)
