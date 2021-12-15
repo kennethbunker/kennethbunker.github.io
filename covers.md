@@ -41,4 +41,4 @@ title: Covers
 
 [![Estrella de Iquique](/img/20210411%20-%20Estrella_Iquique.png){:height="32%" width="32%"}](/img/20210411%20-%20Estrella_Iquique.png)
 
-[![La Discusión de Chillán](/img/20211215%20-%20La_Discusión.png){:height="32%" width="32%"}](/img/20211215%20-%20La_Discusión.png)
+[![La Discusión de Chillán](/img/20211215%20-%20La_Discusion.png){:height="32%" width="32%"}](/img/20211215%20-%20La_Discusion.png)
