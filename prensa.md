@@ -65,6 +65,8 @@ title: Prensa
 
 - **El Mostrador**. [Incertidumbre en la derecha: tropezón monumental de Kast y buena performance de Sichel cambian percepciones en el último tranco de la presidencial.](https://www.elmostrador.cl/noticias/pais/2021/11/16/incertidumbre-en-la-derecha-tropezon-monumental-de-kast-y-buena-performance-de-sichel-cambian-percepciones-en-el-ultimo-tranco-de-la-presidencial/) 16 november, 2021.
 
+- **Ex-Ante**. [Kenneth Bunker: “Los que estaban primeros en la carrera lo hicieron más mal que aquellos que venían más atrás”.](https://www.ex-ante.cl/kenneth-bunker-los-que-estaban-primeros-en-la-carrera-lo-hicieron-mas-mal-que-aquellos-que-venian-mas-atras/) 16 november, 2021.
+
 - **Cooperativa**. [Estado de excepción: Gobierno pide que, al votar la prórroga, el Congreso escuche a los vecinos de La Araucanía.](https://www.cooperativa.cl/noticias/pais/regiones/zona-sur/estado-de-excepcion-gobierno-pide-que-al-votar-la-prorroga-el/2021-11-08/192429.html) 8 november, 2021.
 
 - **El Líbero**. [En cuenta regresiva para el 21-N: los hitos que pueden afectar el resultado de la elección.](https://ellibero.cl/actualidad/en-cuenta-regresiva-para-el-21-n-los-hitos-que-pueden-afectar-el-resultado-de-la-eleccion/) 31 october, 2021.
