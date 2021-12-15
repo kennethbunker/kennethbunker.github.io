@@ -13,6 +13,10 @@ title: Press
 
 ## 2021
 
+- **Perfil**. [Los candidatos presidenciales de Chile se enfrentan en el último debate.](https://www.perfil.com/noticias/bloomberg/bc-candidatos-presidenciales-de-chile-se-enfrentan-en-ultimo-debate.phtml) 14 december, 2021.
+
+- **La Nación**. [Elecciones en Chile: el contundente apoyo de Michelle Bachelet a Gabriel Boric a cinco días del ballottage.](https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-a-menos-de-una-semana-del-ballottage-se-achica-la-diferencia-entre-gabriel-boric-nid14122021/) 14 december, 2021.
+
 - **América Economía**. [Carrera presidencial chilena más reñida antes del balotaje, según las encuestas.](https://www.americaeconomia.com/politica-sociedad/politica/carrera-presidencial-chilena-mas-renida-antes-del-balotaje-segun-las) 14 december, 2021.
 
 - **The Switzerland Times**. [Election poll in Chile shows tighter race as polarized confrontation looms.](https://www.theswitzerlandtimes.com/election-poll-in-chile-shows-tighter-race-as-polarized-confrontation-looms/) 14 december, 2021.
