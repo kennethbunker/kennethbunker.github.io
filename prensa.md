@@ -7,7 +7,7 @@ title: Prensa
 
 ---
 
-*Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de aparaciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers)*
+*Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de apariciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers)*
 
 ---
 
