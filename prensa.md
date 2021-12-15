@@ -79,7 +79,7 @@ title: Prensa
 
 - **The Clinic**. [Cinco analistas responden: ¿Cómo cambió Chile después del estallido?.](https://www.theclinic.cl/2021/10/18/cinco-analistas-responden-como-cambio-chile-despues-del-estallido/) 18 october, 2021.
 
-- **El Libero**. [Qué hay detrás de los cinco dardos que se lanzaron los candidatos en el debate.](https://ellibero.cl/actualidad/que-hay-detras-de-los-cinco-dardos-que-se-lanzaron-los-candidatos-en-el-debate/) 13 october, 2021.
+- **El Líbero**. [Qué hay detrás de los cinco dardos que se lanzaron los candidatos en el debate.](https://ellibero.cl/actualidad/que-hay-detras-de-los-cinco-dardos-que-se-lanzaron-los-candidatos-en-el-debate/) 13 october, 2021.
 
 - **Cooperativa**. [Kenneth Bunker: Apoyo de legisladores a candidatos externos a su coalición puede "inclinar la balanza"..](https://cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-apoyo-de-legisladores-a-candidatos-externos-a-su/2021-10-08/101831.html) 8 october, 2021.
 
@@ -95,7 +95,7 @@ title: Prensa
 
 - **TVN**. [Cientista político por difícil semana de Sichel: "Mientras más se separa la derecha, más posibilidades tiene la oposición".](https://www.24horas.cl/elecciones-2021/cientista-politico-analiza-la-dificil-semana-de-sebastian-sichel-mientras-mas-se-separa-la-derecha-mas-posibilidades-tiene-la-oposicion-4996236) 1 october, 2021.
 
-- **El Libero**. [Los 29 diputados que usaron el cuarto retiro en su propaganda de campaña.](https://ellibero.cl/actualidad/los-29-diputados-que-usaron-el-cuarto-retiro-en-su-propaganda-de-campana/) 29 september, 2021.
+- **El Líbero**. [Los 29 diputados que usaron el cuarto retiro en su propaganda de campaña.](https://ellibero.cl/actualidad/los-29-diputados-que-usaron-el-cuarto-retiro-en-su-propaganda-de-campana/) 29 september, 2021.
 
 - **El Mostrador**. [Sindrome Jadue se instala en la campaña de Sichel: temen decrecimiento en el último tercio de la carrera.](https://www.elmostrador.cl/noticias/pais/2021/09/29/sindrome-jadue-se-instala-en-la-campana-de-sichel-temen-decrecimiento-en-el-ultimo-tercio-de-la-carrera/) 29 september, 2021.
 

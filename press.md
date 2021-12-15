@@ -13,6 +13,9 @@ title: Press
 
 ## 2021
 
+
+- **Radio France International**. [Chile: Una campaña para la segunda vuelta marcada por la apatía de los votantes.](https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20211215-chile-una-campa%C3%B1a-para-la-segunda-vuelta-marcada-por-la-apat%C3%ADa-de-los-votantes) 15 december, 2021. 
+
 - **Perfil**. [Los candidatos presidenciales de Chile se enfrentan en el último debate.](https://www.perfil.com/noticias/bloomberg/bc-candidatos-presidenciales-de-chile-se-enfrentan-en-ultimo-debate.phtml) 14 december, 2021.
 
 - **La Nación**. [Elecciones en Chile: el contundente apoyo de Michelle Bachelet a Gabriel Boric a cinco días del ballottage.](https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-a-menos-de-una-semana-del-ballottage-se-achica-la-diferencia-entre-gabriel-boric-nid14122021/) 14 december, 2021.
