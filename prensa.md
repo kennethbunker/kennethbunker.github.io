@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2021
 
+- **El Mercurio de Valparaíso**. [Analistas plantean la duda si moderación es estratégica o real.](https://www.mercuriovalpo.cl/impresa/2021/12/15/full/cuerpo-principal/2/) 15 december, 2021.
+
 - **Ex-Ante**. [“Queda la sensación de que hubo un empate y el empate favorece a Boric”.](https://www.ex-ante.cl/kenneth-bunker-queda-la-sensacion-de-que-hubo-un-empate-y-el-empate-favorece-a-boric/?fbclid=IwAR0X_1VrxnLkPG3-ISQP4H-BHU3DZIyDeM7W6wpu6P2Z5nOO_yrvp_G7hMY) 14 december, 2021.
 
 - **La Segunda**. [Una ganadora inesperada: la Concertación.](https://digital.lasegunda.com/2021/12/14/A/MN42GC4U#zoom=page-width) 14 december, 2021.
@@ -29,7 +31,7 @@ title: Prensa
 
 - **El Mercurio de Antofagasta**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.mercurioantofagasta.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
 
-- **El Mercurio de Valparaíso**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".]( https://www.mercuriovalpo.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
+- **El Mercurio de Valparaíso**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.mercuriovalpo.cl/impresa/2021/12/12/full/cuerpo-reportajes/4/) 12 december, 2021.
 
 - **Diario Austral de Valdivia**. ["Sea quien sea el que gane va tener que gobernar en la medida de lo posible".](https://www.australvaldivia.cl/impresa/2021/12/12/full/cuerpo-reportajes/6/) 12 december, 2021.
 
