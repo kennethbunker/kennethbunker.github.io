@@ -14,7 +14,9 @@ title: Press
 ## 2021
 
 
-- **Radio France International**. [Chile: Una campaña para la segunda vuelta marcada por la apatía de los votantes.](https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20211215-chile-una-campa%C3%B1a-para-la-segunda-vuelta-marcada-por-la-apat%C3%ADa-de-los-votantes) 15 december, 2021. 
+- **Reuters**. [Explainer: 'Communism vs fascism?' Chile braces for polarized presidential run-off.](https://www.reuters.com/world/americas/communism-vs-fascism-chile-braces-polarized-presidential-run-off-2021-12-16/) 16 december, 2021.
+
+- **Radio France International**. [Chile: Una campaña para la segunda vuelta marcada por la apatía de los votantes.](https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20211215-chile-una-campa%C3%B1a-para-la-segunda-vuelta-marcada-por-la-apat%C3%ADa-de-los-votantes) 15 december, 2021.
 
 - **Perfil**. [Los candidatos presidenciales de Chile se enfrentan en el último debate.](https://www.perfil.com/noticias/bloomberg/bc-candidatos-presidenciales-de-chile-se-enfrentan-en-ultimo-debate.phtml) 14 december, 2021.
 
