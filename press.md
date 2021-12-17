@@ -13,9 +13,13 @@ title: Press
 
 ## 2021
 
+- **Expansión**. [Kast y Boric moderan sus discursos para conquistar el voto de centro en Chile.](https://expansion.mx/mundo/2021/12/17/kast-y-boric-moderan-sus-discursos-para-conquistar-el-voto-de-centro-en-chile) 17 december, 2021.
+
 - **NRC Handelsblad**. [Na decennia van brave centrumpolitici krijgt Chili eindelijk iets te kiezen.](https://www.nrc.nl/nieuws/2021/12/16/na-decennia-van-brave-centrumpolitici-krijgt-chili-eindelijk-iets-te-kiezen-a4069314) 17 december, 2021.
 
 - **France 24**. [Chile: cierran campañas de cara a la elección del sucesor de Sebastián Piñera.](https://www.france24.com/es/am%C3%A9rica-latina/20211217-chile-cierran-campa%C3%B1as-de-cara-a-la-elecci%C3%B3n-del-sucesor-de-sebasti%C3%A1n-pi%C3%B1era) 17 december, 2021.
+
+- **La Nación**. [¿Más o menos Estado? Las diferencias entre Gabriel Boric y José Antonio Kast que pueden definir las elecciones en Chile.](https://www.lanacion.com.ar/el-mundo/mas-o-menos-estado-las-diferencias-entre-gabriel-boric-y-jose-antonio-kast-que-pueden-definir-las-nid16122021/) 16 december, 2021.
 
 - **Reuters**. [Explainer: 'Communism vs fascism?' Chile braces for polarized presidential run-off.](https://www.reuters.com/world/americas/communism-vs-fascism-chile-braces-polarized-presidential-run-off-2021-12-16/) 16 december, 2021.
 
