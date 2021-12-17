@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2021
 
+- **The Clinic**. [¿Qué tan rápido se conocerá el resultado del balotaje? Experto calcula hora y porcentaje de votos.](https://www.theclinic.cl/2021/12/16/experto-hora-resultado-presidencial/) 16 december, 2021.
+
 - **El Mercurio de Valparaíso**. [Analistas plantean la duda si moderación es estratégica o real.](https://www.mercuriovalpo.cl/impresa/2021/12/15/full/cuerpo-principal/2/) 15 december, 2021.
 
 - **Ex-Ante**. [“Queda la sensación de que hubo un empate y el empate favorece a Boric”.](https://www.ex-ante.cl/kenneth-bunker-queda-la-sensacion-de-que-hubo-un-empate-y-el-empate-favorece-a-boric/?fbclid=IwAR0X_1VrxnLkPG3-ISQP4H-BHU3DZIyDeM7W6wpu6P2Z5nOO_yrvp_G7hMY) 14 december, 2021.
