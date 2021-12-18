@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2021
 
+- **The Clinic**. [El emblemático distrito 11: por qué será clave la participación electoral en el bastión histórico de la derecha.](https://www.theclinic.cl/2021/12/17/el-emblematico-distrito-11-por-que-sera-clave-la-participacion-electoral-en-el-bastion-historico-de-la-derecha/) 18 december, 2021.
+
 - **Emol**. [El fenómeno del "voto prestado" que definirá el balotaje: Cómo se articula y por qué demanda "cautela" de quien triunfe.](https://www.emol.com/noticias/Nacional/2021/12/17/1041417/voto-prestado-segunda-vuelta-2021.html) 16 december, 2021.
 
 - **The Clinic**. [¿Qué tan rápido se conocerá el resultado del balotaje? Experto calcula hora y porcentaje de votos.](https://www.theclinic.cl/2021/12/16/experto-hora-resultado-presidencial/) 16 december, 2021.

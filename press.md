@@ -13,6 +13,10 @@ title: Press
 
 ## 2021
 
+- **Vatican News**. [ Le elezioni polarizzate del Cile al ballotaggio presidenziale.](https://www.vaticannews.va/it/mondo/news/2021-12/cile-al-ballotaggio.html) 18 december, 2021.
+
+- **Les Echoes**. [Chili: une élection présidentielle moins polarisée qu'il n'y paraît.](https://www.lesechos.fr/monde/ameriques/chili-une-election-presidentielle-moins-polarisee-quil-ny-parait-1373558) 18 december, 2021.
+
 - **Expansión**. [Kast y Boric moderan sus discursos para conquistar el voto de centro en Chile.](https://expansion.mx/mundo/2021/12/17/kast-y-boric-moderan-sus-discursos-para-conquistar-el-voto-de-centro-en-chile) 17 december, 2021.
 
 - **NRC Handelsblad**. [Na decennia van brave centrumpolitici krijgt Chili eindelijk iets te kiezen.](https://www.nrc.nl/nieuws/2021/12/16/na-decennia-van-brave-centrumpolitici-krijgt-chili-eindelijk-iets-te-kiezen-a4069314) 17 december, 2021.
