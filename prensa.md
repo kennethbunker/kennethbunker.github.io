@@ -13,7 +13,9 @@ title: Prensa
 
 ## 2021
 
-- **El Desconcierto**. [Kenneth Bunker, analista: “Reclamar por resultados se vería como algo oportunista”.](https://www.eldesconcierto.cl/reportajes/2021/12/18/kenneth-bunker-analista-reclamar-por-resultados-se-veria-como-algo-oportunista.html) 18 december, 2021.
+- **T13**. [10 claves para el éxito del gobierno de Gabriel Boric o de José Antonio Kast. Por Kenneth Bunker.](https://www.t13.cl/noticia/elecciones-2021/ex-ante/politica/10-claves-exito-del-gobierno-gabriel-boric-o-jose-antonio-kast.-kenneth-bunker) 19 december, 2021.
+
+- **El Desconcierto**. [Kenneth Bunker, analista: “Reclamar por resultados se vería como algo oportunista”.](https://www.eldesconcierto.cl/reportajes/2021/12/18/kenneth-bunker-analista-reclamar-por-resultados-se-veria-como-algo-oportunista.html) 19 december, 2021.
 
 - **The Clinic**. [El emblemático distrito 11: por qué será clave la participación electoral en el bastión histórico de la derecha.](https://www.theclinic.cl/2021/12/17/el-emblematico-distrito-11-por-que-sera-clave-la-participacion-electoral-en-el-bastion-historico-de-la-derecha/) 18 december, 2021.
 
