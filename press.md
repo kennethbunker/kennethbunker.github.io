@@ -13,7 +13,10 @@ title: Press
 
 ## 2021
 
-- **Vatican News**. [ Le elezioni polarizzate del Cile al ballotaggio presidenziale.](https://www.vaticannews.va/it/mondo/news/2021-12/cile-al-ballotaggio.html) 18 december, 2021.
+
+- **BBC**. [Chile's dark past hangs over presidential run-off.](https://www.bbc.com/news/world-latin-america-59689731) 19 december, 2021.
+
+- **Vatican News**. [Le elezioni polarizzate del Cile al ballotaggio presidenziale.](https://www.vaticannews.va/it/mondo/news/2021-12/cile-al-ballotaggio.html) 18 december, 2021.
 
 - **Les Echoes**. [Chili: une élection présidentielle moins polarisée qu'il n'y paraît.](https://www.lesechos.fr/monde/ameriques/chili-une-election-presidentielle-moins-polarisee-quil-ny-parait-1373558) 18 december, 2021.
 
