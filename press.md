@@ -13,11 +13,13 @@ title: Press
 
 ## 2021
 
-- **Il Sole 24 ore**. [Cile, alle elezioni vince la sinistra: Boric batte Kast il filo-pinochettista.](https://www.ilsole24ore.com/art/cile-elezioni-vince-sinistra-boric-batte-kast-filo-pinochettista-AE2x9j3) 20 december, 2021. 
+- **Il Sole 24 ore**. [Cile, alle elezioni vince la sinistra: Boric batte Kast il filo-pinochettista.](https://www.ilsole24ore.com/art/cile-elezioni-vince-sinistra-boric-batte-kast-filo-pinochettista-AE2x9j3) 20 december, 2021.
 
 - **El País**. [La victoria condicionada de Gabriel Boric.](https://elpais.com/internacional/2021-12-20/la-victoria-condicionada-de-gabriel-boric.html) 20 december, 2021.
 
 - **BBC**. [Chile's dark past hangs over presidential run-off.](https://www.bbc.com/news/world-latin-america-59689731) 19 december, 2021.
+
+- **Radio Canada**. [Trois questions sur les élections au Chili.](https://ici.radio-canada.ca/nouvelle/1848460/elections-chili-kast-boric-analyse) 19 december, 2021.
 
 - **BBC Mundo**. [Kast vs Boric: lo que está en juego en Chile en la elección más polarizada y cerrada en 20 años.](https://www.bbc.com/mundo/noticias-america-latina-59677795) 19 december, 2021.
 
