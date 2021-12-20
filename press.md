@@ -13,6 +13,7 @@ title: Press
 
 ## 2021
 
+- **El País**. [La victoria condicionada de Gabriel Boric.](https://elpais.com/internacional/2021-12-20/la-victoria-condicionada-de-gabriel-boric.html) 20 december, 2021.
 
 - **BBC**. [Chile's dark past hangs over presidential run-off.](https://www.bbc.com/news/world-latin-america-59689731) 19 december, 2021.
 
