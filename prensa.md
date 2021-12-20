@@ -14,6 +14,8 @@ title: Prensa
 ## 2021
 
 
+- **Las Últimas Noticias**. [Diez hitos políticos que deja la elección presidencial 2021.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-12-21&PaginaId=2&bodyid=0) 21 december, 2021.
+
 - **La Tercera**. [Seis nudos que tendrá que enfrentar el nuevo Presidente Boric para administrar su gobierno.](https://www.latercera.com/politica/noticia/seis-nudos-que-tendra-que-enfrentar-el-nuevo-presidente-boric-para-administrar-su-gobierno/USSNX2ZGUFE3HE3RSFCCJJSTKY/) 20 december, 2021.
 
 - **T13**. [10 claves para el éxito del gobierno de Gabriel Boric o de José Antonio Kast. Por Kenneth Bunker.](https://www.t13.cl/noticia/elecciones-2021/ex-ante/politica/10-claves-exito-del-gobierno-gabriel-boric-o-jose-antonio-kast.-kenneth-bunker) 19 december, 2021.
