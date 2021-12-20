@@ -13,6 +13,9 @@ title: Prensa
 
 ## 2021
 
+
+- **La Tercera**. [Seis nudos que tendrá que enfrentar el nuevo Presidente Boric para administrar su gobierno.](https://www.latercera.com/politica/noticia/seis-nudos-que-tendra-que-enfrentar-el-nuevo-presidente-boric-para-administrar-su-gobierno/USSNX2ZGUFE3HE3RSFCCJJSTKY/) 20 december, 2021.
+
 - **T13**. [10 claves para el éxito del gobierno de Gabriel Boric o de José Antonio Kast. Por Kenneth Bunker.](https://www.t13.cl/noticia/elecciones-2021/ex-ante/politica/10-claves-exito-del-gobierno-gabriel-boric-o-jose-antonio-kast.-kenneth-bunker) 19 december, 2021.
 
 - **El Desconcierto**. [Kenneth Bunker, analista: “Reclamar por resultados se vería como algo oportunista”.](https://www.eldesconcierto.cl/reportajes/2021/12/18/kenneth-bunker-analista-reclamar-por-resultados-se-veria-como-algo-oportunista.html) 19 december, 2021.
