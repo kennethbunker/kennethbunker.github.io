@@ -11,6 +11,11 @@ title: Press
 
 ---
 
+## 2022
+
+- **Bloomberg**. [Boric, presidente electo de Chile, presenta a su gabinete: más mujeres y diversidad de partidos](https://www.bloomberglinea.com/2022/01/21/boric-presidente-electo-de-chile-presenta-a-su-gabinete-mario-marcel-asume-en-hacienda/) 21 january, 2022.
+
+
 ## 2021
 
 - **Il Sole 24 ore**. [Cile, alle elezioni vince la sinistra: Boric batte Kast il filo-pinochettista.](https://www.ilsole24ore.com/art/cile-elezioni-vince-sinistra-boric-batte-kast-filo-pinochettista-AE2x9j3) 20 december, 2021.

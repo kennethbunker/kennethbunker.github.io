@@ -11,6 +11,13 @@ title: Prensa
 
 ---
 
+## 2022
+
+- **The Clinic**. [El aterrizaje de la ex Concertación (sin la DC), el gesto a Grau y destacables ausencias: sorpresas y certezas que dejó el gabinete de Gabriel Boric.](https://www.theclinic.cl/2022/01/21/el-aterrizaje-de-la-ex-concertacion-sin-la-dc-el-gesto-a-grau-y-destacables-ausencias-sorpresas-y-certezas-que-dejo-el-gabinete-de-gabriel-boric/) 21 january, 2022.
+
+- **El Líbero**. [Analistas plantean cinco desafíos para el gabinete del primer tiempo de Boric.](https://ellibero.cl/actualidad/analistas-plantean-cinco-desafios-para-el-gabinete-del-primer-tiempo-de-boric/) 21 january, 2022.
+
+
 ## 2021
 
 - **Las Últimas Noticias**. [Diez hitos políticos que deja la elección presidencial 2021.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-12-21&PaginaId=2&bodyid=0) 21 december, 2021.
