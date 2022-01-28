@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **Ex-Ante**. [Claves: Cómo avanza en la Convención el fin del Senado en Chile y las fortalezas y debilidades del sistema unicameral.](https://www.ex-ante.cl/claves-como-avanza-en-la-convencion-el-fin-del-senado-en-chile-y-las-fortalezas-y-debilidades-del-sistema-bicameral/) 28 january, 2022.
+
 - **The Clinic**. [El aterrizaje de la ex Concertación (sin la DC), el gesto a Grau y destacables ausencias: sorpresas y certezas que dejó el gabinete de Gabriel Boric.](https://www.theclinic.cl/2022/01/21/el-aterrizaje-de-la-ex-concertacion-sin-la-dc-el-gesto-a-grau-y-destacables-ausencias-sorpresas-y-certezas-que-dejo-el-gabinete-de-gabriel-boric/) 21 january, 2022.
 
 - **El Líbero**. [Analistas plantean cinco desafíos para el gabinete del primer tiempo de Boric.](https://ellibero.cl/actualidad/analistas-plantean-cinco-desafios-para-el-gabinete-del-primer-tiempo-de-boric/) 21 january, 2022.
