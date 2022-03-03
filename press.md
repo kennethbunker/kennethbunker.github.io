@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Al Jazeera**. [Chile’s constituent assembly begins debating new constitution](https://www.aljazeera.com/news/2022/2/15/chile-constituent-assembly-begins-debating-new-constitution) 15 february, 2022.
+
 - **Bloomberg**. [Boric, presidente electo de Chile, presenta a su gabinete: más mujeres y diversidad de partidos](https://www.bloomberglinea.com/2022/01/21/boric-presidente-electo-de-chile-presenta-a-su-gabinete-mario-marcel-asume-en-hacienda/) 21 january, 2022.
 
 
