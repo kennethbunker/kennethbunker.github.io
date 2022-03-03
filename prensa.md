@@ -15,7 +15,9 @@ title: Prensa
 
 - **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 1 march, 2022.
 
-- **El Mostrador**. [Kenneth Bunker y el diagnóstico de la derecha: “Esa promesa de renovación liberal, de apertura al mundo más progresista, no existe”.](https://www.elmostrador.cl/noticias/pais/2022/02/18/kenneth-bunker-y-el-diagnostico-de-la-derecha-esa-promesa-de-renovacion-liberal-de-apertura-al-mundo-mas-progresista-no-existe) 18 march, 2022.
+- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 1 march, 2022.
+
+- **El Mostrador**. [Kenneth Bunker y el diagnóstico de la derecha: “Esa promesa de renovación liberal, de apertura al mundo más progresista, no existe”.](https://www.elmostrador.cl/noticias/pais/2022/02/18/kenneth-bunker-y-el-diagnostico-de-la-derecha-esa-promesa-de-renovacion-liberal-de-apertura-al-mundo-mas-progresista-no-existe) 18 february, 2022.
 
 - **Ex-Ante**. [Claves: Cómo avanza en la Convención el fin del Senado en Chile y las fortalezas y debilidades del sistema unicameral.](https://www.ex-ante.cl/claves-como-avanza-en-la-convencion-el-fin-del-senado-en-chile-y-las-fortalezas-y-debilidades-del-sistema-bicameral/) 28 january, 2022.
 
