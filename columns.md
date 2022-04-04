@@ -14,6 +14,28 @@ title: Columns
 
 ## Las Últimas Noticias (2018 - )
 
+- 20220330 - La violencia
+- 20220325 - Impunidad
+- 20220323 - Favores
+- 20220318 - Responsabilidad fiscal
+- 20220318 - Mario Marcel
+- 20220316 - Dialogo
+- 20220312 - Una oportunidad
+- 20220225 - Uno mas uno es cero
+- 20220223 - Una mala idea
+- 20220219 - Derecho a dignidad
+- 20220216 - La hora de la verdad
+- 20220210 - El peligro del Rechazo
+- 20220207 - Fin de una era
+- 20220206 - La lista de los subsecretarios
+- 20220202 - El camino peruano
+- 20220130 - 10 claves del nuevo gabinete
+- 20220122 - Quiebre a la tradición
+- 20220106 - La novena es la vencida
+- 20211223 - Señales de moderación
+- 20211221 - Diez temas de la elección
+- 20211220 - Legitimidad
+- 20211214 - Los movilizados
 - 20211211 - La ley del que grita más fuerte
 - 20211127 - Capital humano
 - 20211125 - Las raíces
@@ -174,6 +196,22 @@ title: Columns
 
 ## Ex-Ante (2021 - )
 
+- 20220401 - El éxito de la Convención Constitucional.docx
+- 20220325 - Mi mejor enemigo.docx
+- 20220318 - Mario Marcel.docx
+- 20220311 - El éxito del gobierno
+- 20220304 - La instalación de Boric
+- 20220225 - La cámara de eco y la tragedia constituyente
+- 20220218 - Dos izquierdas.docx
+- 20220211 - Gato por liebre.docx
+- 20220204 - Campanas del rechazo.docx
+- 20220128 - Entre la espada y la pared.docx
+- 20220122 - Los nudos del nuevo gabinete
+- 20220116 - Ideas de orden.docx
+- 20220110 - La paradoja del gobierno de todos.docx
+- 20210103 - Segundo tiempo
+- 20121226 - Dos caras de la misma moneda.docx
+- 20211218 - Diez puntos clave para lo que viene.docx
 - 20211211 - Un cuarto del apoyo
 - 20211204 - En la cuerda floja
 - 20211126 - El peregrinaje
