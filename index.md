@@ -14,7 +14,7 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 
 My forthcoming book (with Jorge Heine) is called:
 
-* **The Chilean Road to a New Constitution: The End of Neoliberalism?** **Routledge**
+* **The Chilean Road to a New Constitution: The End of Neoliberalism? (Routledge)**
 
 You can find a short list of my most recent publications below (for abstracts, plus download and data links, click [here](https://kennethbunker.github.io/blog.html)):
 
