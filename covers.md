@@ -11,8 +11,6 @@ title: Covers
 
 ---
 
-## 2021
-
 [![Las Últimas Noticias](/img/20210719%20-%20LUN.png){:height="32%" width="32%"}](/img/20210719%20-%20LUN.png) [![Las Últimas Noticias](/img/20211122%20-%20LUN.png){:height="32%" width="32%"}](/img/20211122%20-%20LUN.png) [![Las Últimas Noticias](/img/20211220%20-%20LUN.png){:height="32%" width="32%"}](/img/20211220%20-%20LUN.png)
 
 [![Austral de Valdivia](/img/20211212%20-%20AustralValdivia.png){:height="32%" width="32%"}](/img/20211212%20-%20AustralValdivia.png) [![El Llanquihue](/img/20211212%20-%20El_Llanquihue.png){:height="32%" width="32%"}](/img/20211212%20-%20El_Llanquihue.png) [![Mercurio Calama](/img/20211212%20-%20MercurioCalama.png){:height="32%" width="32%"}](/img/20211212%20-%20MercurioCalama.png)
@@ -21,7 +19,9 @@ title: Covers
 
 [![Austral Osorno](/img/20211212%20-%20AustralOsorno.png){:height="32%" width="32%"}](/img/20211212%20-%20AustralOsorno.png) [![Austral Osorno](/img/20210411%20-%20AustralOsorno.png){:height="32%" width="32%"}](/img/20210411%20-%20AustralOsorno.png)
 
-[![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png) 
+[![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png)
+
+[![La Segunda](/img/20220406%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20220406%20-%20La%20Segunda.png)
 
 [![La Segunda](/img/20211213%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211213%20-%20La%20Segunda.png)
 
