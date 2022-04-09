@@ -13,6 +13,10 @@ title: Press
 
 ## 2022
 
+- **BBC**. [Convención Constituyente: 3 razones que explican la caída en el apoyo al organismo que trabaja en la nueva Constitución de Chile.](https://www.bbc.com/mundo/noticias-america-latina-61015040) 08 april, 2022.
+
+- **Bloomberg**. [No solo la derecha será oposición a Boric, también habrá de la izquierda.](https://www.bloomberglinea.com/2022/03/10/la-oposicion-que-espera-a-gabriel-boric-en-su-gobierno/) 10 march, 2022.
+
 - **Al Jazeera**. [Chile’s constituent assembly begins debating new constitution](https://www.aljazeera.com/news/2022/2/15/chile-constituent-assembly-begins-debating-new-constitution) 15 february, 2022.
 
 - **Bloomberg**. [Boric, presidente electo de Chile, presenta a su gabinete: más mujeres y diversidad de partidos](https://www.bloomberglinea.com/2022/01/21/boric-presidente-electo-de-chile-presenta-a-su-gabinete-mario-marcel-asume-en-hacienda/) 21 january, 2022.

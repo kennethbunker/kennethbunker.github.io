@@ -13,9 +13,19 @@ title: Prensa
 
 ## 2022
 
-- **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 1 march, 2022.
+- **La Segunda**. [Bunker: "Si el presidente designó a personas de su confianza ahora, ante una crisis tendrá que nombrar a gente con más experiencia".](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 06 april, 2022.
 
-- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 1 march, 2022.
+- **El Líbero**. [Quiénes son los convencionales que más se han “radicalizado” en sus votaciones.](https://ellibero.cl/libero-constituyente/quienes-son-los-convencionales-que-mas-se-han-radicalizado-en-sus-votaciones/) 03 april, 2022.
+
+- **Diario Financiero**. [Los desafíos del Congreso en la administración de Gabriel Boric.](https://www.df.cl/economia-y-politica/politica/los-desafios-del-congreso-en-la-administracion-de-gabriel-boric) 14 march, 2022.
+
+- **El Mostrador**. [Los horizontes del Presidente Gabriel Boric: entre la épica de un nuevo relato político y la dura realidad.](https://www.elmostrador.cl/noticias/pais/2022/03/11/los-horizontes-del-presidente-gabriel-boric-entre-la-epica-de-un-nuevo-relato-politico-y-la-dura-realidad/) 11 march, 2022.
+
+- **Diario Financiero**. [Sale humo blanco en una de las aristas de la negociación sobre el Congreso: Raúl Soto liderará la Cámara de Diputados.](https://www.df.cl/economia-y-politica/politica/sale-humo-blanco-en-una-de-las-aristas-de-la-negociacion-sobre-el) 10 march, 2022.
+
+- **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 01 march, 2022.
+
+- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 01 march, 2022.
 
 - **El Mostrador**. [Kenneth Bunker y el diagnóstico de la derecha: “Esa promesa de renovación liberal, de apertura al mundo más progresista, no existe”.](https://www.elmostrador.cl/noticias/pais/2022/02/18/kenneth-bunker-y-el-diagnostico-de-la-derecha-esa-promesa-de-renovacion-liberal-de-apertura-al-mundo-mas-progresista-no-existe) 18 february, 2022.
 
