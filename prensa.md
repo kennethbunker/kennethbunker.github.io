@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda**. [Vallejo y Jackson, ganadores tras el "tirón" de orejas a Siches.](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 11 april, 2022. 
+
 - **La Segunda**. [Bunker: "Si el presidente designó a personas de su confianza ahora, ante una crisis tendrá que nombrar a gente con más experiencia".](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 06 april, 2022.
 
 - **El Líbero**. [Quiénes son los convencionales que más se han “radicalizado” en sus votaciones.](https://ellibero.cl/libero-constituyente/quienes-son-los-convencionales-que-mas-se-han-radicalizado-en-sus-votaciones/) 03 april, 2022.

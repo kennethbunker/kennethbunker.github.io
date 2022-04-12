@@ -383,6 +383,7 @@ title: Columns
 
 ## Others (La Nación, La Segunda, El Mostrador)
 
+- 20220203 - La caja nueva del nuevo sistema electoral
 - 20080913 - La política chilena tiene una lección que aprender
 - 20080219 - Segunda etapa: Bachelet y los partidos
 - 20071115 - Reelección Indefinida en los cargos públicos
