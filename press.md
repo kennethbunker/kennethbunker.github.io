@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Swiss Info**. [Convención constitucional de Chile: luchas internas y campañas de descrédito.](https://www.swissinfo.ch/spa/chile-constituci%C3%B3n_convenci%C3%B3n-constitucional-de-chile--luchas-internas-y-campa%C3%B1as-de-descr%C3%A9dito/47513404) 25 april, 2022.
+
 - **BBC**. [Convención Constituyente: 3 razones que explican la caída en el apoyo al organismo que trabaja en la nueva Constitución de Chile.](https://www.bbc.com/mundo/noticias-america-latina-61015040) 08 april, 2022.
 
 - **Bloomberg**. [No solo la derecha será oposición a Boric, también habrá de la izquierda.](https://www.bloomberglinea.com/2022/03/10/la-oposicion-que-espera-a-gabriel-boric-en-su-gobierno/) 10 march, 2022.
