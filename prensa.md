@@ -13,10 +13,14 @@ title: Prensa
 
 ## 2022
 
+- **The Clinic**. [Quedarse enfrascados en los diagnósticos: el peligro que acecha al gobierno en sus primeros 50 días
+](https://www.theclinic.cl/2022/04/27/quedarse-enfrascados-en-los-diagnosticos-el-peligro-que-acecha-al-gobierno-en-sus-primeros-50-dias/). 27 april, 2022.
 
 - **Las Últimas Noticias**. [Cuatro analistas desglosan las razones de la continua caída en aprobación de la Convención Constitucional.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-04-26&NewsID=490037&BodyID=0&PaginaId=12) 26 april, 2022.
 
 - **Emol**. [De una a cinco estrellas: Expertos evalúan el desempeño del comité político a seis semanas de su debut.](https://www.emol.com/noticias/Nacional/2022/04/22/1058639/analistas-gestion-comite-politico-boric.html) 22 april, 2022.
+
+- **La Segunda**. [Reunión con Boric divide a la DC y tensión amenaza apoyo a reformas.](https://digital.lasegunda.com/2022/04/21/A/GN449AUA#zoom=page-width) 21 april, 2022.
 
 - **La Segunda**. [Vallejo y Jackson, ganadores tras el "tirón" de orejas a Siches.](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 11 april, 2022.
 
