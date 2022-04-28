@@ -7,11 +7,13 @@ title: Prensa
 
 ---
 
-*Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de apariciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers)*
+*Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de apariciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers).*
 
 ---
 
 ## 2022
+
+- **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 april, 2022.
 
 - **The Clinic**. [Quedarse enfrascados en los diagnósticos: el peligro que acecha al gobierno en sus primeros 50 días
 ](https://www.theclinic.cl/2022/04/27/quedarse-enfrascados-en-los-diagnosticos-el-peligro-que-acecha-al-gobierno-en-sus-primeros-50-dias/). 27 april, 2022.
