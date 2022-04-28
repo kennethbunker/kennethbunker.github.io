@@ -7,7 +7,7 @@ title: Press
 
 ---
 
-*For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa). To see some of my printed press front page appearances, click [here](https://kennethbunker.github.io/covers)*
+*For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa). To see some of my printed press front page appearances, click [here](https://kennethbunker.github.io/covers).*
 
 ---
 
