@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+-**Deutsche Welle**. [“La Convención no refleja lo que quieren los chilenos”.](https://www.dw.com/es/la-convenci%C3%B3n-no-refleja-lo-que-quieren-los-chilenos/a-61720077) 08 May, 2022.
+
 - **El Diario**. [Convención constitucional de Chile: luchas internas y campañas de descrédito.](https://www.eldiario.es/internacional/aumenta-rechazo-nueva-constitucion-chile-sondeos_1_8910998.html) 29 april, 2022.
 
 - **Swiss Info**. [Convención constitucional de Chile: luchas internas y campañas de descrédito.](https://www.swissinfo.ch/spa/chile-constituci%C3%B3n_convenci%C3%B3n-constitucional-de-chile--luchas-internas-y-campa%C3%B1as-de-descr%C3%A9dito/47513404) 25 april, 2022.
