@@ -13,7 +13,9 @@ title: Press
 
 ## 2022
 
--**Deutsche Welle**. [“La Convención no refleja lo que quieren los chilenos”.](https://www.dw.com/es/la-convenci%C3%B3n-no-refleja-lo-que-quieren-los-chilenos/a-61720077) 08 May, 2022.
+- **The Guardian**. [Chile finalises new draft constitution to replace Pinochet-era document.](https://www.theguardian.com/world/2022/may/16/chile-constitution-new-draft-pinochet) 16 May, 2022.
+
+- **Deutsche Welle**. [“La Convención no refleja lo que quieren los chilenos”.](https://www.dw.com/es/la-convenci%C3%B3n-no-refleja-lo-que-quieren-los-chilenos/a-61720077) 08 May, 2022.
 
 - **El Diario**. [Convención constitucional de Chile: luchas internas y campañas de descrédito.](https://www.eldiario.es/internacional/aumenta-rechazo-nueva-constitucion-chile-sondeos_1_8910998.html) 29 april, 2022.
 
