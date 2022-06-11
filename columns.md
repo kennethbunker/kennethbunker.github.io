@@ -12,7 +12,7 @@ title: Columns
 
 ---
 
-## Las Últimas Noticias (2018 - )
+## Las Últimas Noticias
 
 - 20220408 - La sospecha
 - 20220611 - Meritocracia
@@ -211,7 +211,7 @@ title: Columns
 - 20180102 - Los tres gabinetes de Piñera
 
 
-## Ex-Ante (2021 - )
+## Ex-Ante
 
 - 20220408 - La culpa es del gobierno anterior
 - 20220603 - Quién paga la cuenta
