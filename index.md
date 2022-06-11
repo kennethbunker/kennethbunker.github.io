@@ -16,7 +16,7 @@ I am also interested in electoral forecasting. In the last year, or so, I have b
 
 My forthcoming book (with Jorge Heine) is called:
 
-* **The Chilean Road to a New Constitution: The End of Neoliberalism? (Routledge)**
+💎 **The Chilean Road to a New Constitution: The End of Neoliberalism? (Routledge)**
 
 ---
 
