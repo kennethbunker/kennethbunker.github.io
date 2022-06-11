@@ -10,6 +10,12 @@ I received my PhD in political science from The London School of Economics in 20
 
 I am interested in the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America), a paper in which I attempt to contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
 
+---
+
+📍 [**Click here to see my columns in the Chilean press!** (Las Últimas Noticias, Ex-Ante, T13, La Tercera, ...)](https://kennethbunker.github.io/columns).📍
+
+---
+
 I am also interested in electoral forecasting. In the last year, or so, I have been working on a method designed-for-use in new democracies, but built-to-work anywhere. The method is called the Two-Stage Model (TSM). You can read the technical details of the TSM [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), an example of its application in 11 new democracies (in Latin America) [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies), and an example of its application in an advanced democracy (Italy) [here](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
 My forthcoming book (with Jorge Heine) is called:
