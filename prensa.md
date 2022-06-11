@@ -13,6 +13,10 @@ title: Prensa
 
 ## 2022
 
+- **El Líbero**. [Los constituyentes podrán usar la Convención como trampolín electoral.](https://ellibero.cl/libero-constituyente/los-constituyentes-podran-usar-la-convencion-como-trampolin-electoral/) 11 junio, 2022.
+
+- **T13**. [https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir.](Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir") 1 junio, 2022.
+
 - **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 april, 2022.
 
 - **The Clinic**. [Quedarse enfrascados en los diagnósticos: el peligro que acecha al gobierno en sus primeros 50 días
@@ -31,6 +35,8 @@ title: Prensa
 - **El Líbero**. [Quiénes son los convencionales que más se han “radicalizado” en sus votaciones.](https://ellibero.cl/libero-constituyente/quienes-son-los-convencionales-que-mas-se-han-radicalizado-en-sus-votaciones/) 03 april, 2022.
 
 - **Diario Financiero**. [Los desafíos del Congreso en la administración de Gabriel Boric.](https://www.df.cl/economia-y-politica/politica/los-desafios-del-congreso-en-la-administracion-de-gabriel-boric) 14 march, 2022.
+
+- **El Líbero**. [El origen de la caída de Derechos Fundamentales en el pleno.](https://ellibero.cl/libero-constituyente/el-origen-de-la-caida-de-derechos-fundamentales-en-el-pleno/) 12 march, 2022.
 
 - **El Mostrador**. [Los horizontes del Presidente Gabriel Boric: entre la épica de un nuevo relato político y la dura realidad.](https://www.elmostrador.cl/noticias/pais/2022/03/11/los-horizontes-del-presidente-gabriel-boric-entre-la-epica-de-un-nuevo-relato-politico-y-la-dura-realidad/) 11 march, 2022.
 

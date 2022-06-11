@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Radio Continental**. [Chile presenta el borrador de su nueva constitución.](https://www.continental.com.ar/internacional/chile-presenta-el-borrador-de-su-nueva-constitucion-_a62839e1160a56f968ad3e1d4) 18 May, 2022.
+
 - **The Guardian**. [Chile finalises new draft constitution to replace Pinochet-era document.](https://www.theguardian.com/world/2022/may/16/chile-constitution-new-draft-pinochet) 16 May, 2022.
 
 - **Deutsche Welle**. [“La Convención no refleja lo que quieren los chilenos”.](https://www.dw.com/es/la-convenci%C3%B3n-no-refleja-lo-que-quieren-los-chilenos/a-61720077) 08 May, 2022.

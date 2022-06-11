@@ -14,6 +14,23 @@ title: Columns
 
 ## Las Últimas Noticias (2018 - )
 
+- 20220408 - La sospecha
+- 20220611 - Meritocracia
+- 20220610 - La fuerza del cambio
+- 20220602 - Promesas
+- 20220601 - Lavarse las manos
+- 20220531 - Desaprobación
+- 20220529 - El trecho final
+- 20220526 - Punto de no retorno
+- 20220517 - Reflejos involuntarios
+- 20220512 - Inconsistencia
+- 20220511 - El otro jefe
+- 20220430 - Los caminos a la nueva Constitución
+- 20220423 - Totalitarismo
+- 20220420 - Fuera de control
+- 20220416 - En defensa del Senado
+- 20220414 - Una jugada precisa
+- 20220413 - Vuelta de carnero
 - 20220330 - La violencia
 - 20220325 - Impunidad
 - 20220323 - Favores
@@ -29,7 +46,7 @@ title: Columns
 - 20220207 - Fin de una era
 - 20220206 - La lista de los subsecretarios
 - 20220202 - El camino peruano
-- 20220130 - 10 claves del nuevo gabinete
+- 20220130 - Diez claves del nuevo gabinete
 - 20220122 - Quiebre a la tradición
 - 20220106 - La novena es la vencida
 - 20211223 - Señales de moderación
@@ -196,22 +213,31 @@ title: Columns
 
 ## Ex-Ante (2021 - )
 
-- 20220401 - El éxito de la Convención Constitucional.docx
-- 20220325 - Mi mejor enemigo.docx
-- 20220318 - Mario Marcel.docx
+- 20220408 - La culpa es del gobierno anterior
+- 20220603 - Quién paga la cuenta
+- 20220527 - Moderación forzada
+- 20220520 - Estabilidad
+- 20220513 - Violencia desatada
+- 20220506 - Peso muerto
+- 20220429 - El cinismo tras la campaña del apruebo
+- 20220422 - La gran improvisación
+- 20220415 - El amarillo
+- 20220401 - El éxito de la Convención Constitucional
+- 20220325 - Mi mejor enemigo
+- 20220318 - Mario Marcel
 - 20220311 - El éxito del gobierno
 - 20220304 - La instalación de Boric
 - 20220225 - La cámara de eco y la tragedia constituyente
-- 20220218 - Dos izquierdas.docx
-- 20220211 - Gato por liebre.docx
-- 20220204 - Campanas del rechazo.docx
-- 20220128 - Entre la espada y la pared.docx
+- 20220218 - Dos izquierdas
+- 20220211 - Gato por liebre
+- 20220204 - Campanas del rechazo
+- 20220128 - Entre la espada y la pared
 - 20220122 - Los nudos del nuevo gabinete
-- 20220116 - Ideas de orden.docx
-- 20220110 - La paradoja del gobierno de todos.docx
+- 20220116 - Ideas de orden
+- 20220110 - La paradoja del gobierno de todos
 - 20210103 - Segundo tiempo
-- 20121226 - Dos caras de la misma moneda.docx
-- 20211218 - Diez puntos clave para lo que viene.docx
+- 20121226 - Dos caras de la misma moneda
+- 20211218 - Diez puntos clave para lo que viene
 - 20211211 - Un cuarto del apoyo
 - 20211204 - En la cuerda floja
 - 20211126 - El peregrinaje
