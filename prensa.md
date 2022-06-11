@@ -15,7 +15,7 @@ title: Prensa
 
 - **El Líbero**. [Los constituyentes podrán usar la Convención como trampolín electoral.](https://ellibero.cl/libero-constituyente/los-constituyentes-podran-usar-la-convencion-como-trampolin-electoral/) 11 junio, 2022.
 
-- **T13**. [https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir.](Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir") 1 junio, 2022.
+- **T13**. [Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir".](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir) 1 junio, 2022.
 
 - **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 april, 2022.
 
