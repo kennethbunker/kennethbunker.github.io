@@ -1,6 +1,6 @@
 ## Hello world!
 
-I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also Associate Researcher at the Observatorio Político Electoral of Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information :)
+I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also Associate Researcher at the Observatorio Político Electoral of Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information.
 
 ---
 
@@ -20,11 +20,11 @@ My forthcoming book (with Jorge Heine) is called:
 
 ---
 
-You can find a short list of my most recent publications below (for abstracts, plus download and data links, click [here](https://kennethbunker.github.io/blog.html)):
+You can find a short list of my most recent publications below:
 
 * 2022\. “Forecasting two-horse races in new democracies: Accuracy, precision and error” *Revista Lationamericana de Opinión Pública*. (Forthcoming).
 
-* 2021\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
+* 2022\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
 
 * 2021\. “The age cleavage: Cultural backlash in Chile” *América Latina Hoy* 87: 1-26.
 
