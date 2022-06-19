@@ -13,6 +13,9 @@ title: Prensa
 
 ## 2022
 
+
+- **El Desconcierto**. [Nueve analistas le ponen nota a los primeros 100 días del gobierno de Boric.](https://www.eldesconcierto.cl/reportajes/2022/06/18/nueve-analistas-le-ponen-nota-a-los-primeros-100-dias-del-gobierno-de-boric.html) 19 junio, 2022.
+
 - **El Líbero**. [Los constituyentes podrán usar la Convención como trampolín electoral.](https://ellibero.cl/libero-constituyente/los-constituyentes-podran-usar-la-convencion-como-trampolin-electoral/) 11 junio, 2022.
 
 - **T13**. [Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir".](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir) 1 junio, 2022.
