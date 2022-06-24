@@ -54,8 +54,6 @@ Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Not
 
 ## Links
 
-[Home](https://kennethbunker.github.io/)┃ [cademia](https://www.researchgate.net/profile/Kenneth-Bunker)┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker)┃ [Publons](https://publons.com/researcher/1861400/kenneth-bunker/)┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl)┃ [Orcid](https://orcid.org/0000-0002-4579-6132)┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0)┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns)
-
-
+[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns)
 
 ---
