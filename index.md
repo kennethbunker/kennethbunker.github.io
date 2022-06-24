@@ -22,11 +22,11 @@ My forthcoming book (with Jorge Heine) is called:
 
 You can find a short list of my most recent publications below:
 
-* 2022\. “Forecasting two-horse races in new democracies: Accuracy, precision and error” *Revista Lationamericana de Opinión Pública*. (Forthcoming).
+* 2022\. “Forecasting two-horse races in new democracies: Accuracy, precision and error” *Revista Lationamericana de Opinión Pública*. (Forthcoming). [doi](https://doi.org/10.14201/rlop.25374)
 
-* 2022\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. (Forthcoming).
+* 2021\. “Coalitional presidentialism in comparative perspective: Minority presidents in multiparty systems, by Paul Chaisty, Nic Cheeseman, and Timothy J. Power.” *Party Politics*. [doi](https://doi.org/10.1177/1354068820984270).
 
-* 2021\. “The age cleavage: Cultural backlash in Chile” *América Latina Hoy* 87: 1-26.
+* 2021\. “The age cleavage: Cultural backlash in Chile” *América Latina Hoy* 87: 1-26. [doi](https://doi.org/10.14201/alh).
 
 * 2021\. “A two-stage model to forecast elections in new democracies” *International Journal of Forecasting* 36(4): 1407-1419. [doi](https://doi.org/10.1016/j.ijforecast.2020.02.004).
 
