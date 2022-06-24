@@ -48,12 +48,14 @@ Here are some working papers (please contact me for citation instructions):
 
 * [APSA Preprints](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/5ec630f0bd035400191def57/original/how-electoral-designers-fail-the-contextual-straightjackets-of-reform.pdf). How electoral designers fail: The contextual straightjackets of reform.
 
+---
+
 Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Noticias](http://www.lun.com/) and online website [Ex-Ante](http://www.ex-ante.cl/), Executive Director of consultancy group [Tresquintos](http://www.tresquintos.cl/), and co-creator of online election game [#ElectoralDeathMatch](http://www.twitter.com/electoraldeathm). You can also follow me on [Twitter](http://www.twitter.com/kennethbunker)!
 
 ---
 
 ## Links
 
-[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [Columns](https://kennethbunker.github.io/columns)  ┃ [Front Page](https://kennethbunker.github.io/covers) ┃ [Front Page](https://kennethbunker.github.io/covers)
+[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [Columns](https://kennethbunker.github.io/columns)  ┃ [Front Page](https://kennethbunker.github.io/covers) ┃ [Front Page](https://kennethbunker.github.io/covers)
 
 ---
