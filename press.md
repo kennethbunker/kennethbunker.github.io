@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
+
 - **Radio Continental**. [Chile presenta el borrador de su nueva constitución.](https://www.continental.com.ar/internacional/chile-presenta-el-borrador-de-su-nueva-constitucion-_a62839e1160a56f968ad3e1d4) 18 May, 2022.
 
 - **The Guardian**. [Chile finalises new draft constitution to replace Pinochet-era document.](https://www.theguardian.com/world/2022/may/16/chile-constitution-new-draft-pinochet) 16 May, 2022.
