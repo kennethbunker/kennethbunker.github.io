@@ -13,6 +13,7 @@ title: Prensa
 
 ## 2022
 
+- **El Líbero**. [Escaños reservados en un nuevo Congreso: poder para establecer mayorías y alianzas con la izquierda.](https://ellibero.cl/libero-constituyente/escanos-reservados-en-un-nuevo-congreso-poder-para-establecer-mayorias-y-alianzas-con-la-izquierda/) 27 junio, 2022.
 
 - **El Desconcierto**. [Nueve analistas le ponen nota a los primeros 100 días del gobierno de Boric.](https://www.eldesconcierto.cl/reportajes/2022/06/18/nueve-analistas-le-ponen-nota-a-los-primeros-100-dias-del-gobierno-de-boric.html) 19 junio, 2022.
 
