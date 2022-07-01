@@ -13,6 +13,10 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda** [Debate Constitucional: Congreso gana protagonismo y Jackson en la encrucijada.](https://digital.lasegunda.com/2022/06/30/A/CR458G20#zoom=page-width). 30 junio, 2022.
+
+- **The Clinic** [Al ritmo de las encuestas: así se mueven los hilos tras la jugada de la reforma constitucional de Rincón y Walker.](https://www.theclinic.cl/2022/06/30/plebiscito-poker-reforma-constitucional-senadores-rincon-y-walker/). 30 junio, 2022.
+
 - **El Líbero**. [Escaños reservados en un nuevo Congreso: poder para establecer mayorías y alianzas con la izquierda.](https://ellibero.cl/libero-constituyente/escanos-reservados-en-un-nuevo-congreso-poder-para-establecer-mayorias-y-alianzas-con-la-izquierda/) 27 junio, 2022.
 
 - **El Desconcierto**. [Nueve analistas le ponen nota a los primeros 100 días del gobierno de Boric.](https://www.eldesconcierto.cl/reportajes/2022/06/18/nueve-analistas-le-ponen-nota-a-los-primeros-100-dias-del-gobierno-de-boric.html) 19 junio, 2022.
