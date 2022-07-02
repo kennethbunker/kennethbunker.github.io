@@ -1,6 +1,6 @@
 ## Hello world!
 
-I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also Associate Researcher at the Observatorio Político Electoral of Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information.
+I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also a Researcher at Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information.
 
 ---
 

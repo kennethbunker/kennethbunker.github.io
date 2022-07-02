@@ -14,13 +14,17 @@ title: Columns
 
 ## Las Últimas Noticias
 
-- 20220408 - La sospecha
+- 20220701 - Indolencia política
+- 20220625 - Scanner
+- 20220623 - Torpezas
+- 20220620 - Ocho ideas
+- 20220615 - Expertos en excluir
 - 20220611 - Meritocracia
-- 20220610 - La fuerza del cambio
-- 20220602 - Promesas
-- 20220601 - Lavarse las manos
-- 20220531 - Desaprobación
-- 20220529 - El trecho final
+- 20220610 - Vientos de cambio
+- 20220602 - Acciones y no palabras
+- 20220601 - Una verguenza
+- 20220531 - La falta de certezas
+- 20220530 - El trecho final
 - 20220526 - Punto de no retorno
 - 20220517 - Reflejos involuntarios
 - 20220512 - Inconsistencia
@@ -213,7 +217,10 @@ title: Columns
 
 ## Ex-Ante
 
-- 20220408 - La culpa es del gobierno anterior
+- 20220702 - El espíritu constituyente
+- 20220624 - El gabinete Irina Karamanos
+- 20220617 - Los flancos de Jackson
+- 20220610 - El candado chico
 - 20220603 - Quién paga la cuenta
 - 20220527 - Moderación forzada
 - 20220520 - Estabilidad
