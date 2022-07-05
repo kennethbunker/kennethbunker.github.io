@@ -14,6 +14,8 @@ title: Press
 ## 2022
 
 
+- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 5 July, 2022.
+
 - **Atlante Guerre**. [Sud America: svolta a sinistra ma con ostacoli](https://www.atlanteguerre.it/sud-america-svolta-a-sinistra-ma-con-ostacoli/) 27 June, 2022.
 
 - **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
