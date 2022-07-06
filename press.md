@@ -13,6 +13,7 @@ title: Press
 
 ## 2022
 
+- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 5 July, 2022.
 
 - **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 5 July, 2022.
 
