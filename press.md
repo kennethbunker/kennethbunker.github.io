@@ -13,13 +13,15 @@ title: Press
 
 ## 2022
 
+- **CNN Brazil**. [Campanhas constitucionais do Chile começam em meio a falta de apoio público.](https://www.cnnbrasil.com.br/internacional/campanhas-constitucionais-do-chile-comecam-em-meio-a-falta-de-apoio-publico/) 06 July, 2022.
+
 - **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
 
 - **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
 - **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
 
-- **Atlante Guerre**. [Sud America: svolta a sinistra ma con ostacoli](https://www.atlanteguerre.it/sud-america-svolta-a-sinistra-ma-con-ostacoli/) 27 June, 2022.
+- **El Nuevo Herald**. [Campaña por plebiscito constitucional arranca en Chile con gran incertidumbre.](https://www.elnuevoherald.com/noticias/america-latina/article263224588.html) 06 July, 2022.
 
 - **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
 
