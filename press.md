@@ -13,11 +13,11 @@ title: Press
 
 ## 2022
 
-- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 5 July, 2022.
+- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
 
-- **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 5 July, 2022.
+- **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
-- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 5 July, 2022.
+- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
 
 - **Atlante Guerre**. [Sud America: svolta a sinistra ma con ostacoli](https://www.atlanteguerre.it/sud-america-svolta-a-sinistra-ma-con-ostacoli/) 27 June, 2022.
 
