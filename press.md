@@ -23,6 +23,8 @@ title: Press
 
 - **El Nuevo Herald**. [Campaña por plebiscito constitucional arranca en Chile con gran incertidumbre.](https://www.elnuevoherald.com/noticias/america-latina/article263224588.html) 06 July, 2022.
 
+- **América Economía**. [Empieza campaña para el plebiscito constitucional en Chile con el "rechazo" en ventaja.](https://www.americaeconomia.com/rechazo-campana-plebiscito-chile) 08 July, 2022.
+
 - **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
 
 - **Radio Continental**. [Chile presenta el borrador de su nueva constitución.](https://www.continental.com.ar/internacional/chile-presenta-el-borrador-de-su-nueva-constitucion-_a62839e1160a56f968ad3e1d4) 18 May, 2022.
