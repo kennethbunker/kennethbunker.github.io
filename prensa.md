@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda** [Rechazo crece entre jóvenes y sectores más vulnerables en los últimos meses.](https://digital.lasegunda.com/2022/07/11/A/P545C7IG#zoom=page-width) 11 julio, 2022.
+
 - **El Líbero**. [Hegemonía del Partido Comunista en Twitter: logran marcar la agenda incluso al Gobierno.](https://ellibero.cl/actualidad/hegemonia-del-partido-comunista-en-twitter-marcan-la-agenda-incluso-al-gobierno/) 03 julio, 2022
 
 - **La Segunda** [Debate Constitucional: Congreso gana protagonismo y Jackson en la encrucijada.](https://digital.lasegunda.com/2022/06/30/A/CR458G20#zoom=page-width) 30 junio, 2022.
