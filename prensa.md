@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **Emol** [¿Un jefe de campaña?: Expertos analizan si es necesaria una figura que "unifique" las sensibilidades del Apruebo y el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/14/1066875/jefe-campana-apruebo-rechazo-plebiscito.html) 14 julio, 2022.
+
 - **La Segunda** [Rechazo crece entre jóvenes y sectores más vulnerables en los últimos meses.](https://digital.lasegunda.com/2022/07/11/A/P545C7IG#zoom=page-width) 11 julio, 2022.
 
 - **El Líbero**. [Hegemonía del Partido Comunista en Twitter: logran marcar la agenda incluso al Gobierno.](https://ellibero.cl/actualidad/hegemonia-del-partido-comunista-en-twitter-marcan-la-agenda-incluso-al-gobierno/) 03 julio, 2022
