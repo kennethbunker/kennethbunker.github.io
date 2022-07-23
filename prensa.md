@@ -13,6 +13,10 @@ title: Prensa
 
 ## 2022
 
+- **Las Últimas Noticias** [Cinco analistas responden: ¿Por qué la gente evita meterse en política?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
+
+- **La Segunda** [La inorgánica, pero hasta ahora, eficiente apuesta del Rechazo.](https://digital.lasegunda.com/2022/07/22/A/TB44SQS7#zoom=page-width) 22 julio, 2022.
+
 - **Emol** [¿Abre una tercera vía? Expertos analizan los dichos de Boric sobre el nuevo proceso constituyente si gana el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/16/1067096/analisis-dichos-boric-rechazo-expertos.html) 16 julio, 2022.
 
 - **Emol** [¿Un jefe de campaña?: Expertos analizan si es necesaria una figura que "unifique" las sensibilidades del Apruebo y el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/14/1066875/jefe-campana-apruebo-rechazo-plebiscito.html) 14 julio, 2022.
