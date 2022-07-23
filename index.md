@@ -1,6 +1,6 @@
 ## Hello world!
 
-I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide solutions for investors, stakeholders and other interested parties in politics: [Politico Tech Global](https://politicotechglobal.com) and [Tresquintos](https://tresquintos.cl). I  also participate as a consultant for international media and write several columns a week for mainstream media in Chile.
+I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: [Politico Tech Global](https://politicotechglobal.com) and [Tresquintos](https://tresquintos.cl). I regularly participate as a current affairs TV, radio and newspaper commentator. I am a syndicated columnist (see sidebar).
 
 I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also a Researcher at Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information.
 
