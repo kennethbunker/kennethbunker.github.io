@@ -10,9 +10,9 @@ I received my PhD in political science from The London School of Economics in 20
 
 ---
 
-My research looks at the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://doi.org/10.18042/cepc/rep.186.06). In this work I contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
+My research has focused on the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://doi.org/10.18042/cepc/rep.186.06). In this work I contribute to the general theory of coalition formation by examining partisan strategies in both the run-up to elections and the maintenance of governments.
 
-My research also looks at electoral forecasting. In this body of work I developed an innovative method called the Two-Stage Model (TSM). You can read the technical details of the TSM [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
+My research has also focused on electoral forecasting. In this body of work, I have developed some of the first literature of its type for new democracies. I have also created an innovative method called the Two-Stage Model (TSM). You can read about it [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
 ---
 
