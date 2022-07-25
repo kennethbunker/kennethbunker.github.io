@@ -1,6 +1,6 @@
 ## Hello world!
 
-I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: [Politico Tech Global](https://politicotechglobal.com) and [Tresquintos](https://tresquintos.cl). I regularly participate as a current affairs TV, radio and newspaper commentator. I write for mainstream media in Chile (see sidebar).
+I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: [Politico Tech Global](https://politicotechglobal.com) and [Tresquintos](https://tresquintos.cl). I regularly participate as a current affairs TV, radio and newspaper commentator (see sidebar).
 
 ---
 
@@ -8,9 +8,11 @@ I am a political consultant, an academic, and a columnist. I am at the head of t
 
 ---
 
-I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also a Researcher at Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0). You can also click on the links on the sidebar for more information.
+I received my PhD in political science from The London School of Economics in 2016. Since then, I have been an Assistant Professor at Universidad Central, and held visiting positions at Sapienza University and University of Milan. I am also a Researcher at Universidad Diego Portales. Here is my full [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0).
 
-My research has focused on the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of this work [here](https://doi.org/10.18042/cepc/rep.186.06). My research has also focused on electoral forecasting across the world. I have done some of the first research of its kind. I created an innovative method called the Two-Stage Model (TSM). You can read about it [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
+My research has mainly focused on the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of that work [here](https://doi.org/10.18042/cepc/rep.186.06).
+
+More recently, I have focused on electoral forecasting across the world. Among other things, I created an innovative method called the Two-Stage Model (TSM). You can read about it [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
 ---
 
