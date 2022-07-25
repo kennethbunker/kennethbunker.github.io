@@ -12,7 +12,7 @@ I received my PhD in political science from The London School of Economics in 20
 
 My research has mainly focused on the interaction between electoral systems and party systems. The purpose of my PhD was to understand how and why parties form electoral and government coalitions in presidentialism. You can read an example of that work [here](https://doi.org/10.18042/cepc/rep.186.06).
 
-More recently, I have focused on electoral forecasting across the world. Among other things, I created an innovative method called the Two-Stage Model (TSM). You can read about it [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
+More recently, I have focused on electoral forecasting across the world. Among other things, I created an innovative method called the Two-Stage Model (TSM). You can read more about it [here](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies). The TSM has been tested in [new](https://www.researchgate.net/publication/334836295_A_two-stage_model_to_forecast_elections_in_developing_democracies) and [advanced democracies](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
 ---
 
