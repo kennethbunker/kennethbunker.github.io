@@ -14,6 +14,14 @@ title: Columns
 
 ## Las Últimas Noticias
 
+- 20220802 - Los buenos
+- 20220730 - Cero aprendizajes
+- 20220727 - No todo vale
+- 20220721 - Millones de verdades
+- 20220716 - El proceso continúa
+- 20220714 - Una justicia para todos
+- 20220706 - La voz de la razón
+- 20220705 - El Chile profundo
 - 20220701 - Indolencia política
 - 20220625 - Scanner
 - 20220623 - Torpezas
@@ -217,6 +225,11 @@ title: Columns
 
 ## Ex-Ante
 
+- 20220729 - A Boric le falta decisión y cadencia
+- 20220722 - Error administrativo
+- 20220716 - La entrevista de Boric
+- 20220715 - La importancia de lo inmediato
+- 20220708 - La negación de Lagos
 - 20220702 - El espíritu constituyente
 - 20220624 - El gabinete Irina Karamanos
 - 20220617 - Los flancos de Jackson
