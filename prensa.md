@@ -21,7 +21,7 @@ title: Prensa
 
 - **La Segunda** [La inorgánica, pero hasta ahora, eficiente apuesta del Rechazo.](https://digital.lasegunda.com/2022/07/22/A/TB44SQS7#zoom=page-width) 22 julio, 2022.
 
-- **La Segunda** [El Senado resucita como cancha de la discusión constitucional y Boirc se ve forzado a entrar al ruedo.](https://digital.lasegunda.com/2022/07/19/A/ES45FQE2#zoom=page-width) 19 julio, 2022.
+- **La Segunda** [El Senado resucita como cancha de la discusión constitucional y Boric se ve forzado a entrar al ruedo.](https://digital.lasegunda.com/2022/07/19/A/ES45FQE2#zoom=page-width) 19 julio, 2022.
 
 - **Emol** [¿Abre una tercera vía? Expertos analizan los dichos de Boric sobre el nuevo proceso constituyente si gana el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/16/1067096/analisis-dichos-boric-rechazo-expertos.html) 16 julio, 2022.
 
@@ -43,7 +43,7 @@ title: Prensa
 
 - **T13**. [Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir".](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir) 1 junio, 2022.
 
-- **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 april, 2022.
+- **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 abril, 2022.
 
 - **The Clinic**. [Quedarse enfrascados en los diagnósticos: el peligro que acecha al gobierno en sus primeros 50 días
 ](https://www.theclinic.cl/2022/04/27/quedarse-enfrascados-en-los-diagnosticos-el-peligro-que-acecha-al-gobierno-en-sus-primeros-50-dias/). 27 april, 2022.
