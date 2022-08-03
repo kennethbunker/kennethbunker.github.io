@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **El Líbero** [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
+
 - **La Segunda** [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
 
 - **La Segunda** [Aprobar para reformar: Las dificultades para alcanzar un acuerdo preplebiscito.](https://digital.lasegunda.com/2022/07/29/A/UB44SR0B#zoom=page-width) 29 julio, 2022.
