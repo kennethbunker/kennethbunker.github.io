@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda** [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 03 agosto, 2022.
+
 - **El Líbero** [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
 
 - **La Segunda** [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
