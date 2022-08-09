@@ -1,6 +1,6 @@
 ## Hello world!
 
-I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: [Politico Tech Global](https://politicotechglobal.com) and [Tresquintos](https://tresquintos.cl). I regularly participate as a current affairs TV, radio and newspaper commentator (see sidebar).
+I am a political consultant, an academic, and a columnist. I am at the head of two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: Contact me personally for more information. I also regularly participate as a current affairs television, radio and newspaper commentator (see sidebar).
 
 ---
 
