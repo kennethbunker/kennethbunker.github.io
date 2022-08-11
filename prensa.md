@@ -13,29 +13,31 @@ title: Prensa
 
 ## 2022
 
-- **El Mercurio** [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
+- **La Segunda**. [Los límites de Boric como garante del acuerdo](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
 
-- **La Segunda** [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 03 agosto, 2022.
+- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
 
-- **El Líbero** [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
+- **La Segunda**. [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 03 agosto, 2022.
 
-- **La Segunda** [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
+- **El Líbero**. [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
 
-- **La Segunda** [Aprobar para reformar: Las dificultades para alcanzar un acuerdo preplebiscito.](https://digital.lasegunda.com/2022/07/29/A/UB44SR0B#zoom=page-width) 29 julio, 2022.
+- **La Segunda**. [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
+
+- **La Segunda**. [Aprobar para reformar: Las dificultades para alcanzar un acuerdo preplebiscito.](https://digital.lasegunda.com/2022/07/29/A/UB44SR0B#zoom=page-width) 29 julio, 2022.
 
 - **Emol** [Ex convencionales intensifican participación en las campañas del Plebiscito: los riesgos de la jugada bajo la mirada experta.](https://www.emol.com/noticias/Nacional/2022/07/28/1068282/exconstituyentes-participan-campana-apruebo-rechazo.html) 28 julio, 2022.
 
-- **Las Últimas Noticias** [Cinco analistas responden: ¿Por qué la gente evita meterse en política?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
+- **Las Últimas Noticias**. [Cinco analistas responden: ¿Por qué la gente evita meterse en política?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
 
-- **La Segunda** [La inorgánica, pero hasta ahora, eficiente apuesta del Rechazo.](https://digital.lasegunda.com/2022/07/22/A/TB44SQS7#zoom=page-width) 22 julio, 2022.
+- **La Segunda**. [La inorgánica, pero hasta ahora, eficiente apuesta del Rechazo.](https://digital.lasegunda.com/2022/07/22/A/TB44SQS7#zoom=page-width) 22 julio, 2022.
 
-- **La Segunda** [El Senado resucita como cancha de la discusión constitucional y Boric se ve forzado a entrar al ruedo.](https://digital.lasegunda.com/2022/07/19/A/ES45FQE2#zoom=page-width) 19 julio, 2022.
+- **La Segunda**. [El Senado resucita como cancha de la discusión constitucional y Boric se ve forzado a entrar al ruedo.](https://digital.lasegunda.com/2022/07/19/A/ES45FQE2#zoom=page-width) 19 julio, 2022.
 
-- **Emol** [¿Abre una tercera vía? Expertos analizan los dichos de Boric sobre el nuevo proceso constituyente si gana el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/16/1067096/analisis-dichos-boric-rechazo-expertos.html) 16 julio, 2022.
+- **Emol**. [¿Abre una tercera vía? Expertos analizan los dichos de Boric sobre el nuevo proceso constituyente si gana el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/16/1067096/analisis-dichos-boric-rechazo-expertos.html) 16 julio, 2022.
 
-- **Emol** [¿Un jefe de campaña?: Expertos analizan si es necesaria una figura que "unifique" las sensibilidades del Apruebo y el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/14/1066875/jefe-campana-apruebo-rechazo-plebiscito.html) 14 julio, 2022.
+- **Emol**. [¿Un jefe de campaña?: Expertos analizan si es necesaria una figura que "unifique" las sensibilidades del Apruebo y el Rechazo.](https://www.emol.com/noticias/Nacional/2022/07/14/1066875/jefe-campana-apruebo-rechazo-plebiscito.html) 14 julio, 2022.
 
-- **La Segunda** [Rechazo crece entre jóvenes y sectores más vulnerables en los últimos meses.](https://digital.lasegunda.com/2022/07/11/A/P545C7IG#zoom=page-width) 11 julio, 2022.
+- **La Segunda**. [Rechazo crece entre jóvenes y sectores más vulnerables en los últimos meses.](https://digital.lasegunda.com/2022/07/11/A/P545C7IG#zoom=page-width) 11 julio, 2022.
 
 - **El Líbero**. [Hegemonía del Partido Comunista en Twitter: logran marcar la agenda incluso al Gobierno.](https://ellibero.cl/actualidad/hegemonia-del-partido-comunista-en-twitter-marcan-la-agenda-incluso-al-gobierno/) 03 julio, 2022
 
