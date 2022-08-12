@@ -14,6 +14,9 @@ title: Columns
 
 ## Las Últimas Noticias
 
+- 20220812 - Mal hecha
+- 20220809 - Horario laboral
+- 20220804 - Pasarse tres pueblos
 - 20220802 - Los buenos
 - 20220730 - Cero aprendizajes
 - 20220727 - No todo vale
@@ -225,6 +228,8 @@ title: Columns
 
 ## Ex-Ante
 
+- 20220812 - La gran cocina por el Apruebo
+- 20220805 - El gran truco
 - 20220729 - A Boric le falta decisión y cadencia
 - 20220722 - Error administrativo
 - 20220716 - La entrevista de Boric
