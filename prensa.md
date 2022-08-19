@@ -13,7 +13,11 @@ title: Prensa
 
 ## 2022
 
-- **La Segunda**. [Los límites de Boric como garante del acuerdo](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
+- **El Mostrador**. [Presidente Boric en la línea de fuego.](https://www.elmostrador.cl/noticias/pais/2022/08/19/presidente-boric-en-la-linea-de-fuego/) 19 agosto, 2022.
+
+- **Ex-Ante**. [Trasfondo: Siches suma más polémicas y cambio de gabinete tras el plebiscito podría marcar nuevo equilibrio de poder en el oficialismo.](https://www.ex-ante.cl/trasfondo-siches-suma-mas-polemicas-y-cambio-de-gabinete-tras-el-plebiscito-podria-marcar-nuevo-equilibrio-de-poder-en-el-oficialismo/) 18 agosto, 2022.
+
+- **La Segunda**. [Los límites de Boric como garante del acuerdo.](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
 
 - **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
 
