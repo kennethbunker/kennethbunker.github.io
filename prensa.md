@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **Diario Financiero**. [Puede haber un castigo sobre la opción Apruebo por temas coyunturales.](https://www.df.cl/df-constitucional/kenneth-bunker-puede-haber-un-castigo-sobre-la-opcion-apruebo-por) 23 agosto, 2022.
+
 - **La Segunda**. [Boric se blinda ante eventual triunfo del Rechazo.](https://digital.lasegunda.com/2022/08/22/A/RM45TIMJ#zoom=page-width) 22 agosto, 2022.
 
 - **El Mostrador**. [Presidente Boric en la línea de fuego.](https://www.elmostrador.cl/noticias/pais/2022/08/19/presidente-boric-en-la-linea-de-fuego/) 19 agosto, 2022.
