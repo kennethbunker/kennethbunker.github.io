@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **Emol**. [¿Impacto en el 4/S?: Los efectos del llamado a Llaitul y la "operación quirúrgica" del Gobierno al aceptar la salida de Vega.](https://www.emol.com/noticias/Nacional/2022/08/26/1071034/impacto-plebiscito-llamado-vega-llaitul.html) 26 agosto, 2022.
+
 - **Diario Financiero**. [Puede haber un castigo sobre la opción Apruebo por temas coyunturales.](https://www.df.cl/df-constitucional/kenneth-bunker-puede-haber-un-castigo-sobre-la-opcion-apruebo-por) 23 agosto, 2022.
 
 - **La Segunda**. [Boric se blinda ante eventual triunfo del Rechazo.](https://digital.lasegunda.com/2022/08/22/A/RM45TIMJ#zoom=page-width) 22 agosto, 2022.
