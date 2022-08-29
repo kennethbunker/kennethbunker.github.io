@@ -462,3 +462,5 @@ title: Columns
 - 20070221 - Participación ciudadana y calidad de las políticas sociales
 
 ## Others (English)
+
+- 20131125 - Warscapes. [Michelle Bachelet's Legislative Majority](http://www.warscapes.com/opinion/michelle-bachelet-s-legislative-majority)
