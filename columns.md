@@ -449,6 +449,8 @@ title: Columns
 
 ## Others (La Nación, La Segunda, El Mostrador)
 
+[*La Nación*](https://www.lanacion.cl); [*La Segunda*](https://www.lasegunda.com); [*El Mostrador*](https://www.elmostrador.cl)
+
 - 20220203 - La caja nueva del nuevo sistema electoral
 - 20080913 - La política chilena tiene una lección que aprender
 - 20080219 - Segunda etapa: Bachelet y los partidos
@@ -458,3 +460,5 @@ title: Columns
 - 20081021 - El proceso político de puertas cerradas
 - 20080903 - Los privilegios de los políticos
 - 20070221 - Participación ciudadana y calidad de las políticas sociales
+
+## Others (English)
