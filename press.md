@@ -13,7 +13,7 @@ title: Press
 
 ## 2022
 
-- **Infobae**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://www.infobae.com/america/agencias/2022/08/28/tres-convulsos-anos-en-chile-de-masivas-protestas-a-una-nueva-constitucion/) 28 August, 2022.
+- **Clarín**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://www.clarin.com/mundo/anos-convulsionados-chile-masivas-protestas-nueva-constitucion_0_adRl3LOFJK.html) 29 August, 2022.
 
 - **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
