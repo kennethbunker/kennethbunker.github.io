@@ -234,6 +234,8 @@ title: Columns
 
 ## Ex-Ante
 
+[*Ex-Ante*](https://www.ex-ante.cl)
+
 - 20220827 - El caso de Jeanette Vega
 - 20220819 - Gobierno imprudente y fuera de juego
 - 20220812 - La foto más triste del proceso constituyente
@@ -322,6 +324,8 @@ title: Columns
 
 ## T13 (2014 - 2016)
 
+[*T13*](https://www.t13.cl)
+
 - 20160619 - Pudo ser mejor
 - 20150707 - Criterios para el cambio de gabinete
 - 20150325 - La amenaza democrática
@@ -335,7 +339,9 @@ title: Columns
 - 20141117 - Interpelaciones y presión política
 
 
-## La Tercera (2013 - 2017)
+## La Tercera (2008 - 2010; 2013 - 2017)
+
+[*La Tercera*](https://www.latercera.cl)
 
 - 20170731 - La debacle de la DC
 - 20170629 - La peor pesadilla
