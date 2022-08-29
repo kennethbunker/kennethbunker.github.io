@@ -14,6 +14,12 @@ title: Columns
 
 ## Las Últimas Noticias
 
+[**Las Últimas Noticias**](https://www.lun.com)
+
+- 20220828 - El motivo del telefonazo
+- 20220826 - Irreversible
+- 20220825 - Giro en 180 grados
+- 20220818 - La Cancillería
 - 20220812 - Mal hecha
 - 20220809 - Horario laboral
 - 20220804 - Pasarse tres pueblos
@@ -228,6 +234,9 @@ title: Columns
 
 ## Ex-Ante
 
+- 20220827 - El caso de Jeanette Vega
+- 20220819 - Gobierno imprudente y fuera de juego
+- 20220812 - La foto más triste del proceso constituyente
 - 20220812 - La gran cocina por el Apruebo
 - 20220805 - El gran truco
 - 20220729 - A Boric le falta decisión y cadencia
