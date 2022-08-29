@@ -14,7 +14,7 @@ title: Columns
 
 ## Las Últimas Noticias
 
-[**Las Últimas Noticias**](https://www.lun.com)
+[*Las Últimas Noticias*](https://www.lun.com)
 
 - 20220828 - El motivo del telefonazo
 - 20220826 - Irreversible
