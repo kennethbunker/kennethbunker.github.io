@@ -463,4 +463,10 @@ title: Columns
 
 ## Others (English)
 
+- 20160520 - Huffington Post. [How the Major Parties Will Face the EU](https://www.huffingtonpost.co.uk/kenneth-bunker/how-the-major-parties-wil_b_10044036.html)
+
+- 20160520 - Huffington Post. [Bittersweet Showing for Nationalist Parties](https://www.huffingtonpost.co.uk/kenneth-bunker/ukip-snp-nationalist-parties_b_10001862.html)
+
+- 20160505 - Huffington Post. [Hope for Electoral Reform in the United Kingdom](https://www.huffingtonpost.co.uk/kenneth-bunker/electoral-reform_b_9839520.html)
+
 - 20131125 - Warscapes. [Michelle Bachelet's Legislative Majority](http://www.warscapes.com/opinion/michelle-bachelet-s-legislative-majority)
