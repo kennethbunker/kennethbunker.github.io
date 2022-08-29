@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Infobae**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://www.infobae.com/america/agencias/2022/08/28/tres-convulsos-anos-en-chile-de-masivas-protestas-a-una-nueva-constitucion/) 28 August, 2022.
+
 - **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
 - **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.

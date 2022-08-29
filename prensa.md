@@ -13,6 +13,10 @@ title: Prensa
 
 ## 2022
 
+- **El Mostrador**. [Tenso clima a una semana del plebiscito: a bochornosa performance del Apruebo se suma violencia física del Rechazo contra ciclistas.](https://www.elmostrador.cl/destacado/2022/08/28/tenso-clima-a-una-semana-del-plebiscito-a-bochornosa-performance-de-apruebo-se-suma-violencia-fisica-del-rechazo-contra-ciclistas/) 28 agosto, 2022.
+
+- **Las Últimas Noticias**. [CEl motivo del telefonazo: cinco dudas esenciales que rodean el episodio Llaitul.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 28 agosto, 2022.
+
 - **Emol**. [¿Impacto en el 4/S?: Los efectos del llamado a Llaitul y la "operación quirúrgica" del Gobierno al aceptar la salida de Vega.](https://www.emol.com/noticias/Nacional/2022/08/26/1071034/impacto-plebiscito-llamado-vega-llaitul.html) 26 agosto, 2022.
 
 - **Diario Financiero**. [Puede haber un castigo sobre la opción Apruebo por temas coyunturales.](https://www.df.cl/df-constitucional/kenneth-bunker-puede-haber-un-castigo-sobre-la-opcion-apruebo-por) 23 agosto, 2022.
@@ -35,7 +39,7 @@ title: Prensa
 
 - **La Segunda**. [Aprobar para reformar: Las dificultades para alcanzar un acuerdo preplebiscito.](https://digital.lasegunda.com/2022/07/29/A/UB44SR0B#zoom=page-width) 29 julio, 2022.
 
-- **Emol** [Ex convencionales intensifican participación en las campañas del Plebiscito: los riesgos de la jugada bajo la mirada experta.](https://www.emol.com/noticias/Nacional/2022/07/28/1068282/exconstituyentes-participan-campana-apruebo-rechazo.html) 28 julio, 2022.
+- **Emol**. [Ex convencionales intensifican participación en las campañas del Plebiscito: los riesgos de la jugada bajo la mirada experta.](https://www.emol.com/noticias/Nacional/2022/07/28/1068282/exconstituyentes-participan-campana-apruebo-rechazo.html) 28 julio, 2022.
 
 - **Las Últimas Noticias**. [Cinco analistas responden: ¿Por qué la gente evita meterse en política?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
 
