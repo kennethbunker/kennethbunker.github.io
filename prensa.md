@@ -13,6 +13,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda**. [Mucho votante nuevo y noticiosa semana le ponen incertidumbre al plebiscito.](https://digital.lasegunda.com/2022/08/29/A/P54602TQ#zoom=page-width) 28 agosto, 2022.
+
 - **El Mostrador**. [Tenso clima a una semana del plebiscito: a bochornosa performance del Apruebo se suma violencia física del Rechazo contra ciclistas.](https://www.elmostrador.cl/destacado/2022/08/28/tenso-clima-a-una-semana-del-plebiscito-a-bochornosa-performance-de-apruebo-se-suma-violencia-fisica-del-rechazo-contra-ciclistas/) 28 agosto, 2022.
 
 - **Las Últimas Noticias**. [El motivo del telefonazo: cinco dudas esenciales que rodean el episodio Llaitul.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 28 agosto, 2022.
