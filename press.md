@@ -13,15 +13,15 @@ title: Press
 
 ## 2022
 
+- **TIME**. [Chile’s Millennial President Is a New Kind of Leftist Leader.](https://time.com/6193719/chile-constitution-reform-boric/) 31 August, 2022.
+
 - **La República**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://larepublica.pe/mundo/2022/08/29/plebiscito-de-salida-2022-nueva-constitucion-para-chile-claves-para-entender-el-historico-plebiscito-que-divide-a-la-nacion-apruebo-rechazo/) 29 August, 2022.
 
 - **Clarín**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://www.clarin.com/mundo/anos-convulsionados-chile-masivas-protestas-nueva-constitucion_0_adRl3LOFJK.html) 29 August, 2022.
 
-- **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
+- **Reuters**. [Chile's constitutional campaigns start amid faltering public support.](https://www.reuters.com/world/americas/chiles-constitutional-campaigns-start-amid-faltering-public-support-2022-07-06/) 07 July, 2022.
 
-- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
-
-- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
+- **América Economía**. [Empieza campaña para el plebiscito constitucional en Chile con el "rechazo" en ventaja.](https://www.americaeconomia.com/rechazo-campana-plebiscito-chile) 08 July, 2022.
 
 - **Radio France International**. [Empezó en Chile la campaña para el plebiscito de la Constitución.](https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20220707-chile-constitucion-plebiscito-convencion-constitucional) 07 July, 2022.
 
@@ -29,9 +29,11 @@ title: Press
 
 - **El Nuevo Herald**. [Campaña por plebiscito constitucional arranca en Chile con gran incertidumbre.](https://www.elnuevoherald.com/noticias/america-latina/article263224588.html) 06 July, 2022.
 
-- **Reuters**. [Chile's constitutional campaigns start amid faltering public support.](https://www.reuters.com/world/americas/chiles-constitutional-campaigns-start-amid-faltering-public-support-2022-07-06/) 07 July, 2022.
+- **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
-- **América Economía**. [Empieza campaña para el plebiscito constitucional en Chile con el "rechazo" en ventaja.](https://www.americaeconomia.com/rechazo-campana-plebiscito-chile) 08 July, 2022.
+- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
+
+- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
 
 - **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
 
