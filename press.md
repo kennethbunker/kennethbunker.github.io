@@ -18,7 +18,7 @@ title: Press
 ## 2022
 
 
-- **AP**. [Chile’s move to replace dictatorship constitution faces test](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
+- **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
 
 - **Trouw**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
 
