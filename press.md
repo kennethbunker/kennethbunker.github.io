@@ -9,7 +9,7 @@ title: Press
 
 *For a collection of my comments in the Chilean press, click [here](https://kennethbunker.github.io/prensa). To see some of my printed press front page appearances, click [here](https://kennethbunker.github.io/covers).*
 
-[TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [La Times](https://latimes.com) ┃ [The Wall Street Journal](https://wsj.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [AP](https://apnews.com) ┃ 
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [AP](https://apnews.com) ┃ [Reuters](https://reuters.com) 
 
 
 ---
