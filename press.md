@@ -11,16 +11,23 @@ title: Press
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com)
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar)
 
 ---
 
 ## 2022
 
+- **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
+
+- **La Nación**. [CA tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
+
+- **Nasdaq**. [Chile's constitution vote puts Andean country at historic crossroads.](https://www.nasdaq.com/articles/chiles-constitution-vote-puts-andean-country-at-historic-crossroads) 2 September, 2022.
 
 - **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
 
-- **Trouw**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
+- **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 1 September, 2022.
+
+- **Trouw**. [Chile's constitution vote puts Andean country at historic crossroads](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
 
 - **TIME**. [Chile’s Millennial President Is a New Kind of Leftist Leader.](https://time.com/6193719/chile-constitution-reform-boric/) 31 August, 2022.
 
