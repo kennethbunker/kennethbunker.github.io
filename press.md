@@ -13,6 +13,8 @@ title: Press
 
 ## 2022
 
+- **Trouw**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
+
 - **TIME**. [Chile’s Millennial President Is a New Kind of Leftist Leader.](https://time.com/6193719/chile-constitution-reform-boric/) 31 August, 2022.
 
 - **La República**. [Tres convulsos años en Chile: de masivas protestas a una nueva Constitución.](https://larepublica.pe/mundo/2022/08/29/plebiscito-de-salida-2022-nueva-constitucion-para-chile-claves-para-entender-el-historico-plebiscito-que-divide-a-la-nacion-apruebo-rechazo/) 29 August, 2022.
