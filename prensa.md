@@ -9,6 +9,8 @@ title: Prensa
 
 *Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de apariciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers).*
 
+[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://el.com) ┃ [Bío Bío](https://guardian.com) ┃ [TVN](https://lescchoes.com) ┃ [T13](https://washingtonpost.com) ┃ [Duna](https://bbc.com) ┃ [ADN](https://clarin.com) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃[El Mercurio de Valparaíso](https://www.ft.com) ┃ [Emol](https://france24.com) ┃ [El Dínamo](https://eldinamo.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com)
+
 ---
 
 ## 2022
