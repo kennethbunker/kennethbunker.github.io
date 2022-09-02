@@ -9,7 +9,8 @@ title: Prensa
 
 *Para revisar una colección de mis comentarios en la prensa internacional, pincha [aquí](https://kennethbunker.github.io/press). Para ver una selección de apariciones en portadas de medios impresos, pincha [aquí](https://kennethbunker.github.io/covers).*
 
-[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃[El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl) 
+[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ ┃ [La Segunda](https://lasegunda.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃[El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl)
+
 ---
 
 ## 2022
