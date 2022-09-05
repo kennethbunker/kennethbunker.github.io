@@ -29,6 +29,8 @@ title: Press
 
 - **RTVE**. [La primera Constitución redactada de forma paritaria se enfrenta al plebiscito chileno.](https://www.rtve.es/noticias/20220904/chile-nueva-constitucion-se-enfrenta-plebiscito/2399966.shtml) 4 September, 2022.
 
+- **France 24**. [Chile at historic crossroads as country votes on new constitution.](https://www.france24.com/en/americas/20220904-chileans-head-to-polls-over-new-constitution-in-historic-crossroads) 4 September, 2022.
+
 - **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
 
 - **La Nación**. [CA tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
