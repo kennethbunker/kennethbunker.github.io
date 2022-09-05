@@ -17,6 +17,11 @@ title: Press
 
 ## 2022
 
+
+- **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.]( https://www.bnnbloomberg.ca/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric-1.1814711) 5 September, 2022.
+
+- **Les Echoes**. [Référendum sur la Constitution : au Chili, une fête de la démocratie ternie par la crise.](https://www.lesechos.fr/monde/ameriques/referendum-sur-la-constitution-au-chili-une-fete-de-la-democratie-ternie-par-la-crise-1785577) 4 September, 2022.
+
 - **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
 
 - **La Nación**. [CA tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
