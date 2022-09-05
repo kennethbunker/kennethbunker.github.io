@@ -17,12 +17,17 @@ title: Press
 
 ## 2022
 
-
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 5 September, 2022.
 
-- **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bnnbloomberg.ca/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric-1.1814711) 5 September, 2022.
+- **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 5 September, 2022.
+
+- **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric) 5 September, 2022.
+
+- **Financial Review**. [Chile decisively rejects new leftist constitution.](https://www.afr.com/world/south-america/chile-rejects-new-constitution-in-blow-to-left-wing-leader-20220905-p5bfet) 5 September, 2022.
 
 - **Les Echoes**. [Référendum sur la Constitution : au Chili, une fête de la démocratie ternie par la crise.](https://www.lesechos.fr/monde/ameriques/referendum-sur-la-constitution-au-chili-une-fete-de-la-democratie-ternie-par-la-crise-1785577) 4 September, 2022.
+
+- **RTVE**. [La primera Constitución redactada de forma paritaria se enfrenta al plebiscito chileno.](https://www.rtve.es/noticias/20220904/chile-nueva-constitucion-se-enfrenta-plebiscito/2399966.shtml) 4 September, 2022.
 
 - **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
 
