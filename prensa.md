@@ -17,11 +17,14 @@ title: Prensa
 
 ## 2022
 
-- **Emol**. [Bloomberg califica como "un duro golpe para Boric" triunfo del Rechazo y analiza su efecto en mercado.](https://www.emol.com/noticias/Economia/2022/09/05/1071957/rechazo-constitucion-derrota-boric-mercados.htmlY/) 6 septiembre, 2022.
 
 - **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 6 septiembre, 2022.
 
+- **Emol**. [Bloomberg califica como "un duro golpe para Boric" triunfo del Rechazo y analiza su efecto en mercado.](https://www.emol.com/noticias/Economia/2022/09/05/1071957/rechazo-constitucion-derrota-boric-mercados.htmlY/) 6 septiembre, 2022.
+
 - **Duna**. [“Un duro golpe para Boric”: La visión de Bloomberg tras el triunfo del Rechazo.]( https://www.duna.cl/noticias/2022/09/05/un-duro-golpe-para-boric-la-vision-de-bloomberg-tras-el-triunfo-del-rechazo/) 6 septiembre, 2022.
+
+- **Ex-Ante**. [Kenneth Bunker: “Entre la UDI y el PS hay suficientes votos para hacer lo que se necesita para seguir adelante”.](https://www.ex-ante.cl/kenneth-bunker-entre-la-udi-y-el-ps-hay-suficientes-votos-para-hacer-lo-que-se-necesita-para-seguir-adelante/?fbclid=IwAR0WebRviRPZy4KsLgUqSTpHLx85AhAL8jy-hyswb8gYhhxuaQslqNnIUvc) 5 septiembre, 2022.
 
 - **La Tercera**. [Bloomberg calificó como un “duro golpe para Boric” el Rechazo a la propuesta de nueva Constitución.](https://www.latercera.com/pulso/noticia/bloomberg-califico-como-un-duro-golpe-para-boric-el-rechazo-a-la-propuesta-de-nueva-constitucion/ERKJEXGTDBF7FMAYJOMXOOQXFI/) 5 septiembre, 2022.
 
