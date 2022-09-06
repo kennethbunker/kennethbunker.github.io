@@ -21,6 +21,8 @@ title: Press
 
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 5 September, 2022.
 
+- **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 5 September, 2022.
+
 - **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 5 September, 2022.
 
 - **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric) 5 September, 2022.
