@@ -17,6 +17,8 @@ title: Press
 
 ## 2022
 
+- **TIME**. [ChWhy Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 6 September, 2022.
+
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 5 September, 2022.
 
 - **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 5 September, 2022.
