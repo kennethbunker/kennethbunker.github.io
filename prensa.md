@@ -17,6 +17,11 @@ title: Prensa
 
 ## 2022
 
+
+- **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 6 septiembre, 2022.
+
+- **Duna**. [“Un duro golpe para Boric”: La visión de Bloomberg tras el triunfo del Rechazo.]( https://www.duna.cl/noticias/2022/09/05/un-duro-golpe-para-boric-la-vision-de-bloomberg-tras-el-triunfo-del-rechazo/) 6 septiembre, 2022.
+
 - **La Segunda**. [Mucho votante nuevo y noticiosa semana le ponen incertidumbre al plebiscito.](https://digital.lasegunda.com/2022/08/29/A/P54602TQ#zoom=page-width) 28 agosto, 2022.
 
 - **El Mostrador**. [Tenso clima a una semana del plebiscito: a bochornosa performance del Apruebo se suma violencia física del Rechazo contra ciclistas.](https://www.elmostrador.cl/destacado/2022/08/28/tenso-clima-a-una-semana-del-plebiscito-a-bochornosa-performance-de-apruebo-se-suma-violencia-fisica-del-rechazo-contra-ciclistas/) 28 agosto, 2022.
