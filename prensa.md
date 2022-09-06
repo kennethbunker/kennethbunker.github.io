@@ -23,6 +23,8 @@ title: Prensa
 
 - **Duna**. [“Un duro golpe para Boric”: La visión de Bloomberg tras el triunfo del Rechazo.]( https://www.duna.cl/noticias/2022/09/05/un-duro-golpe-para-boric-la-vision-de-bloomberg-tras-el-triunfo-del-rechazo/) 6 septiembre, 2022.
 
+- **La Tercera**. [Bloomberg calificó como un “duro golpe para Boric” el Rechazo a la propuesta de nueva Constitución.](https://www.latercera.com/pulso/noticia/bloomberg-califico-como-un-duro-golpe-para-boric-el-rechazo-a-la-propuesta-de-nueva-constitucion/ERKJEXGTDBF7FMAYJOMXOOQXFI/) 5 septiembre, 2022.
+
 - **La Segunda**. [Mucho votante nuevo y noticiosa semana le ponen incertidumbre al plebiscito.](https://digital.lasegunda.com/2022/08/29/A/P54602TQ#zoom=page-width) 28 agosto, 2022.
 
 - **El Mostrador**. [Tenso clima a una semana del plebiscito: a bochornosa performance del Apruebo se suma violencia física del Rechazo contra ciclistas.](https://www.elmostrador.cl/destacado/2022/08/28/tenso-clima-a-una-semana-del-plebiscito-a-bochornosa-performance-de-apruebo-se-suma-violencia-fisica-del-rechazo-contra-ciclistas/) 28 agosto, 2022.
