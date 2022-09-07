@@ -18,6 +18,8 @@ title: Prensa
 ## 2022
 
 
+- **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 7 septiembre, 2022.
+
 - **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 6 septiembre, 2022.
 
 - **Emol**. [Bloomberg califica como "un duro golpe para Boric" triunfo del Rechazo y analiza su efecto en mercado.](https://www.emol.com/noticias/Economia/2022/09/05/1071957/rechazo-constitucion-derrota-boric-mercados.htmlY/) 6 septiembre, 2022.
