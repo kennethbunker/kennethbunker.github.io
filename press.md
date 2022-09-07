@@ -29,15 +29,17 @@ title: Press
 
 - **Financial Review**. [Chile decisively rejects new leftist constitution.](https://www.afr.com/world/south-america/chile-rejects-new-constitution-in-blow-to-left-wing-leader-20220905-p5bfet) 5 September, 2022.
 
-- **Les Echoes**. [Référendum sur la Constitution : au Chili, une fête de la démocratie ternie par la crise.](https://www.lesechos.fr/monde/ameriques/referendum-sur-la-constitution-au-chili-une-fete-de-la-democratie-ternie-par-la-crise-1785577) 4 September, 2022.
+- **Les Echoes**. [Référendum sur la Constitution: au Chili, une fête de la démocratie ternie par la crise.](https://www.lesechos.fr/monde/ameriques/referendum-sur-la-constitution-au-chili-une-fete-de-la-democratie-ternie-par-la-crise-1785577) 4 September, 2022.
 
 - **RTVE**. [La primera Constitución redactada de forma paritaria se enfrenta al plebiscito chileno.](https://www.rtve.es/noticias/20220904/chile-nueva-constitucion-se-enfrenta-plebiscito/2399966.shtml) 4 September, 2022.
 
 - **France 24**. [Chile at historic crossroads as country votes on new constitution.](https://www.france24.com/en/americas/20220904-chileans-head-to-polls-over-new-constitution-in-historic-crossroads) 4 September, 2022.
 
-- **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
+- **The Washington Post**. [Chile’s move to replace dictatorship constitution faces test.](https://www.washingtonpost.com/world/chiles-move-to-replace-dictatorship-constitution-faces-test/2022/09/02/21cf69d4-2a76-11ed-a90a-fce4015dfc8f_story.html) 2 September, 2022.
 
-- **La Nación**. [CA tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
+- **La Nación**. [A tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
+
+- **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
 
 - **Nasdaq**. [Chile's constitution vote puts Andean country at historic crossroads.](https://www.nasdaq.com/articles/chiles-constitution-vote-puts-andean-country-at-historic-crossroads) 2 September, 2022.
 
