@@ -17,7 +17,6 @@ title: Prensa
 
 ## 2022
 
-
 - **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 7 septiembre, 2022.
 
 - **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 6 septiembre, 2022.
@@ -29,6 +28,8 @@ title: Prensa
 - **Ex-Ante**. [Kenneth Bunker: “Entre la UDI y el PS hay suficientes votos para hacer lo que se necesita para seguir adelante”.](https://www.ex-ante.cl/kenneth-bunker-entre-la-udi-y-el-ps-hay-suficientes-votos-para-hacer-lo-que-se-necesita-para-seguir-adelante/?fbclid=IwAR0WebRviRPZy4KsLgUqSTpHLx85AhAL8jy-hyswb8gYhhxuaQslqNnIUvc) 5 septiembre, 2022.
 
 - **La Tercera**. [Bloomberg calificó como un “duro golpe para Boric” el Rechazo a la propuesta de nueva Constitución.](https://www.latercera.com/pulso/noticia/bloomberg-califico-como-un-duro-golpe-para-boric-el-rechazo-a-la-propuesta-de-nueva-constitucion/ERKJEXGTDBF7FMAYJOMXOOQXFI/) 5 septiembre, 2022.
+
+- **El Líbero**. [10 figuras del gabinete en la cuerda floja.](https://ellibero.cl/actualidad/10-figuras-del-gabinete-en-la-cuerda-floja/) 4 septiembre, 2022.
 
 - **La Segunda**. [Mucho votante nuevo y noticiosa semana le ponen incertidumbre al plebiscito.](https://digital.lasegunda.com/2022/08/29/A/P54602TQ#zoom=page-width) 28 agosto, 2022.
 
