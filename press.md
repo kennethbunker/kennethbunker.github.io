@@ -19,35 +19,35 @@ title: Press
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 6 September, 2022.
 
-- **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 5 September, 2022.
+- **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 05 September, 2022.
 
-- **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 5 September, 2022.
+- **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 05 September, 2022.
 
-- **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 5 September, 2022.
+- **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 05 September, 2022.
 
-- **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric) 5 September, 2022.
+- **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric) 05 September, 2022.
 
-- **Financial Review**. [Chile decisively rejects new leftist constitution.](https://www.afr.com/world/south-america/chile-rejects-new-constitution-in-blow-to-left-wing-leader-20220905-p5bfet) 5 September, 2022.
+- **Financial Review**. [Chile decisively rejects new leftist constitution.](https://www.afr.com/world/south-america/chile-rejects-new-constitution-in-blow-to-left-wing-leader-20220905-p5bfet) 05 September, 2022.
 
 - **Les Echoes**. [Référendum sur la Constitution: au Chili, une fête de la démocratie ternie par la crise.](https://www.lesechos.fr/monde/ameriques/referendum-sur-la-constitution-au-chili-une-fete-de-la-democratie-ternie-par-la-crise-1785577) 4 September, 2022.
 
-- **RTVE**. [La primera Constitución redactada de forma paritaria se enfrenta al plebiscito chileno.](https://www.rtve.es/noticias/20220904/chile-nueva-constitucion-se-enfrenta-plebiscito/2399966.shtml) 4 September, 2022.
+- **RTVE**. [La primera Constitución redactada de forma paritaria se enfrenta al plebiscito chileno.](https://www.rtve.es/noticias/20220904/chile-nueva-constitucion-se-enfrenta-plebiscito/2399966.shtml) 04 September, 2022.
 
-- **France 24**. [Chile at historic crossroads as country votes on new constitution.](https://www.france24.com/en/americas/20220904-chileans-head-to-polls-over-new-constitution-in-historic-crossroads) 4 September, 2022.
+- **France 24**. [Chile at historic crossroads as country votes on new constitution.](https://www.france24.com/en/americas/20220904-chileans-head-to-polls-over-new-constitution-in-historic-crossroads) 04 September, 2022.
 
-- **The Washington Post**. [Chile’s move to replace dictatorship constitution faces test.](https://www.washingtonpost.com/world/chiles-move-to-replace-dictatorship-constitution-faces-test/2022/09/02/21cf69d4-2a76-11ed-a90a-fce4015dfc8f_story.html) 2 September, 2022.
+- **The Washington Post**. [Chile’s move to replace dictatorship constitution faces test.](https://www.washingtonpost.com/world/chiles-move-to-replace-dictatorship-constitution-faces-test/2022/09/02/21cf69d4-2a76-11ed-a90a-fce4015dfc8f_story.html) 02 September, 2022.
 
-- **La Nación**. [A tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 2 September, 2022.
+- **La Nación**. [A tres años del estallido social, los chilenos votan por aprobar o rechazar una nueva constitución.](https://www.lanacion.com.ar/agencias/a-tres-anos-del-estallido-social-los-chilenos-votan-por-aprobar-o-rechazar-una-nueva-constitucion-nid02092022/) 02 September, 2022.
 
-- **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 2 September, 2022.
+- **ABC**. [Chile's move to replace dictatorship constitution faces test.](https://abcnews.go.com/International/wireStory/chiles-move-replace-dictatorship-constitution-faces-test-89206343) 02 September, 2022.
 
-- **Nasdaq**. [Chile's constitution vote puts Andean country at historic crossroads.](https://www.nasdaq.com/articles/chiles-constitution-vote-puts-andean-country-at-historic-crossroads) 2 September, 2022.
+- **Nasdaq**. [Chile's constitution vote puts Andean country at historic crossroads.](https://www.nasdaq.com/articles/chiles-constitution-vote-puts-andean-country-at-historic-crossroads) 02 September, 2022.
 
-- **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
+- **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 01 September, 2022.
 
-- **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 1 September, 2022.
+- **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 01 September, 2022.
 
-- **Trouw**. [Chile's constitution vote puts Andean country at historic crossroads](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
+- **Trouw**. [Chile's constitution vote puts Andean country at historic crossroads](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 01 September, 2022.
 
 - **TIME**. [Chile’s Millennial President Is a New Kind of Leftist Leader.](https://time.com/6193719/chile-constitution-reform-boric/) 31 August, 2022.
 
