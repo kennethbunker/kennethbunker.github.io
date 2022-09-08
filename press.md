@@ -23,6 +23,8 @@ title: Press
 
 - **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 05 September, 2022.
 
+- **Buenos Aires Times**. [Chile President Boric reshuffles Cabinet after referendum rout.](https://www.batimes.com.ar/news/latin-america/chile-president-boric-reshuffles-cabinet-after-referendum-rout.phtml) 08 September, 2022.
+
 - **Clarín**. [Plebiscito en Chile: un mensaje contundente, con aires a “voto castigo” contra Boric.](https://www.clarin.com/mundo/plebiscito-chile-mensaje-contundente-aires-voto-castiga-boric_0_RamF3MU1Lz.html) 05 September, 2022.
 
 - **Bloomberg**. [Chile Rejects New Constitution in Blow to Leftist Leader Boric.](https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric) 05 September, 2022.
