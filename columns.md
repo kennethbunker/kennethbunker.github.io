@@ -16,6 +16,10 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20220909 - La transición
+- 20220907 - En la dirección correcta
+- 20220905 - Un nuevo proceso
+- 20220901 - Silencio selectivo
 - 20220828 - El motivo del telefonazo
 - 20220826 - Irreversible
 - 20220825 - Giro en 180 grados
@@ -236,6 +240,8 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20220909 - Que en paz descanse el Apruebo
+- 20220902 - Si gana el Rechazo, también gana Boric
 - 20220827 - El caso de Jeanette Vega
 - 20220819 - Gobierno imprudente y fuera de juego
 - 20220812 - La foto más triste del proceso constituyente
