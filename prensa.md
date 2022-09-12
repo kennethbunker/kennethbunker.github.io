@@ -11,7 +11,7 @@ title: Prensa
 
 ---
 
-[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ ┃ [La Segunda](https://lasegunda.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [Cooperativa](https://cooperativa.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃ [El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl) ┃ [TVN](https://tvn.cl)
+[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ [La Segunda](https://lasegunda.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [Cooperativa](https://cooperativa.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃ [El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl) ┃ [TVN](https://tvn.cl)
 
 ---
 
