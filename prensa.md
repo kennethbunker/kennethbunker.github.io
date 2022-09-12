@@ -11,11 +11,13 @@ title: Prensa
 
 ---
 
-[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ ┃ [La Segunda](https://lasegunda.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [Cooperativa](https://cooperativa.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃ [El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl)
+[La Tercera](https://latercera.cl) ┃ [El Mercurio](https://elmercurio.cl) ┃ [Las Últimas Noticias](https://www.lun.com) ┃ [Diario Financiero](https://diariofinanciero.cl)  ┃ [Ex-Ante](https://ex-ante.cl) ┃ [El Mostrador](https://elmostrador.cl) ┃ ┃ [La Segunda](https://lasegunda.cl) ┃ [Bío Bío](https://biobio.cl) ┃ [Cooperativa](https://cooperativa.cl) ┃ [TVN](https://tvn.cl) ┃ [T13](https://t13.cl) ┃ [Duna](https://duna.cl) ┃ [ADN](https://adn.cl) ┃ [The Clinic](https://theclinic.cl) ┃ [El Centro](https://elcentro.cl) ┃ [El Mercurio de Valparaíso](https://www.elmercurio.cl) ┃ [Emol](https://emol.com) ┃ [El Dínamo](https://eldinamo.cl) ┃ [TVN](https://tvn.cl)
 
 ---
 
 ## 2022
+
+- **La Tercera**. [La calculadora electoral: las dudas que ponen en riesgo una nueva Convención por el flanco izquierdo.](https://www.latercera.com/la-tercera-pm/noticia/la-calculadora-electoral-las-dudas-que-ponen-en-riesgo-una-nueva-convencion-por-el-flanco-izquierdo/6PJVCEVSIFADXNV453PPWUZMEI/) 09 septiembre, 2022.
 
 - **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 07 septiembre, 2022.
 
