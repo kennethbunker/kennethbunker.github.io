@@ -4,7 +4,7 @@ I am a political consultant, an academic, and a columnist. I run two organizatio
 
 ---
 
-📍 [**Click here to see a collection of my comments in the international press!** (TIME, The Economist, The Guardian, BBC, Le Monde, Deutsche Welle, El País, CNN, Bloomberg, Nasdaq, ...)](https://kennethbunker.github.io/press).📍
+📍 [**Click here to see a collection of my comments in the international press!** (TIME, The Economist, The Guardian, BBC, Le Monde, Deutsche Welle, The Wall Street Journal, El País, CNN, Bloomberg, Nasdaq, ...)](https://kennethbunker.github.io/press).📍
 
 ---
 
