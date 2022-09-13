@@ -19,6 +19,8 @@ title: Press
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 6 September, 2022.
 
+- **The Conversation**. [Chile’s progressive new constitution rejected by voters after campaign marred by misinformation.](https://theconversation.com/chiles-progressive-new-constitution-rejected-by-voters-after-campaign-marred-by-misinformation-190371) 13 September, 2022.
+
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 05 September, 2022.
 
 - **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 05 September, 2022.
