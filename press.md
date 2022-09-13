@@ -17,7 +17,7 @@ title: Press
 
 ## 2022
 
-- **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 6 September, 2022.
+- **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 06 September, 2022.
 
 - **The Conversation**. [Chile’s progressive new constitution rejected by voters after campaign marred by misinformation.](https://theconversation.com/chiles-progressive-new-constitution-rejected-by-voters-after-campaign-marred-by-misinformation-190371) 13 September, 2022.
 

@@ -51,11 +51,11 @@ title: Prensa
 
 - **La Segunda**. [Los límites de Boric como garante del acuerdo.](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
 
-- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
+- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 08 agosto, 2022.
 
 - **La Segunda**. [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 03 agosto, 2022.
 
-- **El Líbero**. [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
+- **El Líbero**. [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 03 agosto, 2022.
 
 - **La Segunda**. [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
 
