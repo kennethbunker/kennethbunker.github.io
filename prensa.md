@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **Ex-Ante**. [Por qué el plebiscito del 4-S se transformó en la mayor derrota de la izquierda desde 1990, según los analistas.](https://www.ex-ante.cl/por-que-el-plebiscito-del-4-s-se-transformo-en-la-mayor-derrota-de-la-izquierda-desde-1990-segun-los-analistas/) 19 septiembre, 2022.
+
 - **La Tercera**. [La calculadora electoral: las dudas que ponen en riesgo una nueva Convención por el flanco izquierdo.](https://www.latercera.com/la-tercera-pm/noticia/la-calculadora-electoral-las-dudas-que-ponen-en-riesgo-una-nueva-convencion-por-el-flanco-izquierdo/6PJVCEVSIFADXNV453PPWUZMEI/) 09 septiembre, 2022.
 
 - **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 07 septiembre, 2022.
