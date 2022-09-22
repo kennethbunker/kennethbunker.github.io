@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **Las Últimas Noticias**. [Cuatro analistas desglosan el discurso de Gabriel Boric en Nueva York.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-09-21&EsAviso=0&PaginaId=14&bodyid=0) 21 septiembre, 2022.
+
 - **Ex-Ante**. [Por qué el plebiscito del 4-S se transformó en la mayor derrota de la izquierda desde 1990, según los analistas.](https://www.ex-ante.cl/por-que-el-plebiscito-del-4-s-se-transformo-en-la-mayor-derrota-de-la-izquierda-desde-1990-segun-los-analistas/) 19 septiembre, 2022.
 
 - **La Tercera**. [La calculadora electoral: las dudas que ponen en riesgo una nueva Convención por el flanco izquierdo.](https://www.latercera.com/la-tercera-pm/noticia/la-calculadora-electoral-las-dudas-que-ponen-en-riesgo-una-nueva-convencion-por-el-flanco-izquierdo/6PJVCEVSIFADXNV453PPWUZMEI/) 09 septiembre, 2022.
