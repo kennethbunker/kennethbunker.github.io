@@ -11,11 +11,13 @@ title: Press
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) 
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com)
 
 ---
 
 ## 2022
+
+- **Deutsche Welle**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.dw.com/es/reelecci%C3%B3n-presidencial-en-am%C3%A9rica-latina-qu%C3%A9-pa%C3%ADses-la-permiten-y-cu%C3%A1les-riesgos-conlleva/a-63259669) 29 September, 2022.
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 06 September, 2022.
 
