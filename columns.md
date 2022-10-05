@@ -245,6 +245,7 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20220930 - Las vueltas de 360 grados de Boric
 - 20220909 - Que en paz descanse el Apruebo
 - 20220902 - Si gana el Rechazo, también gana Boric
 - 20220827 - El caso de Jeanette Vega
