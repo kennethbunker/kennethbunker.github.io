@@ -16,6 +16,11 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20220925 - La gira a Nueva York
+- 20220924 - Bien encaminados
+- 20220918 - Convencionales anónimos
+- 20220916 - Colapso absoluto
+- 20220914 - Escuchar a la gente
 - 20220909 - La transición
 - 20220907 - En la dirección correcta
 - 20220905 - Un nuevo proceso
