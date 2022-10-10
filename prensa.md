@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 octubre, 2022.
+
 - **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 octubre, 2022.
 
 - **La Segunda**. [Boric: Los costos de un liderazgo que "deja hacer" a las dos facciones del gobierno.](https://digital.lasegunda.com/2022/09/30/A/R145PSHD#zoom=page-width) 30 septiembre, 2022.
