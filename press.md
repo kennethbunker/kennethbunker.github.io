@@ -17,7 +17,7 @@ title: Press
 
 ## 2022
 
-- **Deutsche Welle**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.dw.com/es/reelecci%C3%B3n-presidencial-en-am%C3%A9rica-latina-qu%C3%A9-pa%C3%ADses-la-permiten-y-cu%C3%A1les-riesgos-conlleva/a-63259669) 29 September, 2022.
+- **Deutsche Welle**. [A tres años del estallido social: frustración y pesimismo entre los chilenos](A tres años del estallido social: frustración y pesimismo entre los chilenos) 19 October, 2022.
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 06 September, 2022.
 
@@ -26,6 +26,8 @@ title: Press
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 05 September, 2022.
 
 - **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 05 September, 2022.
+
+- **Deutsche Welle**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.dw.com/es/reelecci%C3%B3n-presidencial-en-am%C3%A9rica-latina-qu%C3%A9-pa%C3%ADses-la-permiten-y-cu%C3%A1les-riesgos-conlleva/a-63259669) 29 September, 2022.
 
 - **Buenos Aires Times**. [Chile President Boric reshuffles Cabinet after referendum rout.](https://www.batimes.com.ar/news/latin-america/chile-president-boric-reshuffles-cabinet-after-referendum-rout.phtml) 08 September, 2022.
 
