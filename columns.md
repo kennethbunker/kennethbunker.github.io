@@ -245,6 +245,9 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20221007 - Un relato mula
+- 20221014 - El costo de “meterle inestabilidad al país”
+- 20221018 - Triste legado del estallido social
 - 20220930 - Las vueltas de 360 grados de Boric
 - 20220909 - Que en paz descanse el Apruebo
 - 20220902 - Si gana el Rechazo, también gana Boric
