@@ -16,6 +16,9 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20221105 - Un partido de irrelevancias
+- 20221029 - El proceso constituyente al congelador
+- 20221027 - Señal de debilidad
 - 20220925 - La gira a Nueva York
 - 20220924 - Bien encaminados
 - 20220918 - Convencionales anónimos
@@ -245,9 +248,11 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
-- 20221007 - Un relato mula
-- 20221014 - El costo de “meterle inestabilidad al país”
+- 20221104 - Oferta política vs demanda política
+- 20221028 - Resultados ahora
+- 20221021 - La prioridad
 - 20221018 - Triste legado del estallido social
+- 20221014 - El costo de “meterle inestabilidad al país”
 - 20220930 - Las vueltas de 360 grados de Boric
 - 20220909 - Que en paz descanse el Apruebo
 - 20220902 - Si gana el Rechazo, también gana Boric
