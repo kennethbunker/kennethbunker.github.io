@@ -17,6 +17,10 @@ title: Prensa
 
 ## 2022
 
+- **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 07 november, 2022.
+
+- **Bío Bío**. [La recomposición del centro político en Chile](ttps://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 6 November, 2022.
+
 - **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 octubre, 2022.
 
 - **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 octubre, 2022.
