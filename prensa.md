@@ -19,7 +19,7 @@ title: Prensa
 
 - **Diario Financiero**. [Las reflexiones que deja la agitada semana de la Cámara Baja y las dudas acerca de la gobernabilidad de la Corporación.](https://www.df.cl/economia-y-politica/congreso/las-reflexiones-que-deja-la-agitada-semana-de-la-camara-baja-y-las-dudas) 11 November, 2022.
 
-- **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 07 november, 2022.
+- **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 07 November, 2022.
 
 - **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 6 November, 2022.
 
