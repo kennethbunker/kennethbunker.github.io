@@ -16,6 +16,12 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20221207 - Sin salida
+- 20221121 - Todo para nada
+- 20221116 - Escalada de violencia
+- 20221114 - Parisi y el PDG
+- 20221110 - Partido circunstancial
+- 20221107 - La victoria de Mirosevic
 - 20221105 - Un partido de irrelevancias
 - 20221029 - El proceso constituyente al congelador
 - 20221027 - Señal de debilidad
@@ -248,6 +254,10 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20221202 - Boric no es Aylwin
+- 20221125 - Nuevo proceso constitucional
+- 20221118 - Los cinco puntos críticos de Boric
+- 20221111 - Golpe de realidad
 - 20221104 - Oferta política vs demanda política
 - 20221028 - Resultados ahora
 - 20221021 - La prioridad
