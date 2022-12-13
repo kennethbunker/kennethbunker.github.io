@@ -15,9 +15,11 @@ title: Prensa
 
 ---
 
-## 2022 
+## 2022
 
-- **La Segunda**. [12 figuras que los partidos ya miran para la presidencial 2025.](https://digital.lasegunda.com/2022/11/25/A/AV46K50C#zoom=page-width) 28 novimebre, 2022.
+- **La Segunda**. [Las presiones cruzadas que atraviesan el acuerdo.](https://digital.lasegunda.com/2022/12/12/A/FJ47DER9#zoom=page-width) 13 December, 2022.
+
+- **La Segunda**. [12 figuras que los partidos ya miran para la presidencial 2025.](https://digital.lasegunda.com/2022/11/25/A/AV46K50C#zoom=page-width) 28 November, 2022.
 
 - **Diario Financiero**. [Las reflexiones que deja la agitada semana de la Cámara Baja y las dudas acerca de la gobernabilidad de la Corporación.](https://www.df.cl/economia-y-politica/congreso/las-reflexiones-que-deja-la-agitada-semana-de-la-camara-baja-y-las-dudas) 11 November, 2022.
 
