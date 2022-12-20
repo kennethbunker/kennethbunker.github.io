@@ -16,6 +16,8 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20221220 - Oportunidad perdida
+- 20221214 - Todo lo contrario
 - 20221207 - Sin salida
 - 20221121 - Todo para nada
 - 20221116 - Escalada de violencia
@@ -254,7 +256,9 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
-- 20221202 - Boric no es Aylwin
+- 20221216 - Un balde de agua fría
+- 20221209 - Argentina, Perú y Chile - Siempre puede ser peor
+- 20221202 - Boric no es Aylwin, nunca lo será
 - 20221125 - Nuevo proceso constitucional
 - 20221118 - Los cinco puntos críticos de Boric
 - 20221111 - Golpe de realidad
