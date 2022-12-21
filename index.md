@@ -1,6 +1,9 @@
+toc: true
+toc_sticky: true
+
 ## Hello world!
 
-I am a political consultant, an academic, and a columnist. I run two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: contact me personally for more information. I also regularly participate as a current affairs television, radio and newspaper commentator (see sidebar).
+I am a political consultant, an academic, and a columnist. I contribute to two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: contact me personally for more information. I also regularly participate as a current affairs television, radio and newspaper commentator (see sidebar).
 
 ---
 
