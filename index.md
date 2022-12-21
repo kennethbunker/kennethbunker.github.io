@@ -1,3 +1,9 @@
+## Links
+
+[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [Columns](https://kennethbunker.github.io/columns) [LinkedIn](https://cl.linkedin.com/in/kennethbunker) ┃ [Front Page](https://kennethbunker.github.io/covers)
+
+---
+
 ## Hello world!
 
 I am a political consultant, an academic, and a columnist. I contribute to two organizations that provide discrete, reliable solutions to investors, stakeholders and politicians worldwide: contact me personally for more information. I also regularly participate as a current affairs television, radio and newspaper commentator (see sidebar).
