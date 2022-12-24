@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda**. [Solos, con Republicanos, o con Amarillos: ¿Por qué a Chile Vamos le cuesta decidir?](https://digital.lasegunda.com/2022/12/23/A/GV46K5HC#zoom=page-width) 23 December, 2022.
+
 - **La Segunda**. [Cuatro efectos del rechazo a candidata propuesta por Boric.](https://digital.lasegunda.com/2022/12/20/A/6647HIFE#zoom=page-width) 20 December, 2022.
 
 - **Diario Financiero**. [Expertos analizan los nudos del acuerdo constitucional.](https://pressreader.df.cl/diario-financieroebp3/20221214) 14 December, 2022.
