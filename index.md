@@ -63,10 +63,3 @@ Outside academia, I am a columnist for Chilean daily newspaper [Las Últimas Not
 [Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [LinkedIn](https://cl.linkedin.com/in/kennethbunker) ┃ [Front Page](https://kennethbunker.github.io/covers) ┃ [Tresquintos](https://tresquintos.cl) ┃ [Politico Tech Global](https://politicotechglobal.com) ┃ [E-mail](mailto:kabunker@gmail.com)
 
 ---
-
-<ul>
-  <li {% if page.url contains '/getting-started' %}class="active"{% endif %}><a href="/getting-started/">Getting started</a></li>
-  <li {% if page.url contains '/without-plugin' %}class="active"{% endif %}><a href="/without-plugins/">Without plugins</a></li>
-  <li {% if page.url contains '/about' %}class="active"{% endif %}><a href="/about/">About</a></li>
-  <li {% if page.url contains '/blog' %}class="active"{% endif %}><a href="/blog/">Blog</a></li>
-</ul>
