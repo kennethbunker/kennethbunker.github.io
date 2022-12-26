@@ -17,7 +17,9 @@ title: Prensa
 
 ## 2022
 
-- **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
+- **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%.](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
+
+- **El Desconcierto**. [Ganadores y perdedores del 2022: El balance de los protagonistas del año, según analistas.](https://www.eldesconcierto.cl/reportajes/2022/12/25/ganadores-y-perdedores-del-2022-el-balance-de-los-protagonistas-del-ano-segun-analistas.html) 25 December, 2022.
 
 - **La Segunda**. [Solos, con Republicanos, o con Amarillos: ¿Por qué a Chile Vamos le cuesta decidir?](https://digital.lasegunda.com/2022/12/23/A/GV46K5HC#zoom=page-width) 23 December, 2022.
 
