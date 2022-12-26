@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
+
 - **La Segunda**. [Solos, con Republicanos, o con Amarillos: ¿Por qué a Chile Vamos le cuesta decidir?](https://digital.lasegunda.com/2022/12/23/A/GV46K5HC#zoom=page-width) 23 December, 2022.
 
 - **La Segunda**. [Cuatro efectos del rechazo a candidata propuesta por Boric.](https://digital.lasegunda.com/2022/12/20/A/6647HIFE#zoom=page-width) 20 December, 2022.
