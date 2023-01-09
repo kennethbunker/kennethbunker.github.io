@@ -16,6 +16,10 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230104 - La demanda es corto plazo
+- 20221231 - Incentivo a la violencia
+- 20221228 - Las funas
+- 20221224 - Puesta en escena
 - 20221220 - Oportunidad perdida
 - 20221214 - Todo lo contrario
 - 20221207 - Sin salida
@@ -256,6 +260,9 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20220106 - Las razones del indulto
+- 20221230 - Las contradicciones de Boric
+- 20221223 - El descalabro de Santiago centro
 - 20221216 - Un balde de agua fría
 - 20221209 - Argentina, Perú y Chile - Siempre puede ser peor
 - 20221202 - Boric no es Aylwin, nunca lo será

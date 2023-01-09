@@ -17,6 +17,8 @@ title: Prensa
 
 ## 2022
 
+- **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.
+
 - **El Mercurio**. [Hitos, desafíos, los que brillaron y las decepciones: El balance de 12 analistas políticos de lo que dejó este 2022](https://www.emol.com/noticias/Nacional/2022/12/30/1082427/hitos-politicos-2022-analisis-expertos.html) 30 December, 2022.
 
 - **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%.](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
