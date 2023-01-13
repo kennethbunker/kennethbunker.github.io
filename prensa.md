@@ -15,13 +15,13 @@ title: Prensa
 
 ---
 
-- **Ex-Ante**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”](https://www.ex-ante.cl/kenneth-bunker-la-centroizquierda-debe-decidir-si-quiere-seguir-en-un-buque-que-se-esta-hundiendo/) 12 January, 2023.
+- **T13**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-centroizquierda-debe-decidir-si-quiere-seguir-buque-se-esta-hundiendo) 13 January, 2023.
+
+- **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.
 
 - **El Mercurio**. [Hitos, desafíos, los que brillaron y las decepciones: El balance de 12 analistas políticos de lo que dejó este 2022](https://www.emol.com/noticias/Nacional/2022/12/30/1082427/hitos-politicos-2022-analisis-expertos.html) 30 December, 2022.
 
 - **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%.](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
-
-- **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.
 
 - **El Desconcierto**. [Ganadores y perdedores del 2022: El balance de los protagonistas del año, según analistas.](https://www.eldesconcierto.cl/reportajes/2022/12/25/ganadores-y-perdedores-del-2022-el-balance-de-los-protagonistas-del-ano-segun-analistas.html) 25 December, 2022.
 
