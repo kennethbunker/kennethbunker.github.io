@@ -15,6 +15,8 @@ title: Prensa
 
 ---
 
+- **La Segunda**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://digital.lasegunda.com/2023/01/18/A/VN47UBMS#zoom=page-width) 18 January, 2023.
+
 - **T13**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-centroizquierda-debe-decidir-si-quiere-seguir-buque-se-esta-hundiendo) 13 January, 2023.
 
 - **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.

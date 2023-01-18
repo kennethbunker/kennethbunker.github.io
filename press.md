@@ -15,8 +15,6 @@ title: Press
 
 ---
 
-## 2022
-
 - **La Nación**. [Chile sella un acuerdo político para impulsar un nuevo proceso constituyente.](https://www.lanacion.com.ar/el-mundo/chile-sella-un-acuerdo-politico-para-impulsar-un-nuevo-proceso-constituyente-nid13122022/) 14 Decemeber, 2022.
 
 - **Deutsche Welle**. [La recomposición del centro político en Chile](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 4 November, 2022.
