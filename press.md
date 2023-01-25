@@ -15,6 +15,12 @@ title: Press
 
 ---
 
+- **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile ](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
+
+- **Reuters**. [Crime, inflation hammer support for Chile's Boric in tough first year.](https://www.reuters.com/world/americas/crime-inflation-hammer-support-chiles-boric-tough-first-year-2023-01-23/) 23 January, 2023.
+
+- **Business Day**. [Boric’s tough first year a hard lesson for other leftist leaders](https://www.businesslive.co.za/bd/world/americas/2023-01-23-borics-tough-first-year-a-hard-lesson-for-other-leftist-leaders/) 23 January, 2023.
+
 - **La Nación**. [Chile sella un acuerdo político para impulsar un nuevo proceso constituyente.](https://www.lanacion.com.ar/el-mundo/chile-sella-un-acuerdo-politico-para-impulsar-un-nuevo-proceso-constituyente-nid13122022/) 14 Decemeber, 2022.
 
 - **Deutsche Welle**. [La recomposición del centro político en Chile](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 4 November, 2022.
