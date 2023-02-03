@@ -16,6 +16,11 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230203 - Intenciones.docx
+- 20230127 - Trapos al sol.docx
+- 20230124 - Desprolijos.docx
+- 20230114 - Ajuste de cuentas.docx
+- 20230110 - Espectaculo político
 - 20230104 - La demanda es corto plazo
 - 20221231 - Incentivo a la violencia
 - 20221228 - Las funas
@@ -260,6 +265,11 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230203 - El debate de las dos listas.docx
+- 20230127 - El desdén, Bachelet y el Frente Amplio
+- 20220125 - El problema de la política exterior.docx
+- 20230120 - La arrogancia de gobernar
+- 20220113 - Gobernar con negligencia.docx
 - 20220106 - Las razones del indulto
 - 20221230 - Las contradicciones de Boric
 - 20221223 - El descalabro de Santiago centro
@@ -511,3 +521,7 @@ title: Columns
 - 20160505 - HuffPost. [Hope for Electoral Reform in the United Kingdom](https://www.huffingtonpost.co.uk/kenneth-bunker/electoral-reform_b_9839520.html)
 
 - 20131125 - Warscapes. [Michelle Bachelet's Legislative Majority](http://www.warscapes.com/opinion/michelle-bachelet-s-legislative-majority)
+
+<p class="aligncenter">
+  <img src="columns.pdf" width="30%" height="30%" />
+</p>
