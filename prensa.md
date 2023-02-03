@@ -15,6 +15,8 @@ title: Prensa
 
 ---
 
+- **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 1 February, 2023.
+
 - **El Mostrador**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://www.elmostrador.cl/destacado/2023/01/24/una-o-dos-listas-de-consejeros-un-flanco-abierto-que-desafia-a-la-muneca-politica-del-gobierno/) 25 January, 2023.
 
 - **La Segunda**. [Once abogados y un sociólogo al comité de expertos.](https://digital.lasegunda.com/2023/01/24/A/EG480S39#zoom=page-width) 24 January, 2023.
