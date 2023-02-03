@@ -15,7 +15,7 @@ title: Prensa
 
 ---
 
-- **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 1 February, 2023.
+- **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 01 February, 2023.
 
 - **El Mostrador**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://www.elmostrador.cl/destacado/2023/01/24/una-o-dos-listas-de-consejeros-un-flanco-abierto-que-desafia-a-la-muneca-politica-del-gobierno/) 25 January, 2023.
 
@@ -43,6 +43,8 @@ title: Prensa
 
 - **Diario Financiero**. [Expertos analizan los nudos del acuerdo constitucional.](https://pressreader.df.cl/diario-financieroebp3/20221214) 14 December, 2022.
 
+- **La Segunda**. [Las presiones cruzadas que atraviesan el acuerdo.](https://digital.lasegunda.com/2022/12/12/A/FJ47DER9#zoom=page-width) 13 December, 2022.
+
 - **Emol**. [Un nuevo paso en falso o una estrategia para favorecer su figura: Análisis al rol del Presidente en el acuerdo constitucional.](https://www.emol.com/noticias/Nacional/2022/12/08/1080506/analisis-presidente-boric-acuerdo-constitucional.html) 8 December, 2022.
 
 - **La Segunda**. [12 figuras que los partidos ya miran para la presidencial 2025.](https://digital.lasegunda.com/2022/11/25/A/AV46K50C#zoom=page-width) 28 November, 2022.
@@ -53,11 +55,11 @@ title: Prensa
 
 - **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 07 November, 2022.
 
-- **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 6 November, 2022.
+- **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 06 November, 2022.
 
-- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 octubre, 2022.
+- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 07 octubre, 2022.
 
-- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 octubre, 2022.
+- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 03 octubre, 2022.
 
 - **La Segunda**. [Boric: Los costos de un liderazgo que "deja hacer" a las dos facciones del gobierno.](https://digital.lasegunda.com/2022/09/30/A/R145PSHD#zoom=page-width) 30 septiembre, 2022.
 

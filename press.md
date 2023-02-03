@@ -23,7 +23,9 @@ title: Press
 
 - **La Nación**. [Chile sella un acuerdo político para impulsar un nuevo proceso constituyente.](https://www.lanacion.com.ar/el-mundo/chile-sella-un-acuerdo-politico-para-impulsar-un-nuevo-proceso-constituyente-nid13122022/) 14 Decemeber, 2022.
 
-- **Deutsche Welle**. [La recomposición del centro político en Chile](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 4 November, 2022.
+- **Deutsche Welle**. [La recomposición del centro político en Chile](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 04 November, 2022.
+
+- **El Colombiano**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.elcolombiano.com/internacional/paises-en-america-latina-que-permiten-la-reeleccion-presidencial-GN18733104) 28 September, 2022.
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 06 September, 2022.
 
