@@ -522,6 +522,4 @@ title: Columns
 
 - 20131125 - Warscapes. [Michelle Bachelet's Legislative Majority](http://www.warscapes.com/opinion/michelle-bachelet-s-legislative-majority)
 
-<p class="aligncenter">
-  <img src="columns.png" width="30%" height="30%" />
-</p>
+[![Top-3](columns.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) 
