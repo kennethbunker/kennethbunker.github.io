@@ -15,6 +15,9 @@ title: Prensa
 
 ---
 
+
+- **La Segunda**. [Polémica compra de Clínica Sierra Bella detona peor nivel de aprobación para Irací Hassler.](https://digital.lasegunda.com/2023/02/03/A/ND485ECI#zoom=page-width) 3 February, 2023.
+
 - **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 01 February, 2023.
 
 - **El Mostrador**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://www.elmostrador.cl/destacado/2023/01/24/una-o-dos-listas-de-consejeros-un-flanco-abierto-que-desafia-a-la-muneca-politica-del-gobierno/) 25 January, 2023.
