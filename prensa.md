@@ -43,9 +43,11 @@ title: Prensa
 
 - **Diario Financiero**. [Expertos analizan los nudos del acuerdo constitucional.](https://pressreader.df.cl/diario-financieroebp3/20221214) 14 December, 2022.
 
-- **La Segunda**. [Las presiones cruzadas que atraviesan el acuerdo.](https://digital.lasegunda.com/2022/12/12/A/FJ47DER9#zoom=page-width) 13 December, 2022.
+- **Emol**. [Un nuevo paso en falso o una estrategia para favorecer su figura: Análisis al rol del Presidente en el acuerdo constitucional.](https://www.emol.com/noticias/Nacional/2022/12/08/1080506/analisis-presidente-boric-acuerdo-constitucional.html) 8 December, 2022.
 
 - **La Segunda**. [12 figuras que los partidos ya miran para la presidencial 2025.](https://digital.lasegunda.com/2022/11/25/A/AV46K50C#zoom=page-width) 28 November, 2022.
+
+- **Emol**. [12 figuras que los partidos ya miran para la presidencial 2025.](https://digital.lasegunda.com/2022/11/25/A/AV46K50C#zoom=page-width) 28 November, 2022.
 
 - **Diario Financiero**. [Las reflexiones que deja la agitada semana de la Cámara Baja y las dudas acerca de la gobernabilidad de la Corporación.](https://www.df.cl/economia-y-politica/congreso/las-reflexiones-que-deja-la-agitada-semana-de-la-camara-baja-y-las-dudas) 11 November, 2022.
 
