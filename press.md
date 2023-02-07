@@ -15,7 +15,11 @@ title: Press
 
 ---
 
-- **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile ](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
+- **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
+
+- **Bloomberg**. [Chilean Parties Split Over Candidates for Constitutional Rewrite](https://www.bloomberg.com/news/articles/2023-02-07/chilean-parties-split-over-candidates-for-constitutional-rewrite) 7 February, 2023.
+
+- **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
 
 - **Reuters**. [Crime, inflation hammer support for Chile's Boric in tough first year.](https://www.reuters.com/world/americas/crime-inflation-hammer-support-chiles-boric-tough-first-year-2023-01-23/) 23 January, 2023.
 
