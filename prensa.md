@@ -16,6 +16,8 @@ title: Prensa
 ---
 
 
+- **La Segunda**. [Candidatos poco atractivos: Históricos que vuelven del retiro y exseremis copan las listas.](https://digital.lasegunda.com/2023/02/07/A/AS486MS4#zoom=page-width) 7 February, 2023.
+
 - **Ex-Ante**. [Parisi y el escenario que enfrenta en la elección de constituyentes, bajo la mirada de analistas.](https://www.ex-ante.cl/parisi-y-el-escenario-que-enfrenta-en-la-eleccion-de-constituyentes-bajo-la-mirada-de-analistas/) 05 February, 2023.
 
 - **La Segunda**. [Polémica compra de Clínica Sierra Bella detona peor nivel de aprobación para Irací Hassler.](https://digital.lasegunda.com/2023/02/03/A/ND485ECI#zoom=page-width) 3 February, 2023.
