@@ -16,6 +16,9 @@ title: Prensa
 ---
 
 
+- **El Mercurio**. [Poco llamativas, pero dialogantes: Analistas evalúan las candidaturas inscritas.](https://digital.elmercurio.com/2023/02/08/C/M847PU6D#zoom=page-width) 8 February, 2023.
+
+
 - **La Segunda**. [Candidatos poco atractivos: Históricos que vuelven del retiro y exseremis copan las listas.](https://digital.lasegunda.com/2023/02/07/A/AS486MS4#zoom=page-width) 7 February, 2023.
 
 - **Ex-Ante**. [Parisi y el escenario que enfrenta en la elección de constituyentes, bajo la mirada de analistas.](https://www.ex-ante.cl/parisi-y-el-escenario-que-enfrenta-en-la-eleccion-de-constituyentes-bajo-la-mirada-de-analistas/) 05 February, 2023.
