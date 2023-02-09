@@ -48,7 +48,7 @@ title: Covers
 
 [![El Mercurio Valparaíso](/img/20210808%20-%20MercurioValpo.png){:height="32%" width="32%"}](/img/20210808%20-%20MercurioValpo.png)
 
-[![El Mercurio](/img/20230208%20-%20El%20Mercurio.png){:height="32%" width="32%"}](/img/20230208%20-%20Mercurio.png) [![El Mercurio](/img/20210225%20-%20Mercurio.png){:height="32%" width="32%"}](/img/20210225%20-%20Mercurio.png) 
+[![El Mercurio](/img/20230208%20-%20El%20Mercurio.png){:height="32%" width="32%"}](/img/20230208%20-%20El%%20Mercurio.png) [![El Mercurio](/img/20210225%20-%20El%20Mercurio.png){:height="32%" width="32%"}](/img/20210225%20-%20El%20Mercurio.png) 
 
 [![El Sur](/img/20210411%20-%20El_Sur.png){:height="32%" width="32%"}](/img/20210411%20-%20El_Sur.png)
 
