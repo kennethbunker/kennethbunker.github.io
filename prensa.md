@@ -15,9 +15,9 @@ title: Prensa
 
 ---
 
+- **Diario Financiero**. [Kenneth Bunker: "En el primer proceso se pecó en hacer una Constitución por amateurs que no entendían el código político"](https://www.df.cl/df-constitucional/kenneth-bunker-en-el-primer-proceso-se-peco-en-hacer-una-constitucion) 10 February, 2023.
 
 - **El Mercurio**. [Poco llamativas, pero dialogantes: Analistas evalúan las candidaturas inscritas.](https://digital.elmercurio.com/2023/02/08/C/M847PU6D#zoom=page-width) 8 February, 2023.
-
 
 - **La Segunda**. [Candidatos poco atractivos: Históricos que vuelven del retiro y exseremis copan las listas.](https://digital.lasegunda.com/2023/02/07/A/AS486MS4#zoom=page-width) 7 February, 2023.
 
