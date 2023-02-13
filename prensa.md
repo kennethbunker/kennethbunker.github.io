@@ -15,6 +15,9 @@ title: Prensa
 
 ---
 
+- **El Líbero**. [Los siete “duelos a muerte” que tendrán las listas oficialistas en la elección de consejeros.](https://ellibero.cl/actualidad/los-siete-duelos-a-muerte-que-tendran-las-listas-oficialistas-en-la-eleccion-de-consejeros/) 12 February, 2023.
+
+
 - **Diario Financiero**. [Kenneth Bunker: "En el primer proceso se pecó en hacer una Constitución por amateurs que no entendían el código político"](https://www.df.cl/df-constitucional/kenneth-bunker-en-el-primer-proceso-se-peco-en-hacer-una-constitucion) 10 February, 2023.
 
 - **El Mercurio**. [Poco llamativas, pero dialogantes: Analistas evalúan las candidaturas inscritas.](https://digital.elmercurio.com/2023/02/08/C/M847PU6D#zoom=page-width) 8 February, 2023.
