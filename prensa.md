@@ -15,8 +15,9 @@ title: Prensa
 
 ---
 
-- **El Líbero**. [Los siete “duelos a muerte” que tendrán las listas oficialistas en la elección de consejeros.](https://ellibero.cl/actualidad/los-siete-duelos-a-muerte-que-tendran-las-listas-oficialistas-en-la-eleccion-de-consejeros/) 12 February, 2023.
+- **La Segunda**. [partido de Parisi podría crecer en Antofagasta, Coquimbo, Arica y Tarapacá.](https://digital.lasegunda.com/2023/02/14/A/GI489M15#zoom=page-width) 14 February, 2023.
 
+- **El Líbero**. [Los siete “duelos a muerte” que tendrán las listas oficialistas en la elección de consejeros.](https://ellibero.cl/actualidad/los-siete-duelos-a-muerte-que-tendran-las-listas-oficialistas-en-la-eleccion-de-consejeros/) 12 February, 2023.
 
 - **Diario Financiero**. [Kenneth Bunker: "En el primer proceso se pecó en hacer una Constitución por amateurs que no entendían el código político"](https://www.df.cl/df-constitucional/kenneth-bunker-en-el-primer-proceso-se-peco-en-hacer-una-constitucion) 10 February, 2023.
 
