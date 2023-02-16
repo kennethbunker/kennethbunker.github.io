@@ -15,6 +15,8 @@ title: Prensa
 
 ---
 
+- **Emol**. [Con "consenso técnico" y fuera de la "burbuja política": Las claves para un "pacto" público-privado ante desastres](https://www.emol.com/noticias/Nacional/2023/02/16/1086867/pactos-enfrentar-desastres-gobierno-forestales.html) 16 February, 2023.
+
 - **La Segunda**. [Grau sobre royality a forestales: "No ha sido nuestra prioridad"](https://digital.lasegunda.com/2023/02/15/A/7I48A2KF#zoom=page-width) 15 February, 2023.
 
 - **La Segunda**. [Partido de Parisi podría crecer en Antofagasta, Coquimbo, Arica y Tarapacá.](https://digital.lasegunda.com/2023/02/14/A/GI489M15#zoom=page-width) 14 February, 2023.
