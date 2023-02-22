@@ -16,6 +16,7 @@ title: Columns
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230221 - La frontera
 - 20230203 - Intención versus ejecución
 - 20230127 - Trapos al sol
 - 20230124 - Chambonada
@@ -265,6 +266,8 @@ title: Columns
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230217 - Negocios y delincuencia en Santiago Centro
+- 20230210 - El regreso de la “vieja guardia”
 - 20230203 - El debate de las dos listas
 - 20230127 - El desdén, Bachelet y el Frente Amplio
 - 20230125 - El problema de la política exterior
