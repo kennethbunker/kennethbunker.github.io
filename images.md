@@ -8,11 +8,11 @@ title: Images
 
 ---
 
-*Below you can download some high resolution images*.
+*High resolution images*.
 
 ---
 
-Download all of the images in [ZIP FORMAT](../proshots/Archive.zip)
+Download the full pack in [ZIP FORMAT](../proshots/Archive.zip).
 
 [![one](../proshots/one.jpg){:height="19%" width="19%"}](../proshots/one.jpg)
 [![two](../proshots/two.jpg){:height="19%" width="19%"}](../proshots/two.jpg)
