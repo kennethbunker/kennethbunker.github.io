@@ -8,11 +8,13 @@ title: Images
 
 ---
 
-*Below you can download some images*
+*Below you can download some high resolution images*.
+
+*Abajo puedes descargar images de alta resolución*.
 
 ---
 
-## High Resolution
+Para descargar todas las imágenes en [FORMATO ZIP](https://kennethbunker.github.io/).
 
 [![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
 [![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
