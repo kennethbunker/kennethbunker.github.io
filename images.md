@@ -12,7 +12,7 @@ title: Images
 
 ---
 
-Download the full pack in [ZIP FORMAT](../proshots/Archive.zip).
+Download all of the photos in [ZIP FORMAT](../proshots/Archive.zip).
 
 [![one](../proshots/1.jpg){:height="32%" width="32%"}](../proshots/1.jpg)
 [![two](../proshots/2.jpg){:height="32%" width="32%"}](../proshots/2.jpg)
@@ -23,3 +23,5 @@ Download the full pack in [ZIP FORMAT](../proshots/Archive.zip).
 [![six](../proshots/7.jpg){:height="32%" width="32%"}](../proshots/7.jpg)
 [![six](../proshots/8.jpg){:height="32%" width="32%"}](../proshots/8.jpg)
 [![six](../proshots/9.jpg){:height="32%" width="32%"}](../proshots/9.jpg)
+
+---
