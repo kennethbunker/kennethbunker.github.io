@@ -12,7 +12,7 @@ title: Images
 
 ---
 
-Download all of the photos in [ZIP FORMAT](../proshots/Archive.zip).
+Download all (13) of the images in [ZIP FORMAT](../proshots/Archive.zip).
 
 [![one](../proshots/1.jpg){:height="32%" width="32%"}](../proshots/1.jpg)
 [![two](../proshots/2.jpg){:height="32%" width="32%"}](../proshots/2.jpg)
