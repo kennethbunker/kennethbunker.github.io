@@ -13,5 +13,10 @@ title: Images
 
 ---
 
-## 2023
+## High Resolution
 
+[![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
+[![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
+[![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
+[![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
+[![Columns over time](columns.png){:height="19%" width="19%"}](https://kennethbunker.github.io/)
