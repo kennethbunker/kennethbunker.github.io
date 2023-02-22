@@ -24,3 +24,7 @@ Download the full pack in [ZIP FORMAT](../proshots/Archive.zip).
 [![five](../proshots/eight.jpg){:height="19%" width="19%"}](../proshots/eight.jpg)
 [![five](../proshots/nine.jpg){:height="19%" width="19%"}](../proshots/nine.jpg)
 [![five](../proshots/ten.jpg){:height="19%" width="19%"}](../proshots/ten.jpg)
+
+[![five](../proshots/vertical_1.jpg){:height="19%" width="19%"}](../proshots/vertical_1.jpg)
+[![five](../proshots/vertical_2.jpg){:height="19%" width="19%"}](../proshots/vertical_2.jpg)
+[![five](../proshots/vertical_3.jpg){:height="19%" width="19%"}](../proshots/vertical_3.jpg)
