@@ -14,11 +14,11 @@ title: Images
 
 Download the full pack in [ZIP FORMAT](../proshots/Archive.zip).
 
-[![one](../proshots/4V-IMG_5582.jpg){:height="10%" width="10%"}](../proshots/4V-IMG_5582.jpg)
-[![two](../proshots/3V-IMG_5540.jpg){:height="10%" width="32%"}](../proshots/3V-IMG_5540.jpg)
-[![three](../proshots/6V-IMG_5589.jpg){:height="10%" width="10%"}](../proshots/6V-IMG_5589.jpg)
+[![one](../proshots/1.jpg){:height="10%" width="10%"}](../proshots/1.jpg)
+[![two](../proshots/2.jpg){:height="10%" width="32%"}](../proshots/2.jpg)
+[![three](../proshots/6V-IMG_5589.jpg){:height="10%" width="10%"}](../proshots/3.jpg)
 
-[![six](../proshots/7-IMG_5602.jpg){:height="10%" width="10%"}](../proshots/7-IMG_5602.jpg)
-[![six](../proshots/8-IMG_5603.jpg){:height="10%" width="10%"}](../proshots/8-IMG_5603.jpg)
-[![six](../proshots/9-IMG_5613.jpg){:height="10%" width="10%"}](../proshots/9-IMG_5613.jpg)
+[![six](../proshots/3.jpg){:height="10%" width="10%"}](../proshots/4.jpg)
+[![six](../proshots/4.jpg){:height="10%" width="10%"}](../proshots/5.jpg)
+[![six](../proshots/5.jpg){:height="10%" width="10%"}](../proshots/6jpg)
 
