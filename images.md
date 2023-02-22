@@ -12,7 +12,7 @@ title: Images
 
 ---
 
-Download all of the images in [ZIP FORMAT](https://kennethbunker.github.io/).
+Download all of the images in [ZIP FORMAT](../proshots/Archive.zip)
 
 [![one](../proshots/one.jpg){:height="19%" width="19%"}](../proshots/one.jpg)
 [![two](../proshots/two.jpg){:height="19%" width="19%"}](../proshots/two.jpg)
