@@ -24,7 +24,7 @@ title: Covers
 [![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png)
 
 
-[![La Segunda](/img/20230207%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230207%20-%20La%20Segunda.png)
+[![La Segunda](/img/202300223%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/202300223%20-%20La%20Segunda.png) [![La Segunda](/img/20230207%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230207%20-%20La%20Segunda.png)
 
 
 [![La Segunda](/img/20221226%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20221226%20-%20La%20Segunda.png) [![La Segunda](/img/20221220%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20221220%20-%20La%20Segunda.png) [![La Segunda](/img/20220811%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20220811%20-%20La%20Segunda.png)
