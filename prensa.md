@@ -15,6 +15,10 @@ title: Prensa
 
 ---
 
+- **La Segunda**. [Alcaldes de izquierda a la baja.](https://digital.lasegunda.com/2023/02/27/A/0248E3UR#zoom=page-width) 27 February, 2023.
+
+- **La Segunda**. [Kenneth Bunker: "En la Metropolitana la lista de Chile seguro es consistente: pueden lograr dos cupos".](https://digital.lasegunda.com/2023/02/23/A/MN48D2KM#zoom=page-width) 23 February, 2023.
+
 - **Emol**. [Con "consenso técnico" y fuera de la "burbuja política": Las claves para un "pacto" público-privado ante desastres](https://www.emol.com/noticias/Nacional/2023/02/16/1086867/pactos-enfrentar-desastres-gobierno-forestales.html) 16 February, 2023.
 
 - **La Segunda**. [Grau sobre royality a forestales: "No ha sido nuestra prioridad"](https://digital.lasegunda.com/2023/02/15/A/7I48A2KF#zoom=page-width) 15 February, 2023.
