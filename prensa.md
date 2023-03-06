@@ -32,7 +32,7 @@
 
 - **La Segunda**. [Candidatos poco atractivos: Históricos que vuelven del retiro y exseremis copan las listas.](https://digital.lasegunda.com/2023/02/07/A/AS486MS4#zoom=page-width) 7 February, 2023.
 
-- **Ex-Ante**. [Parisi y el escenario que enfrenta en la elección de constituyentes, bajo la mirada de analistas.](https://www.ex-ante.cl/parisi-y-el-escenario-que-enfrenta-en-la-eleccion-de-constituyentes-bajo-la-mirada-de-analistas/) 05 February, 2023.
+- **Ex-Ante**. [Parisi y el escenario que enfrenta en la elección de constituyentes, bajo la mirada de analistas.](https://www.ex-ante.cl/parisi-y-el-escenario-que-enfrenta-en-la-eleccion-de-constituyentes-bajo-la-mirada-de-analistas/) 5 February, 2023.
 
 - **La Segunda**. [Polémica compra de Clínica Sierra Bella detona peor nivel de aprobación para Irací Hassler.](https://digital.lasegunda.com/2023/02/03/A/ND485ECI#zoom=page-width) 3 February, 2023.
 
@@ -88,21 +88,21 @@
 
 - **Ex-Ante**. [Por qué el plebiscito del 4-S se transformó en la mayor derrota de la izquierda desde 1990, según los analistas.](https://www.ex-ante.cl/por-que-el-plebiscito-del-4-s-se-transformo-en-la-mayor-derrota-de-la-izquierda-desde-1990-segun-los-analistas/) 19 septiembre, 2022.
 
-- **La Tercera**. [La calculadora electoral: las dudas que ponen en riesgo una nueva Convención por el flanco izquierdo.](https://www.latercera.com/la-tercera-pm/noticia/la-calculadora-electoral-las-dudas-que-ponen-en-riesgo-una-nueva-convencion-por-el-flanco-izquierdo/6PJVCEVSIFADXNV453PPWUZMEI/) 09 septiembre, 2022.
+- **La Tercera**. [La calculadora electoral: las dudas que ponen en riesgo una nueva Convención por el flanco izquierdo.](https://www.latercera.com/la-tercera-pm/noticia/la-calculadora-electoral-las-dudas-que-ponen-en-riesgo-una-nueva-convencion-por-el-flanco-izquierdo/6PJVCEVSIFADXNV453PPWUZMEI/) 9 septiembre, 2022.
 
-- **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 07 septiembre, 2022.
+- **The Clinic**. [El desembarco de la ex Nueva Mayoría y un “frenazo” a la agenda transformadora: el primer cambio de gabinete de Boric en la mirada de cuatro expertos.](https://www.theclinic.cl/2022/09/06/ex-nueva-mayoria-frenazo-agenda-transformadora-primer-cambio-gabinete-boric/) 7 septiembre, 2022.
 
-- **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 06 septiembre, 2022.
+- **La Tercera**. [Macaya asoma como el nuevo cabeza de serie en la derecha para un acuerdo constitucional y tensiona a RN.](https://www.latercera.com/la-tercera-pm/noticia/macaya-sube-sus-bonos-en-la-derecha-y-asoma-como-el-nuevo-cabeza-de-serie-para-un-acuerdo-constitucional/T6V5ENJAFZCZXHFXHTPQIYLVHY/) 6 septiembre, 2022.
 
-- **Emol**. [Bloomberg califica como "un duro golpe para Boric" triunfo del Rechazo y analiza su efecto en mercado.](https://www.emol.com/noticias/Economia/2022/09/05/1071957/rechazo-constitucion-derrota-boric-mercados.htmlY/) 06 septiembre, 2022.
+- **Emol**. [Bloomberg califica como "un duro golpe para Boric" triunfo del Rechazo y analiza su efecto en mercado.](https://www.emol.com/noticias/Economia/2022/09/05/1071957/rechazo-constitucion-derrota-boric-mercados.htmlY/) 6 septiembre, 2022.
 
-- **Duna**. [“Un duro golpe para Boric”: La visión de Bloomberg tras el triunfo del Rechazo.]( https://www.duna.cl/noticias/2022/09/05/un-duro-golpe-para-boric-la-vision-de-bloomberg-tras-el-triunfo-del-rechazo/) 06 septiembre, 2022.
+- **Duna**. [“Un duro golpe para Boric”: La visión de Bloomberg tras el triunfo del Rechazo.]( https://www.duna.cl/noticias/2022/09/05/un-duro-golpe-para-boric-la-vision-de-bloomberg-tras-el-triunfo-del-rechazo/) 6 septiembre, 2022.
 
-- **Ex-Ante**. [Kenneth Bunker: “Entre la UDI y el PS hay suficientes votos para hacer lo que se necesita para seguir adelante”.](https://www.ex-ante.cl/kenneth-bunker-entre-la-udi-y-el-ps-hay-suficientes-votos-para-hacer-lo-que-se-necesita-para-seguir-adelante/?fbclid=IwAR0WebRviRPZy4KsLgUqSTpHLx85AhAL8jy-hyswb8gYhhxuaQslqNnIUvc) 05 septiembre, 2022.
+- **Ex-Ante**. [Kenneth Bunker: “Entre la UDI y el PS hay suficientes votos para hacer lo que se necesita para seguir adelante”.](https://www.ex-ante.cl/kenneth-bunker-entre-la-udi-y-el-ps-hay-suficientes-votos-para-hacer-lo-que-se-necesita-para-seguir-adelante/?fbclid=IwAR0WebRviRPZy4KsLgUqSTpHLx85AhAL8jy-hyswb8gYhhxuaQslqNnIUvc) 5 septiembre, 2022.
 
-- **La Tercera**. [Bloomberg calificó como un “duro golpe para Boric” el Rechazo a la propuesta de nueva Constitución.](https://www.latercera.com/pulso/noticia/bloomberg-califico-como-un-duro-golpe-para-boric-el-rechazo-a-la-propuesta-de-nueva-constitucion/ERKJEXGTDBF7FMAYJOMXOOQXFI/) 05 septiembre, 2022.
+- **La Tercera**. [Bloomberg calificó como un “duro golpe para Boric” el Rechazo a la propuesta de nueva Constitución.](https://www.latercera.com/pulso/noticia/bloomberg-califico-como-un-duro-golpe-para-boric-el-rechazo-a-la-propuesta-de-nueva-constitucion/ERKJEXGTDBF7FMAYJOMXOOQXFI/) 5 septiembre, 2022.
 
-- **El Líbero**. [10 figuras del gabinete en la cuerda floja.](https://ellibero.cl/actualidad/10-figuras-del-gabinete-en-la-cuerda-floja/) 04 septiembre, 2022.
+- **El Líbero**. [10 figuras del gabinete en la cuerda floja.](https://ellibero.cl/actualidad/10-figuras-del-gabinete-en-la-cuerda-floja/) 4 septiembre, 2022.
 
 - **La Segunda**. [Mucho votante nuevo y noticiosa semana le ponen incertidumbre al plebiscito.](https://digital.lasegunda.com/2022/08/29/A/P54602TQ#zoom=page-width) 28 agosto, 2022.
 
@@ -122,13 +122,13 @@
 
 - **La Segunda**. [Los límites de Boric como garante del acuerdo.](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
 
-- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 08 agosto, 2022.
+- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
 
-- **La Segunda**. [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 03 agosto, 2022.
+- **La Segunda**. [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 3 agosto, 2022.
 
-- **El Líbero**. [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 03 agosto, 2022.
+- **El Líbero**. [El duelo decisivo entre Boric y el Partido Comunista: reformar o no la propuesta de nueva Constitución.](https://ellibero.cl/actualidad/el-duelo-decisivo-entre-boric-y-el-partido-comunista-reformar-o-no-la-propuesta-de-nueva-constitucion/) 3 agosto, 2022.
 
-- **La Segunda**. [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 02 agosto, 2022.
+- **La Segunda**. [Cambios al texto antes del plebiscito: Acuerdo oficialista debe ser urgente y acotado.](https://digital.lasegunda.com/2022/08/02/A/B245LFH7#zoom=page-width) 2 agosto, 2022.
 
 - **La Segunda**. [Aprobar para reformar: Las dificultades para alcanzar un acuerdo preplebiscito.](https://digital.lasegunda.com/2022/07/29/A/UB44SR0B#zoom=page-width) 29 julio, 2022.
 
@@ -575,8 +575,6 @@
 - **La Tercera**. [Constituyentes y constitucionalistas: Quiénes son los abogados que postularán por un cupo en la Convención.](https://www.latercera.com/reconstitucion/noticia/constituyentes-y-constitucionalistas-quienes-son-los-abogados-que-postularan-por-un-cupo-en-la-convencion/ACF7P24VLFDOLKPVY7EXQTI2XU/) 9 january, 2021.
 
 - **Diario Financiero**. [La seducción de los distritos 10 y 11.](https://www.df.cl/noticias/df-constitucional/la-seduccion-de-los-distritos-10-y-11-que-atrae-a-tantos-aspirantes-a-la/2021-01-08/183507.html) 8 january, 2021.
-
-## Pre-2021
 
 - **Ex-Ante**. [Kenneth Bunker, experto electoral: “El sistema uninominal es el más justo y simple”.](https://www.ex-ante.cl/kenneth-bunker-experto-electoral-el-sistema-uninominal-es-el-mas-justo-y-simple/) 21 december, 2020.
 
