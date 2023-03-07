@@ -80,9 +80,9 @@
 
 - **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 6 November, 2022.
 
-- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 Octubre, 2022.
+- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 October, 2022.
 
-- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 Octubre, 2022.
+- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 October, 2022.
 
 - **La Segunda**. [Boric: Los costos de un liderazgo que "deja hacer" a las dos facciones del gobierno.](https://digital.lasegunda.com/2022/09/30/A/R145PSHD#zoom=page-width) 30 September, 2022.
 
@@ -505,23 +505,23 @@
 
 - **El Portal de Aysén**. [Cambio de fecha en Elecciones: ¿Qué pasa con las campañas?.](https://elportaldeaysen.cl/regional/cambio-de-fecha-en-elecciones-que-pasa-con-las-campanas/) 29 March, 2021.
 
-- **CNN**. [Académicos y parlamentarios proponen sumar un tercer día a elecciones: Posponer debiera ser un “último recurso”.](https://www.cnnchile.com/pais/academicos-parlamentarios-tercer-dia-elecciones-abril_20210328/) 28 March, 2021.
+- **CNN**. [Académicos y parlamentarios proponen sumar un tercer día a elecciones: Posponer debiera ser un “último recurso”.](https://www.cnnchile.com/pais/academicos-parlamentarios-tercer-dia-elecciones-April_20210328/) 28 March, 2021.
 
 - **El Mercurio**. [Marinovic, la candida que ha sorprendido en el distrito más codiciado.](https://digital.elmercurio.com/2021/03/28/R/CE3UGO7V#zoom=page-width) 28 March, 2021.
 
-- **El Mostrador**. [Tres días de votación y bandas horarias: Expertos electorales presentaron alternativa a potencial postergación de las elecciones del 11 de abril.](https://www.elmostrador.cl/destacado/2021/03/28/tres-dias-de-votacion-y-bandas-horarias-expertos-electorales-presentaron-alternativa-a-potencial-postergacion-de-las-elecciones-del-11-de-abril/) 28 March, 2021.
+- **El Mostrador**. [Tres días de votación y bandas horarias: Expertos electorales presentaron alternativa a potencial postergación de las elecciones del 11 de April.](https://www.elmostrador.cl/destacado/2021/03/28/tres-dias-de-votacion-y-bandas-horarias-expertos-electorales-presentaron-alternativa-a-potencial-postergacion-de-las-elecciones-del-11-de-April/) 28 March, 2021.
 
 - **Emol**. [Las complejidades que influirán en la difusa construcción de bloques y alianzas en la Convención.](https://www.emol.com/noticias/Nacional/2021/03/28/1016114/Conformacion-tercios-convencion-constitucional.html) 28 March, 2021.
 
-- **La Tercera**. [Tres días de votación y fijar bandas horarias: analistas electorales elaboran propuesta para realizar comicios en abril y desaconsejan postergar la fecha.](https://www.latercera.com/politica/noticia/tres-dias-de-votacion-y-fijar-bandas-horarias-analistas-electorales-elaboran-propuesta-para-realizar-comicios-en-abril-y-desaconsejan-postergar-la-fecha/PWK6RG5U7ZCDBIQCYAK5WB6FJE/) 28 March, 2021.
+- **La Tercera**. [Tres días de votación y fijar bandas horarias: analistas electorales elaboran propuesta para realizar comicios en April y desaconsejan postergar la fecha.](https://www.latercera.com/politica/noticia/tres-dias-de-votacion-y-fijar-bandas-horarias-analistas-electorales-elaboran-propuesta-para-realizar-comicios-en-April-y-desaconsejan-postergar-la-fecha/PWK6RG5U7ZCDBIQCYAK5WB6FJE/) 28 March, 2021.
 
-- **Pauta**. [Los efectos políticos en cadena que se vienen si se aplazan las elecciones de abril.](https://www.pauta.cl/politica/los-otros-factores-que-influyen-en-la-postergacion-de-la-eleccion-abril) 28 March, 2021.
+- **Pauta**. [Los efectos políticos en cadena que se vienen si se aplazan las elecciones de April.](https://www.pauta.cl/politica/los-otros-factores-que-influyen-en-la-postergacion-de-la-eleccion-April) 28 March, 2021.
 
 - **Emol**. [Caciques en retirada, zonas "presidencializadas" e incumbentes en problemas: Las batallas a seguir en las municipales.](https://www.emol.com/noticias/Nacional/2021/03/27/1016119/Elecciones-Municipales-Batallas.html) 27 March, 2021.
 
 - **La Discusión**. [Gobernadores y constituyentes acaparan aportes en Ñuble.](http://www.ladiscusion.cl/gobernadores-y-constituyentes-acaparan-aportes-en-nuble/) 27 March, 2021.
 
-- **La Tercera**. [¿Confirmar o postergar las elecciones del 10 y 11 de abril? La trastienda de una compleja decisión.](https://www.latercera.com/la-tercera-domingo/noticia/confirmar-o-postergar-las-elecciones-del-10-y-11-de-abril-la-trastienda-de-una-compleja-decision/X2COJ5WRURD3VKMZ53DHQFTDKI/) 27 March, 2021.
+- **La Tercera**. [¿Confirmar o postergar las elecciones del 10 y 11 de April? La trastienda de una compleja decisión.](https://www.latercera.com/la-tercera-domingo/noticia/confirmar-o-postergar-las-elecciones-del-10-y-11-de-April-la-trastienda-de-una-compleja-decision/X2COJ5WRURD3VKMZ53DHQFTDKI/) 27 March, 2021.
 
 - **Las Últimas Noticias**. [Tres analistas explican en que fijarse para decidir entre la gran cantidad de postulantes a constituyentes.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-03-22&PaginaId=31&bodyid=0) 2 March, 2021.
 
@@ -529,7 +529,7 @@
 
 - **El Líbero**. [Con todo, si no para qué: las razones de Boric para ir a primera vuelta.](https://ellibero.cl/actualidad/con-todo-si-no-para-que-las-razones-de-boric-para-ir-a-primera-vuelta/) 19 March, 2021.
 
-- **Duna**. [Plan de vacunación, elecciones de abril y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-abril-y-mauricio-hernandez-norambuena/) 17 March, 2021.
+- **Duna**. [Plan de vacunación, elecciones de April y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-April-y-mauricio-hernandez-norambuena/) 17 March, 2021.
 
 - **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 March, 2021.
 
@@ -551,7 +551,7 @@
 
 - **Emol**. [Bunker dice que "tiene sentido" agrupar elección municipal con segunda vuelta de gobernadores.](https://tv.emol.com/detail/20210225164821074/en-vivo-kenneth-bunker-analiza-el-escenario-electoral) 26 february, 2021.
 
-- **El Mercurio**. [Reforma para que comicios del 11 de abril se realicen en dos días ingresará la próxima semanas, en medio de dudas de los expertos.](https://digital.elmercurio.com/2021/02/25/A/CR3U3I9H#zoom=page-width) 25 february, 2021.
+- **El Mercurio**. [Reforma para que comicios del 11 de April se realicen en dos días ingresará la próxima semanas, en medio de dudas de los expertos.](https://digital.elmercurio.com/2021/02/25/A/CR3U3I9H#zoom=page-width) 25 february, 2021.
 
 - **El Mostrador**. [Tras elecciones de Constituyentes, primarias oficialistas prometen traer de vuelta el “canibalismo” político.](https://www.elmostrador.cl/destacado/2021/02/23/fair-play-con-fecha-de-expiracion-los-dos-meses-en-que-las-primarias-oficialistas-prometen-traer-de-vuelta-el-canibalismo/) 23 february, 2021.
 
@@ -565,7 +565,7 @@
 
 - **La Tercera**. [El gráfico ¿Cuánto duran los ministros de Hacienda en el gabinete?.](https://www.latercera.com/pulso/noticia/el-grafico-cuanto-duran-los-ministros-de-hacienda-en-el-gabinete/NWVK7EXS3NGXNFJZAKNFJM4NNM/) 26 January, 2021.
 
-- **The Clinic**. [¿Cómo influirá el método d’Hondt en la elección constituyente?: Expertos proyectan escenarios para abril.](https://www.theclinic.cl/2021/01/15/como-influira-el-metodo-dhondt-en-la-eleccion-constituyente-expertos-proyectan-escenarios-para-abril/) 15 January, 2021.
+- **The Clinic**. [¿Cómo influirá el método d’Hondt en la elección constituyente?: Expertos proyectan escenarios para April.](https://www.theclinic.cl/2021/01/15/como-influira-el-metodo-dhondt-en-la-eleccion-constituyente-expertos-proyectan-escenarios-para-April/) 15 January, 2021.
 
 - **Emol**. [Coaliciones debilitadas e incógnita sobre los independientes: Las conclusiones tras la inscripción de candidatos a la constituyente.](https://www.emol.com/noticias/Nacional/2021/01/13/1009226/Inscripcion-Candidatos-Analisis.html) 13 January, 2021.
 
@@ -583,13 +583,13 @@
 
 - **La Tercera**. [Vitacura para Orrego y Maipú para Oliva: dónde tuvieron más votos los ganadores de las primarias opositoras.](https://www.latercera.com/la-tercera-pm/noticia/vitacura-para-orrego-y-maipu-para-oliva-donde-tuvieron-mas-votos-los-ganadores-de-las-primarias-opositoras/7SOK4WRARNDHJIV6IZ53UMKODQ/) 4 December, 2020.
 
-- **The Clinic**. [140 días, cuatro escenarios y una sola convención: así se vislumbra la Constituyente de abril.](https://www.theclinic.cl/2020/12/03/140-dias-cuatro-escenarios-y-una-sola-convencion-asi-se-vislumbra-la-constituyente-de-abril/) 3 December, 2020.
+- **The Clinic**. [140 días, cuatro escenarios y una sola convención: así se vislumbra la Constituyente de April.](https://www.theclinic.cl/2020/12/03/140-dias-cuatro-escenarios-y-una-sola-convencion-asi-se-vislumbra-la-constituyente-de-April/) 3 December, 2020.
 
 - **La Voz de los que Sobran**. [Primarias 2021: Solo el 23% de los precandidatos a Gobernadores Regionales son mujeres.](https://lavozdelosquesobran.cl/primarias-2021-solo-el-23-de-los-precandidatos-a-gobernadores-regionales-son-mujeres/) 29 November, 2020.
 
 - **La Tercera**. [Mesas de votación: Las urnas sobre las cuales ponen el ojo los expertos..](https://www.latercera.com/la-tercera-domingo/noticia/mesas-de-votacion-las-urnas-sobre-las-cuales-ponen-el-ojo-los-expertos/4R6Q3ERUFBHODJ4J75HWC5VTLA/) 20 November, 2020.
 
-- **The Clinic**. [¿Quién gana con la dispersión de listas para la Constituyente? Cientistas políticos adelantan complejo escenario para las elecciones de abril.](https://www.theclinic.cl/2020/11/18/quien-gana-con-la-dispersion-de-listas-para-la-constituyente-cientistas-politicos-adelantan-complejo-escenario-para-las-elecciones-de-abril/) 18 November, 2020.
+- **The Clinic**. [¿Quién gana con la dispersión de listas para la Constituyente? Cientistas políticos adelantan complejo escenario para las elecciones de April.](https://www.theclinic.cl/2020/11/18/quien-gana-con-la-dispersion-de-listas-para-la-constituyente-cientistas-politicos-adelantan-complejo-escenario-para-las-elecciones-de-April/) 18 November, 2020.
 
 - **The Clinic**. [El curioso fenómeno Parisi o cuando las encuestas no te olvidan.](https://www.theclinic.cl/2020/11/16/el-curioso-fenomeno-parisi-o-cuando-las-encuestas-no-te-olvidan/) 16 November, 2020.
 
@@ -621,7 +621,7 @@
 
 - **Perfil**. [Un modelo predictivo de encuestas le da una ventaja de 5 puntos a Alberto Fernández sobre Mauricio Macri.](https://www.perfil.com/noticias/politica/elecciones2019-modelo-predictivo-encuestas-le-da-ventaja-cinco-puntos-alberto-fernandez-sobre-mauricio-macri.phtml) 2 August, 2019.
 
-- **CNN**. [Lo acusan de usar bots para doblar resultados: Eliminan a J. A. Kast de encuesta presidencial de analistas políticos.](https://www.cnnchile.com/pais/lo-acusan-de-usar-bots-para-doblar-resultados-eliminan-a-j-a-kast-de-encuesta-presidencial-de-analistas-politicos_20190418/) 18 abril, 2019.
+- **CNN**. [Lo acusan de usar bots para doblar resultados: Eliminan a J. A. Kast de encuesta presidencial de analistas políticos.](https://www.cnnchile.com/pais/lo-acusan-de-usar-bots-para-doblar-resultados-eliminan-a-j-a-kast-de-encuesta-presidencial-de-analistas-politicos_20190418/) 18 April, 2019.
 
 - **Agricultura**. ["El centro quedó muy débil".](https://www.radioagricultura.cl/) 22 December, 2017.
 
