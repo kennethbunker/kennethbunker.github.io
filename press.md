@@ -450,7 +450,7 @@
 
 - **Gestión**. [Empresas chilenas esperan vuelta de acaudalado con mano de Midas.](https://gestion.pe/economia/empresas/empresas-chilenas-esperan-vuelta-acaudalado-mano-midas-150317) 13 november, 2017.
 
-- **América Economía**. [Sebastián Piñera deberá ir a la caza de votos"desencantados" para ganar el balotaje .](https://www.americaeconomia.com/politica-sociedad/politica/sebastian-pinera-debera-ir-la-caza-de-votos-de-desencantados-para-ganar) 6 november, 2017.
+- **América Economía**. [Sebastián Piñera deberá ir a la caza de votos"desencantados" para ganar el balotaje.](https://www.americaeconomia.com/politica-sociedad/politica/sebastian-pinera-debera-ir-la-caza-de-votos-de-desencantados-para-ganar) 6 november, 2017.
 
 - **La Nación**. [Último debate presidencial: la pelea por el cuarto lugar.](http://lanacion.cl/2017/11/06/ultimo-debate-presidencial-la-pelea-por-el-cuarto-lugar/) 6 november, 2017.
 
