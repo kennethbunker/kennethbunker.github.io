@@ -38,7 +38,7 @@
 
 - **La Segunda**. [Polémica compra de Clínica Sierra Bella detona peor nivel de aprobación para Irací Hassler.](https://digital.lasegunda.com/2023/02/03/A/ND485ECI#zoom=page-width) 3 February, 2023.
 
-- **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 01 February, 2023.
+- **Ex-Ante**. [Kenneth Bunker y dos listas: “El oficialismo está en una encarnizada lucha de poder, lo que menos importa es el Consejo Constitucional”.](https://www.ex-ante.cl/kenneth-bunker-y-dos-listas-el-oficialismo-esta-en-una-encarnizada-lucha-de-poder-lo-que-menos-importa-es-el-consejo-constitucional/) 1 February, 2023.
 
 - **El Mostrador**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://www.elmostrador.cl/destacado/2023/01/24/una-o-dos-listas-de-consejeros-un-flanco-abierto-que-desafia-a-la-muneca-politica-del-gobierno/) 25 January, 2023.
 
@@ -46,7 +46,7 @@
 
 - **La Segunda**. [La disputa por cargos para PPD-PS que cruza la ofensiva por dos listas.](https://digital.lasegunda.com/2023/01/18/A/VN47UBMS#zoom=page-width) 18 January, 2023.
 
-- **El Líbero**. [Vanessa Kaiser: Palos de ciego](https://ellibero.cl/opinion/palos-de-ciego/) 17 January, 2023.
+- **El Líbero**. [Vanessa Kaiser: Palos de ciego.](https://ellibero.cl/opinion/palos-de-ciego/) 17 January, 2023.
 
 - **Ex-Ante**. [Alfredo Joignant y crisis por indultos: “La vocería de la ministra Vallejo fue entre mala, muy mala y fatal”.](https://www.ex-ante.cl/alfredo-joignant-y-crisis-por-indultos-la-voceria-de-la-ministra-vallejo-fue-entre-mala-muy-mala-y-fatal/) 13 January, 2023.
 
@@ -60,7 +60,7 @@
 
 - **El Desconcierto**. [Ganadores y perdedores del 2022: El balance de los protagonistas del año, según analistas.](https://www.eldesconcierto.cl/reportajes/2022/12/25/ganadores-y-perdedores-del-2022-el-balance-de-los-protagonistas-del-ano-segun-analistas.html) 25 December, 2022.
 
-- **La Segunda**. [Solos, con Republicanos, o con Amarillos: ¿Por qué a Chile Vamos le cuesta decidir?](https://digital.lasegunda.com/2022/12/23/A/GV46K5HC#zoom=page-width) 23 December, 2022.
+- **La Segunda**. [Solos, con Republicanos, o con Amarillos: ¿Por qué a Chile Vamos le cuesta decidir?.](https://digital.lasegunda.com/2022/12/23/A/GV46K5HC#zoom=page-width) 23 December, 2022.
 
 - **La Segunda**. [Cuatro efectos del rechazo a candidata propuesta por Boric.](https://digital.lasegunda.com/2022/12/20/A/6647HIFE#zoom=page-width) 20 December, 2022.
 
@@ -76,13 +76,13 @@
 
 - **Diario Financiero**. [Las reflexiones que deja la agitada semana de la Cámara Baja y las dudas acerca de la gobernabilidad de la Corporación.](https://www.df.cl/economia-y-politica/congreso/las-reflexiones-que-deja-la-agitada-semana-de-la-camara-baja-y-las-dudas) 11 November, 2022.
 
-- **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 07 November, 2022.
+- **The Clinic**. [Kenneth Bunker y la baja de Boric en las encuestas: “Si las personas no saben exactamente quién es el Presidente, no pueden tener confianza en él y no lo pueden aprobar”.](https://www.theclinic.cl/2022/11/06/kenneth-bunker-boric-encuestas-las-personas-no-saben-quien-es-el-presidente/) 7 November, 2022.
 
-- **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 06 November, 2022.
+- **Bío Bío**. [La recomposición del centro político en Chile.](https://www.biobiochile.cl/noticias/nacional/chile/2022/11/06/la-recomposicion-del-centro-politico-chileno.shtml) 6 November, 2022.
 
-- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 07 octubre, 2022.
+- **La Segunda**. [Republicanos y vieja guardia UDI presionan a negociadores de Chile Vamos.](https://digital.lasegunda.com/2022/10/07/A/S145PSLM#zoom=page-width) 7 octubre, 2022.
 
-- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 03 octubre, 2022.
+- **La Segunda**. [Los riesgos de ir contra preferencia ciudadana sobre el 6% adicional.](https://digital.lasegunda.com/2022/10/03/A/TT46EI5P#zoom=page-width) 3 octubre, 2022.
 
 - **La Segunda**. [Boric: Los costos de un liderazgo que "deja hacer" a las dos facciones del gobierno.](https://digital.lasegunda.com/2022/09/30/A/R145PSHD#zoom=page-width) 30 septiembre, 2022.
 
@@ -148,7 +148,7 @@
 
 - **La Segunda**. [Rechazo crece entre jóvenes y sectores más vulnerables en los últimos meses.](https://digital.lasegunda.com/2022/07/11/A/P545C7IG#zoom=page-width) 11 julio, 2022.
 
-- **El Líbero**. [Hegemonía del Partido Comunista en Twitter: logran marcar la agenda incluso al Gobierno.](https://ellibero.cl/actualidad/hegemonia-del-partido-comunista-en-twitter-marcan-la-agenda-incluso-al-gobierno/) 03 julio, 2022
+- **El Líbero**. [Hegemonía del Partido Comunista en Twitter: logran marcar la agenda incluso al Gobierno.](https://ellibero.cl/actualidad/hegemonia-del-partido-comunista-en-twitter-marcan-la-agenda-incluso-al-gobierno/) 3 julio, 2022
 
 - **La Segunda** [Debate Constitucional: Congreso gana protagonismo y Jackson en la encrucijada.](https://digital.lasegunda.com/2022/06/30/A/CR458G20#zoom=page-width) 30 junio, 2022.
 
@@ -187,9 +187,9 @@
 
 - **Diario Financiero**. [Sale humo blanco en una de las aristas de la negociación sobre el Congreso: Raúl Soto liderará la Cámara de Diputados.](https://www.df.cl/economia-y-politica/politica/sale-humo-blanco-en-una-de-las-aristas-de-la-negociacion-sobre-el) 10 march, 2022.
 
-- **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 01 march, 2022.
+- **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 1 march, 2022.
 
-- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?.](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 01 march, 2022.
+- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?.](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 1 march, 2022.
 
 - **El Mostrador**. [Kenneth Bunker y el diagnóstico de la derecha: “Esa promesa de renovación liberal, de apertura al mundo más progresista, no existe”.](https://www.elmostrador.cl/noticias/pais/2022/02/18/kenneth-bunker-y-el-diagnostico-de-la-derecha-esa-promesa-de-renovacion-liberal-de-apertura-al-mundo-mas-progresista-no-existe) 18 february, 2022.
 
@@ -275,7 +275,7 @@
 
 - **El Mostrador**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.elmostrador.cl/noticias/pais/2021/10/29/la-semana-en-que-el-gobierno-perdio-el-pudor-y-aplico-10-veces-la-comunicacion-de-trinchera-con-miras-a-la-presidencial/) 20 october, 2021.
 
-- **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/) 24 october, 2021.
+- **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?.](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/) 24 october, 2021.
 
 - **Diario Financiero**. [¿Cuánto le aportará la franja electoral a los aspirantes a La Moneda?.](https://www.df.cl/noticias/economia-y-politica/politica/cuanto-le-aportara-la-franja-electoral-a-los-aspirantes-a-la-moneda/2021-10-19/092427.html) 19 october, 2021.
 
@@ -353,7 +353,7 @@
 
 - **La Segunda**. [Recambio de votantes en las últimas elecciones: jóvenes entre 25 y 34 años predominan en el Plebiscito.](https://digital.lasegunda.com/2021/07/20/A/LA40BFN2#zoom=page-width) 20 july, 2021.
 
-- **Las Últimas Noticias**. [Primarias: ¿Por qué les fue tan mal a los favoritos de las redes sociales?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-20&PaginaId=1&bodyid=0) 20 july, 2021.
+- **Las Últimas Noticias**. [Primarias: ¿Por qué les fue tan mal a los favoritos de las redes sociales?.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-20&PaginaId=1&bodyid=0) 20 july, 2021.
 
 - **La Tercera**. [Los cinco obstáculos que deberá vencer Sichel con miras a noviembre.](https://www.latercera.com/earlyaccess/noticia/los-obstaculos-que-debera-vencer-sichel-con-miras-a-noviembre/WROCUMCUWFBZPBEDCWTEYAH56A/) 19 july, 2021.
 
