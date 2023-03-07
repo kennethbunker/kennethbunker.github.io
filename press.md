@@ -14,11 +14,11 @@
 
 ---
 
-- **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
+- **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución.](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
 
-- **Bloomberg**. [Chilean Parties Split Over Candidates for Constitutional Rewrite](https://www.bloomberg.com/news/articles/2023-02-07/chilean-parties-split-over-candidates-for-constitutional-rewrite) 7 February, 2023.
+- **Bloomberg**. [Chilean Parties Split Over Candidates for Constitutional Rewrite.](https://www.bloomberg.com/news/articles/2023-02-07/chilean-parties-split-over-candidates-for-constitutional-rewrite) 7 February, 2023.
 
-- **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
+- **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile.](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
 
 - **Reuters**. [Crime, inflation hammer support for Chile's Boric in tough first year.](https://www.reuters.com/world/americas/crime-inflation-hammer-support-chiles-boric-tough-first-year-2023-01-23/) 23 January, 2023.
 
@@ -26,9 +26,9 @@
 
 - **La Nación**. [Chile sella un acuerdo político para impulsar un nuevo proceso constituyente.](https://www.lanacion.com.ar/el-mundo/chile-sella-un-acuerdo-politico-para-impulsar-un-nuevo-proceso-constituyente-nid13122022/) 14 Decemeber, 2022.
 
-- **Deutsche Welle**. [La recomposición del centro político en Chile](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 4 November, 2022.
+- **Deutsche Welle**. [La recomposición del centro político en Chile.](https://www.dw.com/es/la-recomposici%C3%B3n-del-centro-pol%C3%ADtico-en-chile/a-63644049) 4 November, 2022.
 
-- **El Colombiano**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.elcolombiano.com/internacional/paises-en-america-latina-que-permiten-la-reeleccion-presidencial-GN18733104) 28 September, 2022.
+- **El Colombiano**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?.](https://www.elcolombiano.com/internacional/paises-en-america-latina-que-permiten-la-reeleccion-presidencial-GN18733104) 28 September, 2022.
 
 - **TIME**. [Why Chileans Rejected a New, Progressive Constitution.](https://time.com/6210924/chile-rejects-new-constitution-referendum/) 6 September, 2022.
 
@@ -36,11 +36,11 @@
 
 - **The Wall Street Journal**. [Chileans Wary as They Vote for New Constitution That Would Upend Free Market Model.](https://www.wsj.com/articles/chilean-voters-are-likely-to-reject-constitution-overhauling-economy-11662202801?st=8tjxftvz8vcm58i&reflink=desktopwebshare_permalink) 5 September, 2022.
 
-- **Deutsche Welle**. [A tres años del estallido social: frustración y pesimismo entre los chilenos](A tres años del estallido social: frustración y pesimismo entre los chilenos) 19 October, 2022.
+- **Deutsche Welle**. [A tres años del estallido social: frustración y pesimismo entre los chilenos.](https://www.dw.com/es/a-tres-a%C3%B1os-del-estallido-social-frustraci%C3%B3n-y-pesimismo-entre-los-chilenos/a-63499411) 19 October, 2022.
 
 - **Bloomberg**. [Por que a população chilena rejeitou a proposta de Constituição no país.](https://www.bloomberglinea.com.br/2022/09/05/por-que-a-populacao-chilena-rejeitou-a-proposta-de-constituicao-no-pais/) 5 September, 2022.
 
-- **Deutsche Welle**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?](https://www.dw.com/es/reelecci%C3%B3n-presidencial-en-am%C3%A9rica-latina-qu%C3%A9-pa%C3%ADses-la-permiten-y-cu%C3%A1les-riesgos-conlleva/a-63259669) 29 September, 2022.
+- **Deutsche Welle**. [Reelección presidencial en América Latina: ¿qué países la permiten y cuáles riesgos conlleva?.](https://www.dw.com/es/reelecci%C3%B3n-presidencial-en-am%C3%A9rica-latina-qu%C3%A9-pa%C3%ADses-la-permiten-y-cu%C3%A1les-riesgos-conlleva/a-63259669) 29 September, 2022.
 
 - **Buenos Aires Times**. [Chile President Boric reshuffles Cabinet after referendum rout.](https://www.batimes.com.ar/news/latin-america/chile-president-boric-reshuffles-cabinet-after-referendum-rout.phtml) 8 September, 2022.
 
@@ -66,9 +66,9 @@
 
 - **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
 
-- **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 1 September, 2022.
+- **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’.](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 1 September, 2022.
 
-- **Trouw**. [Chile's constitution vote puts Andean country at historic crossroads](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
+- **Trouw**. [Chile's constitution vote puts Andean country at historic crossroads.](https://trouw.nl/buitenland/chilenen-aarzelen-over-nieuwe-linkse-grondwet-wie-gaat-dit-betalen~b8fd339a) 1 September, 2022.
 
 - **TIME**. [Chile’s Millennial President Is a New Kind of Leftist Leader.](https://time.com/6193719/chile-constitution-reform-boric/) 31 August, 2022.
 
@@ -88,9 +88,9 @@
 
 - **TIME**. [Chile Is Trying To Shed the Last Remnants of Its Pinochet-Era Dictatorship.](https://time.com/6193719/chile-constitution-reform-boric/) 05 July, 2022.
 
-- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
+- **The Washington Post**. [Chile writes a woke constitution. Are Chileans ready for it?.](https://www.washingtonpost.com/world/2022/07/05/chile-constitution-draft-boric/) 05 July, 2022.
 
-- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
+- **Neue Zürcher Zeitung**. [Ein Land im Blindflug: Die Chilenen wollen eine neue Verfassung – doch stimmen sie dem Entwurf zu?.](https://www.nzz.ch/international/chiles-neue-verfassung-stimmt-das-volk-dem-entwurf-zu-ld.1691832) 05 July, 2022.
 
 - **Delayed Gratification**. [“The future of our country is at stake”.](https://www.slow-journalism.com/slow-journalism/gabriel-boric-is-elected-president-of-chile) 22 June, 2022.
 
@@ -108,9 +108,9 @@
 
 - **Bloomberg**. [No solo la derecha será oposición a Boric, también habrá de la izquierda.](https://www.bloomberglinea.com/2022/03/10/la-oposicion-que-espera-a-gabriel-boric-en-su-gobierno/) 10 march, 2022.
 
-- **Al Jazeera**. [Chile’s constituent assembly begins debating new constitution](https://www.aljazeera.com/news/2022/2/15/chile-constituent-assembly-begins-debating-new-constitution) 15 february, 2022.
+- **Al Jazeera**. [Chile’s constituent assembly begins debating new constitution.](https://www.aljazeera.com/news/2022/2/15/chile-constituent-assembly-begins-debating-new-constitution) 15 february, 2022.
 
-- **Bloomberg**. [Boric, presidente electo de Chile, presenta a su gabinete: más mujeres y diversidad de partidos](https://www.bloomberglinea.com/2022/01/21/boric-presidente-electo-de-chile-presenta-a-su-gabinete-mario-marcel-asume-en-hacienda/) 21 january, 2022.
+- **Bloomberg**. [Boric, presidente electo de Chile, presenta a su gabinete: más mujeres y diversidad de partidos.](https://www.bloomberglinea.com/2022/01/21/boric-presidente-electo-de-chile-presenta-a-su-gabinete-mario-marcel-asume-en-hacienda/) 21 january, 2022.
 
 - **Il Sole 24 ore**. [Cile, alle elezioni vince la sinistra: Boric batte Kast il filo-pinochettista.](https://www.ilsole24ore.com/art/cile-elezioni-vince-sinistra-boric-batte-kast-filo-pinochettista-AE2x9j3) 20 december, 2021.
 
@@ -490,4 +490,4 @@
 
 - **Washington Post**. [A poll is a snapshot, not a forecast.](https://www.washingtonpost.com/news/monkey-cage/wp/2013/12/10/a-poll-is-a-snapshot-not-a-forecast/) 10 december, 2013.
 
-- **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
+- **BBC**. [¿Cuál es la diferencia entre un geek y un nerd?.](https://www.bbc.com/mundo/noticias/2013/06/130624_tecnologia_geek_nerd_definicion_diferencia_dp) 30 june, 2013.
