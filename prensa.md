@@ -48,7 +48,7 @@
 
 - **El Líbero**. [Vanessa Kaiser: Palos de ciego](https://ellibero.cl/opinion/palos-de-ciego/) 17 January, 2023.
 
-- **Ex-Ante**. [Alfredo Joignant y crisis por indultos: “La vocería de la ministra Vallejo fue entre mala, muy mala y fatal”](https://www.ex-ante.cl/alfredo-joignant-y-crisis-por-indultos-la-voceria-de-la-ministra-vallejo-fue-entre-mala-muy-mala-y-fatal/) 13 January, 2023.
+- **Ex-Ante**. [Alfredo Joignant y crisis por indultos: “La vocería de la ministra Vallejo fue entre mala, muy mala y fatal”.](https://www.ex-ante.cl/alfredo-joignant-y-crisis-por-indultos-la-voceria-de-la-ministra-vallejo-fue-entre-mala-muy-mala-y-fatal/) 13 January, 2023.
 
 - **T13**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-centroizquierda-debe-decidir-si-quiere-seguir-buque-se-esta-hundiendo) 13 January, 2023.
 
@@ -136,7 +136,7 @@
 
 - **Emol**. [Ex convencionales intensifican participación en las campañas del Plebiscito: los riesgos de la jugada bajo la mirada experta.](https://www.emol.com/noticias/Nacional/2022/07/28/1068282/exconstituyentes-participan-campana-apruebo-rechazo.html) 28 julio, 2022.
 
-- **Las Últimas Noticias**. [Cinco analistas responden: ¿Por qué la gente evita meterse en política?](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
+- **Las Últimas Noticias**. [Cinco analistas responden: ¿Por qué la gente evita meterse en política?.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-07-23&EsAviso=0&PaginaId=8&bodyid=0) 23 julio, 2022.
 
 - **La Segunda**. [La inorgánica, pero hasta ahora, eficiente apuesta del Rechazo.](https://digital.lasegunda.com/2022/07/22/A/TB44SQS7#zoom=page-width) 22 julio, 2022.
 
@@ -189,7 +189,7 @@
 
 - **El Líbero**. [La mayoría con la izquierda y pocos al centro: cómo votan los “moderados” de la Convención.](https://ellibero.cl/actualidad/la-mayoria-con-la-izquierda-y-pocos-al-centro-como-votan-los-moderados-de-la-convencion/) 01 march, 2022.
 
-- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 01 march, 2022.
+- **El Mercurio (Reportajes)**. [De izquierda a derecha: ¿Cómo votan los colectivos del órgano constituyente?.](https://digital.elmercurio.com/2022/02/20/R/J7432F77#zoom=page-width) 01 march, 2022.
 
 - **El Mostrador**. [Kenneth Bunker y el diagnóstico de la derecha: “Esa promesa de renovación liberal, de apertura al mundo más progresista, no existe”.](https://www.elmostrador.cl/noticias/pais/2022/02/18/kenneth-bunker-y-el-diagnostico-de-la-derecha-esa-promesa-de-renovacion-liberal-de-apertura-al-mundo-mas-progresista-no-existe) 18 february, 2022.
 
@@ -277,9 +277,9 @@
 
 - **La Tercera**. [Útil, indeciso, ideológico, antivotante...: Y usted, ¿qué tipo de votante es?](https://www.latercera.com/la-tercera-domingo/noticia/y-usted-que-tipo-de-votante-es/XWYYYE62EJFULNZVZLUFWSSIVQ/) 24 october, 2021.
 
-- **Diario Financiero**. [¿Cuánto le aportará la franja electoral a los aspirantes a La Moneda?](https://www.df.cl/noticias/economia-y-politica/politica/cuanto-le-aportara-la-franja-electoral-a-los-aspirantes-a-la-moneda/2021-10-19/092427.html) 19 october, 2021.
+- **Diario Financiero**. [¿Cuánto le aportará la franja electoral a los aspirantes a La Moneda?.](https://www.df.cl/noticias/economia-y-politica/politica/cuanto-le-aportara-la-franja-electoral-a-los-aspirantes-a-la-moneda/2021-10-19/092427.html) 19 october, 2021.
 
-- **The Clinic**. [Cinco analistas responden: ¿Cómo cambió Chile después del estallido?](https://www.theclinic.cl/2021/10/18/cinco-analistas-responden-como-cambio-chile-despues-del-estallido/) 18 october, 2021.
+- **The Clinic**. [Cinco analistas responden: ¿Cómo cambió Chile después del estallido?.](https://www.theclinic.cl/2021/10/18/cinco-analistas-responden-como-cambio-chile-despues-del-estallido/) 18 october, 2021.
 
 - **El Líbero**. [Qué hay detrás de los cinco dardos que se lanzaron los candidatos en el debate.](https://ellibero.cl/actualidad/que-hay-detras-de-los-cinco-dardos-que-se-lanzaron-los-candidatos-en-el-debate/) 13 october, 2021.
 
@@ -305,7 +305,7 @@
 
 - **El Mercurio de Valparaiso**. [Analistas creen que debate no cambió panorama hasta ahora.](https://www.mercuriovalpo.cl/impresa/2021/09/24/full/cuerpo-principal/4/) 24 september, 2021.
 
-- **La Segunda**. [¿Kast amenaza las aspiraciones de Sichel de pasar a segunda vuelta?](https://digital.lasegunda.com/2021/09/24/A) 24 september, 2021.
+- **La Segunda**. [¿Kast amenaza las aspiraciones de Sichel de pasar a segunda vuelta?.](https://digital.lasegunda.com/2021/09/24/A) 24 september, 2021.
 
 - **La Segunda**. [Así se vió el debate en Twitter.](https://digital.lasegunda.com/2021/09/23/A) 23 september, 2021.
 
