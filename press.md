@@ -414,7 +414,7 @@
 
 - **Zero**. ["Es muy bueno para el Frente Amplio que la centroizquierda tradicional no pueda perpetuarse en el poder".](duna.cl) 17 december, 2017.
 
-- **ABC News**. [Uncertainty reigns in tight Chilean presidential election .](http://abcnews.go.com/amp/International/wireStory/uncertainty-reigns-tight-chilean-presidential-election-51825113) 16 december, 2017.
+- **ABC News**. [Uncertainty reigns in tight Chilean presidential election.](http://abcnews.go.com/amp/International/wireStory/uncertainty-reigns-tight-chilean-presidential-election-51825113) 16 december, 2017.
 
 - **Bloomberg**. [Billionaire Candidate Goes on the Attack in Tight Chile Election.](https://www.bloomberg.com/news/articles/2017-12-14/venezuela-scaremongering-emerges-in-chile-as-election-gets-tight) 14 december, 2017.
 
@@ -428,7 +428,7 @@
 
 - **Reuters**. [Pinera aims for center in tight battle for Chile's top job.](https://www.reuters.com/article/us-chile-election/pinera-aims-for-center-in-tight-battle-for-chiles-top-job-idUSKBN1DK23S) 21 november, 2017.
 
-- **TPI News**. [Grande incertezza dopo il primo turno alle elezioni presidenziali .](https://www.tpi.it/2017/11/21/incertezza-primo-turno-presidenziali-cile/) 21 november, 2017.
+- **TPI News**. [Grande incertezza dopo il primo turno alle elezioni presidenziali.](https://www.tpi.it/2017/11/21/incertezza-primo-turno-presidenziali-cile/) 21 november, 2017.
 
 - **Bloomberg**. [Chile Election Turnout Hits New Low.](https://www.bloomberg.com/news/articles/2017-11-20/chile-s-election-fails-to-inspire-voters-as-turnout-hits-new-low) 20 november, 2017.
 
@@ -440,7 +440,7 @@
 
 - **La República**. [Acciones y moneda de Chile caen tras débil resultado de Piñera.](https://www.larepublica.co/globoeconomia/acciones-y-moneda-de-chile-caen-tras-debil-resultado-de-pinera-2571741) 20 november, 2017.
 
-- **L’Express**. [Chili: le conservateur Sebastian Piñera au 2e tour de la présidentielle .](https://www.lexpress.fr/actualite/monde/amerique-sud/chili-le-conservateur-sebastian-pinera-au-2e-tour-de-la-presidentielle_1962033.html) 20 november, 2017.
+- **L’Express**. [Chili: le conservateur Sebastian Piñera au 2e tour de la présidentielle.](https://www.lexpress.fr/actualite/monde/amerique-sud/chili-le-conservateur-sebastian-pinera-au-2e-tour-de-la-presidentielle_1962033.html) 20 november, 2017.
 
 - **Nasdaq**. [Pinera aims for center in tight battle for Chile's top job.](http://www.nasdaq.com/article/pinera-aims-for-center-in-tight-battle-for-chiles-top-job-20171120-01119) 20 november, 2017.
 
