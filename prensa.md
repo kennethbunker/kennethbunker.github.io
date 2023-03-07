@@ -22,7 +22,7 @@
 
 - **Emol**. [Con "consenso técnico" y fuera de la "burbuja política": Las claves para un "pacto" público-privado ante desastres](https://www.emol.com/noticias/Nacional/2023/02/16/1086867/pactos-enfrentar-desastres-gobierno-forestales.html) 16 February, 2023.
 
-- **La Segunda**. [Grau sobre royality a forestales: "No ha sido nuestra prioridad"](https://digital.lasegunda.com/2023/02/15/A/7I48A2KF#zoom=page-width) 15 February, 2023.
+- **La Segunda**. [Grau sobre royality a forestales: "No ha sido nuestra prioridad".](https://digital.lasegunda.com/2023/02/15/A/7I48A2KF#zoom=page-width) 15 February, 2023.
 
 - **La Segunda**. [Partido de Parisi podría crecer en Antofagasta, Coquimbo, Arica y Tarapacá.](https://digital.lasegunda.com/2023/02/14/A/GI489M15#zoom=page-width) 14 February, 2023.
 
@@ -50,11 +50,11 @@
 
 - **Ex-Ante**. [Alfredo Joignant y crisis por indultos: “La vocería de la ministra Vallejo fue entre mala, muy mala y fatal”.](https://www.ex-ante.cl/alfredo-joignant-y-crisis-por-indultos-la-voceria-de-la-ministra-vallejo-fue-entre-mala-muy-mala-y-fatal/) 13 January, 2023.
 
-- **T13**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-centroizquierda-debe-decidir-si-quiere-seguir-buque-se-esta-hundiendo) 13 January, 2023.
+- **T13**. [Kenneth Bunker: “La centroizquierda debe decidir si quiere seguir en un buque que se está hundiendo”.](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-centroizquierda-debe-decidir-si-quiere-seguir-buque-se-esta-hundiendo) 13 January, 2023.
 
-- **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.
+- **Ex-Ante**. [Kenneth Bunker: “Estos indultos de Boric son un incentivo a la violencia”.](https://www.ex-ante.cl/kenneth-bunker-estos-indultos-de-boric-son-un-incentivo-a-la-violencia/) 30 December, 2022.
 
-- **El Mercurio**. [Hitos, desafíos, los que brillaron y las decepciones: El balance de 12 analistas políticos de lo que dejó este 2022](https://www.emol.com/noticias/Nacional/2022/12/30/1082427/hitos-politicos-2022-analisis-expertos.html) 30 December, 2022.
+- **El Mercurio**. [Hitos, desafíos, los que brillaron y las decepciones: El balance de 12 analistas políticos de lo que dejó este 2022.](https://www.emol.com/noticias/Nacional/2022/12/30/1082427/hitos-politicos-2022-analisis-expertos.html) 30 December, 2022.
 
 - **La Segunda**. [Partió marzo con 54% de confianza, termina el año con 34%.](https://digital.lasegunda.com/2022/12/26/A/0E47JDFG#zoom=page-width) 26 December, 2022.
 
@@ -124,7 +124,7 @@
 
 - **La Segunda**. [Los límites de Boric como garante del acuerdo.](https://digital.lasegunda.com/2022/08/11/A/I445PI64#zoom=page-width) 11 agosto, 2022.
 
-- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
+- **El Mercurio**. [Expertos debaten: ¿Dónde debe buscar más votos el Apruebo?.](https://digital.elmercurio.com/2022/08/08/C/RN45L8VP#zoom=page-width) 8 agosto, 2022.
 
 - **La Segunda**. [Encuestólogos: El Apruebo le puede torcer el brazo al Rechazo a última hora.](https://digital.lasegunda.com/2022/08/03/A/2R45LT05#zoom=page-width) 3 agosto, 2022.
 
@@ -175,9 +175,9 @@
 
 - **La Segunda**. [Vallejo y Jackson, ganadores tras el "tirón" de orejas a Siches.](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 11 april, 2022.
 
-- **La Segunda**. [Bunker: "Si el presidente designó a personas de su confianza ahora, ante una crisis tendrá que nombrar a gente con más experiencia".](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 06 april, 2022.
+- **La Segunda**. [Bunker: "Si el presidente designó a personas de su confianza ahora, ante una crisis tendrá que nombrar a gente con más experiencia".](https://digital.lasegunda.com/2022/04/06/A/QM4438FH#zoom=page-width) 6 april, 2022.
 
-- **El Líbero**. [Quiénes son los convencionales que más se han “radicalizado” en sus votaciones.](https://ellibero.cl/libero-constituyente/quienes-son-los-convencionales-que-mas-se-han-radicalizado-en-sus-votaciones/) 03 april, 2022.
+- **El Líbero**. [Quiénes son los convencionales que más se han “radicalizado” en sus votaciones.](https://ellibero.cl/libero-constituyente/quienes-son-los-convencionales-que-mas-se-han-radicalizado-en-sus-votaciones/) 3 april, 2022.
 
 - **Diario Financiero**. [Los desafíos del Congreso en la administración de Gabriel Boric.](https://www.df.cl/economia-y-politica/politica/los-desafios-del-congreso-en-la-administracion-de-gabriel-boric) 14 march, 2022.
 
@@ -335,7 +335,7 @@
 
 - **El libero**. [Cristián Cuevas, el “rival directo” de Boric que puede conquistar a los “viudos de Jadue”.](https://ellibero.cl/actualidad/cristian-cuevas-quien-es-el-candidato-de-la-lista-del-pueblo/) 7 august, 2021.
 
-- **Emol**. [Carta de Lista del Pueblo, J. A. Kast y Parisi: ¿A quiénes amenazan las candidaturas que emergen fuera de las coaliciones?](https://www.emol.com/noticias/Nacional/2021/08/06/1028922/cuevas-jak-parisi-amenazan-candidaturas.html) 6 august, 2021.
+- **Emol**. [Carta de Lista del Pueblo, J. A. Kast y Parisi: ¿A quiénes amenazan las candidaturas que emergen fuera de las coaliciones?.](https://www.emol.com/noticias/Nacional/2021/08/06/1028922/cuevas-jak-parisi-amenazan-candidaturas.html) 6 august, 2021.
 
 - **La Segunda**. [Cómo la sopresiva candidatura de Cuevas podría impactar a Boric.](https://digital.lasegunda.com/2021/08/06/A/F940BJ12#zoom=page-width) 6 august, 2021.
 
