@@ -14,7 +14,7 @@
 
 ---
 
-- **La Segunda**. [Boric recupera a su público: Llega mejor a marzo, pero con tendencia al tropiezo.](https://digital.lasegunda.com/2023/03/06/A/BN48H5E8#zoom=page-width) 6 Marzo, 2023.
+- **La Segunda**. [Boric recupera a su público: Llega mejor a marzo, pero con tendencia al tropiezo.](https://digital.lasegunda.com/2023/03/06/A/BN48H5E8#zoom=page-width) 6 March, 2023.
 
 - **La Segunda**. [Alcaldes de izquierda a la baja.](https://digital.lasegunda.com/2023/02/27/A/0248E3UR#zoom=page-width) 27 February, 2023.
 
@@ -162,7 +162,7 @@
 
 - **T13**. [Kenneth Bunker: "Boric hizo una lista larga de promesas que nadie sabe cómo va a cumplir".](https://www.t13.cl/noticia/ex-ante/politica/kenneth-bunker-boric-hizo-lista-larga-promesas-nadie-sabe-como-va-cumplir) 1 junio, 2022.
 
-- **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 abril, 2022.
+- **La Segunda** [La derecha ya hizo el costo: la Constitución se perdió hace tiempo.](https://digital.lasegunda.com/2022/04/28/A/PD44CIV8#zoom=page-width). 28 April, 2022.
 
 - **The Clinic**. [Quedarse enfrascados en los diagnósticos: el peligro que acecha al gobierno en sus primeros 50 días
 ](https://www.theclinic.cl/2022/04/27/quedarse-enfrascados-en-los-diagnosticos-el-peligro-que-acecha-al-gobierno-en-sus-primeros-50-dias/). 27 april, 2022.
@@ -372,19 +372,19 @@
 
 - **The Clinic**. [Logan lo quiere todo: La fórmula del único constituyente electo independiente y fuera de listas.](https://www.theclinic.cl/2021/07/08/logan-lo-quiere-todo-la-formula-del-unico-constituyente-electo-independiente-y-fuera-de-listas/) 8 july, 2021.
 
-- **El Líbero**. [La carrera por el Senado: Vidal, Peñailillo, Schalper, Cruz-Coke y Teillier a la cancha.](https://ellibero.cl/actualidad/la-carrera-por-el-senado-vidal-penailillo-schalper-cruz-coke-y-teillier-a-la-cancha/) 2 july, 2021.
+- **El Líbero**. [La carrera por el Senado: Vidal, Peñailillo, Schalper, Cruz-Coke y Teillier a la cancha.](https://ellibero.cl/actualidad/la-carrera-por-el-senado-vidal-penailillo-schalper-cruz-coke-y-teillier-a-la-cancha/) 2 July, 2021.
 
-- **El Mostrador**. [Radiografía a los pecados de Chile Vamos en la hora más crítica de la derecha.](https://www.elmostrador.cl/noticias/pais/2021/06/23/radiografia-a-los-pecados-de-chile-vamos-en-la-hora-mas-critica-de-la-derecha/) 23 june, 2021.
+- **El Mostrador**. [Radiografía a los pecados de Chile Vamos en la hora más crítica de la derecha.](https://www.elmostrador.cl/noticias/pais/2021/06/23/radiografia-a-los-pecados-de-chile-vamos-en-la-hora-mas-critica-de-la-derecha/) 23 June, 2021.
 
-- **The Clinic**. [De la mancuerna Lavín-Desbordes hasta el factor Piñera: Analistas políticos desmenuzan el primer debate presidencial de Chile Vamos.](https://www.theclinic.cl/2021/06/22/de-la-mancuerna-lavin-desbordes-hasta-el-factor-pinera-analistas-politicos-desmenuzan-el-primer-debate-presidencial-de-chile-vamos/) 22 june, 2021.
+- **The Clinic**. [De la mancuerna Lavín-Desbordes hasta el factor Piñera: Analistas políticos desmenuzan el primer debate presidencial de Chile Vamos.](https://www.theclinic.cl/2021/06/22/de-la-mancuerna-lavin-desbordes-hasta-el-factor-pinera-analistas-politicos-desmenuzan-el-primer-debate-presidencial-de-chile-vamos/) 22 June, 2021.
 
-- **The Clinic**. [La paradoja de Willy Sabor: Analista explica las implicancias de actuar como partido político sin reconocerlo.](https://www.theclinic.cl/2021/06/16/la-paradoja-de-willy-sabor-analista-explica-las-implicancias-de-actuar-como-partido-politico-sin-reconocerlo/) 16 june, 2021.
+- **The Clinic**. [La paradoja de Willy Sabor: Analista explica las implicancias de actuar como partido político sin reconocerlo.](https://www.theclinic.cl/2021/06/16/la-paradoja-de-willy-sabor-analista-explica-las-implicancias-de-actuar-como-partido-politico-sin-reconocerlo/) 16 June, 2021.
 
-- **El Líbero**. [Segunda vuelta de gobernadores: las apuestas y los pronósticos de una tímida participación.](https://ellibero.cl/actualidad/segunda-vuelta-de-gobernadores-las-apuestas-y-los-pronosticos-de-una-timida-participacion/) 10 june, 2021.
+- **El Líbero**. [Segunda vuelta de gobernadores: las apuestas y los pronósticos de una tímida participación.](https://ellibero.cl/actualidad/segunda-vuelta-de-gobernadores-las-apuestas-y-los-pronosticos-de-una-timida-participacion/) 10 June, 2021.
 
-- **Pauta**. [La nueva UDI tras el fin del ciclo de los coroneles.](https://www.pauta.cl/politica/quienes-lideres-jovenes-udi-fin-era-coroneles) 8 june, 2021.
+- **Pauta**. [La nueva UDI tras el fin del ciclo de los coroneles.](https://www.pauta.cl/politica/quienes-lideres-jovenes-udi-fin-era-coroneles) 8 June, 2021.
 
-- **El Líbero**. [Cuatro expertos electorales recomiendan a la derecha ir a votar en la elección Orrego-Oliva.](https://ellibero.cl/actualidad/cuatro-expertos-electorales-recomiendan-a-la-derecha-ir-a-votar-en-la-eleccion-orrego-oliva/) 5 june, 2021.
+- **El Líbero**. [Cuatro expertos electorales recomiendan a la derecha ir a votar en la elección Orrego-Oliva.](https://ellibero.cl/actualidad/cuatro-expertos-electorales-recomiendan-a-la-derecha-ir-a-votar-en-la-eleccion-orrego-oliva/) 5 June, 2021.
 
 - **La Tercera**. [“Era imposible proyectar”: el mea culpa de los encuestadores tras el fail de los sondeos previos a la elección.](https://www.latercera.com/la-tercera-pm/noticia/era-imposible-proyectar-el-mea-culpa-de-los-encuestadores-tras-el-fail-de-los-sondeos-previos-a-la-eleccion/USQITALFE5DVNE7XQTQ4Q7A34U/) 24 may, 2021.
 
@@ -520,27 +520,27 @@
 
 - **La Discusión**. [Gobernadores y constituyentes acaparan aportes en Ñuble.](http://www.ladiscusion.cl/gobernadores-y-constituyentes-acaparan-aportes-en-nuble/) 27 march, 2021.
 
-- **La Tercera**. [¿Confirmar o postergar las elecciones del 10 y 11 de abril? La trastienda de una compleja decisión.](https://www.latercera.com/la-tercera-domingo/noticia/confirmar-o-postergar-las-elecciones-del-10-y-11-de-abril-la-trastienda-de-una-compleja-decision/X2COJ5WRURD3VKMZ53DHQFTDKI/) 27 march, 2021.
+- **La Tercera**. [¿Confirmar o postergar las elecciones del 10 y 11 de abril? La trastienda de una compleja decisión.](https://www.latercera.com/la-tercera-domingo/noticia/confirmar-o-postergar-las-elecciones-del-10-y-11-de-abril-la-trastienda-de-una-compleja-decision/X2COJ5WRURD3VKMZ53DHQFTDKI/) 27 March, 2021.
 
-- **Las Últimas Noticias**. [Tres analistas explican en que fijarse para decidir entre la gran cantidad de postulantes a constituyentes.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-03-22&PaginaId=31&bodyid=0) 2 march, 2021.
+- **Las Últimas Noticias**. [Tres analistas explican en que fijarse para decidir entre la gran cantidad de postulantes a constituyentes.](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-03-22&PaginaId=31&bodyid=0) 2 March, 2021.
 
-- **El Mercurio**. [¿Los mismo de siempre? Desde EE.UU estudian a los candidatos chilenos.](https://digital.elmercurio.com/2021/03/21/R/G03UIPFS?fromSearch=1&q=siavelis&GotoArticle=3B3UJ1DG) 21 march, 2021.
+- **El Mercurio**. [¿Los mismo de siempre? Desde EE.UU estudian a los candidatos chilenos.](https://digital.elmercurio.com/2021/03/21/R/G03UIPFS?fromSearch=1&q=siavelis&GotoArticle=3B3UJ1DG) 21 March, 2021.
 
-- **El Líbero**. [Con todo, si no para qué: las razones de Boric para ir a primera vuelta.](https://ellibero.cl/actualidad/con-todo-si-no-para-que-las-razones-de-boric-para-ir-a-primera-vuelta/) 19 march, 2021.
+- **El Líbero**. [Con todo, si no para qué: las razones de Boric para ir a primera vuelta.](https://ellibero.cl/actualidad/con-todo-si-no-para-que-las-razones-de-boric-para-ir-a-primera-vuelta/) 19 March, 2021.
 
-- **Duna**. [Plan de vacunación, elecciones de abril y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-abril-y-mauricio-hernandez-norambuena/) 17 march, 2021.
+- **Duna**. [Plan de vacunación, elecciones de abril y Mauricio Hernández Norambuena.](https://www.duna.cl/podcasts/plan-de-vacunacion-elecciones-de-abril-y-mauricio-hernandez-norambuena/) 17 March, 2021.
 
-- **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 march, 2021.
+- **El Periscopo**. [Diputados exigieron a Piñera desvincular a Cristian Barra tras dichos por FF.AA. en La Araucanía.](https://www.elperiscopio.cl/destacado-1/diputados-exigieron-a-pinera-desvincular-a-cristian-barra-tras-dichos-por-ff-aa-en-la-araucania/) 14 March, 2021.
 
-- **El Mercurio**. [Analistas cuestionan aparición de presidenciables en franja de la Convención.](https://digital.elmercurio.com/2021/03/13/C/8B3U9R4C#zoom=page-width) 13 march, 2021.
+- **El Mercurio**. [Analistas cuestionan aparición de presidenciables en franja de la Convención.](https://digital.elmercurio.com/2021/03/13/C/8B3U9R4C#zoom=page-width) 13 March, 2021.
 
-- **Diario Financiero**. [Apuesta de los expertos.](https://www.df.cl/noticias/df-constitucional/apuesta-de-los-expertos-a-la-convencion-llegarian-mas-militantes-de/2021-02-12/193852.html) 8 march, 2021.
+- **Diario Financiero**. [Apuesta de los expertos.](https://www.df.cl/noticias/df-constitucional/apuesta-de-los-expertos-a-la-convencion-llegarian-mas-militantes-de/2021-02-12/193852.html) 8 March, 2021.
 
-- **El Líbero**. [Las dramáticas cifras que demuestran el declive del Frente Amplio.](https://ellibero.cl/actualidad/las-dramaticas-cifras-que-demuestran-el-declive-del-frente-amplio/) 7 march, 2021.
+- **El Líbero**. [Las dramáticas cifras que demuestran el declive del Frente Amplio.](https://ellibero.cl/actualidad/las-dramaticas-cifras-que-demuestran-el-declive-del-frente-amplio/) 7 March, 2021.
 
-- **El Mercurio**. [La Competitiva carrera a la Convención Constitucional.](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width) 7 march, 2021.
+- **El Mercurio**. [La Competitiva carrera a la Convención Constitucional.](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width) 7 March, 2021.
 
-- **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](https://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 marzo, 2021.
+- **La Discusión**. [Arrau y Harboe lideran las cifras de financiamiento para los constituyentes en Ñuble.](https://www.ladiscusion.cl/arrau-y-harboe-lideran-las-cifras-de-financiamiento-para-los-constituyentes/) 4 March, 2021.
 
 - **La Tercera**. [El “factor” constituyente que dispara la incertidumbre de la elección municipal.](https://www.latercera.com/la-tercera-domingo/noticia/el-factor-constituyente-que-dispara-la-incertidumbre-de-la-eleccion-municipal/UEFRDTBR25CT5L65NKAWUZTITE/) 27 february, 2021.
 
