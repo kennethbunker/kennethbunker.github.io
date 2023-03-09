@@ -10,9 +10,13 @@
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/)
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/)
 
 ---
+
+- **Bloomberg**. [Chilean President Boric’s Reforms in Trouble After Tax Setback.](https://www.bloomberg.com/news/articles/2023-03-08/chile-politics-president-boric-s-reforms-in-trouble-after-tax-setback#xj4y7vzkg) 9 March, 2023.
+
+- **Yahoo Finance**. [Derrota tributaria asesta golpe a política emblemática de Boric.](https://es.finance.yahoo.com/noticias/derrota-tributaria-asesta-golpe-pol%C3%ADtica-223700782.html) 8 March, 2023.
 
 - **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución.](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
 
