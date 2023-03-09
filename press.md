@@ -20,6 +20,9 @@
 
 - **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución.](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
 
+- **El Mercurio**. [Boric no convence en su primer año, que termina con duro golpe legislativo.](https://elmercurio.com.ec/2023/03/09/boric-no-convence-en-su-primer-ano-que-termina-con-duro-golpe-legislativo/
+) 9 February, 2023.
+
 - **Bloomberg**. [Chilean Parties Split Over Candidates for Constitutional Rewrite.](https://www.bloomberg.com/news/articles/2023-02-07/chilean-parties-split-over-candidates-for-constitutional-rewrite) 7 February, 2023.
 
 - **Euronews**. [A punto de cumplir tumultuoso primer año, crimen e inflación golpean respaldo a Boric en Chile.](https://es.euronews.com/2023/01/23/politica-chile-boric) 24 January, 2023.
