@@ -14,6 +14,8 @@
 
 ---
 
+- **El Desconcierto**. [¿Reforma tributaria: ¿Quién fue responsable de la caída más grande del gobierno?.](https://www.eldesconcierto.cl/reportajes/2023/03/09/reforma-tributaria-quien-fue-responsable-de-la-caida-mas-grande-del-gobierno.html) 10 March, 2023.
+
 - **La Segunda**. [¿Nadie contó los votos?.](https://digital.lasegunda.com/2023/03/09/A/PD48IUVK#zoom=page-width) 9 March, 2023.
 
 - **La Segunda**. [Boric recupera a su público: Llega mejor a marzo, pero con tendencia al tropiezo.](https://digital.lasegunda.com/2023/03/06/A/BN48H5E8#zoom=page-width) 6 March, 2023.
