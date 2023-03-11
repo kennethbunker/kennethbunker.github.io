@@ -15,6 +15,9 @@
 ---
 
 
+- **Diario de Yucatán**. [Chile's Boric swaps out foreign minister in cabinet reshuffle.](https://www.yucatan.com.mx/internacional/2023/3/10/acaba-pronto-la-luna-de-miel-del-presidente-chileno-390312.html) 11 March, 2023.
+
+
 - **Reuters**. [Chile's Boric swaps out foreign minister in cabinet reshuffle.](https://www.reuters.com/world/americas/chiles-boric-swaps-out-foreign-minister-amid-cabinet-reshuffle-2023-03-10/) 11 March, 2023.
 
 - **Swiss Info**. [Boric intensifica su giro al centro y acomete cambio profundo en Exteriores.](https://www.swissinfo.ch/spa/chile-gobierno_boric-intensifica-su-giro-al-centro-y-acomete-cambio-profundo-en-exteriores/48351388
