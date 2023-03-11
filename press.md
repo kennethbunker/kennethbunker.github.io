@@ -14,6 +14,12 @@
 
 ---
 
+
+- **Reuters**. [Chile's Boric swaps out foreign minister in cabinet reshuffle.](https://www.reuters.com/world/americas/chiles-boric-swaps-out-foreign-minister-amid-cabinet-reshuffle-2023-03-10/) 11 March, 2023.
+
+- **Swiss Info**. [Boric intensifica su giro al centro y acomete cambio profundo en Exteriores.](https://www.swissinfo.ch/spa/chile-gobierno_boric-intensifica-su-giro-al-centro-y-acomete-cambio-profundo-en-exteriores/48351388
+) 11 March, 2023.
+
 - **Bloomberg**. [Chilean President Boric’s Reforms in Trouble After Tax Setback.](https://www.bloomberg.com/news/articles/2023-03-08/chile-politics-president-boric-s-reforms-in-trouble-after-tax-setback#xj4y7vzkg) 9 March, 2023.
 
 - **Yahoo Finance**. [Derrota tributaria asesta golpe a política emblemática de Boric.](https://es.finance.yahoo.com/noticias/derrota-tributaria-asesta-golpe-pol%C3%ADtica-223700782.html) 8 March, 2023.

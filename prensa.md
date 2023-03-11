@@ -14,6 +14,11 @@
 
 ---
 
+
+
+- **El Mercurio**. [Analistas señalan que cambio de ministros significa giro del Gobierno a la centroizquierda.](https://digital.elmercurio.com/2023/03/11/C/H548EI7U#zoom=page-width
+) 11 March, 2023.
+
 - **El Desconcierto**. [¿Reforma tributaria: ¿Quién fue responsable de la caída más grande del gobierno?.](https://www.eldesconcierto.cl/reportajes/2023/03/09/reforma-tributaria-quien-fue-responsable-de-la-caida-mas-grande-del-gobierno.html) 10 March, 2023.
 
 - **La Segunda**. [¿Nadie contó los votos?.](https://digital.lasegunda.com/2023/03/09/A/PD48IUVK#zoom=page-width) 9 March, 2023.
