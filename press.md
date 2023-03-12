@@ -14,9 +14,12 @@
 
 ---
 
+- **France 24**. [Crisis ministerial en Chile: Boric anuncia cambios en cinco carteras.](https://www.france24.com/es/am%C3%A9rica-latina/20230310-crisis-ministerial-en-chile-boric-anuncia-cambios-en-cinco-carteras) 11 March, 2023.
+
+- **Voz de América**. [Chile: Boric modifica su gabinete a un año de asumir la presidencia
+.](https://www.vozdeamerica.com/a/boric-modifica-gabinete-chile-/6999790.html) 11 March, 2023.
 
 - **Diario de Yucatán**. [Chile's Boric swaps out foreign minister in cabinet reshuffle.](https://www.yucatan.com.mx/internacional/2023/3/10/acaba-pronto-la-luna-de-miel-del-presidente-chileno-390312.html) 11 March, 2023.
-
 
 - **Reuters**. [Chile's Boric swaps out foreign minister in cabinet reshuffle.](https://www.reuters.com/world/americas/chiles-boric-swaps-out-foreign-minister-amid-cabinet-reshuffle-2023-03-10/) 11 March, 2023.
 

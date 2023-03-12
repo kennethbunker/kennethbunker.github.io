@@ -14,6 +14,9 @@
 
 ---
 
+- **El Desconcierto**. [¿Es realmente una ventaja ser un Presidente cercano? El primer año de Boric según expertos.](https://www.eldesconcierto.cl/reportajes/2023/03/11/es-realmente-una-ventaja-ser-un-presidente-cercano-el-primer-ano-de-boric-segun-expertos.html
+) 12 March, 2023.
+
 - **El Mercurio**. [Analistas señalan que cambio de ministros significa giro del Gobierno a la centroizquierda.](https://digital.elmercurio.com/2023/03/11/C/H548EI7U#zoom=page-width) 11 March, 2023.
 
 - **El Desconcierto**. [¿Reforma tributaria: ¿Quién fue responsable de la caída más grande del gobierno?.](https://www.eldesconcierto.cl/reportajes/2023/03/09/reforma-tributaria-quien-fue-responsable-de-la-caida-mas-grande-del-gobierno.html) 10 March, 2023.
