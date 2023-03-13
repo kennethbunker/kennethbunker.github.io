@@ -10,7 +10,7 @@
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [AP](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/)
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [Associated Press](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/)
 
 ---
 
@@ -30,11 +30,13 @@
 
 - **Bloomberg**. [Chilean President Boric’s Reforms in Trouble After Tax Setback.](https://www.bloomberg.com/news/articles/2023-03-08/chile-politics-president-boric-s-reforms-in-trouble-after-tax-setback#xj4y7vzkg) 9 March, 2023.
 
+- **El Mundo (Costa Rica)**. [Chile: Boric modifica su gabinete a un año de asumir la presidencia.](https://elmundo.cr/mundo/chile-boric-modifica-su-gabinete-a-un-ano-de-asumir-la-presidencia/) 10 March, 2023.
+
 - **Yahoo Finance**. [Derrota tributaria asesta golpe a política emblemática de Boric.](https://es.finance.yahoo.com/noticias/derrota-tributaria-asesta-golpe-pol%C3%ADtica-223700782.html) 8 March, 2023.
 
 - **Bloomberg**. [Partidos de Chile divididos por candidatos a escribir Constitución.](https://www.bloomberg.com/news/articles/2023-02-07/partidos-chile-divididos-por-candidatos-a-escribir-constitucion#xj4y7vzkg) 7 February, 2023.
 
-- **El Mercurio**. [Boric no convence en su primer año, que termina con duro golpe legislativo.](https://elmercurio.com.ec/2023/03/09/boric-no-convence-en-su-primer-ano-que-termina-con-duro-golpe-legislativo/
+- **El Mercurio (Ecuador)**. [Boric no convence en su primer año, que termina con duro golpe legislativo.](https://elmercurio.com.ec/2023/03/09/boric-no-convence-en-su-primer-ano-que-termina-con-duro-golpe-legislativo/
 ) 9 February, 2023.
 
 - **Bloomberg**. [Chilean Parties Split Over Candidates for Constitutional Rewrite.](https://www.bloomberg.com/news/articles/2023-02-07/chilean-parties-split-over-candidates-for-constitutional-rewrite) 7 February, 2023.
@@ -85,7 +87,7 @@
 
 - **Nasdaq**. [Chile's constitution vote puts Andean country at historic crossroads.](https://www.nasdaq.com/articles/chiles-constitution-vote-puts-andean-country-at-historic-crossroads) 2 September, 2022.
 
-- **AP**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
+- **Associated Press**. [Chile’s move to replace dictatorship constitution faces test.](https://apnews.com/article/latin-america-caribbean-chile-constitutions-referendums-b17e27f3d1d17d9be8aba5061efd00ef) 1 September, 2022.
 
 - **Reuters**. [Chilenen aarzelen over nieuwe linkse grondwet: ‘Wie gaat dit betalen?’.](https://www.reuters.com/article/chile-constitution/chiles-constitution-vote-puts-andean-country-at-historic-crossroads-idUSL4N3073E6) 1 September, 2022.
 
