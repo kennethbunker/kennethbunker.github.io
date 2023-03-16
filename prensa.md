@@ -14,6 +14,8 @@
 
 ---
 
+- **La Segunda**. [Tohá y Marcel, los ministros mejor evaluados ... Jara arremete.](https://digital.lasegunda.com/2023/03/16/A/PC48LPOC#zoom=page-width) 16 March, 2023.
+
 - **La Segunda**. [PPD gana influencia en el gobierno: suma un ministro y más subsecretarios.](https://digital.lasegunda.com/2023/03/09/A/PD48IUVK#zoom=page-width) 13 March, 2023.
 
 - **El Desconcierto**. [¿Es realmente una ventaja ser un Presidente cercano? El primer año de Boric según expertos.](https://www.eldesconcierto.cl/reportajes/2023/03/11/es-realmente-una-ventaja-ser-un-presidente-cercano-el-primer-ano-de-boric-segun-expertos.html
