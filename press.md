@@ -18,6 +18,8 @@
 
 - **France 24**. [Crisis ministerial en Chile: Boric anuncia cambios en cinco carteras.](https://www.france24.com/es/am%C3%A9rica-latina/20230310-crisis-ministerial-en-chile-boric-anuncia-cambios-en-cinco-carteras) 11 March, 2023.
 
+- **Publico**. [Boric afronta su segundo cambio de Gobierno desde que llegó a la presidencia con una gran remodelación en Exteriores.](https://www.publico.es/internacional/boric-afronta-segundo-cambio-gobierno-llego-presidencia-gran-remodelacion-exteriores.html) 11 March, 2023.
+
 - **Voz de América**. [Chile: Boric modifica su gabinete a un año de asumir la presidencia
 .](https://www.vozdeamerica.com/a/boric-modifica-gabinete-chile-/6999790.html) 11 March, 2023.
 

@@ -14,6 +14,11 @@
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230311 - Moderación forzada
+- 20230309 - Grueso Error
+- 20230308 - Una bola de nieve
+- 20230307 - El respeto
+- 20230223 - Los buenos
 - 20230221 - La frontera
 - 20230203 - Intención versus ejecución
 - 20230127 - Trapos al sol
@@ -264,6 +269,11 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230317 - Los antagonistas
+- 20230310 - Las absurdas minutas del gobierno
+- 20230308 - Promesas vacías
+- 20230303 - De vuelta a clases
+- 20230224 - Al gobierno le llegó marzo
 - 20230217 - Negocios y delincuencia en Santiago Centro
 - 20230210 - El regreso de la “vieja guardia”
 - 20230203 - El debate de las dos listas
