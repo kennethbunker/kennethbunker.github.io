@@ -14,6 +14,8 @@
 
 ---
 
+- **La Segunda**. ["Siendo las 10:13, damos la bienvenida al presidente Mirosevic".](https://digital.lasegunda.com/2023/03/24/A/L948DG8T#zoom=page-width) 24 March, 2023.
+
 - **La Segunda**. [Tohá y Marcel, los ministros mejor evaluados ... Jara arremete.](https://digital.lasegunda.com/2023/03/16/A/PC48LPOC#zoom=page-width) 16 March, 2023.
 
 - **La Segunda**. [PPD gana influencia en el gobierno: suma un ministro y más subsecretarios.](https://digital.lasegunda.com/2023/03/09/A/PD48IUVK#zoom=page-width) 13 March, 2023.
