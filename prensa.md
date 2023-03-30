@@ -15,6 +15,9 @@
 
 ---
 
+- **El Mercurio**. [¿Reflexión valiosa o giro forzado? Analistas abordan cambio de postura presidencial.](https://digital.elmercurio.com/2023/03/30/C/JI48NNBD#zoom=page-width
+) 30 March, 2023.
+
 - **La Segunda**. ["Siendo las 10:13, damos la bienvenida al presidente Mirosevic".](https://digital.lasegunda.com/2023/03/24/A/L948DG8T#zoom=page-width) 24 March, 2023.
 
 - **La Segunda**. [Tohá y Marcel, los ministros mejor evaluados ... Jara arremete.](https://digital.lasegunda.com/2023/03/16/A/PC48LPOC#zoom=page-width) 16 March, 2023.
