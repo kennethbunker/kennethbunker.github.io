@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Jara, Tohá y Cordero ... los ministros más influyentes.](https://digital.lasegunda.com/2023/03/31/A/M948DGD7#zoom=page-width) 31 March, 2023.
+
 - **El Mercurio**. [¿Reflexión valiosa o giro forzado? Analistas abordan cambio de postura presidencial.](https://digital.elmercurio.com/2023/03/30/C/JI48NNBD#zoom=page-width
 ) 30 March, 2023.
 
