@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [El día después: críticas por retiro de Tohá, Cordera y Lobos desde comisión del Senado.](https://digital.lasegunda.com/2023/04/04/A/I548TP6A#zoom=page-width) 4 April, 2023.
+
 - **La Segunda**. [Jara, Tohá y Cordero ... los ministros más influyentes.](https://digital.lasegunda.com/2023/03/31/A/M948DGD7#zoom=page-width) 31 March, 2023.
 
 - **El Mercurio**. [¿Reflexión valiosa o giro forzado? Analistas abordan cambio de postura presidencial.](https://digital.elmercurio.com/2023/03/30/C/JI48NNBD#zoom=page-width
