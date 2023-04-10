@@ -24,6 +24,8 @@
 [![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png)
 
 
+[![La Segunda](/img/20230410%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230410%20-%20La%20Segunda.png)
+
 [![La Segunda](/img/20230313%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230313%20-%20La%20Segunda.png) [![La Segunda](/img/20230223%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230223%20-%20La%20Segunda.png) [![La Segunda](/img/20230207%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230207%20-%20La%20Segunda.png)
 
 
@@ -46,7 +48,7 @@
 
 [![La Segunda](/img/20210301%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210301%20-%20La%20Segunda.png) [![La Segunda](/img/20211203%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20211203%20-%20La%20Segunda.png) [![La Segunda](/img/20210427%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20210427%20-%20La%20Segunda.png)
 
-[![La Segunda](/img/20200323%20La%20Segunda.png){:height="32%" width="32%"}](/img/20200323%20-%20La%20Segunda.png)
+[![La Segunda](/img/20200323%20La%20Segunda.png){:height="32%" width="32%"}](/img/20200323%20-%20La%20Segunda.png) 
 
 [![El Mercurio Valparaíso](/img/20210808%20-%20MercurioValpo.png){:height="32%" width="32%"}](/img/20210808%20-%20MercurioValpo.png)
 

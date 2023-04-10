@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [¿Voto de protesta en las elecciones del 7 de mayo?.](https://digital.lasegunda.com/2023/04/10/A/5548VIGJ#zoom=page-width) 10 April, 2023.
+
 - **La Segunda**. [El día después: críticas por retiro de Tohá, Cordera y Lobos desde comisión del Senado.](https://digital.lasegunda.com/2023/04/04/A/I548TP6A#zoom=page-width) 4 April, 2023.
 
 - **La Segunda**. [Jara, Tohá y Cordero ... los ministros más influyentes.](https://digital.lasegunda.com/2023/03/31/A/M948DGD7#zoom=page-width) 31 March, 2023.
