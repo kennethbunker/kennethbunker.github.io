@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Tohá sobreexpuesta y con la agenda entrampada.](https://digital.lasegunda.com/2023/04/13/A/HN49244U#zoom=page-width) 13 April, 2023.
+
 - **Ex-Ante**. [Kenneth Bunker: “Creo que no hay una sola persona que está tomando decisiones en el gobierno”.](https://www.ex-ante.cl/kenneth-bunker-creo-que-no-hay-una-sola-persona-que-esta-tomando-decisiones-en-el-gobierno/) 11 April, 2023.
 
 - **La Segunda**. [¿Voto de protesta en las elecciones del 7 de mayo?.](https://digital.lasegunda.com/2023/04/10/A/5548VIGJ#zoom=page-width) 10 April, 2023.
