@@ -15,6 +15,9 @@
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230407 - Fracaso absoluto
+- 20230330 - Más vale tarde
+- 20230323 - Una casas de narcos
 - 20230311 - Moderación forzada
 - 20230309 - Grueso Error
 - 20230308 - Una bola de nieve
@@ -270,6 +273,9 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230411 - Cuatro medidas contra la fragmentación partidaria
+- 20230331 - El fin de la revolución
+- 20230324 - Rodolfo Carter contra los narcos
 - 20230317 - Los antagonistas
 - 20230310 - Las absurdas minutas del gobierno
 - 20230308 - Promesas vacías
