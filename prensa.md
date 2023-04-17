@@ -15,6 +15,10 @@
 
 ---
 
+- **La Segunda**. [Caen todas las autoridades del Socialismo Democrático y al mismo tiempo.](https://digital.lasegunda.com/2023/04/17/A/ON493D5F#zoom=page-width) 17 April, 2023.
+
+- **La Segunda**. [Crece incertidumbre en La Moneda.](https://digital.lasegunda.com/2023/04/17/A/ON493D5C#zoom=page-width) 17 April, 2023.
+
 - **La Segunda**. [Tohá sobreexpuesta y con la agenda entrampada.](https://digital.lasegunda.com/2023/04/13/A/HN49244U#zoom=page-width) 13 April, 2023.
 
 - **Ex-Ante**. [Kenneth Bunker: “Creo que no hay una sola persona que está tomando decisiones en el gobierno”.](https://www.ex-ante.cl/kenneth-bunker-creo-que-no-hay-una-sola-persona-que-esta-tomando-decisiones-en-el-gobierno/) 11 April, 2023.
