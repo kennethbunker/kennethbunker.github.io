@@ -15,6 +15,7 @@
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230414 - Símbolo de retroceso
 - 20230407 - Fracaso absoluto
 - 20230330 - Más vale tarde
 - 20230323 - Una casas de narcos
@@ -273,7 +274,8 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
-- 20230411 - Cuatro medidas contra la fragmentación partidaria
+- 20230415 - Punto muerto entre realistas e idealistas: el dilema de la tercera vía de Apruebo Dignidad
+- 20230411 - Cuatro medidas contra la fragmentación partidaria (+ Arturo Fontaine)
 - 20230331 - El fin de la revolución
 - 20230324 - Rodolfo Carter contra los narcos
 - 20230317 - Los antagonistas
