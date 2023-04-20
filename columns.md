@@ -15,6 +15,7 @@
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230420 - Nuevo rumbo
 - 20230414 - Símbolo de retroceso
 - 20230407 - Fracaso absoluto
 - 20230330 - Más vale tarde
@@ -274,6 +275,7 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230419 - El encontrón de Boric
 - 20230415 - Punto muerto entre realistas e idealistas: el dilema de la tercera vía de Apruebo Dignidad
 - 20230411 - Cuatro medidas contra la fragmentación partidaria (+ Arturo Fontaine)
 - 20230331 - El fin de la revolución
