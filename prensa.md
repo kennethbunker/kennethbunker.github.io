@@ -15,6 +15,8 @@
 
 ---
 
+- **Emol**. ["La consolidación del Socialismo Democrático": El nuevo mapa de poder del oficialismo que abre el arribo de Elizalde a la Segpres.](https://www.emol.com/noticias/Nacional/2023/04/20/1092738/elizalde-segpres-perfil-socialismo-democratico.html) 20 April, 2023.
+
 - **La Segunda**. [Caen todas las autoridades del Socialismo Democrático y al mismo tiempo.](https://digital.lasegunda.com/2023/04/17/A/ON493D5F#zoom=page-width) 17 April, 2023.
 
 - **La Segunda**. [Crece incertidumbre en La Moneda.](https://digital.lasegunda.com/2023/04/17/A/ON493D5C#zoom=page-width) 17 April, 2023.
