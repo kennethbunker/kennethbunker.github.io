@@ -15,11 +15,15 @@
 
 ---
 
+- **La Segunda**. [Kast se puede asestar un duro golpe a Chile Vamos en las elecciones del 7 de mayo.](https://digital.lasegunda.com/2023/04/20/A/18495BMI#zoom=page-width) 20 April, 2023.
+
 - **Emol**. ["La consolidación del Socialismo Democrático": El nuevo mapa de poder del oficialismo que abre el arribo de Elizalde a la Segpres.](https://www.emol.com/noticias/Nacional/2023/04/20/1092738/elizalde-segpres-perfil-socialismo-democratico.html) 20 April, 2023.
 
 - **La Segunda**. [Caen todas las autoridades del Socialismo Democrático y al mismo tiempo.](https://digital.lasegunda.com/2023/04/17/A/ON493D5F#zoom=page-width) 17 April, 2023.
 
 - **La Segunda**. [Crece incertidumbre en La Moneda.](https://digital.lasegunda.com/2023/04/17/A/ON493D5C#zoom=page-width) 17 April, 2023.
+
+- **Diario Constitucional**. [Boletín N°12: Las indicaciones se toman el debate.](https://www.diarioconstitucional.cl/2023/04/16/boletin-n12-las-indicaciones-se-toman-el-debate/) 16 April, 2023.
 
 - **La Segunda**. [Tohá sobreexpuesta y con la agenda entrampada.](https://digital.lasegunda.com/2023/04/13/A/HN49244U#zoom=page-width) 13 April, 2023.
 
