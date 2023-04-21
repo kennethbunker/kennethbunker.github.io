@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Elección de mayo: Marcada por la seguridas, y Chile Vamos con ventaja.](https://digital.lasegunda.com/2023/04/21/A/R9495SLT#zoom=page-width) 21 April, 2023.
+
 - **La Segunda**. [Kast se puede asestar un duro golpe a Chile Vamos en las elecciones del 7 de mayo.](https://digital.lasegunda.com/2023/04/20/A/18495BMI#zoom=page-width) 20 April, 2023.
 
 - **Emol**. ["La consolidación del Socialismo Democrático": El nuevo mapa de poder del oficialismo que abre el arribo de Elizalde a la Segpres.](https://www.emol.com/noticias/Nacional/2023/04/20/1092738/elizalde-segpres-perfil-socialismo-democratico.html) 20 April, 2023.
