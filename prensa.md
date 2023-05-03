@@ -17,6 +17,8 @@
 
 - **Ex-Ante**. [Kenneth Bunker por elecciones: “Si Republicanos gana es un mensaje de castigo contra el Gobierno y también contra la derecha”.](https://www.ex-ante.cl/kenneth-bunker-por-elecciones-si-republicanos-gana-es-un-mensaje-de-castigo-contra-el-gobierno-y-tambien-contra-la-derecha/) 3 May, 2023.
 
+- **Ex-Ante**. [El silencio de Boric frente a las elecciones de constituyentes y la decisión de La Moneda de no convertir el 7 de mayo en otro plebiscito al gobierno.](https://www.ex-ante.cl/el-silencio-de-boric-frente-a-las-elecciones-de-constituyentes-y-la-decision-de-la-moneda-de-no-convertir-el-7-de-mayo-en-otro-plebiscito-al-gobierno/) 3 May, 2023.
+
 - **Emol**. [Más allá del resultado electoral: Los seis ejes políticos que hay que seguir la noche del 7-M.](https://www.emol.com/noticias/Nacional/2023/05/03/1093837/elecciones-consejo-constitucional-puntos-politicos.html) 3 May, 2023.
 
 - **El Líbero**. [«Gobierno Informa»: programa estrella de Camila Vallejo no logra repuntar en rating.](https://ellibero.cl/actualidad/gobierno-informa-programa-estrella-de-camila-vallejo-no-logra-repuntar-en-rating/) 1 May, 2023.
