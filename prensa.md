@@ -15,6 +15,8 @@
 
 ---
 
+- **Emol**. [Más allá del resultado electoral: Los seis ejes políticos que hay que seguir la noche del 7-M.](https://www.emol.com/noticias/Nacional/2023/05/03/1093837/elecciones-consejo-constitucional-puntos-politicos.html) 3 May, 2023.
+
 - **El Líbero**. [«Gobierno Informa»: programa estrella de Camila Vallejo no logra repuntar en rating.](https://ellibero.cl/actualidad/gobierno-informa-programa-estrella-de-camila-vallejo-no-logra-repuntar-en-rating/) 1 May, 2023.
 
 - **Pauta**. [¿En qué otros países existe la norma del 5% y cuáles han sido los efectos políticos?.](https://www.pauta.cl/factchecking/constitucheck/en-que-otros-paises-existe-la-norma-del-5-y-cuales-han-sido-los) 22 April, 2023.
