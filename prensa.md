@@ -15,6 +15,8 @@
 
 ---
 
+- **El Líbero**. [«Gobierno Informa»: programa estrella de Camila Vallejo no logra repuntar en rating.](https://ellibero.cl/actualidad/gobierno-informa-programa-estrella-de-camila-vallejo-no-logra-repuntar-en-rating/) 1 May, 2023.
+
 - **Pauta**. [¿En qué otros países existe la norma del 5% y cuáles han sido los efectos políticos?.](https://www.pauta.cl/factchecking/constitucheck/en-que-otros-paises-existe-la-norma-del-5-y-cuales-han-sido-los) 22 April, 2023.
 
 - **Emol**. ["De 4 a 8 consejeros": La "efectiva" campaña del PDG que hace que Parisi suba la apuesta de la elección.](https://www.emol.com/noticias/Nacional/2023/04/21/1092831/campana-consejeros-constitucionales-pdg.html) 21 April, 2023.
