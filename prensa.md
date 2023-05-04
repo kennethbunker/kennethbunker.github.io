@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Caso de candidata condenada por drogas sacude al PDG, a 72 horas de las elecciones.](https://digital.lasegunda.com/2023/05/04/A/GO49C2EF#zoom=page-width) 4 May, 2023.
+
 - **Ex-Ante**. [Kenneth Bunker por elecciones: “Si Republicanos gana es un mensaje de castigo contra el Gobierno y también contra la derecha”.](https://www.ex-ante.cl/kenneth-bunker-por-elecciones-si-republicanos-gana-es-un-mensaje-de-castigo-contra-el-gobierno-y-tambien-contra-la-derecha/) 3 May, 2023.
 
 - **Ex-Ante**. [El silencio de Boric frente a las elecciones de constituyentes y la decisión de La Moneda de no convertir el 7 de mayo en otro plebiscito al gobierno.](https://www.ex-ante.cl/el-silencio-de-boric-frente-a-las-elecciones-de-constituyentes-y-la-decision-de-la-moneda-de-no-convertir-el-7-de-mayo-en-otro-plebiscito-al-gobierno/) 3 May, 2023.
