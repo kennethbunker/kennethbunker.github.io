@@ -14,6 +14,8 @@
 
 ---
 
+- **Infobae**. [Con otras urgencias y poco entusiasmo, chilenos votan otra vez en elección constitucional.](https://www.infobae.com/america/agencias/2023/05/05/con-otras-urgencias-y-poco-entusiasmo-chilenos-votan-otra-vez-en-eleccion-constitucional/) 5 May, 2023.
+
 - **Reuters**. [Chile's voters set to take big step in constitution redraft 2.0.](https://www.reuters.com/world/americas/chiles-voters-set-take-big-step-constitution-redraft-20-2023-05-05/) 5 May, 2023.
 
 - **Barron's**. [Chile Is Lithium Rich. Monetizing the Metal Hasn’t Been Easy.](https://www.barrons.com/articles/chile-is-lithium-rich-monetizing-the-metal-hasnt-been-easy-150dd638) 28 April, 2023.
