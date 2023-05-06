@@ -14,7 +14,9 @@
 
 ---
 
-- **Terra**. [Eleitores do Chile vão às urnas em grande passo para revisar Constituição.](https://www.terra.com.br/noticias/mundo/eleitores-do-chile-vao-as-urnas-em-grande-passo-para-revisar-constituicao,4f12c89b43c3af80a01102ebcfdd27d8w5p06sd6.html) 7 May, 2023.
+- **Voz de América**. [Con otras urgencias y poco entusiasmo, chilenos votan otra vez en elección constitucional.](https://www.vozdeamerica.com/a/urgencias-poco-entusiasmo-chilenos-votan-otra-vez-eleccion-constitucional/7080912.html) 6 May, 2023.
+
+- **Terra**. [Eleitores do Chile vão às urnas em grande passo para revisar Constituição.](https://www.terra.com.br/noticias/mundo/eleitores-do-chile-vao-as-urnas-em-grande-passo-para-revisar-constituicao,4f12c89b43c3af80a01102ebcfdd27d8w5p06sd6.html) 6 May, 2023.
 
 - **Infobae**. [Con otras urgencias y poco entusiasmo, chilenos votan otra vez en elección constitucional.](https://www.infobae.com/america/agencias/2023/05/05/con-otras-urgencias-y-poco-entusiasmo-chilenos-votan-otra-vez-en-eleccion-constitucional/) 5 May, 2023.
 
