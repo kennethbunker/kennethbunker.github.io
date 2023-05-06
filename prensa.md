@@ -15,6 +15,10 @@
 
 ---
 
+- **Pauta**. [¿Cuáles son las proyecciones de participación electoral para este 7 de mayo?.](https://www.pauta.cl/factchecking/constitucheck/cuales-son-las-proyecciones-de-participacion-electoral-para-este-7-de) 6 May, 2023.
+
+- **La Segunda**. [¿Con qué criterio definir a ganadores del domingo? Expertos responden.](https://digital.lasegunda.com/2023/05/05/A/9V49CHLM#zoom=page-width) 5 May, 2023.
+
 - **La Segunda**. [Caso de candidata condenada por drogas sacude al PDG, a 72 horas de las elecciones.](https://digital.lasegunda.com/2023/05/04/A/GO49C2EF#zoom=page-width) 4 May, 2023.
 
 - **Ex-Ante**. [Kenneth Bunker por elecciones: “Si Republicanos gana es un mensaje de castigo contra el Gobierno y también contra la derecha”.](https://www.ex-ante.cl/kenneth-bunker-por-elecciones-si-republicanos-gana-es-un-mensaje-de-castigo-contra-el-gobierno-y-tambien-contra-la-derecha/) 3 May, 2023.
