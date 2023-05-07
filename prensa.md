@@ -15,6 +15,8 @@
 
 ---
 
+- **El Líbero**. [Cuatro claves para observar esta noche y entender cómo quedará el cuadro político tras la elección.](https://ellibero.cl/actualidad/cuatro-claves-para-observar-esta-noche-y-entender-como-quedara-el-cuadro-politico-tras-la-eleccion/) 7 May, 2023.
+
 - **El Mostrador**. [Proceso constituyente: abren mesas para elección del Consejo Constitucional con voto obligatorio.](https://www.elmostrador.cl/noticias/pais/2023/05/07/consejo-constitucional-mas-de-15-millones-de-electores-llamados-a-votar/) 7 May, 2023.
 
 - **Pauta**. [¿Cuáles son las proyecciones de participación electoral para este 7 de mayo?.](https://www.pauta.cl/factchecking/constitucheck/cuales-son-las-proyecciones-de-participacion-electoral-para-este-7-de) 6 May, 2023.
