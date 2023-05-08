@@ -20,6 +20,8 @@
 
 - **Euro News**. [La extrema derecha da el sorpaso en las segundas elecciones constituyentes.](https://es.euronews.com/2023/05/08/chile-la-extrema-derecha-da-el-sorpaso-en-las-segundas-elecciones-constituyentes) 8 May, 2023.
 
+- **Blu Radio**. [Chile’s Conservative Parties to Lead Constitution Rewrite After Massive Win in Snub to President Boric.](https://www.bluradio.com/mundo/la-extrema-derecha-da-el-sorpasso-y-liderara-el-proceso-constituyente-chileno-cb20) 8 May, 2023.
+
 - **Bloomberg**. [Chile’s Conservative Parties to Lead Constitution Rewrite After Massive Win in Snub to President Boric.](https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 7 May, 2023.
 
 - **Veja**. [Petro vê governo se esfacelar em meio à sua inépcia para o diálogo.](https://veja.abril.com.br/mundo/petro-ve-governo-se-esfacelar-em-meio-a-sua-inepcia-para-o-dialogo/) 7 May, 2023.

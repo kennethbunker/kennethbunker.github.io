@@ -15,6 +15,10 @@
 
 ---
 
+- **Emol**. [El mapa político tras la avalancha de la derecha: El "control" de Republicanos en el Consejo y el "jaque" del oficialismo.](https://www.emol.com/noticias/Nacional/2023/05/08/1094349/nuevo-escenario-politico-consejo-constitucional.html) 8 May, 2023.
+
+- **Emol**. [Dura derrota en elecciones: Expertos analizan futuro de reformas y aseguran que "el Gobierno de Boric terminó".](https://www.emol.com/noticias/Nacional/2023/05/08/1094353/futuro-reformas-gobierno-elecciones-consejeros.html) 8 May, 2023.
+
 - **Diario Financiero**. [Consejo Constitucional: las nueve claves que marcaron la jornada electoral.](https://www.df.cl/economia-y-politica/pais/consejo-constitucional-las-nueve-claves-que-marcaron-la-jornada-electoral) 8 May, 2023.
 
 - **El Líbero**. [Cuatro claves para observar esta noche y entender cómo quedará el cuadro político tras la elección.](https://ellibero.cl/actualidad/cuatro-claves-para-observar-esta-noche-y-entender-como-quedara-el-cuadro-politico-tras-la-eleccion/) 7 May, 2023.
