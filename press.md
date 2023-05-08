@@ -14,7 +14,9 @@
 
 ---
 
-- **Bloomberg**. [Chilean voters deliver a humiliating blow to President Gabriel Boric’s administration as right-wing parties secure a veto-proof majority on the Constitutional Council.]( https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 8 May, 2023.
+- **Il Giornale**. [Cile, la destra vince le elezioni per la costituente: altro flop per il presidente Boric.](https://ilgiornale.it/news/politica-estera/elezioni-cile-lascesa-dellultra-conservatore-kast-2146756.html) 8 May, 2023.
+
+- **Bloomberg**. [Chilean voters deliver a humiliating blow to President Gabriel Boric’s administration as right-wing parties secure a veto-proof majority on the Constitutional Council.](https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 8 May, 2023.
 
 - **Euro News**. [La extrema derecha da el sorpaso en las segundas elecciones constituyentes.](https://es.euronews.com/2023/05/08/chile-la-extrema-derecha-da-el-sorpaso-en-las-segundas-elecciones-constituyentes) 8 May, 2023.
 
