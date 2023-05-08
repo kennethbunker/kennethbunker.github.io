@@ -36,6 +36,22 @@
 
 - **Bloomberg**. [Chile’s Conservative Parties to Lead Constitution Rewrite After Massive Win in Snub to President Boric.](https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 7 May, 2023.
 
+- **Página Siete**. [Las claves del “tsunami ultraderechista” que voltea el tablero político en Chile.](https://www.paginasiete.bo/planeta/las-claves-del-tsunami-ultraderechista-que-voltea-el-tablero-politico-en-chile-FF7564711) 8 May, 2023.
+
+- **La Tribuna**. [La extrema derecha da el sorpasso y liderará el proceso constituyente chileno.](https://www.latribuna.hn/2023/05/08/la-extrema-derecha-da-el-sorpasso-y-liderara-el-proceso-constituyente-chileno/) 8 May, 2023.
+
+- **El Comercio**. [Ultraderecha chilena liderará el proceso constituyente.](https://www.elcomercio.com/actualidad/mundo/ultraderecha-chile-constituyente-votos.html) 8 May, 2023.
+
+- **El Espectador**. [La nueva constitución de Chile queda en manos de la ultraderecha conservadora.](https://www.elespectador.com/mundo/america/la-nueva-constitucion-de-chile-queda-en-manos-de-la-ultraderecha-conservadora/) 8 May, 2023.
+
+- **RPP**. [La extrema derecha liderará el proceso constituyente chileno tras victoria electoral.](https://rpp.pe/mundo/chile/la-extrema-derecha-liderara-el-proceso-constituyente-chileno-tras-victoria-electoral-noticia-1483045) 8 May, 2023.
+
+- **Huffington Post**. [Las claves de unas constituyentes que voltean el tablero político chileno.](https://www.huffingtonpost.es/global/claves-constituyentes-voltean-tablero-politico-chilenobr.html) 8 May, 2023.
+
+- **Diario Sur**. [Giro en Chile: la izquierda retrocede y la extrema derecha se convierte en la primera fuerza política.](https://www.diariosur.es/internacional/america-latina/giro-chile-izquierda-retrocede-extrema-derecha-convierte-20230508070713-ntrc.html) 8 May, 2023.
+
+- **República**. [La extrema derecha da el sorpaso en Chile y liderará el proceso constituyente con poder de veto.](https://www.republica.com/internacional/la-extrema-derecha-da-el-sorpaso-en-chile-y-liderara-el-proceso-constituyente-con-poder-de-veto-20230508-08371924192/) 8 May, 2023.
+
 - **Veja**. [Petro vê governo se esfacelar em meio à sua inépcia para o diálogo.](https://veja.abril.com.br/mundo/petro-ve-governo-se-esfacelar-em-meio-a-sua-inepcia-para-o-dialogo/) 7 May, 2023.
 
 - **Bloomberg**. [Elecciones Consejo Constitucional 2023: los escenarios que se plantean en Chile.](https://www.bloomberglinea.com/latinoamerica/chile/elecciones-consejo-constitucional-2023-los-escenarios-que-se-plantean-en-chile/) 7 May, 2023.
