@@ -14,6 +14,8 @@
 
 ---
 
+- **Deutsche Welle**. [Chile: los dilemas que abre el triunfo de la ultraderecha.](https://www.dw.com/es/chile-los-dilemas-que-abre-el-triunfo-de-la-ultraderecha/a-65555874) 8 May, 2023.
+
 - **El Diario AR**. [Años de vértigo: del Chile Despertó a una Constitución llave en mano para los herederos de Pinochet.](https://www.eldiarioar.com/opinion/anos-vertigo-chile-desperto-constitucion-llave-mano-herederos-pinochet_129_10186297.html) 8 May, 2023.
 
 - **Forbes**. [Elecciones constituyentes: estas son las claves del nuevo tablero político chileno.](https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/) 8 May, 2023.
