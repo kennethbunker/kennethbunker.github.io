@@ -15,6 +15,8 @@
 
 ---
 
+- **Diario Financiero**. [Consejo Constitucional: las nueve claves que marcaron la jornada electoral.](https://www.df.cl/economia-y-politica/pais/consejo-constitucional-las-nueve-claves-que-marcaron-la-jornada-electoral) 8 May, 2023.
+
 - **El Líbero**. [Cuatro claves para observar esta noche y entender cómo quedará el cuadro político tras la elección.](https://ellibero.cl/actualidad/cuatro-claves-para-observar-esta-noche-y-entender-como-quedara-el-cuadro-politico-tras-la-eleccion/) 7 May, 2023.
 
 - **El Mostrador**. [Proceso constituyente: abren mesas para elección del Consejo Constitucional con voto obligatorio.](https://www.elmostrador.cl/noticias/pais/2023/05/07/consejo-constitucional-mas-de-15-millones-de-electores-llamados-a-votar/) 7 May, 2023.

@@ -10,9 +10,17 @@
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [Associated Press](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/) ┃ [Barron's](https://www.barrons.com/) ┃ [Terra](https://www.terra.como.br/)
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [Associated Press](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/) ┃ [Barron's](https://www.barrons.com/) ┃ [Terra](https://www.terra.como.br/) ┃ [EuroNews](https://es.euronews.com) ┃ [Veja](https://veja.abril.com.br/)
 
 ---
+
+- **Bloomberg**. [Chilean voters deliver a humiliating blow to President Gabriel Boric’s administration as right-wing parties secure a veto-proof majority on the Constitutional Council.]( https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 8 May, 2023.
+
+- **Euro News**. [La extrema derecha da el sorpaso en las segundas elecciones constituyentes.](https://es.euronews.com/2023/05/08/chile-la-extrema-derecha-da-el-sorpaso-en-las-segundas-elecciones-constituyentes) 8 May, 2023.
+
+- **Bloomberg**. [Chile’s Conservative Parties to Lead Constitution Rewrite After Massive Win in Snub to President Boric.](https://www.bloomberg.com/news/articles/2023-05-07/chile-election-of-council-to-rewrite-charter-set-to-mark-political-sea-change) 7 May, 2023.
+
+- **Veja**. [Petro vê governo se esfacelar em meio à sua inépcia para o diálogo.](https://veja.abril.com.br/mundo/petro-ve-governo-se-esfacelar-em-meio-a-sua-inepcia-para-o-dialogo/) 7 May, 2023.
 
 - **Bloomberg**. [Elecciones Consejo Constitucional 2023: los escenarios que se plantean en Chile.](https://www.bloomberglinea.com/latinoamerica/chile/elecciones-consejo-constitucional-2023-los-escenarios-que-se-plantean-en-chile/) 7 May, 2023.
 
