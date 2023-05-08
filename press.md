@@ -14,6 +14,8 @@
 
 ---
 
+- **El Diario AR**. [Años de vértigo: del Chile Despertó a una Constitución llave en mano para los herederos de Pinochet.](https://www.eldiarioar.com/opinion/anos-vertigo-chile-desperto-constitucion-llave-mano-herederos-pinochet_129_10186297.html) 8 May, 2023.
+
 - **Forbes**. [Elecciones constituyentes: estas son las claves del nuevo tablero político chileno.](https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/) 8 May, 2023.
 
 - **De Tijd**. [Chilenen boren president Boric progressieve grondwet door de neus.](https://www.tijd.be/politiek-economie/internationaal/latijns-amerika/chilenen-boren-president-boric-progressieve-grondwet-door-de-neus/10466252.html) 8 May, 2023.

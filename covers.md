@@ -23,7 +23,7 @@
 
 [![Las Últimas Noticias](/img/20210720%20-%20LUN.png){:height="32%" width="32%"}](/img/20210720%20-%20LUN.png)
 
-[![La Segunda](/img/20230504%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230504%20-%20La%20Segunda.png)
+[![La Segunda](/img/20230504%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230504%20-%20La%20Segunda.png) [![La Segunda](/img/20230508%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230508%20-%20La%20Segunda.png)
 
 [![La Segunda](/img/20230413%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230413%20-%20La%20Segunda.png) [![La Segunda](/img/20230410%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230410%20-%20La%20Segunda.png) [![La Segunda](/img/20230420%20-%20La%20Segunda.png){:height="32%" width="32%"}](/img/20230420%20-%20La%20Segunda.png)
 

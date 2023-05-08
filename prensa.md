@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Los desafíos de Kast ahora que es el "socio mayoritario" de la derecha.](https://digital.lasegunda.com/2023/05/08/A/QG49D3U1#zoom=page-width) 8 May, 2023.
+
 - **Ex-Ante**. [Kenneth Bunker: “La victoria de Kast va a tener repercusiones profundas”.](https://www.ex-ante.cl/kenneth-bunker-la-victoria-de-kast-va-a-tener-repercusiones-profundas/) 8 May, 2023.
 
 - **Emol**. [El mapa político tras la avalancha de la derecha: El "control" de Republicanos en el Consejo y el "jaque" del oficialismo.](https://www.emol.com/noticias/Nacional/2023/05/08/1094349/nuevo-escenario-politico-consejo-constitucional.html) 8 May, 2023.
