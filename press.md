@@ -16,7 +16,7 @@
 
 - **Forbes**. [Elecciones constituyentes: estas son las claves del nuevo tablero político chileno.](https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/) 8 May, 2023.
 
-https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/
+- **Yahoo Finance**. [Derecha chilena logra una gran victoria en duro golpe a Boric.](https://es-us.finanzas.yahoo.com/noticias/derecha-chilena-logra-victoria-duro-130247324.html) 8 May, 2023.
 
 - **Nouvelles du Monde**. [Virage au Chili : la gauche recule et l’extrême droite devient la première force politique.](https://www.nouvelles-du-monde.com/virage-au-chili-la-gauche-recule-et-lextreme-droite-devient-la-premiere-force-politique/) 8 May, 2023.
 
