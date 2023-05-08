@@ -10,15 +10,21 @@
 
 ---
 
-[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [Associated Press](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/) ┃ [Barron's](https://www.barrons.com/) ┃ [Terra](https://www.terra.como.br/) ┃ [EuroNews](https://es.euronews.com) ┃ [Veja](https://veja.abril.com.br/) ┃ [Forbes](https://forbes.com/)
+[The Wall Street Journal](https://wsj.com) ┃ [TIME](https://time.com) ┃ [The Economist](https://www.economist.com) ┃ [América Economía](https://americaeconomia.com)  ┃ [Le Monde](https://lemonde.com) ┃ [La Times](https://latimes.com) ┃ [Bloomberg](https://bloomberg.com) ┃ [The Guardian](https://guardian.com) ┃ [Les Echoes](https://lescchoes.com) ┃ [Washington Post](https://washingtonpost.com) ┃ [BBC](https://bbc.com) ┃ [Clarín](https://clarin.com) ┃ [El País](https://elpais.com) ┃ [O Globo](https://oglobo.com) ┃[Financial Times](https://www.ft.com) ┃ [France 24](https://france24.com) ┃ [Expansión](https://expansion.com.mx) ┃ [Associated Press](https://www.apnews.com) ┃ [Reuters](https://www.reuters.com) ┃ [Al Jazeera](https://aljazeera.com) ┃ [América Economía](https://americaeconomia.com) ┃ [CNN](https://cnn.com)  ┃ [Nasdaq](https://nasdaq.com) ┃ [Infobae](https://infobae.com) ┃ [La Nación](https://lanacion.com.ar) ┃ [Deutsche Welle](https://dw.com) ┃ [Financial Review](https://www.afr.com/) ┃ [Yahoo Finance](https://es.finance.yahoo.com/) ┃ [Barron's](https://www.barrons.com/) ┃ [Terra](https://www.terra.como.br/) ┃ [EuroNews](https://es.euronews.com) ┃ [Veja](https://veja.abril.com.br/) ┃ [Forbes](https://forbes.com/) ┃ [De Tijd](https://www.tijd.be/)
 
 ---
 
 - **Forbes**. [Elecciones constituyentes: estas son las claves del nuevo tablero político chileno.](https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/) 8 May, 2023.
 
+- **De Tijd**. [Chilenen boren president Boric progressieve grondwet door de neus.](https://www.tijd.be/politiek-economie/internationaal/latijns-amerika/chilenen-boren-president-boric-progressieve-grondwet-door-de-neus/10466252.html) 8 May, 2023.
+
 - **Yahoo Finance**. [Derecha chilena logra una gran victoria en duro golpe a Boric.](https://es-us.finanzas.yahoo.com/noticias/derecha-chilena-logra-victoria-duro-130247324.html) 8 May, 2023.
 
 - **Nouvelles du Monde**. [Virage au Chili : la gauche recule et l’extrême droite devient la première force politique.](https://www.nouvelles-du-monde.com/virage-au-chili-la-gauche-recule-et-lextreme-droite-devient-la-premiere-force-politique/) 8 May, 2023.
+
+- **Forbes**. [Chile: la derecha obtuvo 22 escaños en elecciones y liderará el proceso constituyente.](https://forbes.pe/actualidad/2023-05-08/chile-la-derecha-obtuvo-22-escanos-en-elecciones-y-liderara-el-proceso-constituyente/) 8 May, 2023.
+
+- **Yahoo Finance**. [Chile’s Conservative Parties to Lead Constitution Rewrite After Massive Win in Snub to President Boric.](https://finance.yahoo.com/news/chile-conservative-parties-lead-constitution-112255657.html) 8 May, 2023.
 
 - **Il Giornale**. [Cile, la destra vince le elezioni per la costituente: altro flop per il presidente Boric.](https://ilgiornale.it/news/politica-estera/elezioni-cile-lascesa-dellultra-conservatore-kast-2146756.html) 8 May, 2023.
 
