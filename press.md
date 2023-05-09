@@ -22,6 +22,7 @@
 
 - **Forbes**. [Elecciones constituyentes: estas son las claves del nuevo tablero político chileno.](https://forbes.cl/actualidad/2023-05-08/elecciones-constituyentes-estas-son-las-claves-del-nuevo-tablero-politico-chileno/) 8 May, 2023.
 
+- **Bloomberg**. [¿Quiénes escribirán la nueva constitución de Chile? Esto es lo que sigue.](https://expansion.mx/mundo/2023/05/08/ultraderecha-escribira-la-nueva-constitucion-de-chile) 8 May, 2023.
 
 - **Bloomberg**. [Derecha chilena logra una gran victoria en duro golpe a Boric.](https://www.bloomberg.com/news/articles/2023-05-08/derecha-chilena-logra-una-gran-victoria-en-duro-golpe-a-boric#xj4y7vzkg) 8 May, 2023.
 
