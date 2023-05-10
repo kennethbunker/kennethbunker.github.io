@@ -15,6 +15,11 @@
 
 [*Las Últimas Noticias*](https://www.lun.com)
 
+- 20230509 - Retribución moral
+- 20230508 - Victoria histórica
+- 20230506 - Legitimas dudas
+- 20230429 - La cultura de la funa
+- 20230422 - Soluciones a cuentagotas
 - 20230420 - Nuevo rumbo
 - 20230414 - Símbolo de retroceso
 - 20230407 - Fracaso absoluto
@@ -207,7 +212,7 @@
 - 20200320 - El parto constitucional
 - 20200307 - La mayoría silenciosa
 - 20200303 - Presunción de inocencia
-- 20200229 - Cubillos
+- 20200229 - El gabinete
 - 20200126 - La sombra de Frei
 - 20200124 - Impuesto Millennial
 - 20191216 - El poder real de los alcaldes
@@ -247,7 +252,7 @@
 - 20180509 - Los errores de Abbott
 - 20180507 - El makeover de Moreno
 - 20180504 - Una maquina aceitada
-- 20180503 - La derecha civilizada contra la derecha cavernaria
+- 20180503 - La derecha civilizada
 - 20180427 - Por qué a Piñera le interesa Macri y viceversa
 - 20180422 - Los primeros autogoles del gobierno
 - 20180420 - La súper torpeza
@@ -275,7 +280,10 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
-- 20230419 - El encontrón de Boric
+- 20230505 - 7M: Una elección sobre cualquier otra cosa que lo constitucional
+- 20230428 - Un gobierno moderado en la teoría
+- 20230421 - El presidente de los empresarios
+- 20230419 - Un error básico e innecesario
 - 20230415 - Punto muerto entre realistas e idealistas: el dilema de la tercera vía de Apruebo Dignidad
 - 20230411 - Cuatro medidas contra la fragmentación partidaria (+ Arturo Fontaine)
 - 20230331 - El fin de la revolución
