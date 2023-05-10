@@ -15,6 +15,10 @@
 
 ---
 
+- **La Segunda**. [Luis Silva, Karen Araya, Yerko Ljubetic y Gloria Hutt se perfilan como los consejeros más influyentes.](https://digital.lasegunda.com/2023/05/09/A/RP49EHNB#zoom=page-width) 9 May, 2023.
+
+- **El Desconcierto**. [Esquirlas del fracaso electoral de RN: Peligra continuidad de Chahuán y Schalper.](https://digital.lasegunda.com/2023/05/08/A/QG49D3U1#zoom=page-width) 8 May, 2023.
+
 - **La Segunda**. [Los desafíos de Kast ahora que es el "socio mayoritario" de la derecha.](https://digital.lasegunda.com/2023/05/08/A/QG49D3U1#zoom=page-width) 8 May, 2023.
 
 - **Ex-Ante**. [Kenneth Bunker: “La victoria de Kast va a tener repercusiones profundas”.](https://www.ex-ante.cl/kenneth-bunker-la-victoria-de-kast-va-a-tener-repercusiones-profundas/) 8 May, 2023.

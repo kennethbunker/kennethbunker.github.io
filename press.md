@@ -16,6 +16,8 @@
 
 - **ABC News**. [Chile: Conservatives will now control Constitution rewrite.](https://abcnews.go.com/International/wireStory/chile-conservatives-now-control-constitution-rewrite-99184029) 9 May, 2023.
 
+- **El País**. [Impulso de la derecha y duro golpe para la izquierda en Chile.](https://www.elpais.com.uy/mundo/impulso-de-la-derecha-y-duro-golpe-para-la-izquierda-en-chile) 9 May, 2023.
+
 - **Deutsche Welle**. [Chile: los dilemas que abre el triunfo de la ultraderecha.](https://www.dw.com/es/chile-los-dilemas-que-abre-el-triunfo-de-la-ultraderecha/a-65555874) 8 May, 2023.
 
 - **El Diario AR**. [Años de vértigo: del Chile Despertó a una Constitución llave en mano para los herederos de Pinochet.](https://www.eldiarioar.com/opinion/anos-vertigo-chile-desperto-constitucion-llave-mano-herederos-pinochet_129_10186297.html) 8 May, 2023.
