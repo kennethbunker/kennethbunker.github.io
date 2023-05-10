@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [Le sirve realmente a Boric meter a la DC a La Moneda.](https://digital.lasegunda.com/2023/05/10/A/T849EVE0#zoom=page-width) 10 May, 2023.
+
 - **La Segunda**. [Luis Silva, Karen Araya, Yerko Ljubetic y Gloria Hutt se perfilan como los consejeros más influyentes.](https://digital.lasegunda.com/2023/05/09/A/RP49EHNB#zoom=page-width) 9 May, 2023.
 
 - **El Desconcierto**. [Esquirlas del fracaso electoral de RN: Peligra continuidad de Chahuán y Schalper.](https://digital.lasegunda.com/2023/05/08/A/QG49D3U1#zoom=page-width) 8 May, 2023.
