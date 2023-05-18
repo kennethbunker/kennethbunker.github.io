@@ -1,4 +1,5 @@
-[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [Web of Science](https://www.webofscience.com/wos/author/record/R-4439-2018) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Anid](https://investigadores.anid.cl/es/public_search/researcher?id=8287) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [Interviews/Entrevistas](https://kennethbunker.github.io/interviews) ┃  ┃ [LinkedIn](https://cl.linkedin.com/in/kennethbunker) ┃ [On the Front Page](https://kennethbunker.github.io/covers) ┃ [Tresquintos](https://tresquintos.cl) ┃ [Cuatroseptimos](https://twitter.com/cuatroseptimos) ┃ [Politico Tech Global](https://politicotechglobal.com) ┃ [E-mail](mailto:kabunker@gmail.com)
+[Home](https://kennethbunker.github.io/) ┃ [Academia](https://www.researchgate.net/profile/Kenneth-Bunker) ┃  [Publons](https://publons.com/researcher/1861400/kenneth-bunker/) ┃ [Google Scholar](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) ┃ [ResearchGate](https://www.researchgate.net/profile/Kenneth-Bunker) ┃ [CV](https://www.dropbox.com/s/e1hjycqkmixr5x5/CV_Kenneth_Bunker.pdf?dl=0) ┃ [Orcid](https://orcid.org/0000-0002-4579-6132) ┃ [Web of Science](https://www.webofscience.com/wos/author/record/R-4439-2018) ┃ [Twitter](https://twitter.com/kennethbunker) ┃ [Anid](https://investigadores.anid.cl/es/public_search/researcher?id=8287) ┃ [Columns](https://kennethbunker.github.io/columns) ┃ [Press (Global)](https://kennethbunker.github.io/press) ┃ [Prensa (Chile)](https://kennethbunker.github.io/prensa) ┃ [Interviews/Entrevistas](https://kennethbunker.github.io/interviews) ┃ [LinkedIn](https://cl.linkedin.com/in/kennethbunker) ┃ [On the Front Page](https://kennethbunker.github.io/covers) ┃ [Tresquintos](https://tresquintos.cl) ┃ [Cuatroseptimos](https://twitter.com/cuatroseptimos) ┃ [Politico Tech Global](https://politicotechglobal.com) ┃ [E-mail](mailto:kabunker@gmail.com)
+
 
 ---
 
@@ -46,31 +47,19 @@
 
 - **Duna**. [Kenneth Bunker: La explicación al método D’Hondt.](https://www.duna.cl/programa/nada-personal/2021/05/12/kenneth-bunker-la-explicacion-al-metodo-dhondt/) 12 May, 2021.
 
+- **Concierto**. [Kenneth Bunker: "Pamela Jiles tiene rasgos populistas, y es por eso que es tan peligrosa para la democracia".](https://www.concierto.cl/2021/04/kenneth-bunker-pamela-jiles-tiene-rasgos-populistas-y-es-por-eso-que-es-tan-peligrosa-para-la-democracia/) 30 April, 2021.
 
+- **Rock and Pop**. [Kenneth Bunker: «Mucha gente no creía que el fenómeno de Pamela Jiles era real».](https://www.rockandpop.cl/2021/04/kenneth-bunker-mucha-gente-no-creia-que-el-fenomeno-de-pamela-jiles-era-real/) 30 April, 2021.
 
+- **El Líbero**. [Kenneth Bunker: “RD está prácticamente varado y sin el capitán Jackson en el timón, es un barco a la deriva”.](https://ellibero.cl/actualidad/kenneth-bunker-rd-esta-practicamente-varado-y-sin-el-capitan-jackson-en-el-timon-es-un-barco-a-la-deriva/) 19 february, 2021.
 
+- **Duna**. [Kenneth Bunker:" esta elección se va a definir con 200 mil o 100 mil votos, entonces puede ir para cualquier lado.](http://www.duna.cl/podcasts/kenneth-bunker-esta-eleccion-se-va-a-definir-con-200-mil-o-100-mil-votos-entonces-puede-ir-para-cualquier-lado/) 30 November, 2017.
 
+- **Cooperativa**. [Kenneth Bunker: Piñera está en un piso de 43 por ciento, pase lo que pase.](https://www.cooperativa.cl/noticias/pais/politica/presidenciales/kenneth-bunker-pinera-esta-en-un-piso-de-43-por-ciento-pase-lo-que-pase/2017-11-17/084246.html) 17 November, 2017.
 
+- **Radio U de Chile**. [Kenneth Bunker: “Piñera no obtendría Mayoría en el Congreso para hacer grandes cambios”.](Radio en vivo) 7 November, 2017.
 
+- **La Segunda**. [Kenneth Bunker: "Escalona es la mejor esperanza del PS".](http://www.litoralpress.cl/paginaconsultas/gestor_de_documentos/generador.aspx?Key_Data=CZrT5r+4BYCeybdEQSQ2Hqk2lJxuPc0hYx3kOY5HlFGsEsfI4hQxss2B+0SNpSdRtAlT/0e6wHp0fJV2YbCvFvHynCBCxaFPrjGpGx90PTuDYwiA7s171WD6w27UsmsU) 16 October, 2017.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **El Muro**. [Kenneth Bunker: “Los votantes de Piñera son de Piñera, no son votantes de derecha”.](http://elmuro.cl/kenneth-bunker-los-votantes-de-pinera-son-de-pinera-no-son-votantes/elmuro/2017-10-03/131915.html) 3 October, 2017.
 
