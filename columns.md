@@ -280,6 +280,7 @@
 
 [*Ex-Ante*](https://www.ex-ante.cl)
 
+- 20230519 - El colapso de las Isapres
 - 20230512 - La Constitución de Kast o la Constitución de Pinochet
 - 20230505 - 7M: Una elección sobre cualquier otra cosa que lo constitucional
 - 20230428 - Un gobierno moderado en la teoría
