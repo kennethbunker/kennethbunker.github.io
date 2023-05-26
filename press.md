@@ -15,6 +15,9 @@
 
 ---
 
+- **The Washington Post**. [Chile: Conservatives will now control Constitution rewrite.](https://www.elpais.com.uy/mundo/impulso-de-la-derecha-y-duro-golpe-para-la-izquierda-en-chile) 9 May, 2023.
+
+https://www.washingtonpost.com/world/2023/05/08/chile-constitution-kast-boric/2be557b2-ee02-11ed-b67d-a219ec5dfd30_story.html
 - **ABC News**. [Chile: Conservatives will now control Constitution rewrite.](https://abcnews.go.com/International/wireStory/chile-conservatives-now-control-constitution-rewrite-99184029) 9 May, 2023.
 
 - **El País**. [Impulso de la derecha y duro golpe para la izquierda en Chile.](https://www.elpais.com.uy/mundo/impulso-de-la-derecha-y-duro-golpe-para-la-izquierda-en-chile) 9 May, 2023.
