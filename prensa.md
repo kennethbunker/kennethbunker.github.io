@@ -15,6 +15,8 @@
 
 ---
 
+- **La Segunda**. [JAK, Hutt y Vodanovic: Los políticos que han ganado más liderazgo.](https://digital.lasegunda.com/2023/05/26/A/CV49CI9F#zoom=page-width) 26 May, 2023.
+
 - **Emol**. [¿Dos estrategias o dos almas en el Partido Republicano?: El revuelo generado por los dichos de Luis Silva.](https://www.emol.com/noticias/Nacional/2023/05/15/1095058/dichos-de-silva-kast.html) 15 May, 2023.
 
 - **La Segunda**. [Le sirve realmente a Boric meter a la DC a La Moneda.](https://digital.lasegunda.com/2023/05/10/A/T849EVE0#zoom=page-width) 10 May, 2023.
