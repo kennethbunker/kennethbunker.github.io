@@ -31,6 +31,8 @@
 
 - **Bloomberg**. [Derecha chilena logra una gran victoria en duro golpe a Boric.](https://www.bloomberg.com/news/articles/2023-05-08/derecha-chilena-logra-una-gran-victoria-en-duro-golpe-a-boric#xj4y7vzkg) 8 May, 2023.
 
+- **Deutsche Welle**. [Vitória da direita no Chile move pêndulo na América Latina.](https://www.dw.com/pt-br/vit%C3%B3ria-da-direita-no-chile-move-p%C3%AAndulo-na-am%C3%A9rica-latina/a-65556532) 8 May, 2023.
+
 - **De Tijd**. [Chilenen boren president Boric progressieve grondwet door de neus.](https://www.tijd.be/politiek-economie/internationaal/latijns-amerika/chilenen-boren-president-boric-progressieve-grondwet-door-de-neus/10466252.html) 8 May, 2023.
 
 - **Yahoo Finance**. [Derecha chilena logra una gran victoria en duro golpe a Boric.](https://es-us.finanzas.yahoo.com/noticias/derecha-chilena-logra-victoria-duro-130247324.html) 8 May, 2023.
