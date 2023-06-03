@@ -11,6 +11,9 @@
 
 ---
 
+- **Ex-Ante**. [Kenneth Bunker y discurso del Presidente: “El optimismo de Boric contrasta con un país que está en crisis”.](https://www.ex-ante.cl/kenneth-bunker-y-discurso-del-presidente-el-optimismo-de-boric-contrasta-con-un-pais-que-esta-en-crisis/
+) 1 June, 2023.
+
 - **Ex-Ante**. [Kenneth Bunker: “La victoria de Kast va a tener repercusiones profundas”.](https://www.ex-ante.cl/kenneth-bunker-la-victoria-de-kast-va-a-tener-repercusiones-profundas/) 8 May, 2023.
 
 - **Ex-Ante**. [Kenneth Bunker: “Creo que no hay una sola persona que está tomando decisiones en el gobierno”.](https://www.ex-ante.cl/kenneth-bunker-creo-que-no-hay-una-sola-persona-que-esta-tomando-decisiones-en-el-gobierno/) 11 April, 2023.
