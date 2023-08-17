@@ -32,6 +32,34 @@
 }
  </style>     
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 <head>
 <meta property="og:title" content="Kenneth Bunker" />
 <meta property="og:image" content="https://kennethbunker.github.io/me1.png" />
@@ -47,7 +75,9 @@
           
           Kenneth Bunker
         </a>
-        <div class="navbar-nav flex-row flex-wrap justify-content-center"> 
+        <div class="row">
+    <div class="column left" style="background-color:#aaa;">
+    <div class="navbar-nav flex-row flex-wrap justify-content-center"> 
                     <a class="nav-item nav-link" href="https://kennethbunker.github.io/">
                         About
                     </a>           
@@ -143,14 +173,19 @@
 <p>You can reach me via e-mail at: <a href="mailto:kbunker@politicotechglobal.com">kbunker@politicotechglobal.com</a></p>
 
 </div>
-
+  </div>
+  
         </div><div id="footer" class="mb-5">
     
         <hr>
         <div class="container text-center">
             <a href="https://twitter.com/kennethbunker"><small>2023</small></a>
         </div>
-    
+   <div class="column right" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>   
 </div>
 </body>
 </html>
