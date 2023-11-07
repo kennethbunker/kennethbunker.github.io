@@ -25,29 +25,6 @@
 
     <link rel="alternate" type="application/rss+xml" href="https://kennethbunker.github.io/index.xml" title="Kenneth Bunker" />
 
-<style>    
- body {
-  margin: 40px;
-}
-
- p.shifted {
-    margin-left: 30px;
-}
-
-.column {
-  float: left;
-  width: 100%;
-  height: 100%;
-  overflow-y: scroll;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
- </style>  
 
 
 
@@ -58,7 +35,25 @@
   height: 100vh;
 }
 
+/*Set up the columns with a 100% height, body color and overflow scroll*/
 
+.left{
+  background-color: red;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.right{
+  background-color: blue;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.mid{
+  background-color: green;
+  height: 100%;
+  overflow-y: scroll;
+}
 
 /*Remove the scrollbar from Chrome, Safari, Edge and IE*/
 ::-webkit-scrollbar {
@@ -120,7 +115,8 @@
 <div class="row">
   <div class="column">
   <div class="container">
-        <div class = "row row-height">
+    <div class = "container-fluid">
+      <div class = "row row-height">
         <div class = "col-md-4 left">
 
 <h2 id="about-me">Hello world!</h2>
