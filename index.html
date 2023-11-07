@@ -31,18 +31,12 @@
     margin-left: 30px;
 }
 
-
-
-.column {
-  float: left;
-  width: 30%;
+.row {
+  display: flex;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.column {
+  flex: 50%;
 }
  </style>  
 
@@ -159,15 +153,15 @@
 
 
 <hr>
-
-<h2 id="contact">Contact</h2>
-<p>You can reach me via e-mail at: <a href="mailto:kbunker@politicotechglobal.com">kbunker@politicotechglobal.com</a></p>
-
 </div>
 </div>
+
+
+
+
   <div class="column">
-<div id="content">
-<div class="container">
+    <div id="content">
+    <div class="container">
 
 <h2 id="en-la-prensa">En la prensa</h2>
 <hr>
