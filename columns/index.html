@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html><head>
+<html>
+<head>
  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHPPDNKH57"></script>
 <script>
@@ -23,6 +24,35 @@
     
     <link rel="stylesheet" href="https://kennethbunker.github.io/sass/researcher.min.css">
 
+<style>    
+ body {
+  margin: 40px;
+}
+
+ p.shifted {
+    margin-left: 30px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  overflow: scroll;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+ </style>  
 </head>
 
     <body><div class="container mt-5">
@@ -60,12 +90,14 @@
 </div>
 <hr>
 <div id="content">
-<div class="container">
+        <div class="container">
 
 <h2 id="columns">Columns</h2>
 <hr>
 <p><em>Below are some of my columns published in <a href="https://en.wikipedia.org/wiki/Las_%C3%9Altimas_Noticias">Las Últimas Noticias</a>, <a href="https://www.ex-ante.cl/">Ex-Ante</a>, <a href="https://es.wikipedia.org/wiki/Teletrece">T13</a>, and <a href="https://en.wikipedia.org/wiki/La_Tercera">La Tercera</a>. For a collection of my comments in the international press, click <a href="https://kennethbunker.github.io/press">here</a>. For a collection of my comments in the Chilean press, click <a href="https://kennethbunker.github.io/prensa">here</a>. To see some of my printed press front page appearances, click <a href="https://kennethbunker.github.io/covers">here</a>.</em></p>
 <hr>
+
+    <div class="column">
 
 <a href="https://www.lun.com">Las Últimas Noticias</a> / <a href="https://www.ex-ante.cl">Ex-Ante</a> / <a href="https://www.latercera.cl">La Tercera</a> / <a href="https://t13.cl">T13</a>  / <a href="https://elmostrador.cl">El Mostrador</a>
 
@@ -355,6 +387,7 @@
 <li>20180106 - El éxodo de Mariana</li>
 <li>20180102 - Los tres gabinetes de Piñera</li>
 </ul>
+    </div>
 
 
 <h2 id="ex-ante">Ex-Ante</h2>
