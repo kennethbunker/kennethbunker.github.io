@@ -28,6 +28,20 @@
 display:flex;
 gap: 5px;
 }       
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>  
 
 </head>
@@ -75,6 +89,8 @@ gap: 5px;
 <p><em>For a collection of my comments in the international press, click <a href="https://kennethbunker.github.io/press">here</a>. For a collection of my comments in the Chilean press, click <a href="https://kennethbunker.github.io/prensa">here</a>.</em></p>
 <hr>
 
+
+
 <h3 id="on-the-front-page">Las Últimas Noticias</h3>
 
 <div class="parent">
@@ -106,6 +122,8 @@ gap: 5px;
     <img src="/img/20231110%20-%20LUN.png">
 </div>
 </div>
+
+
 
 <h3 id="on-the-front-page">Regional</h3>
 
@@ -147,19 +165,33 @@ gap: 5px;
 </div>
 
 
+
+
 <h3 id="on-the-front-page">La Segunda</h3>
 
 
-<div class="parent">
-<div>
-    <img src="/img/20231017%20-%20La%20Segunda.png"> 
-  </div>
-  <div>
-    <img src="/img/20230504%20-%20La%20Segunda.png"> 
-  </div>
-  <div>
-    <img src="/img/20231013%20-%20La%20Segunda.jpg">
+<div class="row">
+    <div class="column">
+        <img src="/img/20231017%20-%20La%20Segunda.png" style="width:100%"> 
+    </div>
+    <div>
+        <img src="/img/20230504%20-%20La%20Segunda.png" style="width:100%"> 
+    </div>
+    <div>
+        <img src="/img/20231013%20-%20La%20Segunda.jpg" style="width:100%">
+    </div>
 </div>
+
+<div class="parent">
+    <div>
+        <img src="/img/20231017%20-%20La%20Segunda.png"> 
+    </div>
+    <div>
+        <img src="/img/20230504%20-%20La%20Segunda.png"> 
+    </div>
+    <div>
+        <img src="/img/20231013%20-%20La%20Segunda.jpg">
+    </div>
 </div>
 
 <div class="parent">
