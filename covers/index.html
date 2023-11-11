@@ -29,40 +29,6 @@ display:flex;
 gap: 5px;
 }       
 
-.containerkb > img {
-  height: 100%;
-  width: auto;
-}
-.containerkb {
-  height: 160px;
-  display: flex;
-  justify-content: center;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.flex-container {
-    flex-flow: row;
-    justify-content: space-between;
-    align-items: flex-start; /* should align items to the top of your flex row if they don't reach 100px in height */
-}
-.inner-image {
-    max-width: 100px;
-}
-.inner-image.portrait {
-    height: 200px;
-    width: 33%;
-}
-.inner-image.landscape {
-    height: 100px;
-    width: 200px;
-}
-
 </style>  
 
 </head>
@@ -189,37 +155,6 @@ gap: 5px;
 
 
 <h3 id="on-the-front-page">La Segunda</h3>
-
-<div class="flex-container">
-        <img src="/img/20231017%20-%20La%20Segunda.png" class="inner-image"> 
-        <img src="/img/20230504%20-%20La%20Segunda.png" class="inner-image"> 
-        <img src="/img/20231013%20-%20La%20Segunda.jpg" class="inner-image">
-</div>
-
-
-<div class="row">
-    <div class="containerkb">
-        <img src="/img/20231017%20-%20La%20Segunda.png" style="width:100%"> 
-    </div>
-    <div class="containerkb">
-        <img src="/img/20230504%20-%20La%20Segunda.png" style="width:100%"> 
-    </div>
-    <div class="containerkb">
-        <img src="/img/20231013%20-%20La%20Segunda.jpg" style="width:100%">
-    </div>
-</div>
-
-<div class="parent">
-    <div>
-        <img src="/img/20231017%20-%20La%20Segunda.png"> 
-    </div>
-    <div>
-        <img src="/img/20230504%20-%20La%20Segunda.png"> 
-    </div>
-    <div>
-        <img src="/img/20231013%20-%20La%20Segunda.jpg">
-    </div>
-</div>
 
 <div class="parent">
 <div>
