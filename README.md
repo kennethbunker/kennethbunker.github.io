@@ -1,2 +1,8 @@
-# kennethbunker.github.io
-personal website
+# Hello world!
+
+This is my blog
+
+
+## these are my links
+
+LabDemGob
