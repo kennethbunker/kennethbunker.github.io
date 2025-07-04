@@ -116,8 +116,8 @@
 
 <style>
   .book-box {
-    max-width: 300px;
-    margin: 40px auto;
+    width: 100%; /* take full width of column */
+    margin: 20px 0;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 12px;
@@ -125,6 +125,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-sizing: border-box;
   }
 
   .book-box:hover {
@@ -132,6 +133,7 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   }
 </style>
+
 
     <body>
 
