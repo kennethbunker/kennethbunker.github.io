@@ -175,18 +175,37 @@
 
 <style>
 
-.look-inside-arrow {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  background: rgba(255, 255, 255, 0.85);
-  color: #0077cc;
-  font-size: 12px;
+.book-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.button {
+  padding: 8px 16px;
+  text-decoration: none;
   font-weight: bold;
-  padding: 2px 6px;
   border-radius: 4px;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
-  pointer-events: none; /* so it doesn't interfere with clicks on the image */
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+.preorder-button {
+  background-color: #0077cc;
+  color: white;
+}
+
+.preorder-button:hover {
+  background-color: #005fa3;
+}
+
+.lookinside-button {
+  background-color: #e6e6e6;
+  color: #0077cc;
+}
+
+.lookinside-button:hover {
+  background-color: #cccccc;
 }
 
 </style>
@@ -254,17 +273,19 @@
   </p>
 </div>
 
-<div class="book-box" style="position: relative; display: inline-block;">
+<div class="book-box" style="text-align: center;">
   <p style="margin: 0;">
     <strong>Chile's Transformation Amidst Crisis:<br>
     The Theseus Paradox</strong><br><br>
 
     <a href="https://kennethbunker.github.io/theseus/" target="_blank" style="position: relative; display: inline-block;">
       <img src="../img/book1.png" alt="Book Image" width="170" height="170" style="border: none;">
-      <span class="look-inside-arrow">Look Inside ➤</span>
     </a><br><br>
 
-    NEW BOOK – <a href="https://www.dpbolvw.net/click-101446916-12898971?url=https%3A%2F%2Flink.springer.com%2Fbook%2F9783031964626" style="text-decoration: none; font-weight: bold; color: #0077cc;">PRE-ORDER</a> – AUGUST 2025
+    <div class="book-buttons">
+      <a href="https://www.dpbolvw.net/click-101446916-12898971?url=https%3A%2F%2Flink.springer.com%2Fbook%2F9783031964626" class="button preorder-button" target="_blank">Pre-Order</a>
+      <a href="https://kennethbunker.github.io/theseus/" class="button lookinside-button" target="_blank">Look Inside ➤</a>
+    </div>
   </p>
 </div>
 
