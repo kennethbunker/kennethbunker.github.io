@@ -52,21 +52,19 @@
       text-align: center;
       box-sizing: border-box;
     }
-    .section-title { font-style: italic; }
-    .inner {
-      text-align: left;
-      max-width: 600px;
-      margin: 0 auto;
-    }
+    /* Only titles & subtitles in bold */
+    .section-title { font-weight: 700; }
+    .subhead { font-weight: 700; font-size: 0.95rem; margin: 1.1rem 0 .45rem; text-transform: uppercase; letter-spacing: .02em; }
+
+    .inner { text-align: left; max-width: 600px; margin: 0 auto; }
 
     /* Lists / rows */
-    .subhead { font-weight: 700; font-size: 0.95rem; margin: 1.1rem 0 .45rem; text-transform: uppercase; letter-spacing: .02em; }
     .file-list { list-style: none; padding-left: 0; margin-bottom: 0; }
     .file-list li { padding: .5rem 0; }
     .file-list li + li { border-top: 1px dashed #ddd; }
 
     .item-row { display: flex; align-items: baseline; flex-wrap: wrap; gap: .25rem .5rem; }
-    .file-title { font-weight: 700; }
+    .file-title { font-weight: 400; } /* regular text for items */
     .file-meta { font-size: 12px; color: #666; margin-left: .25rem; }
     .muted { color: #6c757d; }
 
@@ -169,23 +167,23 @@
     <div class="subhead">Literature</div>
     <ul class="file-list">
       <li class="item-row">
-        <span class="file-title">Valenzuela, A. (1978). <em>The Breakdown of Democratic Regimes: Chile</em>. Johns Hopkins.</span>
+        <span class="file-title">Valenzuela, A. (1978). <em>The Breakdown of Democratic Regimes: Chile</em>. Baltimore, MD: Johns Hopkins University Press.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Bravo Lira, B. (1986). <em>Régimen de gobierno y partidos políticos en Chile, 1924–1973</em>. Jurídica.</span>
+        <span class="file-title">Bravo Lira, B. (1986). <em>Régimen de gobierno y partidos políticos en Chile, 1924–1973</em>. Santiago: Jurídica.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Huneeus, C. (2014). <em>La democracia semisoberana: Chile después de Pinochet</em>. Taurus.</span>
+        <span class="file-title">Huneeus, C. (2014). <em>La democracia semisoberana: Chile después de Pinochet</em>. Santiago: Taurus.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Cavallo, A.; Sepúlveda, O.; Salazar, M. (1988). <em>La historia oculta del régimen militar</em>. Uqbar.</span>
+        <span class="file-title">Cavallo, A.; Sepúlveda, O.; Salazar, M. (1988). <em>La historia oculta del régimen militar: Chile 1973–1988</em>. Santiago: Uqbar Editores.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Fuentes, C. (2013). <em>El fraude: Crónica sobre el plebiscito de 1980</em>. Hueders.</span>
+        <span class="file-title">Fuentes, C. (2013). <em>El fraude: Crónica sobre el plebiscito de la Constitución de 1980</em>. Santiago: Hueders.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
@@ -197,11 +195,11 @@
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Alemán, E.; Saiegh, S. M. (2007). Legislative preferences… <em>Comparative Politics</em>, 39(3), 253–272.</span>
+        <span class="file-title">Alemán, E.; Saiegh, S. M. (2007). Legislative preferences, political parties, and coalition unity in Chile. <em>Comparative Politics</em>, 39(3), 253–272.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Fontaine, A.; Larroulet, C.; Navarrete, J.; Walker, I. (Eds.). (2009). <em>Reforma al sistema electoral chileno</em>. PNUD/CEP/LyD/ProyectAmérica/Cieplan.</span>
+        <span class="file-title">Fontaine, A.; Larroulet, C.; Navarrete, J.; Walker, I. (Eds.). (2009). <em>Reforma al sistema electoral chileno</em>. Santiago: PNUD; CEP; Libertad y Desarrollo; ProyectAmérica; Cieplan.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
@@ -209,19 +207,19 @@
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Huneeus, C. (Ed.). (2006). <em>La reforma al sistema binominal en Chile</em>. Catalonia.</span>
+        <span class="file-title">Huneeus, C. (Ed.). (2006). <em>La reforma al sistema binominal en Chile: Propuestas para el debate</em>. Santiago: Catalonia.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Magar, E.; Rosenblum, M. R.; Samuels, D. (1998). On the absence of centripetal incentives… <em>Comparative Political Studies</em>, 31(6), 714–739.</span>
+        <span class="file-title">Magar, E.; Rosenblum, M. R.; Samuels, D. (1998). On the absence of centripetal incentives in double-member districts: The case of Chile. <em>Comparative Political Studies</em>, 31(6), 714–739.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Nohlen, D. (2006). La reforma del sistema binominal… <em>Revista de Ciencia Política</em>, 26(1), 191–202.</span>
+        <span class="file-title">Nohlen, D. (2006). La reforma del sistema binominal desde una perspectiva comparada. <em>Revista de Ciencia Política</em>, 26(1), 191–202.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Valenzuela, J. S. (2005). ¿Hay que eliminar el sistema binominal? <em>Política</em>, 45, 53–66.</span>
+        <span class="file-title">Valenzuela, J. S. (2005). ¿Hay que eliminar el sistema binominal? Una propuesta alternativa. <em>Política</em>, 45, 53–66.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
     </ul>
@@ -252,51 +250,51 @@
     <div class="subhead">Literature</div>
     <ul class="file-list">
       <li class="item-row">
-        <span class="file-title">Williamson, J. (1990). What Washington Means by Policy Reform.</span>
+        <span class="file-title">Williamson, J. (1990). What Washington Means by Policy Reform. In J. Williamson (Ed.), <em>Latin American Adjustment: How Much Has Happened?</em> Washington, DC: Institute for International Economics, 5–20.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Williamson, J. (1993). Democracy and the “Washington Consensus.”</span>
+        <span class="file-title">Williamson, J. (1993). Democracy and the “Washington Consensus.” <em>World Development</em>, 21(8), 1329–1336.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Harvey, D. (2005). <em>A Brief History of Neoliberalism</em>.</span>
+        <span class="file-title">Harvey, D. (2005). <em>A Brief History of Neoliberalism</em>. Oxford: Oxford University Press.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Brown, W. (2015). <em>Undoing the Demos</em>.</span>
+        <span class="file-title">Brown, W. (2015). <em>Undoing the Demos: Neoliberalism’s Stealth Revolution</em>. New York: Zone Books.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Foucault, M. (2010). <em>The Birth of Biopolitics</em>.</span>
+        <span class="file-title">Foucault, M. (2010). <em>The Birth of Biopolitics: Lectures at the Collège de France, 1978–1979</em>. New York: Picador.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Springer, S.; Birch, K.; MacLeavy, J. (Eds.). (2016). <em>The Handbook of Neoliberalism</em>.</span>
+        <span class="file-title">Springer, S.; Birch, K.; MacLeavy, J. (Eds.). (2016). <em>The Handbook of Neoliberalism</em>. New York: Routledge.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Edwards, S. (2024). <em>The Chile Project</em>.</span>
+        <span class="file-title">Edwards, S. (2024). <em>The Chile Project: The Story of the Chicago Boys and the Downfall of Neoliberalism</em>. Princeton, NJ: Princeton University Press.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Joignant, A.; Somma, N. (2022). <em>Social Protest and Conflict in Radical Neoliberalism</em>.</span>
+        <span class="file-title">Joignant, A.; Somma, N. (2022). <em>Social Protest and Conflict in Radical Neoliberalism: Chile, 2008–2020</em>. Cham: Palgrave Macmillan.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Silva, P. (2008). <em>In the Name of Reason</em>.</span>
+        <span class="file-title">Silva, P. (2008). <em>In the Name of Reason: Technocrats and Politics in Chile</em>. University Park, PA: Pennsylvania State University Press.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Gayo, M.; Méndez, M. L. (2023). <em>The Politics of the Elite</em>.</span>
+        <span class="file-title">Gayo, M.; Méndez, M. L. (2023). <em>The Politics of the Elite</em>. New York: Routledge.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Piñera, J. (1991). <em>El cascabel al gato</em>.</span>
+        <span class="file-title">Piñera, J. (1991). <em>El cascabel al gato</em>. Santiago: Zig-Zag.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Mesa-Lago, C.; Bertranou, F. (2016). Pension reforms in Chile… <em>Int. Social Security Review</em>, 69(1), 25–45.</span>
+        <span class="file-title">Mesa-Lago, C.; Bertranou, F. (2016). Pension reforms in Chile and social security principles, 1981–2015. <em>International Social Security Review</em>, 69(1), 25–45.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
@@ -304,7 +302,7 @@
         <a class="tiny-link" href="#">GO</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Cox, C.; Lemaitre, M. J. (1999). Market and state principles… In <em>Chile: Recent Policy Lessons and Emerging Challenges</em>. World Bank.</span>
+        <span class="file-title">Cox, C.; Lemaitre, M. J. (1999). Market and state principles of reform in Chilean education: policies and results. In G. Perry & D. M. Leipziger (Eds.), <em>Chile: Recent Policy Lessons and Emerging Challenges</em>. Washington, DC: World Bank Publications, 149–188.</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
     </ul>
@@ -312,15 +310,15 @@
     <div class="subhead">References</div>
     <ul class="file-list">
       <li class="item-row">
-        <span class="file-title">Mellado, B. (2022). ¿Fin del neoliberalismo?… Emol. Nov 25.</span>
+        <span class="file-title">Mellado, B. (2022). ¿Fin del neoliberalismo? Expertos aseguran… <em>Emol</em>. Nov 25.</span>
         <a class="ref-link" href="https://www.emol.com/noticias/Economia/2022/11/25/1079324/neoliberalismo.html/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Román, C.; Guerra, I. (2021). “Con mi plata no”… Emol. Dec 30.</span>
+        <span class="file-title">Román, C.; Guerra, I. (2021). “Con mi plata no”: iniciativa… <em>Emol</em>. Dec 30.</span>
         <a class="ref-link" href="https://www.emol.com/noticias/Nacional/2021/12/30/1042630/iniciativa-ahorros-15000-firmas-convencion.html/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Gallardo, P. (2022). Sondeo 6% cotización adicional… <em>El Mercurio</em>. Nov 2.</span>
+        <span class="file-title">Gallardo, P. (2022). Sondeo 6% de cotización adicional… <em>El Mercurio</em>. Nov 2.</span>
         <span class="file-meta">LINK • pending</span>
       </li>
       <li class="item-row">
@@ -328,7 +326,7 @@
         <a class="ref-link" href="https://www.latercera.com/pulso-pm/noticia/como-se-gesto-la-pension-garantizada-universal-que-impulso-pinera-y-la-valoracion-de-los-expertos/EJBWM6RS2JEVFBGUSY5D2TUV4Q/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
-        <span class="file-title">González, A. (2025). José Piñera celebra reforma previsional… Biobío Chile. Mar 13.</span>
+        <span class="file-title">González, A. (2025). José Piñera celebra reforma previsional… <em>Biobío Chile</em>. Mar 13.</span>
         <a class="ref-link" href="https://www.biobiochile.cl/noticias/nacional/chile/2025/03/13/jose-pinera-celebra-reforma-previsional-de-boric-que-expandio-en-60-el-modelo-de-ahorro-privado.shtml/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
@@ -340,7 +338,7 @@
         <a class="ref-link" href="https://www.dw.com/es/chile-tiene-el-mejor-sistema-de-pensiones-de-am%C3%A9rica-latina-seg%C3%BAn-el-%C3%ADndice-global-melbourne-mercer/a-55338272/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Knight, B. (2025). Will Germany raise retirement age… DW. Aug 1.</span>
+        <span class="file-title">Knight, B. (2025). Will Germany raise retirement age… <em>DW</em>. Aug 1.</span>
         <a class="ref-link" href="https://www.dw.com/en/will-germany-raise-retirement-age-beyond-67/a-73472863/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
@@ -356,7 +354,7 @@
         <a class="ref-link" href="https://www.latercera.com/politica/noticia/presidente-boric-destaca-aprobacion-de-la-ley-corta-de-isapres-y-afirma-que-la-postura-del-gobierno-era-evitar-un-perdonazo/IXYZMFC2QFG6PMYSXA7KQS3FBU/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
-        <span class="file-title">Leyton Ojeda, S. (2024). TIMSS: retroceso de 12 años… Chilevisión. Dec 5.</span>
+        <span class="file-title">Leyton Ojeda, S. (2024). TIMSS: retroceso de 12 años… <em>Chilevisión</em>. Dec 5.</span>
         <a class="ref-link" href="https://www.chilevision.cl/noticias/nacional/aprendizajes-escolares-matematicas-retrocedieron-doce-anos-estudio-timss/" target="_blank" rel="noopener noreferrer">LINK</a>
       </li>
       <li class="item-row">
@@ -511,7 +509,7 @@
     <div class="subhead">Literature</div>
     <ul class="file-list">
       <li class="item-row">
-        <span class="file-title">Valenzuela Everke, — (year). <em>[Title]</em>.</span>
+        <span class="file-title">Valenzuela Everke, — (—). <em>[Title]</em>. [Place]: [Publisher].</span>
         <a class="tiny-link" href="#">GO</a>
       </li>
     </ul>
