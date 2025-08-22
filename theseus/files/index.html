@@ -25,6 +25,7 @@
   <style>
     body { margin: 40px; }
     img { display: block; margin-left: auto; margin-right: auto; }
+
     .banner-container {
       width: 100%;
       max-width: 100%;
@@ -40,18 +41,36 @@
     .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
 
     .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
-    .chapter-card { border: 1px solid #999; border-radius: 12px; padding: 24px; margin: 28px auto; max-width: 900px; text-align: left; }
-    .chapter-title { text-transform: uppercase; letter-spacing: .02em; font-weight: 700; }
-    .file-list .list-group-item a { font-weight: 700; text-decoration: none; color: #0077cc; }
-    .file-list .badge { font-size: 11px; }
-    .pending { opacity: .75; }
+
+    /* Match main page chapter box style */
+    .section-box {
+      border: 1px solid #999;
+      border-radius: 12px;
+      padding: 40px 20px;
+      margin: 40px auto;
+      max-width: 700px;
+      text-align: center;
+      box-sizing: border-box;
+    }
+    .inner {
+      text-align: left;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* File list styling */
+    .file-list { list-style: none; padding-left: 0; margin-bottom: 0; }
+    .file-list li { padding: .5rem 0; }
+    .file-list li + li { border-top: 1px dashed #ddd; }
+    .file-list a.file-link { font-weight: 700; text-decoration: none; color: #0077cc; }
+    .file-list a.file-link:hover { text-decoration: underline; }
+    .file-meta { font-size: 12px; color: #666; margin-left: .5rem; }
   </style>
 
   <link rel="alternate" type="application/rss+xml" href="https://kennethbunker.github.io/index.xml" title="Kenneth Bunker" />
 </head>
 <body>
 
-<!-- Clickable Top Banner -->
 <a href="https://link.springer.com/book/9783031964626" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <div class="banner-container" role="img" aria-label="Pre-order The Theseus Paradox on Springer">
     <img src="https://kennethbunker.github.io/img/banner.jpg" alt="Pre-order The Theseus Paradox" class="banner-image">
@@ -97,142 +116,182 @@
   </div>
 </div>
 
-<!-- Chapter 2 -->
-<section id="ch2" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 2</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1TZaVV3KKOSSrIKPAqKbupu6AVuKChB3g" download rel="noopener noreferrer">Arturo Valenzuela</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch2" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 2 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1TZaVV3KKOSSrIKPAqKbupu6AVuKChB3g" download rel="noopener noreferrer">Arturo Valenzuela</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 3 -->
-<section id="ch3" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 3</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1iYznm46wfBfa74nIauaLICf79Fl9P7Sj" download rel="noopener noreferrer">El Ladrillo</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch3" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 3 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1iYznm46wfBfa74nIauaLICf79Fl9P7Sj" download rel="noopener noreferrer">El Ladrillo</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 8 -->
-<section id="ch8" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 8</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1SJEs00jVYN1ewfE-QfYSPclMPaNw-yV1" download rel="noopener noreferrer">Bases Ciudadanas para la Nueva Constitución (Boletín 11.617-08)</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch8" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 8 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1SJEs00jVYN1ewfE-QfYSPclMPaNw-yV1" download rel="noopener noreferrer">Bases Ciudadanas para la Nueva Constitución (Boletín 11.617-08)</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 9 -->
-<section id="ch9" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 9</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1LS98UBztGmRprOtubZaHM0SFbhopyQHO" download rel="noopener noreferrer">Ley 42.470 (Resolución N. 2)</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch9" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 9 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1LS98UBztGmRprOtubZaHM0SFbhopyQHO" download rel="noopener noreferrer">Ley 42.470 (Resolución N. 2)</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 10 -->
-<section id="ch10" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 10</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1ou1sox1QtWe7rQtUamps81I6adqQEQ78" download rel="noopener noreferrer">Bases Ciudadanas para la Nueva Constitución</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=15vI8grF3w6tVotRGAdw30hPsv8rAM0be" download rel="noopener noreferrer">Nueva Agenda Social (Comunicado 123766)</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1NCBXJmr3_uRY41eegkb203_SVapPTxj8" download rel="noopener noreferrer">Acuerdo por la Paz Social y la Nueva Constitución</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch10" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 10 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1ou1sox1QtWe7rQtUamps81I6adqQEQ78" download rel="noopener noreferrer">Bases Ciudadanas para la Nueva Constitución</a>
+        <span class="file-meta">PDF</span>
+      </li>
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=15vI8grF3w6tVotRGAdw30hPsv8rAM0be" download rel="noopener noreferrer">Nueva Agenda Social (Comunicado 123766)</a>
+        <span class="file-meta">PDF</span>
+      </li>
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1NCBXJmr3_uRY41eegkb203_SVapPTxj8" download rel="noopener noreferrer">Acuerdo por la Paz Social y la Nueva Constitución</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 11 -->
-<section id="ch11" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 11</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1CTnch1deKo58Aa_NOu39vXo78N7aoeTt" download rel="noopener noreferrer">Primer Discurso de Boric</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch11" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 11 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1CTnch1deKo58Aa_NOu39vXo78N7aoeTt" download rel="noopener noreferrer">Primer Discurso de Boric</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 12 -->
-<section id="ch12" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 12</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1-pFhQuJA9E1sCKFjbVSTOIy6OjpZL_mL" download rel="noopener noreferrer">Informe Final</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=19eOR-MN8SLneKHbhVAYDwnAxZ9qcLSct" download rel="noopener noreferrer">Propuesta Nueva Constitución 2022</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1XvHVe0C_NaOA0pVE5t8KibpNoyxeQxnG" download rel="noopener noreferrer">Valenzuela Everke</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch12" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 12 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1-pFhQuJA9E1sCKFjbVSTOIy6OjpZL_mL" download rel="noopener noreferrer">Informe Final</a>
+        <span class="file-meta">PDF</span>
+      </li>
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=19eOR-MN8SLneKHbhVAYDwnAxZ9qcLSct" download rel="noopener noreferrer">Propuesta Nueva Constitución 2022</a>
+        <span class="file-meta">PDF</span>
+      </li>
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1XvHVe0C_NaOA0pVE5t8KibpNoyxeQxnG" download rel="noopener noreferrer">Valenzuela Everke</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 14 -->
-<section id="ch14" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 14</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1Zm53CCGUYE7RXkLMMmDWZg6Qaoyi8Cj_" download rel="noopener noreferrer">Acuerdo por Chile</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-  </ul>
+<section id="ch14" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 14 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1Zm53CCGUYE7RXkLMMmDWZg6Qaoyi8Cj_" download rel="noopener noreferrer">Acuerdo por Chile</a>
+        <span class="file-meta">PDF</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 15 -->
-<section id="ch15" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 15</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center">
-      <a href="https://drive.google.com/uc?export=download&id=1d62jRjk6bE1HFgrzStWRy5wT1yY9Fwcx" download rel="noopener noreferrer">Impactos Económicos y Financieros de Retiros de Ahorros Previsionales</a>
-      <span class="badge badge-primary">PDF</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center pending">
-      <a href="#" aria-disabled="true">Informe de Víctimas de Homicidios Consumados 2024</a>
-      <span class="badge badge-secondary">link pending</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center pending">
-      <a href="#" aria-disabled="true">2023 – Impacto Retiros (Congreso–Hacienda)</a>
-      <span class="badge badge-secondary">link pending</span>
-    </li>
-    <li class="list-group-item d-flex justify-content-between align-items-center pending">
-      <a href="#" aria-disabled="true">Vergara y Ugarte (2023) – Migración y Delincuencia (CEP)</a>
-      <span class="badge badge-secondary">link pending</span>
-    </li>
-  </ul>
+<section id="ch15" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 15 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1d62jRjk6bE1HFgrzStWRy5wT1yY9Fwcx" download rel="noopener noreferrer">Impactos Económicos y Financieros de Retiros de Ahorros Previsionales</a>
+        <span class="file-meta">PDF</span>
+      </li>
+      <li>
+        <span class="file-link" style="color:#6c757d;">Informe de Víctimas de Homicidios Consumados 2024</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li>
+        <span class="file-link" style="color:#6c757d;">2023 – Impacto Retiros (Congreso–Hacienda)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li>
+        <span class="file-link" style="color:#6c757d;">Vergara y Ugarte (2023) – Migración y Delincuencia (CEP)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
-<!-- Chapter 16 -->
-<section id="ch16" class="chapter-card">
-  <h3 class="chapter-title mb-3">Chapter 16</h3>
-  <ul class="list-group file-list">
-    <li class="list-group-item d-flex justify-content-between align-items-center pending">
-      <a href="#" aria-disabled="true">Propuesta Nueva Constitución 2023</a>
-      <span class="badge badge-secondary">link pending</span>
-    </li>
-  </ul>
+<section id="ch16" class="section-box">
+  <div>
+    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
+    <em>CHAPTER 16 – Files</em>
+  </div>
+  <div class="inner mt-3">
+    <ul class="file-list">
+      <li>
+        <span class="file-link" style="color:#6c757d;">Propuesta Nueva Constitución 2023</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+    </ul>
+  </div>
 </section>
 
 <hr>
