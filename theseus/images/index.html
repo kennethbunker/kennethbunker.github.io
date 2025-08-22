@@ -37,7 +37,7 @@
     .banner-container:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
     .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
 
-    /* Images grid (keep as-is) */
+    /* Images grid */
     .chapter-header { margin: 2rem 0 1rem; }
     .thumb {
       border-radius: 10px;
@@ -51,7 +51,7 @@
     figcaption { margin-top: .5rem; font-size: 0.9rem; line-height: 1.3; }
     figcaption small { color: #6c757d; }
 
-    /* Jump bar (style like "files") */
+    /* Jump bar */
     .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
 
     /* Anchor offset */
@@ -90,256 +90,236 @@
 <div id="content">
   <div class="container">
 
-  <div style="display:inline-block;"><br><br>
-<h2>
-      Chile's Transformation Amidst Crisis: The Theseus Paradox
-    </h2>
-<p class="text-muted">
-      Image gallery by chapter. Click any image to view full size.
-    </p>
-  </div>
+    <div style="display:inline-block;"><br><br>
+      <h2>Chile's Transformation Amidst Crisis: The Theseus Paradox</h2>
+      <p class="text-muted">Image gallery by chapter. Click any image to view full size.</p>
+    </div>
 
+    <!-- Resources box -->
+    <div class="alert alert-light border d-flex flex-wrap align-items-center justify-content-between">
+      <div class="mb-2 mb-sm-0"><strong>Resources:</strong></div>
+      <div class="d-flex flex-wrap">
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/">Book</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="#chapters">Chapters</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://dataverse.harvard.edu/dataverse/theseus" target="_blank" rel="noopener noreferrer">Data</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://github.com/kennethbunker/theseus" target="_blank" rel="noopener noreferrer">Code</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/files/">Files</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/images/">Images</a>
+      </div>
+    </div>
 
-  <!-- Resources box (real links) -->
-  <div class="alert alert-light border d-flex flex-wrap align-items-center justify-content-between">
-    <div class="mb-2 mb-sm-0"><strong>Resources:</strong></div>
-    <div class="d-flex flex-wrap">
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/">Book</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="#chapters">Chapters</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://dataverse.harvard.edu/dataverse/theseus" target="_blank" rel="noopener noreferrer">Data</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://github.com/kennethbunker/theseus" target="_blank" rel="noopener noreferrer">Code</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/files/">Files</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/images/">Images</a>
+    <!-- Jump to chapters -->
+    <div class="alert alert-light border jumpbar" id="chapters">
+      <strong class="mr-2">Jump to chapter:</strong>
+      <a class="btn btn-sm btn-outline-primary" href="#ch9">9</a>
+      <a class="btn btn-sm btn-outline-primary" href="#ch10">10</a>
+      <a class="btn btn-sm btn-outline-primary" href="#ch12">12</a>
+      <a class="btn btn-sm btn-outline-primary" href="#ch14">14</a>
+      <a class="btn btn-sm btn-outline-primary" href="#ch15">15</a>
+      <a class="btn btn-sm btn-outline-primary" href="#ch16">16</a>
     </div>
   </div>
 
-  <!-- Jump to chapters -->
-  <div class="alert alert-light border jumpbar" id="chapters">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch16">16</a>
-  </div>
-</div>
-
-
-<div class="container">
-  <!-- Chapter 9 -->
-  <section id="ch9" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 9 — October 18, 2019</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="9.1. No estamos en guerra.jpeg" target="_blank">
-            <img src="9.1. No estamos en guerra.jpeg" class="thumb" alt="No estamos en guerra">
-          </a>
-          <figcaption>No estamos en guerra<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="9.2. La Marcha mas Grande.jpeg" target="_blank">
-            <img src="9.2. La Marcha mas Grande.jpeg" class="thumb" alt="La Marcha más Grande">
-          </a>
-          <figcaption>La Marcha más Grande<br><small><em>(BBC / Susana Hidalgo)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
-
-  <!-- Chapter 10 -->
-  <section id="ch10" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 10 — The constitutional design</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="10.1.1. The agreement 1.jpeg" target="_blank">
-            <img src="10.1.1. The agreement 1.jpeg" class="thumb" alt="The agreement 1">
-          </a>
-          <figcaption>The agreement 1<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="10.1.2. The agreement 2 .jpeg" target="_blank">
-            <img src="10.1.2. The agreement 2 .jpeg" class="thumb" alt="The agreement 2">
-          </a>
-          <figcaption>The agreement 2<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="10.2. The announcment.jpeg" target="_blank">
-            <img src="10.2. The announcment.jpeg" class="thumb" alt="The announcement">
-          </a>
-          <figcaption>The announcement<br><small><em>(La Tercera / Richard Ulloa)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
-
-  <!-- Chapter 12 -->
-  <section id="ch12" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 12 — The (first) Constitutional Convention</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="12.1. Inauguracion convencion constitucional.jpeg" target="_blank">
-            <img src="12.1. Inauguracion convencion constitucional.jpeg" class="thumb" alt="Inauguración Convención Constitucional">
-          </a>
-          <figcaption>Inauguración Convención Constitucional<br><small><em>(Crónica Digital / PL)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="12.2. Elisa Loncon.jpeg" target="_blank">
-            <img src="12.2. Elisa Loncon.jpeg" class="thumb" alt="Elisa Loncón">
-          </a>
-          <figcaption>Elisa Loncón<br><small><em>(Time / Cristian Soto Quiroz)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="12.3. La mesa.jpeg" target="_blank">
-            <img src="12.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.12)">
-          </a>
-          <figcaption>La mesa<br><small><em>(Twitter / @Jaime_Bassa)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="12.4. Dinosours.jpeg" target="_blank">
-            <img src="12.4. Dinosours.jpeg" class="thumb" alt="Dinosours">
-          </a>
-          <figcaption>Dinosours<br><small><em>(Instagram / @bailapikachu.oficial)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
-
-
-  <!-- Chapter 14 -->
-  <section id="ch14" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 14 — Constitutional resurrection</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 1.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 1.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 1<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 1.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 1.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 1<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 2.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 2.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 2<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
+  <div class="container">
+    <!-- Chapter 9 -->
+    <section id="ch9" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 9 — October 18, 2019</h2>
+      <div class="row">
         <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 3.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 3.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 3<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
+          <figure>
+            <a href="9.1. No estamos en guerra.jpeg" target="_blank">
+              <img src="9.1. No estamos en guerra.jpeg" class="thumb" alt="No estamos en guerra">
+            </a>
+            <figcaption>No estamos en guerra<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="9.2. La Marcha mas Grande.jpeg" target="_blank">
+              <img src="9.2. La Marcha mas Grande.jpeg" class="thumb" alt="La Marcha más Grande">
+            </a>
+            <figcaption>La Marcha más Grande<br><small><em>(BBC / Susana Hidalgo)</em></small></figcaption>
+          </figure>
+        </div>
       </div>
-    </div>
-          <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 4.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 4.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 4<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-          <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15. Acuerdo por Chile 5.jpeg" target="_blank">
-            <img src="15. Acuerdo por Chile 5.jpeg" class="thumb" alt="APCH">
-          </a>
-          <figcaption>Acuerdo por Chile 5<br><small><em>(BCN)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
+    </section>
 
-  </section>
-
-
-  <!-- Chapter 15 -->
-  <section id="ch15" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 15 — Constitutional resurrection</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="15.1. Depolo.jpeg" target="_blank">
-            <img src="15.1. Depolo.jpeg" class="thumb" alt="Depolo">
-          </a>
-          <figcaption>Depolo<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
-        </figure>
+    <!-- Chapter 10 -->
+    <section id="ch10" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 10 — The constitutional design</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="10.1.1. The agreement 1.jpeg" target="_blank">
+              <img src="10.1.1. The agreement 1.jpeg" class="thumb" alt="The agreement 1">
+            </a>
+            <figcaption>The agreement 1<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="10.1.2. The agreement 2 .jpeg" target="_blank">
+              <img src="10.1.2. The agreement 2 .jpeg" class="thumb" alt="The agreement 2">
+            </a>
+            <figcaption>The agreement 2<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="10.2. The announcment.jpeg" target="_blank">
+              <img src="10.2. The announcment.jpeg" class="thumb" alt="The announcement">
+            </a>
+            <figcaption>The announcement<br><small><em>(La Tercera / Richard Ulloa)</em></small></figcaption>
+          </figure>
+        </div>
       </div>
+    </section>
+
+    <!-- Chapter 12 -->
+    <section id="ch12" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 12 — The (first) Constitutional Convention</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="12.1. Inauguracion convencion constitucional.jpeg" target="_blank">
+              <img src="12.1. Inauguracion convencion constitucional.jpeg" class="thumb" alt="Inauguración Convención Constitucional">
+            </a>
+            <figcaption>Inauguración Convención Constitucional<br><small><em>(Crónica Digital / PL)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="12.2. Elisa Loncon.jpeg" target="_blank">
+              <img src="12.2. Elisa Loncon.jpeg" class="thumb" alt="Elisa Loncón">
+            </a>
+            <figcaption>Elisa Loncón<br><small><em>(Time / Cristian Soto Quiroz)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="12.3. La mesa.jpeg" target="_blank">
+              <img src="12.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.12)">
+            </a>
+            <figcaption>La mesa<br><small><em>(Twitter / @Jaime_Bassa)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="12.4. Dinosours.jpeg" target="_blank">
+              <img src="12.4. Dinosours.jpeg" class="thumb" alt="Dinosours">
+            </a>
+            <figcaption>Dinosours<br><small><em>(Instagram / @bailapikachu.oficial)</em></small></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chapter 14 -->
+    <section id="ch14" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 14 — Constitutional resurrection</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15. Acuerdo por Chile 1.jpeg" target="_blank">
+              <img src="15. Acuerdo por Chile 1.jpeg" class="thumb" alt="Acuerdo por Chile 1">
+            </a>
+            <figcaption>Acuerdo por Chile 1<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15. Acuerdo por Chile 2.jpeg" target="_blank">
+              <img src="15. Acuerdo por Chile 2.jpeg" class="thumb" alt="Acuerdo por Chile 2">
+            </a>
+            <figcaption>Acuerdo por Chile 2<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15. Acuerdo por Chile 3.jpeg" target="_blank">
+              <img src="15. Acuerdo por Chile 3.jpeg" class="thumb" alt="Acuerdo por Chile 3">
+            </a>
+            <figcaption>Acuerdo por Chile 3<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15. Acuerdo por Chile 4.jpeg" target="_blank">
+              <img src="15. Acuerdo por Chile 4.jpeg" class="thumb" alt="Acuerdo por Chile 4">
+            </a>
+            <figcaption>Acuerdo por Chile 4<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15. Acuerdo por Chile 5.jpeg" target="_blank">
+              <img src="15. Acuerdo por Chile 5.jpeg" class="thumb" alt="Acuerdo por Chile 5">
+            </a>
+            <figcaption>Acuerdo por Chile 5<br><small><em>(BCN)</em></small></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chapter 15 -->
+    <section id="ch15" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 15 — Constitutional resurrection</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="15.1. Depolo.jpeg" target="_blank">
+              <img src="15.1. Depolo.jpeg" class="thumb" alt="Depolo">
+            </a>
+            <figcaption>Depolo<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chapter 16 -->
+    <section id="ch16" class="chapter-anchor">
+      <h2 class="h5 chapter-header">Chapter 16 — The (second) Constitutional Council</h2>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="16.1. Consejo Constitucional Expertos.jpeg" target="_blank">
+              <img src="16.1. Consejo Constitucional Expertos.jpeg" class="thumb" alt="Consejo Constitucional Expertos">
+            </a>
+            <figcaption>Consejo Constitucional Expertos<br><small><em>(La Tercera)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="16.2. Beatriz Hevia.jpeg" target="_blank">
+              <img src="16.2. Beatriz Hevia.jpeg" class="thumb" alt="Beatriz Hevia">
+            </a>
+            <figcaption>Beatriz Hevia<br><small><em>(El Mercurio / Archivo)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="16.3. La mesa.jpeg" target="_blank">
+              <img src="16.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.16)">
+            </a>
+            <figcaption>La mesa<br><small><em>(Twitter / @Procesoconsti23)</em></small></figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-6 col-md-4 mb-4">
+          <figure>
+            <a href="16.4. Consejo Constitucional pleno.jpeg" target="_blank">
+              <img src="16.4. Consejo Constitucional pleno.jpeg" class="thumb" alt="Consejo Constitucional pleno">
+            </a>
+            <figcaption>Consejo Constitucional pleno<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+    <div class="text-center my-4">
+      <a class="btn btn-sm btn-outline-secondary" href="#top">Back to top</a>
+      <a class="btn btn-sm btn-outline-primary ml-2" href="https://kennethbunker.github.io/theseus/">Back to book page</a>
     </div>
-  </section>
-
-  <!-- Chapter 16 -->
-  <section id="ch16" class="chapter-anchor">
-    <h2 class="h5 chapter-header">Chapter 16 — The (second) Constitutional Council</h2>
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="16.1. Consejo Constitucional Expertos.jpeg" target="_blank">
-            <img src="16.1. Consejo Constitucional Expertos.jpeg" class="thumb" alt="Consejo Constitucional Expertos">
-          </a>
-          <figcaption>Consejo Constitucional Expertos<br><small><em>(La Tercera)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="16.2. Beatriz Hevia.jpeg" target="_blank">
-            <img src="16.2. Beatriz Hevia.jpeg" class="thumb" alt="Beatriz Hevia">
-          </a>
-          <figcaption>Beatriz Hevia<br><small><em>(El Mercurio / Archivo)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="16.3. La mesa.jpeg" target="_blank">
-            <img src="16.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.16)">
-          </a>
-          <figcaption>La mesa<br><small><em>(Twitter / @Procesoconsti23)</em></small></figcaption>
-        </figure>
-      </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-        <figure>
-          <a href="16.4. Consejo Constitucional pleno.jpeg" target="_blank">
-            <img src="16.4. Consejo Constitucional pleno.jpeg" class="thumb" alt="Consejo Constitucional pleno">
-          </a>
-          <figcaption>Consejo Constitucional pleno<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
-
-  <hr>
-  <div class="text-center my-4">
-    <a class="btn btn-sm btn-outline-secondary" href="#top">Back to top</a>
-    <a class="btn btn-sm btn-outline-primary ml-2" href="https://kennethbunker.github.io/theseus/">Back to book page</a>
   </div>
 </div>
 
