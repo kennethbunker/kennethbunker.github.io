@@ -7,6 +7,7 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://kennethbunker.github.io/sass/researcher.min.css">
 
   <style>
     body { margin: 40px; font-family: Inconsolata, monospace; }
@@ -24,15 +25,35 @@
     figcaption small { color: #6c757d; }
     .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
     .chapter-anchor { scroll-margin-top: 80px; }
+
+    /* Banner styling to match the main site */
+    .banner-container {
+      width: 100%;
+      max-width: 100%;
+      margin: 0 auto 10px;
+      padding: 5px;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .banner-container:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
+    .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
   </style>
 </head>
 <body>
-
-<!-- Top anchor for "Back to top" links -->
 <div id="top"></div>
 
-<!-- Header (matches main site navbar style) -->
-<div class="container mt-2">
+<!-- Clickable Top Banner -->
+<a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9#overview" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <div class="banner-container" role="img" aria-label="Pre-order The Theseus Paradox on Springer">
+    <img src="https://kennethbunker.github.io/img/banner.jpg" alt="Pre-order The Theseus Paradox" class="banner-image">
+  </div>
+</a>
+
+<!-- Header/Navbar (matching main site) -->
+<div class="container mt-5">
   <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
     <a class="navbar-brand mx-0 mr-sm-auto" href="https://kennethbunker.github.io">Kenneth Bunker</a>
     <div class="navbar-nav flex-row flex-wrap justify-content-center">
@@ -219,12 +240,12 @@
   </div>
 </div>
 
-<!-- Footer -->
+<!-- Footer (matching main site) -->
 <div id="footer" class="mb-5">
+  <hr>
   <div class="container text-center">
-    <a href="https://x.com/kennethbunker"><small>2025</small></a>
+    <a href="https://twitter.com/kennethbunker"><small>2025</small></a>
   </div>
 </div>
-
 </body>
 </html>
