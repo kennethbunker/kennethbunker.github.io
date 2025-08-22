@@ -1,16 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHPPDNKH57"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XHPPDNKH57');
+  </script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Images – The Theseus Paradox</title>
+  <meta name="description" content="Image gallery by chapter for The Theseus Paradox">
+  <meta name="author" content="Kenneth Bunker">
 
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
   <link rel="stylesheet" href="https://kennethbunker.github.io/sass/researcher.min.css">
 
   <style>
     body { margin: 40px; font-family: Inconsolata, monospace; }
+    /* Banner (matches "files") */
+    .banner-container {
+      width: 100%;
+      max-width: 100%;
+      margin: 0 auto;
+      padding: 5px;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .banner-container:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
+    .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
+
+    /* Images grid (keep as-is) */
     .chapter-header { margin: 2rem 0 1rem; }
     .thumb {
       border-radius: 10px;
@@ -23,36 +50,22 @@
     figure { margin: 0; }
     figcaption { margin-top: .5rem; font-size: 0.9rem; line-height: 1.3; }
     figcaption small { color: #6c757d; }
-    .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
-    .chapter-anchor { scroll-margin-top: 80px; }
 
-    /* Banner styling to match the main site */
-    .banner-container {
-      width: 100%;
-      max-width: 100%;
-      margin: 0 auto 10px;
-      padding: 5px;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      text-align: center;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .banner-container:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
-    .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
+    /* Jump bar (style like "files") */
+    .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
+
+    /* Anchor offset */
+    .chapter-anchor { scroll-margin-top: 80px; }
   </style>
 </head>
 <body>
-<div id="top"></div>
 
-<!-- Clickable Top Banner -->
-<a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9#overview" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+<a href="https://link.springer.com/book/9783031964626" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <div class="banner-container" role="img" aria-label="Pre-order The Theseus Paradox on Springer">
     <img src="https://kennethbunker.github.io/img/banner.jpg" alt="Pre-order The Theseus Paradox" class="banner-image">
   </div>
 </a>
 
-<!-- Header/Navbar (matching main site) -->
 <div class="container mt-5">
   <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
     <a class="navbar-brand mx-0 mr-sm-auto" href="https://kennethbunker.github.io">Kenneth Bunker</a>
@@ -74,18 +87,21 @@
 <hr>
 
 <div class="container">
-  <h1 class="h3 mb-3">Image Gallery by Chapter</h1>
+  <h2 class="mb-2">Image Gallery by Chapter</h2>
   <p class="text-muted">Thumbnails of images related to <em>The Theseus Paradox</em>. Click to view full size.</p>
 
-  <!-- Jump bar -->
-  <div class="jumpbar mb-4">
-    <a class="btn btn-sm btn-outline-primary" href="#ch9">Ch. 9</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch10">Ch. 10</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch12">Ch. 12</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch14">Ch. 14</a>
-    <a class="btn btn-sm btn-outline-primary" href="#ch16">Ch. 16</a>
+  <!-- Jump bar styled like "files" -->
+  <div class="alert alert-light border jumpbar">
+    <strong class="mr-2">Jump to chapter:</strong>
+    <a class="btn btn-sm btn-outline-primary" href="#ch9">9</a>
+    <a class="btn btn-sm btn-outline-primary" href="#ch10">10</a>
+    <a class="btn btn-sm btn-outline-primary" href="#ch12">12</a>
+    <a class="btn btn-sm btn-outline-primary" href="#ch14">14</a>
+    <a class="btn btn-sm btn-outline-primary" href="#ch16">16</a>
   </div>
+</div>
 
+<div class="container">
   <!-- Chapter 9 -->
   <section id="ch9" class="chapter-anchor">
     <h2 class="h5 chapter-header">Chapter 9 — October 18, 2019</h2>
@@ -200,8 +216,8 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 mb-4">
         <figure>
-          <a href="16.1. Consejo Constitucional Expertos.jpeg" target="_blank">
-            <img src="16.1. Consejo Constitucional Expertos.jpeg" class="thumb" alt="Consejo Constitucional Expertos">
+          <a href="16.1. - Consejo Constitucional Expertos.jpeg" target="_blank">
+            <img src="16.1. - Consejo Constitucional Expertos.jpeg" class="thumb" alt="Consejo Constitucional Expertos">
           </a>
           <figcaption>Consejo Constitucional Expertos<br><small><em>(La Tercera)</em></small></figcaption>
         </figure>
@@ -240,12 +256,5 @@
   </div>
 </div>
 
-<!-- Footer (matching main site) -->
-<div id="footer" class="mb-5">
-  <hr>
-  <div class="container text-center">
-    <a href="https://twitter.com/kennethbunker"><small>2025</small></a>
-  </div>
-</div>
 </body>
 </html>
