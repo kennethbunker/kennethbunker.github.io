@@ -42,7 +42,7 @@
 
     .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
 
-    /* Match main page chapter box style */
+    /* Chapter box style to match main */
     .section-box {
       border: 1px solid #999;
       border-radius: 12px;
@@ -52,21 +52,27 @@
       text-align: center;
       box-sizing: border-box;
     }
+    .section-title { font-style: italic; }
     .inner {
       text-align: left;
       max-width: 600px;
       margin: 0 auto;
     }
 
-    /* File list styling */
+    /* Lists / rows */
     .subhead { font-weight: 700; font-size: 0.95rem; margin: 1rem 0 .25rem; text-transform: uppercase; letter-spacing: .02em; }
     .file-list { list-style: none; padding-left: 0; margin-bottom: 0; }
     .file-list li { padding: .5rem 0; }
     .file-list li + li { border-top: 1px dashed #ddd; }
-    .file-list a.file-link { font-weight: 700; text-decoration: none; color: #0077cc; }
-    .file-list a.file-link:hover { text-decoration: underline; }
-    .file-meta { font-size: 12px; color: #666; margin-left: .5rem; }
+
+    .item-row { display: flex; align-items: baseline; flex-wrap: wrap; gap: .25rem .5rem; }
+    .file-title { font-weight: 700; }
+    .file-btn { padding: .1rem .5rem; }
+    .file-meta { font-size: 12px; color: #666; margin-left: .25rem; }
     .muted { color: #6c757d; }
+
+    .citation { font-size: .98rem; line-height: 1.5; }
+    .citation em { font-style: italic; }
   </style>
 
   <link rel="alternate" type="application/rss+xml" href="https://kennethbunker.github.io/index.xml" title="Kenneth Bunker" />
@@ -121,33 +127,86 @@
 
 <!-- CH 2 -->
 <section id="ch2" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 2 – The 1980 Constitution</em>
+  <div class="section-title">
+    CHAPTER 2 – The 1980 Constitution
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1TZaVV3KKOSSrIKPAqKbupu6AVuKChB3g" download rel="noopener noreferrer">
-          Valenzuela, Arturo (1978). <em>El quiebre de la democracia en Chile</em>. Baltimore: Johns Hopkins University Press
-        </a>
-        <span class="file-meta">PDF</span>
+      <li class="citation">
+        <span class="file-title">Valenzuela, Arturo (1978).</span> <em>The Breakdown of Democratic Regimes: Chile</em>. Baltimore, MD: The Johns Hopkins University Press.
+      </li>
+      <li class="citation">
+        <span class="file-title">Bravo Lira, Bernardino (1986).</span> <em>Régimen de gobierno y partidos políticos en Chile, 1924–1973</em>. Santiago: Jurídica.
+      </li>
+      <li class="citation">
+        <span class="file-title">Huneeus, Carlos (2014).</span> <em>La democracia semisoberana: Chile después de Pinochet</em>. Santiago: Taurus.
+      </li>
+      <li class="citation">
+        <span class="file-title">Cavallo, Ascanio; Óscar Sepúlveda; Manuel Salazar (1988).</span> <em>La historia oculta del régimen militar: Chile 1973–1988</em>. Santiago: Uqbar Editores.
+      </li>
+      <li class="citation">
+        <span class="file-title">Fuentes, Claudio (2013).</span> <em>El fraude: Crónica sobre el plebiscito de la Constitución de 1980</em>. Santiago: Hueders.
+      </li>
+      <li class="citation">
+        <span class="file-title">Godoy, Óscar (1999).</span> “La transición chilena a la democracia: pactada.” <em>Revista de Estudios Públicos</em> 15: 79–106.
+      </li>
+      <li class="citation">
+        <span class="file-title">Pastor, Daniel (2004).</span> “Origins of the Chilean binominal election system.” <em>Revista de Ciencia Política</em> 24(1): 38–57.
+      </li>
+      <li class="citation">
+        <span class="file-title">Alemán, Eduardo; Sebastián M. Saiegh (2007).</span> “Legislative preferences, political parties, and coalition unity in Chile.” <em>Comparative Politics</em> 39(3): 253–272.
+      </li>
+      <li class="citation">
+        <span class="file-title">Fontaine, Arturo; Cristián Larroulet; Jorge Navarrete; Ian Walker (Eds.) (2009).</span> <em>Reforma al sistema electoral chileno</em>. Santiago: PNUD, CEP, Libertad y Desarrollo, ProyectAmérica, y Cieplan.
+      </li>
+      <li class="citation">
+        <span class="file-title">Guzmán, E. (1993).</span> “Reflexiones sobre el sistema binominal.” <em>Estudios Públicos</em> 51: 303–324.
+      </li>
+      <li class="citation">
+        <span class="file-title">Huneeus, Carlos (Ed.) (2006).</span> <em>La reforma al sistema binominal en Chile. Propuestas para el debate</em>. Santiago: Catalonia.
+      </li>
+      <li class="citation">
+        <span class="file-title">Magar, Eric; M. R. Rosenblum; David Samuels.</span> “On the absence of centripetal incentives in double-member districts: The case of Chile.” <em>Comparative Political Studies</em> 31(6): 714–739.
+      </li>
+      <li class="citation">
+        <span class="file-title">Nohlen, Dieter (2006).</span> “La reforma del sistema binominal desde una perspectiva comparada.” <em>Revista de Ciencia Política</em> 26(1): 191–202.
+      </li>
+      <li class="citation">
+        <span class="file-title">Valenzuela, J. Samuel (2005).</span> “¿Hay que eliminar el sistema binominal? Una propuesta alternativa.” <em>Política</em> 45: 53–66.
       </li>
     </ul>
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li class="muted">None yet.</li>
+      <li class="item-row">
+        <span class="file-title">Constitución Política de la República de Chile (1980; incluye reformas de 1989)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li class="item-row">
+        <span class="file-title">Paquete de reformas constitucionales de 1989 (plebiscito)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li class="item-row">
+        <span class="file-title">Constitución (1980) – Art. 45: Senado (designados y vitalicios)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li class="item-row">
+        <span class="file-title">Constitución (1980) – Art. 118: Quórums y Leyes Orgánicas Constitucionales</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
+      <li class="item-row">
+        <span class="file-title">Constitución (1980) – Arts. 43 y 45: Cámara y Senado / reglas electorales (binominal)</span>
+        <span class="file-meta">PDF • link pending</span>
+      </li>
     </ul>
   </div>
 </section>
 
 <!-- CH 3 -->
 <section id="ch3" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 3 – Neoliberalism: Problem or solution?</em>
+  <div class="section-title">
+    CHAPTER 3 – Neoliberalism: Problem or solution?
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -157,9 +216,10 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1iYznm46wfBfa74nIauaLICf79Fl9P7Sj" download rel="noopener noreferrer">El Ladrillo</a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">El Ladrillo</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1iYznm46wfBfa74nIauaLICf79Fl9P7Sj" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -167,24 +227,17 @@
 
 <!-- CH 6 -->
 <section id="ch6" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 6 – A shifting political system</em>
+  <div class="section-title">
+    CHAPTER 6 – A shifting political system
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
     <ul class="file-list">
-      <li>
-        <span class="file-link" style="color:#212529;">
-          Bunker, K. (2025). Mapping Party Systems Over Time: A Spatial Distribution of Ideological Competition in Chile. <em>Journal of Political Ideologies</em>, 1–18.
-        </span>
-        <span class="file-meta">Citation</span>
+      <li class="citation">
+        <span class="file-title">Bunker, K. (2025).</span> Mapping Party Systems Over Time: A Spatial Distribution of Ideological Competition in Chile. <em>Journal of Political Ideologies</em>, 1–18.
       </li>
-      <li>
-        <span class="file-link" style="color:#212529;">
-          Bunker, K. (2025). Challenging Conventional Wisdom in New Democracies: Social Diversity, Electoral Rules, and Party System Fragmentation in Chile. <em>Election Law Journal: Rules, Politics, and Policy</em>.
-        </span>
-        <span class="file-meta">Citation</span>
+      <li class="citation">
+        <span class="file-title">Bunker, K. (2025).</span> Challenging Conventional Wisdom in New Democracies: Social Diversity, Electoral Rules, and Party System Fragmentation in Chile. <em>Election Law Journal: Rules, Politics, and Policy</em>.
       </li>
     </ul>
 
@@ -197,9 +250,8 @@
 
 <!-- CH 8 -->
 <section id="ch8" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 8 – Emergence of a rupturist discourse</em>
+  <div class="section-title">
+    CHAPTER 8 – Emergence of a rupturist discourse
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -209,11 +261,10 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1SJEs00jVYN1ewfE-QfYSPclMPaNw-yV1" download rel="noopener noreferrer">
-          Bases Ciudadanas para la Nueva Constitución (Boletín 11.617-08)
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Bases Ciudadanas para la Nueva Constitución (Boletín 11.617-08)</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1SJEs00jVYN1ewfE-QfYSPclMPaNw-yV1" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -221,9 +272,8 @@
 
 <!-- CH 9 -->
 <section id="ch9" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 9 – October 18, 2019</em>
+  <div class="section-title">
+    CHAPTER 9 – October 18, 2019
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -233,11 +283,10 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1LS98UBztGmRprOtubZaHM0SFbhopyQHO" download rel="noopener noreferrer">
-          Ley 42.470 (Resolución N. 2)
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Ley 42.470 (Resolución N. 2)</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1LS98UBztGmRprOtubZaHM0SFbhopyQHO" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -245,9 +294,8 @@
 
 <!-- CH 10 -->
 <section id="ch10" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 10 – The constitutional design</em>
+  <div class="section-title">
+    CHAPTER 10 – The constitutional design
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -257,23 +305,20 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1ou1sox1QtWe7rQtUamps81I6adqQEQ78" download rel="noopener noreferrer">
-          Bases Ciudadanas para la Nueva Constitución
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Bases Ciudadanas para la Nueva Constitución</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1ou1sox1QtWe7rQtUamps81I6adqQEQ78" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=15vI8grF3w6tVotRGAdw30hPsv8rAM0be" download rel="noopener noreferrer">
-          Nueva Agenda Social (Comunicado 123766)
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Nueva Agenda Social (Comunicado 123766)</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=15vI8grF3w6tVotRGAdw30hPsv8rAM0be" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1NCBXJmr3_uRY41eegkb203_SVapPTxj8" download rel="noopener noreferrer">
-          Acuerdo por la Paz Social y la Nueva Constitución
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Acuerdo por la Paz Social y la Nueva Constitución</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1NCBXJmr3_uRY41eegkb203_SVapPTxj8" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -281,9 +326,8 @@
 
 <!-- CH 11 -->
 <section id="ch11" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 11 – The rise of Gabriel Boric</em>
+  <div class="section-title">
+    CHAPTER 11 – The rise of Gabriel Boric
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -293,11 +337,10 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1CTnch1deKo58Aa_NOu39vXo78N7aoeTt" download rel="noopener noreferrer">
-          Primer Discurso de Boric
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Primer Discurso de Boric</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1CTnch1deKo58Aa_NOu39vXo78N7aoeTt" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -305,34 +348,28 @@
 
 <!-- CH 12 -->
 <section id="ch12" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 12 – The (first) constitutional convention</em>
+  <div class="section-title">
+    CHAPTER 12 – The (first) constitutional convention
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1XvHVe0C_NaOA0pVE5t8KibpNoyxeQxnG" download rel="noopener noreferrer">
-          Valenzuela Everke
-        </a>
-        <span class="file-meta">PDF (Literature)</span>
+      <li class="citation">
+        <span class="file-title">Valenzuela Everke.</span> (Citation)
       </li>
     </ul>
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1-pFhQuJA9E1sCKFjbVSTOIy6OjpZL_mL" download rel="noopener noreferrer">
-          Informe Final
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Informe Final</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1-pFhQuJA9E1sCKFjbVSTOIy6OjpZL_mL" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=19eOR-MN8SLneKHbhVAYDwnAxZ9qcLSct" download rel="noopener noreferrer">
-          Propuesta Nueva Constitución 2022
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Propuesta Nueva Constitución 2022</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=19eOR-MN8SLneKHbhVAYDwnAxZ9qcLSct" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -340,9 +377,8 @@
 
 <!-- CH 14 -->
 <section id="ch14" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 14 – Constitutional resurrection</em>
+  <div class="section-title">
+    CHAPTER 14 – Constitutional resurrection
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -352,11 +388,10 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1Zm53CCGUYE7RXkLMMmDWZg6Qaoyi8Cj_" download rel="noopener noreferrer">
-          Acuerdo por Chile
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Acuerdo por Chile</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1Zm53CCGUYE7RXkLMMmDWZg6Qaoyi8Cj_" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
     </ul>
   </div>
@@ -364,9 +399,8 @@
 
 <!-- CH 15 -->
 <section id="ch15" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 15 – From instability to realignment</em>
+  <div class="section-title">
+    CHAPTER 15 – From instability to realignment
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -376,22 +410,21 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <a class="file-link" href="https://drive.google.com/uc?export=download&id=1d62jRjk6bE1HFgrzStWRy5wT1yY9Fwcx" download rel="noopener noreferrer">
-          Impactos Económicos y Financieros de Retiros de Ahorros Previsionales
-        </a>
-        <span class="file-meta">PDF (Document)</span>
+      <li class="item-row">
+        <span class="file-title">Impactos Económicos y Financieros de Retiros de Ahorros Previsionales</span>
+        <a class="file-btn btn btn-sm btn-outline-primary" href="https://drive.google.com/uc?export=download&id=1d62jRjk6bE1HFgrzStWRy5wT1yY9Fwcx" download rel="noopener noreferrer">PDF</a>
+        <span class="file-meta">Document</span>
       </li>
-      <li>
-        <span class="file-link muted">Informe de Víctimas de Homicidios Consumados 2024</span>
+      <li class="item-row">
+        <span class="file-title muted">Informe de Víctimas de Homicidios Consumados 2024</span>
         <span class="file-meta">PDF • link pending</span>
       </li>
-      <li>
-        <span class="file-link muted">2023 – Impacto Retiros (Congreso–Hacienda)</span>
+      <li class="item-row">
+        <span class="file-title muted">2023 – Impacto Retiros (Congreso–Hacienda)</span>
         <span class="file-meta">PDF • link pending</span>
       </li>
-      <li>
-        <span class="file-link muted">Vergara y Ugarte (2023) – Migración y Delincuencia (CEP)</span>
+      <li class="item-row">
+        <span class="file-title muted">Vergara y Ugarte (2023) – Migración y Delincuencia (CEP)</span>
         <span class="file-meta">PDF • link pending</span>
       </li>
     </ul>
@@ -400,9 +433,8 @@
 
 <!-- CH 16 -->
 <section id="ch16" class="section-box">
-  <div>
-    <strong>CHILE'S TRANSFORMATION AMIDST CRISIS: THE THESEUS PARADOX</strong><br><br>
-    <em>CHAPTER 16 – The (second) constitutional council</em>
+  <div class="section-title">
+    CHAPTER 16 – The (second) constitutional council
   </div>
   <div class="inner mt-3">
     <div class="subhead">Literature</div>
@@ -412,8 +444,8 @@
 
     <div class="subhead">Documents</div>
     <ul class="file-list">
-      <li>
-        <span class="file-link muted">Propuesta Nueva Constitución 2023</span>
+      <li class="item-row">
+        <span class="file-title muted">Propuesta Nueva Constitución 2023</span>
         <span class="file-meta">PDF • link pending</span>
       </li>
     </ul>
