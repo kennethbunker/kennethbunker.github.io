@@ -45,31 +45,49 @@
   </style>
 
 <style>
-  .chapters-grid{
-    /* Tweak --cell if your buttons feel tight; 60–64px is comfy for “19” */
-    --cell: 60px;
+  /* Mobile-first: simple grid + square buttons */
+  .chapters-grid {
     display: grid;
-    grid-template-columns: repeat(12, var(--cell));
-    column-gap: 0.5rem;  /* space between label & 1, and between buttons */
-    row-gap: 0.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    gap: 0.5rem;
     align-items: center;
-    overflow-x: auto;     /* keeps two-line layout usable on narrow screens */
-    padding-bottom: 0.25rem; /* room for possible scrollbar */
   }
-  .chapter-label{
-    grid-column: 1 / span 2;  /* label uses first two cells on line 1 */
-    grid-row: 1;
-    white-space: nowrap;       /* keep the label on one line */
+  .chapter-label {
+    grid-column: 1 / -1;         /* full-width above on phones */
+    white-space: nowrap;
+    margin-bottom: 0.25rem;
   }
-  .chapter-btn{
-    inline-size: var(--cell);  /* equal width buttons */
-    text-align: center;
+  .chapter-btn {
+    /* Make every button a perfect square and centered */
+    display: grid;
+    place-items: center;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    padding: 0;                  /* override .btn padding so it's truly square */
+    line-height: 1;
   }
-  /* Invisible 1-cell filler to push “10” to the next row */
-  .spacer{
-    inline-size: var(--cell);
-    height: 1px;
-    opacity: 0;
+
+  /* Desktop/tablet: lock to a 12-column grid for the two-line layout */
+  @media (min-width: 768px) {
+    .chapters-grid {
+      grid-template-columns: repeat(12, 1fr);  /* fills container, no horizontal bar */
+      align-items: stretch;
+    }
+    .chapter-label {
+      grid-column: 1 / span 2;  /* label takes two cells on row 1 */
+      grid-row: 1 / span 2;     /* and spans both rows */
+      margin: 0;
+      display: flex;
+      align-items: center;      /* vertically center within the two-row area */
+    }
+    /* Fill the last cell of row 1 so 10 moves to row 2 */
+    .spacer {
+      grid-column: 12;
+      display: block;
+      width: 100%;
+      height: 1px;
+      opacity: 0;
+    }
   }
 </style>
 
@@ -346,10 +364,10 @@
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
 
-    <!-- Filler to occupy the last cell of row 1 so 10 moves to row 2 -->
+    <!-- Push 10 to next line on desktop layout -->
     <span class="spacer" aria-hidden="true"></span>
 
-    <!-- Row 2: 10–19 (10 starts at col 1; 12 ends up under 1) -->
+    <!-- Row 2: 10–19 (12 sits under 1) -->
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
@@ -362,6 +380,7 @@
     <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
   </div>
 </div>
+
 
     <!-- ========= CHAPTER 2 ========= -->
     <div id="ch2" style="border:1px solid #999; border-radius:12px; padding:40px 20px; margin:40px auto; max-width:700px; text-align:center; box-sizing:border-box;">
