@@ -45,34 +45,37 @@
   </style>
 
 <style>
-  /* Desktop/tablet: label in col 1 (spanning 2 rows), then 10 equal columns for buttons */
-  .chapters-grid {
+  /* Adjust this so "10" fits nicely */
+  .chapters-grid { 
+    --cell: 52px;                 /* button cell width */
     display: grid;
-    grid-template-columns: auto repeat(10, minmax(45px, auto));
-    grid-auto-rows: auto;
-    column-gap: 0.5rem; /* space between label and "1", and between buttons */
+    grid-template-columns: repeat(12, var(--cell));
+    column-gap: 0.5rem;           /* space between label & 1, and between buttons */
     row-gap: 0.5rem;
     align-items: center;
   }
+  /* Label = two cells on the FIRST row (so row 2 can start under it) */
   .chapter-label {
-    grid-column: 1;
-    grid-row: 1 / span 2;   /* reserves the first column on both rows */
-    white-space: nowrap;     /* keep label on one line */
+    grid-column: 1 / span 2; 
+    grid-row: 1;
+    white-space: nowrap;
   }
+  /* Buttons are exactly one cell wide, so they align perfectly */
   .chapter-btn {
-    min-width: 45px;         /* same size for 1–19 */
+    width: var(--cell);
     text-align: center;
   }
 
-  /* Mobile: switch to a simple wrapped row with gaps */
+  /* Mobile fallback: let them wrap naturally */
   @media (max-width: 576px) {
-    .chapters-grid {
-      display: flex;
-      flex-wrap: wrap;
+    .chapters-grid { 
+      display: flex; 
+      flex-wrap: wrap; 
+      gap: 0.5rem; 
       align-items: center;
-      gap: 0.5rem;
     }
     .chapter-label { margin-right: 0.5rem; }
+    .chapter-btn { width: auto; min-width: 45px; }
   }
 </style>
 
