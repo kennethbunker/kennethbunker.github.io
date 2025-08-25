@@ -45,18 +45,34 @@
   </style>
 
 <style>
+  /* Desktop/tablet: label in col 1 (spanning 2 rows), then 10 equal columns for buttons */
+  .chapters-grid {
+    display: grid;
+    grid-template-columns: auto repeat(10, minmax(45px, auto));
+    grid-auto-rows: auto;
+    column-gap: 0.5rem; /* space between label and "1", and between buttons */
+    row-gap: 0.5rem;
+    align-items: center;
+  }
+  .chapter-label {
+    grid-column: 1;
+    grid-row: 1 / span 2;   /* reserves the first column on both rows */
+    white-space: nowrap;     /* keep label on one line */
+  }
   .chapter-btn {
-    min-width: 45px;   /* makes 1–19 same width */
+    min-width: 45px;         /* same size for 1–19 */
     text-align: center;
   }
 
-  .chapter-buttons {
-    flex: 1;           /* takes remaining space */
-  }
-
-  .chapter-label {
-    display: inline-block;
-    min-width: 90px;   /* adjust until "1" sits above "14" */
+  /* Mobile: switch to a simple wrapped row with gaps */
+  @media (max-width: 576px) {
+    .chapters-grid {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .chapter-label { margin-right: 0.5rem; }
   }
 </style>
 
@@ -319,29 +335,28 @@
 
 <!-- Jump to chapters -->
 <div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
+  <div class="chapters-grid">
     <strong class="chapter-label">Jump to chapter:</strong>
-    <div class="chapter-buttons d-flex flex-wrap gap-2">
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-      <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-    </div>
+
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
   </div>
 </div>
 
