@@ -45,49 +45,42 @@
   </style>
 
 <style>
-  /* Mobile-first: simple grid + square buttons */
+  /* default: mobile/tablet – normal grid */
   .chapters-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    grid-template-columns: repeat(5, minmax(44px, 1fr));
     gap: 0.5rem;
-    align-items: center;
+    align-items: start;
   }
   .chapter-label {
-    grid-column: 1 / -1;         /* full-width above on phones */
-    white-space: nowrap;
+    grid-column: 1 / -1;     /* label full width on small screens */
     margin-bottom: 0.25rem;
+    white-space: nowrap;
   }
   .chapter-btn {
-    /* Make every button a perfect square and centered */
+    /* make every button a perfect square */
     display: grid;
     place-items: center;
     width: 100%;
-    aspect-ratio: 1 / 1;
-    padding: 0;                  /* override .btn padding so it's truly square */
+    aspect-ratio: 1 / 1;     /* squares */
+    padding: 0;               /* remove extra padding so square stays square */
     line-height: 1;
   }
 
-  /* Desktop/tablet: lock to a 12-column grid for the two-line layout */
-  @media (min-width: 768px) {
+  /* large screens: special two-line layout */
+  @media (min-width: 992px) {
     .chapters-grid {
-      grid-template-columns: repeat(12, 1fr);  /* fills container, no horizontal bar */
-      align-items: stretch;
+      /* 1 auto column for label + 10 button columns */
+      grid-template-columns: auto repeat(10, 1fr);
+      gap: 0.75rem;           /* extra space so the colon doesn't "touch" 1 */
+      align-items: start;     /* top-align the label with row 1 */
     }
     .chapter-label {
-      grid-column: 1 / span 2;  /* label takes two cells on row 1 */
-      grid-row: 1 / span 2;     /* and spans both rows */
+      grid-column: 1 / span 2; /* label uses two cells on the FIRST row only */
+      grid-row: 1;             /* don't span into row 2 */
       margin: 0;
-      display: flex;
-      align-items: center;      /* vertically center within the two-row area */
     }
-    /* Fill the last cell of row 1 so 10 moves to row 2 */
-    .spacer {
-      grid-column: 12;
-      display: block;
-      width: 100%;
-      height: 1px;
-      opacity: 0;
-    }
+    /* No spacer needed: with 2 label cells + 9 numbers, 10 naturally drops to row 2 */
   }
 </style>
 
