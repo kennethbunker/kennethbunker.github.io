@@ -45,26 +45,12 @@
   </style>
 
 <style>
-  /* label column + buttons column; second line starts after the label */
-  .chapters-grid {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    column-gap: .5rem;
-    align-items: start;
+  .chapter-btn {
+    min-width: 45px;  /* big enough for "19" */
+    text-align: center;
   }
-  .chapters-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .35rem;          /* spacing between buttons */
-  }
-  .flex-break {          /* forces a line break inside the flex list */
-    flex-basis: 100%;
-    height: 0;
-  }
-
-  /* Phone: stack label on its own line (optional) */
-  @media (max-width: 576px) {
-    .chapters-grid { grid-template-columns: 1fr; }
+  .gap-2 {
+    gap: 0.5rem; /* ensures spacing on wrap */
   }
 </style>
 
