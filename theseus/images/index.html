@@ -20,58 +20,28 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
   <link rel="stylesheet" href="https://kennethbunker.github.io/sass/researcher.min.css">
 
-<style>
-  .chapter-btn {
-    min-width: 45px;  /* big enough for "19" */
-    text-align: center;
-  }
-  .gap-2 {
-    gap: 0.5rem; /* ensures spacing on wrap */
-  }
-</style>
-
-
   <style>
+    .chapter-btn { min-width: 45px; text-align: center; }
+    .gap-2 { gap: 0.5rem; }
     body { margin: 40px; font-family: Inconsolata, monospace; }
-    /* Banner (matches "files") */
-    .banner-container {
-      width: 100%;
-      max-width: 100%;
-      margin: 0 auto;
-      padding: 5px;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      text-align: center;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
+
+    .banner-container { width: 100%; max-width: 100%; margin: 0 auto; padding: 5px; background-color: #fff; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; }
     .banner-container:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
     .banner-image { width: 100%; max-height: 100px; object-fit: cover; display: block; }
 
-    /* Images grid */
     .chapter-header { margin: 2rem 0 1rem; }
-    .thumb {
-      border-radius: 10px;
-      border: 1px solid #e5e5e5;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
-    }
+    .thumb { border-radius: 10px; border: 1px solid #e5e5e5; box-shadow: 0 2px 6px rgba(0,0,0,0.05); width: 100%; height: 200px; object-fit: cover; }
     figure { margin: 0; }
     figcaption { margin-top: .5rem; font-size: 0.9rem; line-height: 1.3; }
     figcaption small { color: #6c757d; }
 
-    /* Jump bar */
     .jumpbar .btn { margin-right: .5rem; margin-bottom: .5rem; }
-
-    /* Anchor offset */
     .chapter-anchor { scroll-margin-top: 80px; }
   </style>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
+  <!-- GLightbox -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 </head>
 <body>
 
@@ -114,1011 +84,964 @@
     <div class="alert alert-light border d-flex flex-wrap align-items-center justify-content-between">
       <div class="mb-2 mb-sm-0"><strong>Resources:</strong></div>
       <div class="d-flex flex-wrap">
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/">Book</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#chapters">Chapters</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#resources">Data</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#resources">Code</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/files/">Files</a>
-      <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/images/">Images</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/">Book</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#chapters">Chapters</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#resources">Data</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/#resources">Code</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/files/">Files</a>
+        <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="https://kennethbunker.github.io/theseus/images/">Images</a>
       </div>
     </div>
 
+    <div class="container">
 
-
-   <div class="container">
-    <!-- Chapter 2 -->
-    <section id="ch2" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 2 - The 1980 Constitution</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Allende.jpeg" target="_blank">
-              <img src="2. Allende.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Salvador Allende (1970-1973)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Junta.jpeg" target="_blank">
-              <img src="2. Junta.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Junta<br><small><em>(Getty)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Pinochet.jpeg" target="_blank">
-              <img src="2. Pinochet.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Augusto Pinochet (1973-1990)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>      
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Guzman.jpeg" target="_blank">
-              <img src="2. Guzman.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Jaime Guzmán<br><small><em>(Emol)</em></small></figcaption>
-          </figure>
-        </div>  
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Comision Ortuzar.jpeg" target="_blank">
-              <img src="2. Comision Ortuzar.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Comisión Ortúzar<br><small><em>(Fundación Jaime Guzmán)</em></small></figcaption>
-          </figure>
-        </div>  
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="2. Pleb1988.jpeg" target="_blank">
-              <img src="2. Pleb1988.jpeg" class="thumb" alt="1988">
-            </a>
-            <figcaption>The 1988 Plebiscite<br><small><em>(Alvaro Hoppe Guiñez)</em></small></figcaption>
-          </figure>
-        </div>  
-    </div>
-    </section>
-
-
-    <!-- Chapter 3 -->
-    <section id="ch3" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 3 - Neoliberalism: Problem or solution?</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="3. Chicago Boys.jpeg" target="_blank">
-              <img src="3. Chicago Boys.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Chicago Boys<br><small><em>(Marxsur)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="3. Friedman.jpeg" target="_blank">
-              <img src="3. Friedman.jpeg" class="thumb" alt="Friedman">
-            </a>
-            <figcaption>Milton Friedman with Augusto Pinochet (1975)<br><small><em>(Norberto Barreto / La Ventana Rota)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="3. Kissinger.jpeg" target="_blank">
-              <img src="3. Kissinger.jpeg" class="thumb" alt="Kissinger">
-            </a>
-            <figcaption>Henry Kissinger with Augusto Pinochet (1976)<br><small><em>(Wikimedia Commons)</em></small></figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 4 -->
-    <section id="ch4" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 4 — Two decades of stability</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Aylwin.jpeg" target="_blank">
-              <img src="4. Aylwin.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Patricio Aylwin (1990-1994)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Frei.jpeg" target="_blank">
-              <img src="4. Frei.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Eduardo Frei (1994-2000)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Lagos.jpeg" target="_blank">
-              <img src="4. Lagos.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Ricardo Lagos (2000-2006)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Bachelet.jpeg" target="_blank">
-              <img src="4. Bachelet.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Michelle Bachelet (2006-2010)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Constitucion Lagos.jpeg" target="_blank">
-              <img src="4. Constitucion Lagos.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Constitución (2005)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="4. Escalona.jpeg" target="_blank">
-              <img src="4. Escalona.jpeg" class="thumb" alt="2005">
-            </a>
-            <figcaption>Camilo Escalona<br><small><em>(Youtube / @telodamus)</em></small></figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- Chapter 5 -->
-    <section id="ch5" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 5 — The Paradox of Progress</h2>
-      <div class="row">
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="5. Chile Slums.jpeg" target="_blank">
-              <img src="5. Chile Slums.jpeg" class="thumb" alt="OCDE">
-            </a>
-            <figcaption><em>Campamento</em> in Santiago, Chile.<br><small><em>(Catcomm)</em></small></figcaption>
-          </figure>
-        </div>
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="5. Chile OCDE.jpeg" target="_blank">
-              <img src="5. Chile OCDE.jpeg" class="thumb" alt="OCDE">
-            </a>
-            <figcaption>Michelle Bachelet (and Andrés Velasco) accept invitation to join OCDE from Secretary General José Ángel Gurría.<br><small><em>(EFE)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="5. Santiago.jpeg" target="_blank">
-              <img src="5. Santiago.jpeg" class="thumb" alt="Sanhattan">
-            </a>
-            <figcaption><em>Sanhattan</em> in Santiago, Chile<br><small><em>(iStock / tifonimages)</em></small></figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 8 -->
-    <section id="ch8" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 8 — A rupturist discourse</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Bachelet2.jpeg" target="_blank">
-              <img src="8. Bachelet2.jpeg" class="thumb" alt="Michelle Bachelet (2014-2018)">
-            </a>
-            <figcaption>Michelle Bachelet (2014-2018)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Proceso constitucional 2015.jpeg" target="_blank">
-              <img src="8. Proceso constitucional 2015.jpeg" class="thumb" alt="2015">
-            </a>
-            <figcaption>Constitutional Process 2015-2018<br><small><em>(Government of Chile /Senama)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Piñera2.jpeg" target="_blank">
-              <img src="8. Piñera2.jpeg" class="thumb" alt="Sebastián Piñera (2018-2022)">
-            </a>
-            <figcaption>Sebastián Piñera (2018-2022)<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Marcha Paraguas.jpeg" target="_blank">
-              <img src="8. Marcha Paraguas.jpeg" class="thumb" alt="Marcha de los Paraguas">
-            </a>
-            <figcaption>Marcha de los Paraguas (2006)<br><small><em>(Radio Infinita)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Revolucion Pinguina.jpeg" target="_blank">
-              <img src="8. Revolucion Pinguina.jpeg" class="thumb" alt="Revolución Pinguina ">
-            </a>
-            <figcaption>Revolución Pinguina (2011)<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="8. Estudiantes.jpeg" target="_blank">
-              <img src="8. Estudiantes.jpeg" class="thumb" alt="Estudiantes">
-            </a>
-            <figcaption>Student leaders: Camila Vallejo, Giorgio Jackson, and Gabriel Boric<br><small><em>(El Mostrador)</em></small></figcaption>
-          </figure>
-        </div>
-  </div>
-</section>
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-    <!-- Chapter 9 -->
-    <section id="ch9" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 9 — October 18, 2019</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. No estamos en guerra.jpeg" target="_blank">
-              <img src="9. No estamos en guerra.jpeg" class="thumb" alt="No estamos en guerra">
-            </a>
-            <figcaption>"No estamos en guerra"<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. La Marcha mas Grande.jpeg" target="_blank">
-              <img src="9. La Marcha mas Grande.jpeg" class="thumb" alt="La Marcha más Grande">
-            </a>
-            <figcaption>"La Marcha más Grande"<br><small><em>(BBC / Susana Hidalgo)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Boric.jpeg" target="_blank">
-              <img src="9. Boric.jpeg" class="thumb" alt="La Marcha más Grande">
-            </a>
-            <figcaption>Deputy Gabriel Boric in Plaza Baquedano<br><small><em>(Agencia Uno / La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Violador.jpeg" target="_blank">
-              <img src="9. Violador.jpeg" class="thumb" alt="No estamos en guerra">
-            </a>
-            <figcaption>"Un violador en tu camino"<br><small><em>(Martin Bernetti/AFP via Getty Images)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Treinta Pesos.jpeg" target="_blank">
-              <img src="9. Treinta Pesos.jpeg" class="thumb" alt="ACAB">
-            </a>
-            <figcaption>"No son treinta pesos, son treinta años"<br><small><em>(Kaosenlared)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Dignidad.jpeg" target="_blank">
-              <img src="9. Dignidad.jpeg" class="thumb" alt="Dignidad">
-            </a>
-            <figcaption>"Dignidad"<br><small><em>(Página 19)</em></small></figcaption>
-          </figure>
-        </div>
-
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Baila.jpeg" target="_blank">
-              <img src="9. Baila.jpeg" class="thumb" alt="Baila">
-            </a>
-            <figcaption>"El que no baila, no pasa"<br><small><em>(Contexto / Agencia UNO)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Perro Matapacos.jpeg" target="_blank">
-              <img src="9. Perro Matapacos.jpeg" class="thumb" alt="Depolo">
-            </a>
-            <figcaption>"Perro Matapacos"<br><small><em>(Juan Pablo Cardenas)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. ACAB.jpeg" target="_blank">
-              <img src="9. ACAB.jpeg" class="thumb" alt="ACAB">
-            </a>
-            <figcaption>ACAB<br><small><em>(Resumen Latinoamericano)</em></small></figcaption>
-          </figure>
-        </div>
-
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Tumba Neoliberalismo.jpeg" target="_blank">
-              <img src="9. Tumba Neoliberalismo.jpeg" class="thumb" alt="No estamos en guerra">
-            </a>
-            <figcaption>"Chile será la tumba del neoliberalismo"<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Neoliberales.jpeg" target="_blank">
-              <img src="9. Neoliberales.jpeg" class="thumb" alt="ACAB">
-            </a>
-            <figcaption>"No más Neoliberales"<br><small><em>(La Razón)</em></small></figcaption>
-          </figure>
-        </div>
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Piñera.jpeg" target="_blank">
-              <img src="9. Piñera.jpeg" class="thumb" alt="ACAB">
-            </a>
-            <figcaption>"Piñera Asesino"<br><small><em>(Qué Pasa)</em></small></figcaption>
-          </figure>
-        </div>
-
-<div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Resistencia.jpeg" target="_blank">
-              <img src="9. Resistencia.jpeg" class="thumb" alt="Resistencia">
-            </a>
-            <figcaption>"La primera línea"<br><small><em>(Pablo Rojas Madariaga/NurPhoto/PA Image)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Iglesia.jpeg" target="_blank">
-              <img src="9. Iglesia.jpeg" class="thumb" alt="Iglesia">
-            </a>
-            <figcaption>San Francisco de Borja Church<br><small><em>(Instagram / @peppadelkaos)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="9. Iglesia2.jpeg" target="_blank">
-              <img src="9. Iglesia2.jpeg" class="thumb" alt="Iglesia">
-            </a>
-            <figcaption>Iglesia de la Asunción<br><small><em>(El Mostrador)</em></small></figcaption>
-          </figure>
-        </div>
-    </div>
-</section>
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 10 -->
-    <section id="ch10" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 10 — The constitutional design</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="10.1.1. The agreement 1.jpeg" target="_blank">
-              <img src="10.1.1. The agreement 1.jpeg" class="thumb" alt="The agreement 1">
-            </a>
-            <figcaption>Acuerdo por la Paz Social y Nueva Constitución 1<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="10.1.2. The agreement 2 .jpeg" target="_blank">
-              <img src="10.1.2. The agreement 2 .jpeg" class="thumb" alt="The agreement 2">
-            </a>
-            <figcaption>Acuerdo por la Paz Social y Nueva Constitución 2<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="10.2. The announcment.jpeg" target="_blank">
-              <img src="10.2. The announcment.jpeg" class="thumb" alt="The announcement">
-            </a>
-            <figcaption>The first agreement is announced<br><small><em>(La Tercera / Richard Ulloa)</em></small></figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 11 -->
-    <section id="ch11" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 11 — The rise of Gabriel Boric</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. Kast.jpeg" target="_blank">
-              <img src="11. Kast.jpeg" class="thumb" alt="The agreement 1">
-            </a>
-            <figcaption>José Antonio Kast<br><small><em>(El Mercurio)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. Government.jpeg" target="_blank">
-              <img src="11. Government.jpeg" class="thumb" alt="The announcement">
-            </a>
-            <figcaption>Former student leaders, now Ministers and President: Giorgio Jackson, Camila Vallejo, and Gabriel Boric<br><small><em>(Diario UChile)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. First Speech.jpeg" target="_blank">
-              <img src="11. First Speech.jpeg" class="thumb" alt="The announcement">
-            </a>
-            <figcaption>The first speech<br><small><em>(Diario UChile)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. Izkia Siches.jpeg" target="_blank">
-              <img src="11. Izkia Siches.jpeg" class="thumb" alt="The agreement 1">
-            </a>
-            <figcaption>Izkia Siches<br><small><em>(Ex-Ante)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. Catalina Perez.jpeg" target="_blank">
-              <img src="11. Catalina Perez.jpeg" class="thumb" alt="The agreement 2">
-            </a>
-            <figcaption>Catalina Perez<br><small><em>(Radios Regionales)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="11. Monsalve.jpeg" target="_blank">
-              <img src="11. Monsalve.jpeg" class="thumb" alt="The announcement">
-            </a>
-            <figcaption>Manuel Monsalve<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-    </div>
-           </section>
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 12 -->
-    <section id="ch12" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 12 — The (first) Constitutional Convention</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12.1. Inauguracion convencion constitucional.jpeg" target="_blank">
-              <img src="12.1. Inauguracion convencion constitucional.jpeg" class="thumb" alt="Inauguración Convención Constitucional">
-            </a>
-            <figcaption>First Day: Constitutional Convention<br><small><em>(Crónica Digital / PL)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12.2. Elisa Loncon.jpeg" target="_blank">
-              <img src="12.2. Elisa Loncon.jpeg" class="thumb" alt="Elisa Loncón">
-            </a>
-            <figcaption>Elisa Loncon<br><small><em>(Time / Cristian Soto Quiroz)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12.3. La mesa.jpeg" target="_blank">
-              <img src="12.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.12)">
-            </a>
-            <figcaption>Elisa Loncon and Jaime Bassa<br><small><em>(Twitter / @Jaime_Bassa)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12.4. Dinosours.jpeg" target="_blank">
-              <img src="12.4. Dinosours.jpeg" class="thumb" alt="Dinosours">
-            </a>
-            <figcaption>The plenary<br><small><em>(Instagram / @bailapikachu.oficial)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12. Guitarra.jpeg" target="_blank">
-              <img src="12. Guitarra.jpeg" class="thumb" alt="Saumerio">
-            </a>
-            <figcaption>Nicolás Muñoz<br><small><em>(Agencia Uno)</em></small></figcaption>
-          </figure>
-        </div>
+      <!-- Chapter 2 -->
+      <section id="ch2" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 2 - The 1980 Constitution</h2>
+        <div class="row">
           <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12. Saumerio.jpeg" target="_blank">
-              <img src="12. Saumerio.jpeg" class="thumb" alt="Saumerio">
-            </a>
-            <figcaption>Outisde the assembly<br><small><em>(CNN Chile)</em></small></figcaption>
-          </figure>
-        </div>
+            <figure>
+              <a href="2. Allende.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Allende.jpeg" class="thumb" alt="Salvador Allende (1970-1973)">
+              </a>
+              <figcaption>Salvador Allende (1970-1973)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
           <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12. Presos Revuelta.jpeg" target="_blank">
-              <img src="12. Presos Revuelta.jpeg" class="thumb" alt="Presos">
-            </a>
-            <figcaption>Outisde the assembly 2<br><small><em>(La Izquierda Diario)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12. Pelado Vade.jpeg" target="_blank">
-              <img src="12. Pelado Vade.jpeg" class="thumb" alt="PeladoVade">
-            </a>
-            <figcaption>Rodrigo Rojas Vade<br><small><em>(Instagram / @peladovade)</em></small></figcaption>
-          </figure>
-        </div>
-           <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="12. Proposal.jpeg" target="_blank">
-              <img src="12. Proposal.jpeg" class="thumb" alt="Saumerio">
-            </a>
-            <figcaption>The first proposal<br><small><em>(Marcelo Hernandez/Getty Images)</em></small></figcaption>
-          </figure>
-        </div>
-    </div>
-         </section>
-
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 14 -->
-    <section id="ch14" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 14 — Constitutional resurrection</h2>
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. Acuerdo por Chile 1.png" target="_blank">
-              <img src="14. Acuerdo por Chile 1.png" class="thumb" alt="Acuerdo por Chile 1">
-            </a>
-            <figcaption>Acuerdo por Chile 1<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. Acuerdo por Chile 2.png" target="_blank">
-              <img src="14. Acuerdo por Chile 2.png" class="thumb" alt="Acuerdo por Chile 2">
-            </a>
-            <figcaption>Acuerdo por Chile 2<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. Acuerdo por Chile 3.png" target="_blank">
-              <img src="14. Acuerdo por Chile 3.png" class="thumb" alt="Acuerdo por Chile 3">
-            </a>
-            <figcaption>Acuerdo por Chile 3<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. Acuerdo por Chile 4.png" target="_blank">
-              <img src="14. Acuerdo por Chile 4.png" class="thumb" alt="Acuerdo por Chile 4">
-            </a>
-            <figcaption>Acuerdo por Chile 4<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. Acuerdo por Chile 5.png" target="_blank">
-              <img src="14. Acuerdo por Chile 5.png" class="thumb" alt="Acuerdo por Chile 5">
-            </a>
-            <figcaption>Acuerdo por Chile 5<br><small><em>(BCN)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="14. The announcement.jpeg" target="_blank">
-              <img src="14. The announcement.jpeg" class="thumb" alt="14. The announcement">
-            </a>
-            <figcaption>The second agreement is announced<br><small><em>(Reuters)</em></small></figcaption>
-          </figure>
-        </div>
-  </section>
-
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 15 -->
-    <section id="ch15" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 15 — From Instability to Realignment</h2>
-      <div class="row">
-    <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Hambre.jpeg" target="_blank">
-              <img src="15. Hambre.jpeg" class="thumb" alt="Depolo">
-            </a>
-            <figcaption>"Hambre"<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Depolo.jpeg" target="_blank">
-              <img src="15. Depolo.jpeg" class="thumb" alt="Depolo">
-            </a>
-            <figcaption>Sebastián Depolo<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Toha.jpeg" target="_blank">
-              <img src="15. Toha.jpeg" class="thumb" alt="Jara">
-            </a>
-            <figcaption>Carolina Tohá on the border<br><small><em>(Publimetro)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Duran.jpeg" target="_blank">
-              <img src="15. Duran.jpeg" class="thumb" alt="Duran">
-            </a>
-            <figcaption>Gonzalo Durán<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Jara.jpeg" target="_blank">
-              <img src="15. Jara.jpeg" class="thumb" alt="Jara">
-            </a>
-            <figcaption>Jeannette Jara<br><small><em>(El Líbero)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Crispi.jpeg" target="_blank">
-              <img src="15. Crispi.jpeg" class="thumb" alt="Crispi">
-            </a>
-            <figcaption>Miguel Crispi<br><small><em>(Ex Ante / Agencia Uno)</em></small></figcaption>
-          </figure>
-        </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. First Retiro.jpeg" target="_blank">
-              <img src="15. First Retiro.jpeg" class="thumb" alt="Depolo">
-            </a>
-            <figcaption>First Pension Funds Withdral<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-    <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Second Retiro.jpeg" target="_blank">
-              <img src="15. Second Retiro.jpeg" class="thumb" alt="Duran">
-            </a>
-            <figcaption>Second Pension Funds Withdral<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-       <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="15. Third Retiro.jpeg" target="_blank">
-              <img src="15. Third Retiro.jpeg" class="thumb" alt="Jara">
-            </a>
-            <figcaption>Third Pension Funds Withdral<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-    </div>
-</section>
-
-
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
-
-
-    <!-- Chapter 16 -->
-    <section id="ch16" class="chapter-anchor">
-      <h2 class="h5 chapter-header">Chapter 16 — The (second) Constitutional Council</h2>
-      <div class="row">
-         <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16. Comite Tecnico de Admisibilidad.jpeg" target="_blank">
-              <img src="16. Comite Tecnico de Admisibilidad.jpeg" class="thumb" alt="Consejo Constitucional pleno">
-            </a>
-            <figcaption>Technical Admisibility Committee<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
-          </figure>
-        </div>
-      <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16.1. Consejo Constitucional Expertos.jpeg" target="_blank">
-              <img src="16.1. Consejo Constitucional Expertos.jpeg" class="thumb" alt="Consejo Constitucional Expertos">
-            </a>
-            <figcaption>Experts Committee<br><small><em>(La Tercera)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16.2. Beatriz Hevia.jpeg" target="_blank">
-              <img src="16.2. Beatriz Hevia.jpeg" class="thumb" alt="Beatriz Hevia">
-            </a>
-            <figcaption>Beatriz Hevia<br><small><em>(El Mercurio)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16.3. La mesa.jpeg" target="_blank">
-              <img src="16.3. La mesa.jpeg" class="thumb" alt="La mesa (Ch.16)">
-            </a>
-            <figcaption>Beatriz Hevia and Aldo Valle<br><small><em>(Twitter / @Procesoconsti23)</em></small></figcaption>
-          </figure>
-        </div>
-        <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16.4. Consejo Constitucional pleno.jpeg" target="_blank">
-              <img src="16.4. Consejo Constitucional pleno.jpeg" class="thumb" alt="Consejo Constitucional pleno">
-            </a>
-            <figcaption>The plenary<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
-          </figure>
-           </div>
+            <figure>
+              <a href="2. Junta.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Junta.jpeg" class="thumb" alt="Junta">
+              </a>
+              <figcaption>Junta<br><small><em>(Getty)</em></small></figcaption>
+            </figure>
+          </div>
           <div class="col-sm-6 col-md-4 mb-4">
-          <figure>
-            <a href="16. Proposal.jpeg" target="_blank">
-              <img src="16. Proposal.jpeg" class="thumb" alt="Second proposal">
-            </a>
-            <figcaption>The second proposal<br><small><em>(Radio Pauta)</em></small></figcaption>
-          </figure>
+            <figure>
+              <a href="2. Pinochet.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Pinochet.jpeg" class="thumb" alt="Augusto Pinochet (1973-1990)">
+              </a>
+              <figcaption>Augusto Pinochet (1973-1990)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="2. Guzman.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Guzman.jpeg" class="thumb" alt="Jaime Guzmán">
+              </a>
+              <figcaption>Jaime Guzmán<br><small><em>(Emol)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="2. Comision Ortuzar.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Comision Ortuzar.jpeg" class="thumb" alt="Comisión Ortúzar">
+              </a>
+              <figcaption>Comisión Ortúzar<br><small><em>(Fundación Jaime Guzmán)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="2. Pleb1988.jpeg" class="glightbox" data-gallery="ch2">
+                <img src="2. Pleb1988.jpeg" class="thumb" alt="The 1988 Plebiscite">
+              </a>
+              <figcaption>The 1988 Plebiscite<br><small><em>(Alvaro Hoppe Guiñez)</em></small></figcaption>
+            </figure>
+          </div>
         </div>
-    </div>
-</section>
+      </section>
 
+      <!-- Chapter 3 -->
+      <section id="ch3" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 3 - Neoliberalism: Problem or solution?</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="3. Chicago Boys.jpeg" class="glightbox" data-gallery="ch3">
+                <img src="3. Chicago Boys.jpeg" class="thumb" alt="Chicago Boys">
+              </a>
+              <figcaption>Chicago Boys<br><small><em>(Marxsur)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="3. Friedman.jpeg" class="glightbox" data-gallery="ch3">
+                <img src="3. Friedman.jpeg" class="thumb" alt="Milton Friedman with Augusto Pinochet (1975)">
+              </a>
+              <figcaption>Milton Friedman with Augusto Pinochet (1975)<br><small><em>(Norberto Barreto / La Ventana Rota)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="3. Kissinger.jpeg" class="glightbox" data-gallery="ch3">
+                <img src="3. Kissinger.jpeg" class="thumb" alt="Henry Kissinger with Augusto Pinochet (1976)">
+              </a>
+              <figcaption>Henry Kissinger with Augusto Pinochet (1976)<br><small><em>(Wikimedia Commons)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
 
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
 
-<!-- Jump to chapters -->
-<div class="alert alert-light border jumpbar" id="chapters">
-  <div class="d-flex flex-wrap align-items-center gap-2">
-    <strong class="mr-2">Jump to chapter:</strong>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
-    <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
-  </div>
-</div>
+      <!-- Chapter 4 -->
+      <section id="ch4" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 4 — Two decades of stability</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Aylwin.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Aylwin.jpeg" class="thumb" alt="Patricio Aylwin (1990-1994)">
+              </a>
+              <figcaption>Patricio Aylwin (1990-1994)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Frei.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Frei.jpeg" class="thumb" alt="Eduardo Frei (1994-2000)">
+              </a>
+              <figcaption>Eduardo Frei (1994-2000)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Lagos.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Lagos.jpeg" class="thumb" alt="Ricardo Lagos (2000-2006)">
+              </a>
+              <figcaption>Ricardo Lagos (2000-2006)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Bachelet.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Bachelet.jpeg" class="thumb" alt="Michelle Bachelet (2006-2010)">
+              </a>
+              <figcaption>Michelle Bachelet (2006-2010)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Constitucion Lagos.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Constitucion Lagos.jpeg" class="thumb" alt="Constitución (2005)">
+              </a>
+              <figcaption>Constitución (2005)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="4. Escalona.jpeg" class="glightbox" data-gallery="ch4">
+                <img src="4. Escalona.jpeg" class="thumb" alt="Camilo Escalona">
+              </a>
+              <figcaption>Camilo Escalona<br><small><em>(Youtube / @telodamus)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Chapter 5 -->
+      <section id="ch5" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 5 — The Paradox of Progress</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="5. Chile Slums.jpeg" class="glightbox" data-gallery="ch5">
+                <img src="5. Chile Slums.jpeg" class="thumb" alt="Campamento in Santiago">
+              </a>
+              <figcaption><em>Campamento</em> in Santiago, Chile.<br><small><em>(Catcomm)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="5. Chile OCDE.jpeg" class="glightbox" data-gallery="ch5">
+                <img src="5. Chile OCDE.jpeg" class="thumb" alt="OCDE invitation">
+              </a>
+              <figcaption>Michelle Bachelet (and Andrés Velasco) accept invitation to join OCDE from Secretary General José Ángel Gurría.<br><small><em>(EFE)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="5. Santiago.jpeg" class="glightbox" data-gallery="ch5">
+                <img src="5. Santiago.jpeg" class="thumb" alt="Sanhattan in Santiago, Chile">
+              </a>
+              <figcaption><em>Sanhattan</em> in Santiago, Chile<br><small><em>(iStock / tifonimages)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 8 -->
+      <section id="ch8" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 8 — A rupturist discourse</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Bachelet2.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Bachelet2.jpeg" class="thumb" alt="Michelle Bachelet (2014-2018)">
+              </a>
+              <figcaption>Michelle Bachelet (2014-2018)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Proceso constitucional 2015.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Proceso constitucional 2015.jpeg" class="thumb" alt="Constitutional Process 2015-2018">
+              </a>
+              <figcaption>Constitutional Process 2015-2018<br><small><em>(Government of Chile / Senama)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Piñera2.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Piñera2.jpeg" class="thumb" alt="Sebastián Piñera (2018-2022)">
+              </a>
+              <figcaption>Sebastián Piñera (2018-2022)<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Marcha Paraguas.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Marcha Paraguas.jpeg" class="thumb" alt="Marcha de los Paraguas (2006)">
+              </a>
+              <figcaption>Marcha de los Paraguas (2006)<br><small><em>(Radio Infinita)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Revolucion Pinguina.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Revolucion Pinguina.jpeg" class="thumb" alt="Revolución Pinguina (2011)">
+              </a>
+              <figcaption>Revolución Pinguina (2011)<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="8. Estudiantes.jpeg" class="glightbox" data-gallery="ch8">
+                <img src="8. Estudiantes.jpeg" class="thumb" alt="Student leaders: Camila Vallejo, Giorgio Jackson, and Gabriel Boric">
+              </a>
+              <figcaption>Student leaders: Camila Vallejo, Giorgio Jackson, and Gabriel Boric<br><small><em>(El Mostrador)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 9 -->
+      <section id="ch9" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 9 — October 18, 2019</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. No estamos en guerra.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. No estamos en guerra.jpeg" class="thumb" alt="No estamos en guerra">
+              </a>
+              <figcaption>"No estamos en guerra"<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. La Marcha mas Grande.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. La Marcha mas Grande.jpeg" class="thumb" alt="La Marcha más Grande">
+              </a>
+              <figcaption>"La Marcha más Grande"<br><small><em>(BBC / Susana Hidalgo)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Boric.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Boric.jpeg" class="thumb" alt="Deputy Gabriel Boric in Plaza Baquedano">
+              </a>
+              <figcaption>Deputy Gabriel Boric in Plaza Baquedano<br><small><em>(Agencia Uno / La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Violador.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Violador.jpeg" class="thumb" alt="Un violador en tu camino">
+              </a>
+              <figcaption>"Un violador en tu camino"<br><small><em>(Martin Bernetti/AFP via Getty Images)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Treinta Pesos.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Treinta Pesos.jpeg" class="thumb" alt="No son treinta pesos, son treinta años">
+              </a>
+              <figcaption>"No son treinta pesos, son treinta años"<br><small><em>(Kaosenlared)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Dignidad.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Dignidad.jpeg" class="thumb" alt="Dignidad">
+              </a>
+              <figcaption>"Dignidad"<br><small><em>(Página 19)</em></small></figcaption>
+            </figure>
+          </div>
+
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Baila.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Baila.jpeg" class="thumb" alt="El que no baila, no pasa">
+              </a>
+              <figcaption>"El que no baila, no pasa"<br><small><em>(Contexto / Agencia UNO)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Perro Matapacos.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Perro Matapacos.jpeg" class="thumb" alt="Perro Matapacos">
+              </a>
+              <figcaption>"Perro Matapacos"<br><small><em>(Juan Pablo Cardenas)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. ACAB.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. ACAB.jpeg" class="thumb" alt="ACAB">
+              </a>
+              <figcaption>ACAB<br><small><em>(Resumen Latinoamericano)</em></small></figcaption>
+            </figure>
+          </div>
+
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Tumba Neoliberalismo.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Tumba Neoliberalismo.jpeg" class="thumb" alt="Chile será la tumba del neoliberalismo">
+              </a>
+              <figcaption>"Chile será la tumba del neoliberalismo"<br><small><em>(YouTube / Galería CIMA)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Neoliberales.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Neoliberales.jpeg" class="thumb" alt="No más Neoliberales">
+              </a>
+              <figcaption>"No más Neoliberales"<br><small><em>(La Razón)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Piñera.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Piñera.jpeg" class="thumb" alt="Piñera Asesino">
+              </a>
+              <figcaption>"Piñera Asesino"<br><small><em>(Qué Pasa)</em></small></figcaption>
+            </figure>
+          </div>
+
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Resistencia.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Resistencia.jpeg" class="thumb" alt="La primera línea">
+              </a>
+              <figcaption>"La primera línea"<br><small><em>(Pablo Rojas Madariaga/NurPhoto/PA Image)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Iglesia.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Iglesia.jpeg" class="thumb" alt="San Francisco de Borja Church">
+              </a>
+              <figcaption>San Francisco de Borja Church<br><small><em>(Instagram / @peppadelkaos)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="9. Iglesia2.jpeg" class="glightbox" data-gallery="ch9">
+                <img src="9. Iglesia2.jpeg" class="thumb" alt="Iglesia de la Asunción">
+              </a>
+              <figcaption>Iglesia de la Asunción<br><small><em>(El Mostrador)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 10 -->
+      <section id="ch10" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 10 — The constitutional design</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="10.1.1. The agreement 1.jpeg" class="glightbox" data-gallery="ch10">
+                <img src="10.1.1. The agreement 1.jpeg" class="thumb" alt="Acuerdo por la Paz Social y Nueva Constitución 1">
+              </a>
+              <figcaption>Acuerdo por la Paz Social y Nueva Constitución 1<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="10.1.2. The agreement 2 .jpeg" class="glightbox" data-gallery="ch10">
+                <img src="10.1.2. The agreement 2 .jpeg" class="thumb" alt="Acuerdo por la Paz Social y Nueva Constitución 2">
+              </a>
+              <figcaption>Acuerdo por la Paz Social y Nueva Constitución 2<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="10.2. The announcment.jpeg" class="glightbox" data-gallery="ch10">
+                <img src="10.2. The announcment.jpeg" class="thumb" alt="The first agreement is announced">
+              </a>
+              <figcaption>The first agreement is announced<br><small><em>(La Tercera / Richard Ulloa)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 11 -->
+      <section id="ch11" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 11 — The rise of Gabriel Boric</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. Kast.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. Kast.jpeg" class="thumb" alt="José Antonio Kast">
+              </a>
+              <figcaption>José Antonio Kast<br><small><em>(El Mercurio)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. Government.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. Government.jpeg" class="thumb" alt="Former student leaders Government">
+              </a>
+              <figcaption>Former student leaders, now Ministers and President: Giorgio Jackson, Camila Vallejo, and Gabriel Boric<br><small><em>(Diario UChile)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. First Speech.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. First Speech.jpeg" class="thumb" alt="The first speech">
+              </a>
+              <figcaption>The first speech<br><small><em>(Diario UChile)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. Izkia Siches.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. Izkia Siches.jpeg" class="thumb" alt="Izkia Siches">
+              </a>
+              <figcaption>Izkia Siches<br><small><em>(Ex-Ante)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. Catalina Perez.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. Catalina Perez.jpeg" class="thumb" alt="Catalina Perez">
+              </a>
+              <figcaption>Catalina Perez<br><small><em>(Radios Regionales)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="11. Monsalve.jpeg" class="glightbox" data-gallery="ch11">
+                <img src="11. Monsalve.jpeg" class="thumb" alt="Manuel Monsalve">
+              </a>
+              <figcaption>Manuel Monsalve<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 12 -->
+      <section id="ch12" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 12 — The (first) Constitutional Convention</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12.1. Inauguracion convencion constitucional.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12.1. Inauguracion convencion constitucional.jpeg" class="thumb" alt="Inauguración Convención Constitucional">
+              </a>
+              <figcaption>First Day: Constitutional Convention<br><small><em>(Crónica Digital / PL)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12.2. Elisa Loncon.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12.2. Elisa Loncon.jpeg" class="thumb" alt="Elisa Loncón">
+              </a>
+              <figcaption>Elisa Loncon<br><small><em>(Time / Cristian Soto Quiroz)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12.3. La mesa.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12.3. La mesa.jpeg" class="thumb" alt="La mesa">
+              </a>
+              <figcaption>Elisa Loncon and Jaime Bassa<br><small><em>(Twitter / @Jaime_Bassa)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12.4. Dinosours.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12.4. Dinosours.jpeg" class="thumb" alt="The plenary">
+              </a>
+              <figcaption>The plenary<br><small><em>(Instagram / @bailapikachu.oficial)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12. Guitarra.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12. Guitarra.jpeg" class="thumb" alt="Nicolás Muñoz">
+              </a>
+              <figcaption>Nicolás Muñoz<br><small><em>(Agencia Uno)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12. Saumerio.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12. Saumerio.jpeg" class="thumb" alt="Outside the assembly">
+              </a>
+              <figcaption>Outisde the assembly<br><small><em>(CNN Chile)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12. Presos Revuelta.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12. Presos Revuelta.jpeg" class="thumb" alt="Outside the assembly 2">
+              </a>
+              <figcaption>Outisde the assembly 2<br><small><em>(La Izquierda Diario)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12. Pelado Vade.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12. Pelado Vade.jpeg" class="thumb" alt="Rodrigo Rojas Vade">
+              </a>
+              <figcaption>Rodrigo Rojas Vade<br><small><em>(Instagram / @peladovade)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="12. Proposal.jpeg" class="glightbox" data-gallery="ch12">
+                <img src="12. Proposal.jpeg" class="thumb" alt="The first proposal">
+              </a>
+              <figcaption>The first proposal<br><small><em>(Marcelo Hernandez/Getty Images)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 14 -->
+      <section id="ch14" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 14 — Constitutional resurrection</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. Acuerdo por Chile 1.png" class="glightbox" data-gallery="ch14">
+                <img src="14. Acuerdo por Chile 1.png" class="thumb" alt="Acuerdo por Chile 1">
+              </a>
+              <figcaption>Acuerdo por Chile 1<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. Acuerdo por Chile 2.png" class="glightbox" data-gallery="ch14">
+                <img src="14. Acuerdo por Chile 2.png" class="thumb" alt="Acuerdo por Chile 2">
+              </a>
+              <figcaption>Acuerdo por Chile 2<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. Acuerdo por Chile 3.png" class="glightbox" data-gallery="ch14">
+                <img src="14. Acuerdo por Chile 3.png" class="thumb" alt="Acuerdo por Chile 3">
+              </a>
+              <figcaption>Acuerdo por Chile 3<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. Acuerdo por Chile 4.png" class="glightbox" data-gallery="ch14">
+                <img src="14. Acuerdo por Chile 4.png" class="thumb" alt="Acuerdo por Chile 4">
+              </a>
+              <figcaption>Acuerdo por Chile 4<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. Acuerdo por Chile 5.png" class="glightbox" data-gallery="ch14">
+                <img src="14. Acuerdo por Chile 5.png" class="thumb" alt="Acuerdo por Chile 5">
+              </a>
+              <figcaption>Acuerdo por Chile 5<br><small><em>(BCN)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="14. The announcement.jpeg" class="glightbox" data-gallery="ch14">
+                <img src="14. The announcement.jpeg" class="thumb" alt="The second agreement is announced">
+              </a>
+              <figcaption>The second agreement is announced<br><small><em>(Reuters)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 15 -->
+      <section id="ch15" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 15 — From Instability to Realignment</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Hambre.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Hambre.jpeg" class="thumb" alt="Hambre">
+              </a>
+              <figcaption>"Hambre"<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Depolo.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Depolo.jpeg" class="thumb" alt="Sebastián Depolo">
+              </a>
+              <figcaption>Sebastián Depolo<br><small><em>(El Mercurio / Héctor Aravena)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Toha.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Toha.jpeg" class="thumb" alt="Carolina Tohá on the border">
+              </a>
+              <figcaption>Carolina Tohá on the border<br><small><em>(Publimetro)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Duran.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Duran.jpeg" class="thumb" alt="Gonzalo Durán">
+              </a>
+              <figcaption>Gonzalo Durán<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Jara.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Jara.jpeg" class="thumb" alt="Jeannette Jara">
+              </a>
+              <figcaption>Jeannette Jara<br><small><em>(El Líbero)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Crispi.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Crispi.jpeg" class="thumb" alt="Miguel Crispi">
+              </a>
+              <figcaption>Miguel Crispi<br><small><em>(Ex Ante / Agencia Uno)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. First Retiro.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. First Retiro.jpeg" class="thumb" alt="First Pension Funds Withdrawal">
+              </a>
+              <figcaption>First Pension Funds Withdrawal<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Second Retiro.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Second Retiro.jpeg" class="thumb" alt="Second Pension Funds Withdrawal">
+              </a>
+              <figcaption>Second Pension Funds Withdrawal<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="15. Third Retiro.jpeg" class="glightbox" data-gallery="ch15">
+                <img src="15. Third Retiro.jpeg" class="thumb" alt="Third Pension Funds Withdrawal">
+              </a>
+              <figcaption>Third Pension Funds Withdrawal<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Jump to chapters -->
+      <div class="alert alert-light border jumpbar" id="chapters">
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <strong class="mr-2">Jump to chapter:</strong>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch1">1</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch2">2</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch3">3</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch4">4</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch5">5</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch6">6</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch7">7</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch8">8</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch9">9</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch10">10</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch11">11</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch12">12</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch13">13</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch14">14</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch15">15</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch16">16</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch17">17</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch18">18</a>
+          <a class="btn btn-sm btn-outline-primary chapter-btn" href="#ch19">19</a>
+        </div>
+      </div>
+
+      <!-- Chapter 16 -->
+      <section id="ch16" class="chapter-anchor">
+        <h2 class="h5 chapter-header">Chapter 16 — The (second) Constitutional Council</h2>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16. Comite Tecnico de Admisibilidad.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16. Comite Tecnico de Admisibilidad.jpeg" class="thumb" alt="Technical Admissibility Committee">
+              </a>
+              <figcaption>Technical Admissibility Committee<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16.1. Consejo Constitucional Expertos.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16.1. Consejo Constitucional Expertos.jpeg" class="thumb" alt="Experts Committee">
+              </a>
+              <figcaption>Experts Committee<br><small><em>(La Tercera)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16.2. Beatriz Hevia.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16.2. Beatriz Hevia.jpeg" class="thumb" alt="Beatriz Hevia">
+              </a>
+              <figcaption>Beatriz Hevia<br><small><em>(El Mercurio)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16.3. La mesa.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16.3. La mesa.jpeg" class="thumb" alt="Beatriz Hevia and Aldo Valle">
+              </a>
+              <figcaption>Beatriz Hevia and Aldo Valle<br><small><em>(Twitter / @Procesoconsti23)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16.4. Consejo Constitucional pleno.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16.4. Consejo Constitucional pleno.jpeg" class="thumb" alt="Consejo Constitucional plenary">
+              </a>
+              <figcaption>The plenary<br><small><em>(Procesoconstitucional.cl)</em></small></figcaption>
+            </figure>
+          </div>
+          <div class="col-sm-6 col-md-4 mb-4">
+            <figure>
+              <a href="16. Proposal.jpeg" class="glightbox" data-gallery="ch16">
+                <img src="16. Proposal.jpeg" class="thumb" alt="The second proposal">
+              </a>
+              <figcaption>The second proposal<br><small><em>(Radio Pauta)</em></small></figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+    </div> <!-- /container -->
 
     <hr>
     <div class="text-center my-4">
