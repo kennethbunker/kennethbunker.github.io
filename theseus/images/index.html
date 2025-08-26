@@ -68,6 +68,10 @@
     /* Anchor offset */
     .chapter-anchor { scroll-margin-top: 80px; }
   </style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
 </head>
 <body>
 
@@ -120,7 +124,6 @@
     </div>
 
 
-
    <div class="container">
     <!-- Chapter 2 -->
     <section id="ch2" class="chapter-anchor">
@@ -128,8 +131,8 @@
       <div class="row">
         <div class="col-sm-6 col-md-4 mb-4">
           <figure>
-            <a href="2. Allende.jpeg" target="_blank">
-              <img src="2. Allende.jpeg" class="thumb" alt="2005">
+            <a href="2. Allende.jpeg" class="glightbox" data-title="Salvador Allende (1970-1973)">
+            <img src="2. Allende.jpeg" class="thumb" alt="Allende">
             </a>
             <figcaption>Salvador Allende (1970-1973)<br><small><em>(BCN)</em></small></figcaption>
           </figure>
@@ -1123,6 +1126,10 @@
     </div>
   </div>
 </div>
+
+<script>
+  const lightbox = GLightbox({ selector: '.glightbox' });
+</script>
 
 </body>
 </html>
