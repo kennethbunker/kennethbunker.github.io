@@ -119,31 +119,47 @@
 
 <!-- Popup Modal -->
 <div id="bookPopup" style="
-  display:none; 
-  position:fixed; 
-  top:0; left:0; right:0; bottom:0; 
-  background:rgba(0,0,0,0.7); 
-  justify-content:center; 
+  display:none;
+  position:fixed;
+  top:0; left:0; right:0; bottom:0;
+  background:rgba(0,0,0,0.7);
+  justify-content:center;
   align-items:center;
   z-index:9999;
 ">
   <div style="
     background:#fff;
-    padding:25px;
-    border-radius:10px;
-    max-width:400px;
+    border:1px solid #999;
+    border-radius:12px;
+    padding:40px 20px;
+    max-width:420px;
+    width:90%;
     text-align:center;
-    box-shadow:0 0 10px rgba(0,0,0,0.3);
+    box-sizing:border-box;
+    box-shadow:0 0 12px rgba(0,0,0,0.3);
   ">
-    <h2>📘 Check Out My New Book!</h2>
-    <p>This book helped me achieve amazing results — grab your copy today!</p>
-    <a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9#overview" 
-       target="_blank" 
-       style="background:#007bff;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">
-       👉 Buy Now
-    </a>
-    <p style="margin-top:15px;">
-      <a href="#" onclick="document.getElementById('bookPopup').style.display='none';return false;">No thanks</a>
+    <p style="margin:0;">
+      <strong>Chile's Transformation Amidst Crisis:<br>
+      The Theseus Paradox</strong><br><br>
+      <a href="https://kennethbunker.github.io/theseus/" target="_blank" rel="noopener noreferrer">
+        <img src="https://kennethbunker.github.io/img/book1.png" 
+             alt="Book cover" 
+             width="170" height="170" 
+             style="border:none;" 
+             loading="lazy" 
+             decoding="async">
+      </a><br><br>
+      NEW BOOK – 
+      <a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9"
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="text-decoration:none;font-weight:bold;color:#0077cc;">
+         PRE-ORDER NOW
+      </a> – OCTOBER 2025
+    </p>
+    <p style="margin-top:20px;">
+      <a href="#" onclick="document.getElementById('bookPopup').style.display='none';return false;"
+         style="color:#555;text-decoration:underline;">Close</a>
     </p>
   </div>
 </div>
@@ -152,12 +168,12 @@
 window.addEventListener('load', function() {
   setTimeout(function() {
     document.getElementById('bookPopup').style.display = 'flex';
-  }, 2000); // delay popup 2 seconds after page loads
+  }, 2000); // show popup 2 seconds after page load
 });
 </script>
 
 
-  <!-- ✅ FIX: Add real anchor for “Back to top” -->
+
   <a id="top"></a>
 
   <!-- Clickable Top Banner -->
