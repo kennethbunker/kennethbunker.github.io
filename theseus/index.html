@@ -115,6 +115,48 @@
 </head>
 
 <body>
+
+
+<!-- Popup Modal -->
+<div id="bookPopup" style="
+  display:none; 
+  position:fixed; 
+  top:0; left:0; right:0; bottom:0; 
+  background:rgba(0,0,0,0.7); 
+  justify-content:center; 
+  align-items:center;
+  z-index:9999;
+">
+  <div style="
+    background:#fff;
+    padding:25px;
+    border-radius:10px;
+    max-width:400px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,0.3);
+  ">
+    <h2>📘 Check Out My New Book!</h2>
+    <p>This book helped me achieve amazing results — grab your copy today!</p>
+    <a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9#overview" 
+       target="_blank" 
+       style="background:#007bff;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">
+       👉 Buy Now
+    </a>
+    <p style="margin-top:15px;">
+      <a href="#" onclick="document.getElementById('bookPopup').style.display='none';return false;">No thanks</a>
+    </p>
+  </div>
+</div>
+
+<script>
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    document.getElementById('bookPopup').style.display = 'flex';
+  }, 2000); // delay popup 2 seconds after page loads
+});
+</script>
+
+
   <!-- ✅ FIX: Add real anchor for “Back to top” -->
   <a id="top"></a>
 
