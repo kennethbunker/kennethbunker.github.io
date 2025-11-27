@@ -61,26 +61,63 @@
       box-shadow: 0 6px 14px rgba(0,0,0,0.15);
     }
 
-    .media-logo {
-      max-height: 50px;
-      width: auto;
-      margin-right: 20px;
-      display: block;
-    }
-
     .media-item-inner {
       display: flex;
-      align-items: center;
+      align-items: stretch;
       text-align: left;
+    }
+
+    /* Left column: logo area (1/3) */
+    .media-logo-col {
+      flex: 0 0 33%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-right: 15px;
+      box-sizing: border-box;
+    }
+
+    .media-logo {
+      max-width: 100%;
+      max-height: 60px; /* controls visual height of logos */
+      height: auto;
+      width: auto;
+    }
+
+    /* Right column: text area (2/3) with vertical separator */
+    .media-content-col {
+      flex: 0 0 67%;
+      border-left: 1px solid #ddd;
+      padding-left: 20px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .media-content-col h5 {
+      margin-bottom: 4px;
+    }
+    .media-content-col p {
+      margin-bottom: 4px;
     }
 
     @media (max-width: 576px) {
       .media-item-inner {
         flex-direction: column;
-        align-items: flex-start;
       }
-      .media-logo {
-        margin: 0 0 10px 0;
+      .media-logo-col {
+        flex: 0 0 auto;
+        padding-right: 0;
+        margin-bottom: 10px;
+        justify-content: flex-start;
+      }
+      .media-content-col {
+        flex: 0 0 auto;
+        border-left: none;
+        border-top: 1px solid #ddd; /* separator still visible on mobile, but horizontal */
+        padding-left: 0;
+        padding-top: 10px;
       }
     }
   </style>
@@ -232,25 +269,29 @@
       <!-- ========= MEDIA ITEM 1 ========= -->
       <div class="media-card">
         <div class="media-item-inner">
-          <!-- EDIT LOGO + LINK -->
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://kennethbunker.github.io/theseus/img/bloomberg.png"
-                 alt="Bloomberg"
-                 class="media-logo"
-                 loading="lazy"
-                 decoding="async">
-          </a>
+          <!-- LEFT: logo (1/3) -->
+          <div class="media-logo-col">
+            <a href="https://www.bloomberglinea.com/opinion/las-elecciones-en-chile-dan-un-ejemplo-de-buenos-modales/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM/"
+               target="_blank" rel="noopener noreferrer">
+              <img src="https://kennethbunker.github.io/theseus/img/bloomberg.png"
+                   alt="Bloomberg"
+                   class="media-logo"
+                   loading="lazy"
+                   decoding="async">
+            </a>
+          </div>
 
-          <div>
-            <!-- EDIT OUTLET NAME -->
-            <h5 class="mb-1">Bloomberg</h5>
-            <!-- EDIT QUOTE / SUMMARY -->
+          <!-- RIGHT: text (2/3) -->
+          <div class="media-content-col">
+            <h5 class="mb-1">Bloomberg Línea – Opinion Column</h5>
             <p class="mb-1">
-              Mention in Juan Pablo Spinettos Bloomberg column “Las elecciones en Chile dan un ejemplo de buenos modales".
+              Mention in Juan Pablo Spinetto’s Bloomberg column “Las elecciones en Chile dan un ejemplo de buenos modales”.
             </p>
-            <!-- EDIT LINK LABEL + URL -->
             <p class="mb-0">
-              <a href="https://www.bloomberglinea.com/opinion/las-elecciones-en-chile-dan-un-ejemplo-de-buenos-modales/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM/" target="_blank" rel="noopener noreferrer">Read the full article</a>
+              <a href="https://www.bloomberglinea.com/opinion/las-elecciones-en-chile-dan-un-ejemplo-de-buenos-modales/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM/"
+                 target="_blank" rel="noopener noreferrer">
+                Read the full article
+              </a>
             </p>
           </div>
         </div>
@@ -259,25 +300,25 @@
       <!-- ========= MEDIA ITEM 2 ========= -->
       <div class="media-card">
         <div class="media-item-inner">
-          <!-- EDIT LOGO + LINK -->
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://kennethbunker.github.io/theseus/img/lun.png"
-                 alt="The Guardian"
-                 class="media-logo"
-                 loading="lazy"
-                 decoding="async">
-          </a>
+          <div class="media-logo-col">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <img src="https://kennethbunker.github.io/theseus/img/lun.png"
+                   alt="Las Últimas Noticias"
+                   class="media-logo"
+                   loading="lazy"
+                   decoding="async">
+            </a>
+          </div>
 
-          <div>
-            <!-- EDIT OUTLET NAME -->
+          <div class="media-content-col">
             <h5 class="mb-1">Las Últimas Noticias</h5>
-            <!-- EDIT QUOTE / SUMMARY -->
             <p class="mb-1">
-              Interview in Las Últimas Noticias
+              Interview in Las Últimas Noticias about the lessons from Chile’s constitutional process and political realignment.
             </p>
-            <!-- EDIT LINK LABEL + URL -->
             <p class="mb-0">
-              <a href="#" target="_blank" rel="noopener noreferrer">Read the review</a>
+              <a href="#" target="_blank" rel="noopener noreferrer">
+                Read more…
+              </a>
             </p>
           </div>
         </div>
@@ -286,25 +327,25 @@
       <!-- ========= MEDIA ITEM 3 ========= -->
       <div class="media-card">
         <div class="media-item-inner">
-          <!-- EDIT LOGO + LINK -->
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://kennethbunker.github.io/theseus/img/t13.png"
-                 alt="T13"
-                 class="media-logo"
-                 loading="lazy"
-                 decoding="async">
-          </a>
+          <div class="media-logo-col">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <img src="https://kennethbunker.github.io/theseus/img/t13.png"
+                   alt="T13"
+                   class="media-logo"
+                   loading="lazy"
+                   decoding="async">
+            </a>
+          </div>
 
-          <div>
-            <!-- EDIT OUTLET NAME -->
+          <div class="media-content-col">
             <h5 class="mb-1">T13</h5>
-            <!-- EDIT QUOTE / SUMMARY -->
             <p class="mb-1">
-              Interview
+              TV interview discussing Chile’s political crisis, constitutional reform and the arguments developed in the book.
             </p>
-            <!-- EDIT LINK LABEL + URL -->
             <p class="mb-0">
-              <a href="#" target="_blank" rel="noopener noreferrer">Leer la nota completa</a>
+              <a href="#" target="_blank" rel="noopener noreferrer">
+                Ver entrevista
+              </a>
             </p>
           </div>
         </div>
@@ -313,25 +354,25 @@
       <!-- ========= MEDIA ITEM 4 ========= -->
       <div class="media-card">
         <div class="media-item-inner">
-          <!-- EDIT LOGO + LINK -->
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://kennethbunker.github.io/theseus/img/exante.png"
-                 alt="Le Monde"
-                 class="media-logo"
-                 loading="lazy"
-                 decoding="async">
-          </a>
+          <div class="media-logo-col">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+              <img src="https://kennethbunker.github.io/theseus/img/exante.png"
+                   alt="Ex Ante"
+                   class="media-logo"
+                   loading="lazy"
+                   decoding="async">
+            </a>
+          </div>
 
-          <div>
-            <!-- EDIT OUTLET NAME -->
-            <h5 class="mb-1">Ex Ante</h5>
-            <!-- EDIT QUOTE / SUMMARY -->
+          <div class="media-content-col">
+            <h5 class="mb-1">Ex-Ante</h5>
             <p class="mb-1">
-              Interview
+              Interview on the political lessons of the failed constitutional processes and the limits of institutional transformation.
             </p>
-            <!-- EDIT LINK LABEL + URL -->
             <p class="mb-0">
-              <a href="#" target="_blank" rel="noopener noreferrer">Leer la nota completa</a>
+              <a href="#" target="_blank" rel="noopener noreferrer">
+                Leer la nota completa
+              </a>
             </p>
           </div>
         </div>
