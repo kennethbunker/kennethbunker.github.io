@@ -282,16 +282,56 @@ window.addEventListener('load', function() {
 
 
 <!-- ===== PRESS / MEDIA BOX ===== -->
-<div style="border: 1px solid #999; border-radius: 12px; padding: 20px; margin: 20px 0; width: 100%; text-align: center; box-sizing: border-box;">
-  <p style="margin: 0;">
-    <strong>In the Press</strong><br><br>
-    <a href="https://kennethbunker.github.io/theseus/press"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="text-decoration: none; font-weight: bold; color: #0077cc;">
-      Read coverage, interviews &amp; reviews
-    </a>
-  </p>
+<div style="
+  border: 1px solid #999;
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 20px 0;
+  width: 100%;
+  box-sizing: border-box;
+">
+  <div style="
+    display: flex;
+    align-items: center;
+  ">
+
+    <!-- LEFT: BLOOMBERG LOGO -->
+    <div style="
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-right: 20px;
+    ">
+      <img
+        src="https://kennethbunker.github.io/theseus/img/bloomberg.png"
+        alt="Bloomberg"
+        style="max-height: 40px; width: auto; display: block;"
+      >
+    </div>
+
+    <!-- VERTICAL DIVIDER -->
+    <div style="
+      flex: 0 0 1px;
+      align-self: stretch;
+      background: #ddd;
+      margin-right: 20px;
+    "></div>
+
+    <!-- RIGHT: TEXT + LINK -->
+    <div style="flex: 1 1 auto;">
+      <strong style="display:block; margin-bottom:4px;">In the Press</strong>
+      <a
+        href="https://kennethbunker.github.io/theseus/press"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="text-decoration: none; font-weight: bold; color: #0077cc;"
+      >
+        Read Bloomberg coverage, interviews &amp; reviews →
+      </a>
+    </div>
+
+  </div>
 </div>
 
 
