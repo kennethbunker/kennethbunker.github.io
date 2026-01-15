@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPLD · Chilean Political Landscape Dataset</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --blue: #0066CC;
+            --blue-dark: #004080;
+            --black: #000000;
+            --grey-dark: #1a1a1a;
+            --grey-mid: #666666;
+            --grey-light: #e0e0e0;
+            --white: #ffffff;
+        }
+
+        body {
+            font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--white);
+            color: var(--black);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        header {
+            margin-bottom: 4rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--grey-light);
+        }
+
+        .logo {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .tagline {
+            font-size: 1rem;
+            color: var(--grey-mid);
+            font-weight: 300;
+        }
+
+        .description {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--grey-dark);
+            margin-bottom: 3rem;
+            font-weight: 300;
+        }
+
+        .description strong {
+            font-weight: 500;
+            color: var(--black);
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+            padding: 2rem 0;
+            border-top: 1px solid var(--grey-light);
+            border-bottom: 1px solid var(--grey-light);
+        }
+
+        .stat {
+            text-align: left;
+        }
+
+        .stat-number {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--blue);
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            color: var(--grey-mid);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 400;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--grey-mid);
+            margin-bottom: 1.5rem;
+        }
+
+        .link-list {
+            list-style: none;
+        }
+
+        .link-item {
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--grey-light);
+        }
+
+        .link-item:last-child {
+            border-bottom: none;
+        }
+
+        .link-primary {
+            font-size: 1.1rem;
+            color: var(--blue);
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-block;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .link-primary:hover {
+            color: var(--blue-dark);
+            transform: translateX(4px);
+        }
+
+        .link-primary::before {
+            content: '→';
+            position: absolute;
+            left: -1.5rem;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+
+        .link-primary:hover::before {
+            opacity: 1;
+        }
+
+        .link-meta {
+            font-size: 0.9rem;
+            color: var(--grey-mid);
+            margin-top: 0.25rem;
+            font-weight: 300;
+        }
+
+        .code-block {
+            background: var(--grey-dark);
+            color: var(--white);
+            padding: 1.5rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.6;
+            overflow-x: auto;
+            margin-bottom: 1rem;
+        }
+
+        .code-block code {
+            color: var(--white);
+        }
+
+        .code-comment {
+            color: var(--grey-mid);
+        }
+
+        .code-keyword {
+            color: #64B5F6;
+        }
+
+        .code-string {
+            color: #81C784;
+        }
+
+        .citation-box {
+            background: #f5f5f5;
+            border-left: 3px solid var(--blue);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.8;
+        }
+
+        footer {
+            margin-top: 5rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--grey-light);
+            color: var(--grey-mid);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--grey-mid);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        footer a:hover {
+            color: var(--blue);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: var(--blue);
+            color: var(--white);
+            font-size: 0.75rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-radius: 3px;
+            margin-bottom: 1rem;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            .logo {
+                font-size: 2rem;
+            }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+            }
+
+            .stat-number {
+                font-size: 1.5rem;
+            }
+
+            .code-block {
+                font-size: 0.75rem;
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="logo">CPLD</h1>
+            <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+        </header>
+
+        <div class="description">
+            <p>Longitudinal dataset of <strong>district-level electoral outcomes</strong> covering three decades of Chilean democracy. Standardized measures of party system fragmentation, ideological orientation, and institutional change across legislative, regional, and municipal contests.</p>
+        </div>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">5,300+</div>
+                <div class="stat-label">Observations</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">35</div>
+                <div class="stat-label">Years</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">346</div>
+                <div class="stat-label">Districts</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">15+</div>
+                <div class="stat-label">Indicators</div>
+            </div>
+        </div>
+
+        <section class="section">
+            <h2 class="section-title">Data Access</h2>
+            <ul class="link-list">
+                <li class="link-item">
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Download Dataset</a>
+                    <div class="link-meta">Harvard Dataverse · DOI: 10.7910/DVN/NGRY3R</div>
+                </li>
+                <li class="link-item">
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Codebook</a>
+                    <div class="link-meta">Variable definitions and measurement protocols</div>
+                </li>
+                <li class="link-item">
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Replication Files</a>
+                    <div class="link-meta">R scripts and supplementary materials</div>
+                </li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Code Examples</h2>
+            
+            <div class="code-block">
+<span class="code-comment"># Load CPLD dataset</span>
+<span class="code-keyword">library</span>(tidyverse)
+
+cpld <span class="code-keyword">&lt;-</span> <span class="code-keyword">read_csv</span>(<span class="code-string">"cpld_1989_2024.csv"</span>)
+
+<span class="code-comment"># Calculate effective number of parties by year</span>
+cpld <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">group_by</span>(year) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">summarise</span>(mean_enpv = <span class="code-keyword">mean</span>(enpv, na.rm = TRUE))
+            </div>
+
+            <div class="code-block">
+<span class="code-comment"># Analyze fragmentation trends pre/post-reform</span>
+cpld <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">mutate</span>(period = <span class="code-keyword">if_else</span>(year >= 2017, 
+                            <span class="code-string">"Post-Reform"</span>, 
+                            <span class="code-string">"Pre-Reform"</span>)) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = year, y = enpv)) +
+  <span class="code-keyword">geom_point</span>(alpha = 0.3) +
+  <span class="code-keyword">geom_smooth</span>(method = <span class="code-string">"loess"</span>)
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Citation</h2>
+            
+            <div class="citation-box">
+Bunker, Kenneth. 2025. "Decades of democracy: insights into the political landscape of Chile." <em>Humanities and Social Sciences Communications</em> 12, Article 1911.<br><br>
+
+doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--blue);" target="_blank">10.1057/s41599-025-06180-1</a>
+            </div>
+
+            <div class="code-block">
+<span class="code-comment">% BibTeX</span>
+@article{bunker2025decades,
+  title={Decades of democracy: insights into the political landscape of Chile},
+  author={Bunker, Kenneth},
+  journal={Humanities and Social Sciences Communications},
+  volume={12},
+  number={1911},
+  year={2025},
+  publisher={Palgrave},
+  doi={10.1057/s41599-025-06180-1}
+}
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Related Publications</h2>
+            <ul class="link-list">
+                <li class="link-item">
+                    <a href="https://doi.org/10.1057/s41599-025-06180-1" class="link-primary" target="_blank">Decades of Democracy (2025)</a>
+                    <div class="link-meta">Humanities and Social Sciences Communications</div>
+                </li>
+                <li class="link-item">
+                    <a href="#" class="link-primary">Chile's Transformation Amidst Crisis (2025)</a>
+                    <div class="link-meta">Palgrave Macmillan</div>
+                </li>
+                <li class="link-item">
+                    <a href="#" class="link-primary">Challenging Conventional Wisdom in New Democracies (2025)</a>
+                    <div class="link-meta">Election Law Journal: Rules, Politics, and Policy</div>
+                </li>
+                <li class="link-item">
+                    <a href="#" class="link-primary">Mapping Party Systems Over Time (2025)</a>
+                    <div class="link-meta">Journal of Political Ideologies</div>
+                </li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Funding</h2>
+            <p style="color: var(--grey-mid); font-size: 0.95rem;">This work was funded by the Agencia Nacional de Investigación y Desarrollo, ANID, NCS2024_007.</p>
+        </section>
+
+        <footer>
+            <p>Kenneth Bunker · <a href="mailto:kenneth.bunker@uss.cl">kenneth.bunker@uss.cl</a></p>
+            <p style="margin-top: 0.5rem;">Universidad San Sebastián · Universidad de Verona</p>
+            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2025 CPLD · Licensed under CC BY-NC-ND 4.0</p>
+        </footer>
+    </div>
+</body>
+</html>
