@@ -201,31 +201,56 @@
 
                 <h2 class="section-title">Dataset Scope</h2>
 
-                <p>The CPLD includes <strong>over 5,300 observations</strong> across:</p>
+                <p>The CPLD includes <strong>5,301 observations across 42 variables</strong> covering:</p>
 
                 <ul>
-                    <li>Legislative elections (Chamber of Deputies and Senate)</li>
-                    <li>Regional elections (governors and regional councils)</li>
-                    <li>Municipal elections (mayors and municipal councils)</li>
+                    <li><strong>Legislative elections:</strong> Chamber of Deputies (Diputados) and Senate (Senadores)</li>
+                    <li><strong>Regional elections:</strong> Governors (Gobernadores) and regional councils (Cores)</li>
+                    <li><strong>Municipal elections:</strong> Mayors (Alcaldes) and municipal councils (Concejales)</li>
+                    <li><strong>Constitutional Conventions:</strong> Constituyentes (2022 and 2023)</li>
                 </ul>
 
                 <div class="highlight-box">
-                    <strong>Coverage:</strong> 346 districts · 35 years · 15+ indicators · Multiple levels of government
+                    <strong>Current version:</strong> v1.0 · <strong>Size:</strong> 1.8MB · <strong>Updated:</strong> November 2025
                 </div>
 
                 <h2 class="section-title">Key Variables</h2>
 
-                <p>For each election, the dataset records:</p>
+                <p>The dataset includes 42 standardized variables organized into several categories:</p>
 
+                <p><strong>Electoral Structure:</strong></p>
                 <ul>
-                    <li>Electoral system and contest type</li>
-                    <li>District characteristics (magnitude, assembly size)</li>
-                    <li>Number of candidates and lists (coalitions, parties, independents)</li>
-                    <li>Vote shares and seat allocations</li>
-                    <li>Effective number of parties (ENPv and ENPs)</li>
-                    <li>Disproportionality indices (Rae, Loosemore-Hanby, Gallagher)</li>
-                    <li>Ideological orientation measures</li>
-                    <li>Social diversity indicators</li>
+                    <li>Election type, electoral system, district characteristics</li>
+                    <li>District magnitude (dm), assembly size (as), seat product (sp)</li>
+                    <li>Number of lists, candidates, and independent candidates</li>
+                </ul>
+
+                <p><strong>Party System Indicators:</strong></p>
+                <ul>
+                    <li>Effective number of parties by votes (enpv) and seats (enps)</li>
+                    <li>District-level and national-level ENP measures</li>
+                    <li>Party system nationalization indices (Mainwaring-Jones, Chhibber-Kollman)</li>
+                </ul>
+
+                <p><strong>Disproportionality Indices:</strong></p>
+                <ul>
+                    <li>Rae, Loosemore-Hanby, Lijphart I & II</li>
+                    <li>Gallagher, Cox-Shugart indices</li>
+                </ul>
+
+                <p><strong>Ideological Measures:</strong></p>
+                <ul>
+                    <li>Polarization indices (Dalton) at district and national levels</li>
+                    <li>Average ideological position (av_id)</li>
+                    <li>Minimum and maximum list vote shares</li>
+                </ul>
+
+                <p><strong>Social & Demographic:</strong></p>
+                <ul>
+                    <li>Ethnic fractionalization (ethnic_frac)</li>
+                    <li>Indigenous population percentages (ethnic_number, ethnic_presence)</li>
+                    <li>Valid votes as proxy for district size</li>
+                    <li>Number of subunits (comunas) within districts</li>
                 </ul>
 
                 <h2 class="section-title">Research Applications</h2>
@@ -254,9 +279,19 @@
 
                 <h2 class="section-title">Methodology</h2>
 
-                <p>The dataset was constructed through systematic collection and standardization of electoral results from official sources. All measures follow established comparative politics standards and are documented in the accompanying codebook.</p>
+                <p>The dataset was constructed using R programming language (version 4.2.3) with key packages including codebookr, dplyr, tidyr, readxl, and officer. All electoral results were systematically collected from official sources (SERVEL) and standardized for cross-temporal comparison.</p>
 
-                <p>The hierarchical structure allows for multiple levels of analysis while maintaining consistency across time and space. Variables are coded to facilitate both descriptive and inferential statistical analysis.</p>
+                <p>All measures follow established comparative politics standards with proper attribution:</p>
+                <ul>
+                    <li><strong>ENP calculations:</strong> Laakso & Taagepera (1979)</li>
+                    <li><strong>Disproportionality indices:</strong> Rae (1967), Loosemore & Hanby (1971), Gallagher (1991), Cox & Shugart (1991), Lijphart (1990, 1994)</li>
+                    <li><strong>Polarization:</strong> Dalton (2008)</li>
+                    <li><strong>Nationalization:</strong> Jones & Mainwaring (2003), Chhibber & Kollman (2004)</li>
+                    <li><strong>Ideological positions:</strong> Bunker (2025)</li>
+                    <li><strong>Ethnic fractionalization:</strong> Alesina et al. (2003), Chilean Census data (2002, 2017)</li>
+                </ul>
+
+                <p>The dataset structure allows for hierarchical modeling, spatial analysis, and time-series cross-sectional analysis. Missing values (NA) reflect genuine data unavailability in historical records and are documented in the codebook.</p>
 
                 <h2 class="section-title">Funding & Support</h2>
 
