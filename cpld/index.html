@@ -39,11 +39,13 @@
         }
 
         .top-line {
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
+            position: fixed;
+            top: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% - 4rem);
+            max-width: 900px;
+            height: 1px;
             background: var(--grey-light);
         }
 
@@ -51,19 +53,19 @@
             margin-bottom: 4rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid var(--grey-light);
+            margin-top: 2rem;
         }
 
         .logo-container {
             display: flex;
-            align-items: flex-start;
+            align-items: center;
             gap: 1rem;
             margin-bottom: 1.5rem;
         }
 
         .logo-image {
-            width: auto;
-            height: 100%;
-            max-height: 70px;
+            width: 60px;
+            height: 60px;
             flex-shrink: 0;
         }
 
