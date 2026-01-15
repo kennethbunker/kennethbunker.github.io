@@ -42,6 +42,32 @@
             border-bottom: 1px solid var(--grey-light);
         }
 
+        .nav-tabs {
+            display: flex;
+            gap: 2rem;
+            margin-top: 1.5rem;
+        }
+
+        .nav-tab {
+            font-size: 0.9rem;
+            color: var(--grey-mid);
+            text-decoration: none;
+            font-weight: 400;
+            padding-bottom: 0.25rem;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        .nav-tab:hover {
+            color: var(--blue);
+        }
+
+        .nav-tab.active {
+            color: var(--black);
+            border-bottom-color: var(--blue);
+            font-weight: 500;
+        }
+
         .logo {
             font-family: 'JetBrains Mono', monospace;
             font-size: 2.5rem;
@@ -260,6 +286,11 @@
         <header>
             <h1 class="logo">CPLD</h1>
             <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+            <nav class="nav-tabs">
+                <a href="cpld-landing.html" class="nav-tab active">Home</a>
+                <a href="cpld-about.html" class="nav-tab">About</a>
+                <a href="cpld-contact.html" class="nav-tab">Contact</a>
+            </nav>
         </header>
 
         <div class="description">
@@ -359,19 +390,19 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
             <ul class="link-list">
                 <li class="link-item">
                     <a href="https://doi.org/10.1057/s41599-025-06180-1" class="link-primary" target="_blank">Decades of Democracy (2025)</a>
-                    <div class="link-meta">Humanities and Social Sciences Communications</div>
+                    <div class="link-meta">Humanities and Social Sciences Communications · doi: 10.1057/s41599-025-06180-1</div>
                 </li>
                 <li class="link-item">
-                    <a href="#" class="link-primary">Chile's Transformation Amidst Crisis (2025)</a>
-                    <div class="link-meta">Palgrave Macmillan</div>
+                    <a href="https://doi.org/10.1007/978-3-031-96463-3" class="link-primary" target="_blank">Chile's Transformation Amidst Crisis (2025)</a>
+                    <div class="link-meta">Palgrave Macmillan · doi: 10.1007/978-3-031-96463-3</div>
                 </li>
                 <li class="link-item">
-                    <a href="#" class="link-primary">Challenging Conventional Wisdom in New Democracies (2025)</a>
-                    <div class="link-meta">Election Law Journal: Rules, Politics, and Policy</div>
+                    <a href="https://doi.org/10.1089/elj.2024.0064" class="link-primary" target="_blank">Challenging Conventional Wisdom in New Democracies (2025)</a>
+                    <div class="link-meta">Election Law Journal · doi: 10.1089/elj.2024.0064</div>
                 </li>
                 <li class="link-item">
-                    <a href="#" class="link-primary">Mapping Party Systems Over Time (2025)</a>
-                    <div class="link-meta">Journal of Political Ideologies</div>
+                    <a href="https://doi.org/10.1080/13569317.2025.2452179" class="link-primary" target="_blank">Mapping Party Systems Over Time (2025)</a>
+                    <div class="link-meta">Journal of Political Ideologies · doi: 10.1080/13569317.2025.2452179</div>
                 </li>
             </ul>
         </section>
@@ -382,10 +413,6 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
         </section>
 
         <footer>
-            <p>Kenneth Bunker · <a href="mailto:kenneth.bunker@uss.cl">kenneth.bunker@uss.cl</a></p>
+            <p>Kenneth Bunker · <a href="/cdn-cgi/l/email-protection#a1cac4cfcfc4d5c98fc3d4cfcac4d3e1d4d2d28fc2cd"><span class="__cf_email__" data-cfemail="3e555b50505b4a56105c4b50555b4c7e4b4d4d105d52">[email&#160;protected]</span></a></p>
             <p style="margin-top: 0.5rem;">Universidad San Sebastián · Universidad de Verona</p>
-            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2025 CPLD · Licensed under CC BY-NC-ND 4.0</p>
-        </footer>
-    </div>
-</body>
-</html>
+            <p style

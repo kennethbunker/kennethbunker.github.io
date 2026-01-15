@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact · CPLD</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --blue: #0066CC;
+            --blue-dark: #004080;
+            --black: #000000;
+            --grey-dark: #1a1a1a;
+            --grey-mid: #666666;
+            --grey-light: #e0e0e0;
+            --white: #ffffff;
+        }
+
+        body {
+            font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--white);
+            color: var(--black);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        header {
+            margin-bottom: 4rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--grey-light);
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 2rem;
+            margin-top: 1.5rem;
+        }
+
+        .nav-tab {
+            font-size: 0.9rem;
+            color: var(--grey-mid);
+            text-decoration: none;
+            font-weight: 400;
+            padding-bottom: 0.25rem;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        .nav-tab:hover {
+            color: var(--blue);
+        }
+
+        .nav-tab.active {
+            color: var(--black);
+            border-bottom-color: var(--blue);
+            font-weight: 500;
+        }
+
+        .logo {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .logo:hover {
+            color: var(--blue);
+        }
+
+        .tagline {
+            font-size: 1rem;
+            color: var(--grey-mid);
+            font-weight: 300;
+        }
+
+        .page-title {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 2rem;
+            letter-spacing: -0.02em;
+        }
+
+        .content {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--grey-dark);
+            font-weight: 300;
+        }
+
+        .content p {
+            margin-bottom: 1.5rem;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .contact-card {
+            padding: 2rem;
+            border: 1px solid var(--grey-light);
+            border-radius: 4px;
+        }
+
+        .contact-label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--grey-mid);
+            margin-bottom: 0.75rem;
+        }
+
+        .contact-value {
+            font-size: 1.1rem;
+            color: var(--black);
+            word-wrap: break-word;
+        }
+
+        .contact-value a {
+            color: var(--blue);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .contact-value a:hover {
+            color: var(--blue-dark);
+        }
+
+        .info-box {
+            background: #f5f5f5;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-left: 3px solid var(--blue);
+        }
+
+        .info-box h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--black);
+        }
+
+        .info-box p {
+            margin-bottom: 0.75rem;
+            color: var(--grey-dark);
+        }
+
+        .info-box p:last-child {
+            margin-bottom: 0;
+        }
+
+        footer {
+            margin-top: 5rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--grey-light);
+            color: var(--grey-mid);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--grey-mid);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        footer a:hover {
+            color: var(--blue);
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            .logo {
+                font-size: 2rem;
+            }
+
+            .page-title {
+                font-size: 2rem;
+            }
+
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="cpld-landing.html" class="logo">CPLD</a>
+            <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+            <nav class="nav-tabs">
+                <a href="cpld-landing.html" class="nav-tab">Home</a>
+                <a href="cpld-about.html" class="nav-tab">About</a>
+                <a href="cpld-contact.html" class="nav-tab active">Contact</a>
+            </nav>
+        </header>
+
+        <main>
+            <h1 class="page-title">Contact</h1>
+
+            <div class="content">
+                <p>For questions about the dataset, research collaborations, or technical support, please reach out directly.</p>
+            </div>
+
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <div class="contact-label">Principal Investigator</div>
+                    <div class="contact-value">Kenneth Bunker</div>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-label">Email</div>
+                    <div class="contact-value">
+                        <a href="mailto:kenneth.bunker@uss.cl">kenneth.bunker@uss.cl</a>
+                    </div>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-label">Affiliation</div>
+                    <div class="contact-value">
+                        Universidad San Sebastián<br>
+                        Economics Department<br>
+                        Santiago, Chile
+                    </div>
+                </div>
+
+                <div class="contact-card">
+                    <div class="contact-label">Affiliation</div>
+                    <div class="contact-value">
+                        Universidad de Verona<br>
+                        Economics Department<br>
+                        Verona, Italy
+                    </div>
+                </div>
+            </div>
+
+            <div class="info-box">
+                <h3>Dataset Issues & Technical Support</h3>
+                <p>For technical questions about the dataset, variable definitions, or replication files, please email with "CPLD" in the subject line.</p>
+                <p>Response time: typically within 48 hours during business days.</p>
+            </div>
+
+            <div class="info-box">
+                <h3>Research Collaboration</h3>
+                <p>Interested in collaborating on research using the CPLD? I welcome inquiries about joint projects, co-authorship opportunities, and data extensions.</p>
+                <p>Please include a brief description of your research interests and proposed collaboration.</p>
+            </div>
+
+            <div class="info-box">
+                <h3>Media & Press Inquiries</h3>
+                <p>For media requests, interviews, or commentary on Chilean politics and elections, please contact directly via email.</p>
+            </div>
+
+            <div class="info-box">
+                <h3>Dataset Access</h3>
+                <p>The CPLD is openly available through Harvard Dataverse. No special permission is required to download or use the data.</p>
+                <p>Access: <a href="https://doi.org/10.7910/DVN/NGRY3R" target="_blank" style="color: var(--blue);">doi.org/10.7910/DVN/NGRY3R</a></p>
+                <p>If you use the dataset in your research, please cite the associated publication.</p>
+            </div>
+
+        </main>
+
+        <footer>
+            <p>Kenneth Bunker · <a href="mailto:kenneth.bunker@uss.cl">kenneth.bunker@uss.cl</a></p>
+            <p style="margin-top: 0.5rem;">Universidad San Sebastián · Universidad de Verona</p>
+            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2025 CPLD · Licensed under CC BY-NC-ND 4.0</p>
+        </footer>
+    </div>
+</body>
+</html>

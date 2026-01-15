@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About · CPLD</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --blue: #0066CC;
+            --blue-dark: #004080;
+            --black: #000000;
+            --grey-dark: #1a1a1a;
+            --grey-mid: #666666;
+            --grey-light: #e0e0e0;
+            --white: #ffffff;
+        }
+
+        body {
+            font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--white);
+            color: var(--black);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        header {
+            margin-bottom: 4rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--grey-light);
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 2rem;
+            margin-top: 1.5rem;
+        }
+
+        .nav-tab {
+            font-size: 0.9rem;
+            color: var(--grey-mid);
+            text-decoration: none;
+            font-weight: 400;
+            padding-bottom: 0.25rem;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        .nav-tab:hover {
+            color: var(--blue);
+        }
+
+        .nav-tab.active {
+            color: var(--black);
+            border-bottom-color: var(--blue);
+            font-weight: 500;
+        }
+
+        .logo {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .logo:hover {
+            color: var(--blue);
+        }
+
+        .tagline {
+            font-size: 1rem;
+            color: var(--grey-mid);
+            font-weight: 300;
+        }
+
+        .page-title {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 2rem;
+            letter-spacing: -0.02em;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 1rem;
+            margin-top: 2rem;
+        }
+
+        .content {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--grey-dark);
+            font-weight: 300;
+        }
+
+        .content p {
+            margin-bottom: 1.5rem;
+        }
+
+        .content strong {
+            font-weight: 500;
+            color: var(--black);
+        }
+
+        .content ul {
+            margin-left: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .content li {
+            margin-bottom: 0.5rem;
+        }
+
+        .highlight-box {
+            background: #f5f5f5;
+            border-left: 3px solid var(--blue);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            font-size: 1rem;
+        }
+
+        footer {
+            margin-top: 5rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--grey-light);
+            color: var(--grey-mid);
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: var(--grey-mid);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        footer a:hover {
+            color: var(--blue);
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 2rem 1.5rem;
+            }
+
+            .logo {
+                font-size: 2rem;
+            }
+
+            .page-title {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="cpld-landing.html" class="logo">CPLD</a>
+            <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+            <nav class="nav-tabs">
+                <a href="cpld-landing.html" class="nav-tab">Home</a>
+                <a href="cpld-about.html" class="nav-tab active">About</a>
+                <a href="cpld-contact.html" class="nav-tab">Contact</a>
+            </nav>
+        </header>
+
+        <main>
+            <h1 class="page-title">About CPLD</h1>
+
+            <div class="content">
+                <p>The <strong>Chilean Political Landscape Dataset (CPLD)</strong> is a comprehensive longitudinal database that consolidates district-level electoral outcomes across more than three decades of Chilean democracy, from 1989 to 2024.</p>
+
+                <h2 class="section-title">Background</h2>
+                
+                <p>Chile was long considered a beacon of stability in a turbulent region, until the 2019 social outburst and two failed constitutional processes prompted a reassessment. Much of the literature relied on national aggregates that obscured underlying dynamics which could have raised institutional alerts.</p>
+
+                <p>This dataset addresses a critical gap in Chilean political research by providing standardized, district-level data that enables more nuanced analysis of party system evolution, institutional reforms, and electoral dynamics.</p>
+
+                <h2 class="section-title">Dataset Scope</h2>
+
+                <p>The CPLD includes <strong>over 5,300 observations</strong> across:</p>
+
+                <ul>
+                    <li>Legislative elections (Chamber of Deputies and Senate)</li>
+                    <li>Regional elections (governors and regional councils)</li>
+                    <li>Municipal elections (mayors and municipal councils)</li>
+                </ul>
+
+                <div class="highlight-box">
+                    <strong>Coverage:</strong> 346 districts · 35 years · 15+ indicators · Multiple levels of government
+                </div>
+
+                <h2 class="section-title">Key Variables</h2>
+
+                <p>For each election, the dataset records:</p>
+
+                <ul>
+                    <li>Electoral system and contest type</li>
+                    <li>District characteristics (magnitude, assembly size)</li>
+                    <li>Number of candidates and lists (coalitions, parties, independents)</li>
+                    <li>Vote shares and seat allocations</li>
+                    <li>Effective number of parties (ENPv and ENPs)</li>
+                    <li>Disproportionality indices (Rae, Loosemore-Hanby, Gallagher)</li>
+                    <li>Ideological orientation measures</li>
+                    <li>Social diversity indicators</li>
+                </ul>
+
+                <h2 class="section-title">Research Applications</h2>
+
+                <p>The CPLD enables researchers to:</p>
+
+                <ul>
+                    <li>Examine the timing and patterns of party system fragmentation</li>
+                    <li>Analyze ideological restructuring at the district level</li>
+                    <li>Assess the impact of electoral reforms (particularly the 2015 reform)</li>
+                    <li>Study asymmetric fragmentation across the political spectrum</li>
+                    <li>Investigate the relationship between social diversity and electoral outcomes</li>
+                    <li>Conduct hierarchical modeling and spatial analysis</li>
+                    <li>Test theories of electoral systems and party competition</li>
+                </ul>
+
+                <h2 class="section-title">Key Findings</h2>
+
+                <p>Research using the CPLD has revealed important insights that challenge conventional wisdom:</p>
+
+                <ul>
+                    <li><strong>Fragmentation began earlier than thought:</strong> District-level evidence shows party system fragmentation was underway by 2009, well before the 2015 electoral reform</li>
+                    <li><strong>Ideological drift:</strong> The party system has experienced a gradual leftward shift at the district level, not captured by national aggregates</li>
+                    <li><strong>Asymmetric fragmentation:</strong> Fragmentation has been disproportionately concentrated on the left, with more but smaller parties compared to the right</li>
+                </ul>
+
+                <h2 class="section-title">Methodology</h2>
+
+                <p>The dataset was constructed through systematic collection and standardization of electoral results from official sources. All measures follow established comparative politics standards and are documented in the accompanying codebook.</p>
+
+                <p>The hierarchical structure allows for multiple levels of analysis while maintaining consistency across time and space. Variables are coded to facilitate both descriptive and inferential statistical analysis.</p>
+
+                <h2 class="section-title">Funding & Support</h2>
+
+                <p>This work was funded by the Agencia Nacional de Investigación y Desarrollo (ANID), grant NCS2024_007.</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Kenneth Bunker · <a href="mailto:kenneth.bunker@uss.cl">kenneth.bunker@uss.cl</a></p>
+            <p style="margin-top: 0.5rem;">Universidad San Sebastián · Universidad de Verona</p>
+            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2025 CPLD · Licensed under CC BY-NC-ND 4.0</p>
+        </footer>
+    </div>
+</body>
+</html>
