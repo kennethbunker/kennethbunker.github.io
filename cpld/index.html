@@ -287,14 +287,14 @@
             <h1 class="logo">CPLD</h1>
             <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
             <nav class="nav-tabs">
-                <a href="cpld-landing.html" class="nav-tab active">Home</a>
+                <a href="index.html" class="nav-tab active">Home</a>
                 <a href="cpld-about.html" class="nav-tab">About</a>
                 <a href="cpld-contact.html" class="nav-tab">Contact</a>
             </nav>
         </header>
 
         <div class="description">
-            <p>Longitudinal dataset of <strong>district-level electoral outcomes</strong> covering three decades of Chilean democracy. Standardized measures of party system fragmentation, ideological orientation, and institutional change across legislative, regional, and municipal contests.</p>
+            <p>Longitudinal dataset of <strong>district-level electoral outcomes</strong> covering three decades of Chilean democracy. Standardized measures of party system fragmentation, ideological orientation, and institutional change across legislative, regional, and municipal contests. <strong>Version 1.0</strong> contains 5,301 observations and will expand as new electoral data become available.</p>
         </div>
 
         <div class="stats">
@@ -307,12 +307,12 @@
                 <div class="stat-label">Years</div>
             </div>
             <div class="stat">
-                <div class="stat-number">346</div>
-                <div class="stat-label">Districts</div>
+                <div class="stat-number">42</div>
+                <div class="stat-label">Variables</div>
             </div>
             <div class="stat">
-                <div class="stat-number">15+</div>
-                <div class="stat-label">Indicators</div>
+                <div class="stat-number">1.8MB</div>
+                <div class="stat-label">Dataset Size</div>
             </div>
         </div>
 
@@ -343,21 +343,59 @@
 
 cpld <span class="code-keyword">&lt;-</span> <span class="code-keyword">read_csv</span>(<span class="code-string">"cpld_1989_2024.csv"</span>)
 
-<span class="code-comment"># Calculate effective number of parties by year</span>
-cpld <span class="code-keyword">%&gt;%</span>
-  <span class="code-keyword">group_by</span>(year) <span class="code-keyword">%&gt;%</span>
-  <span class="code-keyword">summarise</span>(mean_enpv = <span class="code-keyword">mean</span>(enpv, na.rm = TRUE))
+<span class="code-comment"># Explore key variables</span>
+<span class="code-keyword">glimpse</span>(cpld)
+<span class="code-comment"># 5,301 × 42 variables including:</span>
+<span class="code-comment"># enpv, enps, polarization_district, av_id, ethnic_frac</span>
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Analyze fragmentation trends pre/post-reform</span>
+<span class="code-comment"># Calculate effective number of parties over time</span>
 cpld <span class="code-keyword">%&gt;%</span>
-  <span class="code-keyword">mutate</span>(period = <span class="code-keyword">if_else</span>(year >= 2017, 
+  <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">group_by</span>(election) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">summarise</span>(
+    mean_enpv = <span class="code-keyword">mean</span>(enpv, na.rm = TRUE),
+    mean_enps = <span class="code-keyword">mean</span>(enps, na.rm = TRUE)
+  )
+            </div>
+
+            <div class="code-block">
+<span class="code-comment"># Analyze fragmentation trends pre/post-2015 reform</span>
+cpld <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">mutate</span>(period = <span class="code-keyword">if_else</span>(election >= 2017, 
                             <span class="code-string">"Post-Reform"</span>, 
                             <span class="code-string">"Pre-Reform"</span>)) <span class="code-keyword">%&gt;%</span>
-  <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = year, y = enpv)) +
-  <span class="code-keyword">geom_point</span>(alpha = 0.3) +
-  <span class="code-keyword">geom_smooth</span>(method = <span class="code-string">"loess"</span>)
+  <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = election, y = enpv, color = period)) +
+  <span class="code-keyword">geom_point</span>(alpha = 0.4) +
+  <span class="code-keyword">geom_smooth</span>(method = <span class="code-string">"loess"</span>, se = TRUE) +
+  <span class="code-keyword">labs</span>(title = <span class="code-string">"Party System Fragmentation"</span>)
+            </div>
+
+            <div class="code-block">
+<span class="code-comment"># Examine ideological polarization by district</span>
+cpld <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>, election >= 2009) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = <span class="code-keyword">factor</span>(election), 
+             y = polarization_district)) +
+  <span class="code-keyword">geom_boxplot</span>(fill = <span class="code-string">"steelblue"</span>, alpha = 0.7) +
+  <span class="code-keyword">labs</span>(x = <span class="code-string">"Election Year"</span>, 
+       y = <span class="code-string">"Ideological Polarization (Dalton)"</span>)
+            </div>
+
+            <div class="code-block">
+<span class="code-comment"># Disproportionality analysis using Gallagher index</span>
+cpld <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">group_by</span>(election) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">summarise</span>(
+    mean_gallagher = <span class="code-keyword">mean</span>(Gallagher, na.rm = TRUE),
+    mean_dm = <span class="code-keyword">mean</span>(dm, na.rm = TRUE)
+  ) <span class="code-keyword">%&gt;%</span>
+  <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = mean_dm, y = mean_gallagher)) +
+  <span class="code-keyword">geom_point</span>(size = 3) +
+  <span class="code-keyword">geom_text</span>(<span class="code-keyword">aes</span>(label = election), vjust = -0.5)
             </div>
         </section>
 
