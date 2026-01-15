@@ -34,6 +34,16 @@
             max-width: 900px;
             margin: 0 auto;
             padding: 3rem 2rem;
+            position: relative;
+        }
+
+        .top-line {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--grey-light);
         }
 
         header {
@@ -42,10 +52,25 @@
             border-bottom: 1px solid var(--grey-light);
         }
 
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .logo-image {
+            width: 50px;
+            height: 50px;
+        }
+
+        .logo-text {
+            flex: 1;
+        }
+
         .nav-tabs {
             display: flex;
             gap: 2rem;
-            margin-top: 1.5rem;
         }
 
         .nav-tab {
@@ -70,10 +95,10 @@
 
         .logo {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 2.5rem;
+            font-size: 2rem;
             font-weight: 600;
             color: var(--black);
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.25rem;
             letter-spacing: -0.02em;
         }
 
@@ -283,9 +308,15 @@
 </head>
 <body>
     <div class="container">
+        <div class="top-line"></div>
         <header>
-            <h1 class="logo">CPLD</h1>
-            <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+            <div class="logo-container">
+                <img src="logo.svg" alt="CPLD Logo" class="logo-image">
+                <div class="logo-text">
+                    <h1 class="logo">CPLD</h1>
+                    <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+                </div>
+            </div>
             <nav class="nav-tabs">
                 <a href="index.html" class="nav-tab active">Home</a>
                 <a href="cpld-about.html" class="nav-tab">About</a>
