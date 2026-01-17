@@ -246,6 +246,30 @@
             background: var(--blue-dark);
         }
 
+        .mailing-section form {
+            display: flex;
+            gap: 0.75rem;
+            max-width: 420px;
+        }
+
+        .mailing-section input[type="email"] {
+            flex: 1;
+            padding: 0.45rem 0.6rem;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 0.85rem;
+            border: 1px solid var(--grey-light);
+            border-radius: 3px;
+            outline: none;
+        }
+
+        .mailing-section input[type="email"]:focus {
+            border-color: var(--blue);
+        }
+
+        .mailing-section button {
+            border: none;
+            cursor: pointer;
+        }
 
         .stat {
             text-align: left;
@@ -465,12 +489,18 @@
             </div>
         </div>
 
-        <div class="mailing-section">
-            <h2>Get Updates</h2>
-            <p>New releases, methods notes, and seminars.</p>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6pOOzru5N6KQDFBJq2nNopa2AmbwhHM1X8INE-SwIt2skyw/viewform?usp=publish-editor" 
-               target="_blank" class="mailing-btn">Subscribe</a>
-        </div>
+
+<div class="mailing-section">
+    <h2>Get Updates</h2>
+    <p>New releases, methods notes, and seminars.</p>
+
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfrXMlFNZjMrfNgybhZOzF0jwHnFxKxWOrz8E6McFQjmVj8hA/formResponse" 
+          method="POST" target="_blank">
+        <input type="email" name="entry.1234567890" placeholder="Your email address" required>
+        <button type="submit" class="mailing-btn">Subscribe</button>
+    </form>
+</div>
+
 
 <section class="section">
     <h2 class="section-title">Data Access</h2>
