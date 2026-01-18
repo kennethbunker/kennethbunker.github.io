@@ -12,17 +12,17 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CLPD · Chilean Political Landscape Dataset</title>
-    <meta name="description" content="Base de datos longitudinal de resultados electorales a nivel distrital que cubre la democracia chilena 1989-2024. Fragmentación del sistema de partidos, orientación ideológica, medidas ENP y datos de cambio institucional. Lista para análisis en R y Python.">
-    <meta name="keywords" content="datos políticos Chile, base de datos elecciones Chile, fragmentación sistema de partidos, competencia electoral Chile, datos ciencia política, datos política comparada, elecciones América Latina, medidas ENP, datos nivel distrital, dataset R, datos Python pandas, panorama político Chile, datos democracia, datos políticos longitudinales, Harvard Dataverse, sistemas electorales, índices desproporcionalidad, índice Gallagher, nacionalización partidos, polarización ideológica">
+    <title>CLPD Â· Chilean Political Landscape Dataset</title>
+    <meta name="description" content="Base de datos longitudinal de resultados electorales a nivel distrital que cubre la democracia chilena 1989-2024. FragmentaciÃ³n del sistema de partidos, orientaciÃ³n ideolÃ³gica, medidas ENP y datos de cambio institucional. Lista para anÃ¡lisis en R y Python.">
+    <meta name="keywords" content="datos polÃ­ticos Chile, base de datos elecciones Chile, fragmentaciÃ³n sistema de partidos, competencia electoral Chile, datos ciencia polÃ­tica, datos polÃ­tica comparada, elecciones AmÃ©rica Latina, medidas ENP, datos nivel distrital, dataset R, datos Python pandas, panorama polÃ­tico Chile, datos democracia, datos polÃ­ticos longitudinales, Harvard Dataverse, sistemas electorales, Ã­ndices desproporcionalidad, Ã­ndice Gallagher, nacionalizaciÃ³n partidos, polarizaciÃ³n ideolÃ³gica">
     <meta name="author" content="Kenneth Bunker">
     <link rel="canonical" href="https://yourdomain.com/">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kennethbunker.github.io/cpld/">
-    <meta property="og:title" content="Chilean Political Landscape Dataset (CPLD) · 1989-2024">
-    <meta property="og:description" content="Datos electorales integrales a nivel distrital que cubren 35 años de democracia chilena. 5.301 observaciones en 42 variables. Dataset de acceso abierto para investigación en ciencia política.">
+    <meta property="og:title" content="Chilean Political Landscape Dataset (CPLD) Â· 1989-2024">
+    <meta property="og:description" content="Datos electorales integrales a nivel distrital que cubren 35 aÃ±os de democracia chilena. 5.301 observaciones en 42 variables. Dataset de acceso abierto para investigaciÃ³n en ciencia polÃ­tica.">
     <meta property="og:image" content="https://kennethbunker.github.io/cpld/logo.png">
     <meta property="og:image:width" content="500">
     <meta property="og:image:height" content="500">
@@ -31,7 +31,7 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Chilean Political Landscape Dataset (CPLD)">
-    <meta name="twitter:description" content="Datos electorales longitudinales para Chile 1989-2024. Fragmentación partidaria, ENP, índices de polarización. Acceso abierto para investigadores.">
+    <meta name="twitter:description" content="Datos electorales longitudinales para Chile 1989-2024. FragmentaciÃ³n partidaria, ENP, Ã­ndices de polarizaciÃ³n. Acceso abierto para investigadores.">
     <meta name="twitter:image" content="https://kennethbunker.github.io/cpld/logo.png">
     
     <!-- Schema.org Dataset -->
@@ -48,7 +48,7 @@
         "@type": "Person",
         "name": "Kenneth Bunker",
         "affiliation": [
-          {"@type": "Organization", "name": "Universidad San Sebastián"},
+          {"@type": "Organization", "name": "Universidad San SebastiÃ¡n"},
           {"@type": "Organization", "name": "University of Verona"}
         ]
       },
@@ -133,8 +133,7 @@
         .logo-text {
             flex: 1;
             display: flex;
-            flex-direction: column;
-            justify-content: space-between;
+            align-items: center;
         }
 
         .nav-tabs {
@@ -162,19 +161,11 @@
             font-weight: 500;
         }
 
-        .logo {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 2rem;
-            font-weight: 600;
-            color: var(--black);
-            margin-bottom: 0.25rem;
-            letter-spacing: -0.02em;
-        }
-
         .tagline {
-            font-size: 1rem;
-            color: var(--grey-mid);
-            font-weight: 300;
+            font-size: 1.75rem;
+            color: var(--black);
+            font-weight: 500;
+            letter-spacing: -0.01em;
         }
 
         .page-title {
@@ -325,7 +316,7 @@
         }
 
         .link-primary:hover::before {
-            content: '→';
+            content: 'â†’';
             position: absolute;
             left: -1.5rem;
             opacity: 1;
@@ -451,8 +442,7 @@
             <div class="logo-container">
                 <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                 <div class="logo-text">
-                    <h1 class="logo">CPLD</h1>
-                    <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+                    <p class="tagline">Chilean Political Landscape Dataset</p>
                 </div>
             </div>
             <nav class="nav-tabs">
@@ -462,15 +452,15 @@
                 <span style="margin-left: auto; display: flex; gap: 0.5rem; align-items: center; font-size: 0.85rem;">
                     <a href="index.html" style="color: var(--grey-mid); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--grey-mid)'">English</a>
                     <span style="color: var(--grey-light);">|</span>
-                    <span style="color: var(--black); font-weight: 500;">Español</span>
+                    <span style="color: var(--black); font-weight: 500;">EspaÃ±ol</span>
                 </span>
             </nav>
         </header>
 
-        <h1 class="page-title">Descripción General</h1>
+        <h1 class="page-title">DescripciÃ³n General</h1>
 
         <div class="description">
-            <p>El <strong>Chilean Political Landscape Dataset (CLPD)</strong> es una base de datos longitudinal de <strong>resultados electorales a nivel distrital</strong> que abarca cuatro décadas de democracia chilena. Contiene medidas estandarizadas de fragmentación del sistema de partidos, orientación ideológica y cambio institucional en contiendas legislativas, regionales y municipales. <strong>La versión 1.0</strong> contiene 5.301 observaciones y se expandirá a medida que nuevos datos electorales estén disponibles.</p>
+            <p>El <strong></p>
             <p style="margin-top: 1rem; font-size: 0.95rem; color: var(--grey-mid);">Formatos de datos optimizados para flujos de trabajo en Python (pandas) y R (tidyverse).</p>
         </div>
 
@@ -481,7 +471,7 @@
             </div>
             <div class="stat">
                 <div class="stat-number">35</div>
-                <div class="stat-label">Años</div>
+                <div class="stat-label">AÃ±os</div>
             </div>
             <div class="stat">
                 <div class="stat-number">42</div>
@@ -489,13 +479,13 @@
             </div>
             <div class="stat">
                 <div class="stat-number">1,8MB</div>
-                <div class="stat-label">Tamaño</div>
+                <div class="stat-label">TamaÃ±o</div>
             </div>
         </div>
 
 <div class="mailing-section">
-    <h2>Suscríbete a noticias</h2>
-    <p>Nuevas versiones, notas de investigación y seminarios.</p>
+    <h2>SuscrÃ­bete a noticias</h2>
+    <p>Nuevas versiones, notas de investigaciÃ³n y seminarios.</p>
 
     <form action="https://docs.google.com/forms/d/e/1FAIpQLSfrXMlFNZjMrfNgybhZOzF0jwHnFxKxWOrz8E6McFQjmVj8hA/formResponse" 
           method="POST" target="_blank">
@@ -508,21 +498,21 @@
             <ul class="link-list">
                 <li class="link-item">
                     <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Base de Datos</a>
-                    <div class="link-meta">Harvard Dataverse · DOI: 10.7910/DVN/NGRY3R</div>
+                    <div class="link-meta">Harvard Dataverse Â· DOI: 10.7910/DVN/NGRY3R</div>
                 </li>
                 <li class="link-item">
-                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Libro de Códigos</a>
-                    <div class="link-meta">Definiciones de variables y protocolos de medición</div>
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Libro de CÃ³digos</a>
+                    <div class="link-meta">Definiciones de variables y protocolos de mediciÃ³n</div>
                 </li>
                 <li class="link-item">
-                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Archivos de Replicación</a>
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Archivos de ReplicaciÃ³n</a>
                     <div class="link-meta">Scripts de R y materiales suplementarios</div>
                 </li>
             </ul>
         </section>
 
         <section class="section">
-            <h2 class="section-title">Ejemplos de Código</h2>
+            <h2 class="section-title">Ejemplos de CÃ³digo</h2>
             
             <div class="code-block">
 <span class="code-comment"># Cargar La base de datos CPLD</span>
@@ -532,12 +522,12 @@ cpld <span class="code-keyword">&lt;-</span> <span class="code-keyword">read_csv
 
 <span class="code-comment"># Explorar variables clave</span>
 <span class="code-keyword">glimpse</span>(cpld)
-<span class="code-comment"># 5.301 × 42 variables incluyendo:</span>
+<span class="code-comment"># 5.301 Ã— 42 variables incluyendo:</span>
 <span class="code-comment"># enpv, enps, polarization_district, av_id, ethnic_frac</span>
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Calcular número efectivo de partidos a lo largo del tiempo</span>
+<span class="code-comment"># Calcular nÃºmero efectivo de partidos a lo largo del tiempo</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">group_by</span>(election) <span class="code-keyword">%&gt;%</span>
@@ -548,7 +538,7 @@ cpld <span class="code-keyword">%&gt;%</span>
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Analizar tendencias de fragmentación pre/post reforma 2015</span>
+<span class="code-comment"># Analizar tendencias de fragmentaciÃ³n pre/post reforma 2015</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">mutate</span>(period = <span class="code-keyword">if_else</span>(election >= 2017, 
@@ -557,22 +547,22 @@ cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = election, y = enpv, color = period)) +
   <span class="code-keyword">geom_point</span>(alpha = 0.4) +
   <span class="code-keyword">geom_smooth</span>(method = <span class="code-string">"loess"</span>, se = TRUE) +
-  <span class="code-keyword">labs</span>(title = <span class="code-string">"Fragmentación del Sistema de Partidos"</span>)
+  <span class="code-keyword">labs</span>(title = <span class="code-string">"FragmentaciÃ³n del Sistema de Partidos"</span>)
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Examinar polarización ideológica por distrito</span>
+<span class="code-comment"># Examinar polarizaciÃ³n ideolÃ³gica por distrito</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>, election >= 2009) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = <span class="code-keyword">factor</span>(election), 
              y = polarization_district)) +
   <span class="code-keyword">geom_boxplot</span>(fill = <span class="code-string">"steelblue"</span>, alpha = 0.7) +
-  <span class="code-keyword">labs</span>(x = <span class="code-string">"Año Electoral"</span>, 
-       y = <span class="code-string">"Polarización Ideológica (Dalton)"</span>)
+  <span class="code-keyword">labs</span>(x = <span class="code-string">"AÃ±o Electoral"</span>, 
+       y = <span class="code-string">"PolarizaciÃ³n IdeolÃ³gica (Dalton)"</span>)
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Análisis de desproporcionalidad usando índice Gallagher</span>
+<span class="code-comment"># AnÃ¡lisis de desproporcionalidad usando Ã­ndice Gallagher</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">group_by</span>(election) <span class="code-keyword">%&gt;%</span>
@@ -587,16 +577,16 @@ cpld <span class="code-keyword">%&gt;%</span>
         </section>
 
         <section class="section">
-            <h2 class="section-title">Citación</h2>
+            <h2 class="section-title">CitaciÃ³n</h2>
             
-            <p style="color: var(--grey-mid); font-size: 0.95rem; margin-bottom: 1.5rem;">Al utilizar el CPLD en su investigación, por favor cite tanto la base de datos como la publicación asociada.</p>
+            <p style="color: var(--grey-mid); font-size: 0.95rem; margin-bottom: 1.5rem;">Al utilizar el CPLD en su investigaciÃ³n, por favor cite tanto la base de datos como la publicaciÃ³n asociada.</p>
             
             <div class="citation-box">
 <strong>Base de datos:</strong><br>
 Bunker, Kenneth. 2025. "Chilean Political Landscape Dataset (CPLD)". Harvard Dataverse, V1.<br>
 doi: <a href="https://doi.org/10.7910/DVN/NGRY3R" style="color: var(--blue);" target="_blank">10.7910/DVN/NGRY3R</a><br><br>
 
-<strong>Publicación:</strong><br>
+<strong>PublicaciÃ³n:</strong><br>
 Bunker, Kenneth. 2025. "Decades of democracy: insights into the political landscape of Chile." <em>Humanities and Social Sciences Communications</em> 12, Article 1911.<br>
 doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--blue);" target="_blank">10.1057/s41599-025-06180-1</a>
             </div>
@@ -632,19 +622,19 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
             <ul class="link-list">
                 <li class="link-item">
                     <a href="https://doi.org/10.1057/s41599-025-06180-1" class="link-primary" target="_blank">Decades of Democracy </a>
-                    <div class="link-meta">Humanities and Social Sciences Communications · doi: 10.1057/s41599-025-06180-1</div>
+                    <div class="link-meta">Humanities and Social Sciences Communications Â· doi: 10.1057/s41599-025-06180-1</div>
                 </li>
                 <li class="link-item">
                     <a href="https://doi.org/10.1007/978-3-031-96463-3" class="link-primary" target="_blank">Chile's Transformation Amidst Crisis </a>
-                    <div class="link-meta">Palgrave Macmillan · doi: 10.1007/978-3-031-96463-3</div>
+                    <div class="link-meta">Palgrave Macmillan Â· doi: 10.1007/978-3-031-96463-3</div>
                 </li>
                 <li class="link-item">
                     <a href="https://doi.org/10.1089/elj.2024.0064" class="link-primary" target="_blank">Challenging Conventional Wisdom in New Democracies </a>
-                    <div class="link-meta">Election Law Journal · doi: 10.1089/elj.2024.0064</div>
+                    <div class="link-meta">Election Law Journal Â· doi: 10.1089/elj.2024.0064</div>
                 </li>
                 <li class="link-item">
                     <a href="https://doi.org/10.1080/13569317.2025.2452179" class="link-primary" target="_blank">Mapping Party Systems Over Time </a>
-                    <div class="link-meta">Journal of Political Ideologies · doi: 10.1080/13569317.2025.2452179</div>
+                    <div class="link-meta">Journal of Political Ideologies Â· doi: 10.1080/13569317.2025.2452179</div>
                 </li>
             </ul>
         </section>
@@ -653,22 +643,22 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
         <section class="section" style="border-top: 1px solid var(--grey-light); padding-top: 2rem; margin-top: 3rem;">
             <h2 class="section-title">Palabras Clave y Cobertura del la Base de Datos</h2>
             <div style="color: var(--grey-mid); font-size: 1rem; line-height: 1.8;">
-                <p><strong>Sistemas Electorales y Medidas:</strong> Número Efectivo de Partidos (NEP), NEPv (votos), NEPs (escaños), índice Laakso-Taagepera, fragmentación del sistema de partidos, magnitud de distrito, tamaño de asamblea, modelo de producto de escaños, representación proporcional, análisis de reforma electoral</p>
+                <p><strong>Sistemas Electorales y Medidas:</strong> NÃºmero Efectivo de Partidos (NEP), NEPv (votos), NEPs (escaÃ±os), Ã­ndice Laakso-Taagepera, fragmentaciÃ³n del sistema de partidos, magnitud de distrito, tamaÃ±o de asamblea, modelo de producto de escaÃ±os, representaciÃ³n proporcional, anÃ¡lisis de reforma electoral</p>
                 
-                <p style="margin-top: 1rem;"><strong>Índices de Desproporcionalidad:</strong> Índice Gallagher, índice Loosemore-Hanby, índice Rae, índices Lijphart, medidas Cox-Shugart, desproporcionalidad electoral, relación escaños-votos, equidad representacional</p>
+                <p style="margin-top: 1rem;"><strong>Ãndices de Desproporcionalidad:</strong> Ãndice Gallagher, Ã­ndice Loosemore-Hanby, Ã­ndice Rae, Ã­ndices Lijphart, medidas Cox-Shugart, desproporcionalidad electoral, relaciÃ³n escaÃ±os-votos, equidad representacional</p>
                 
-                <p style="margin-top: 1rem;"><strong>Análisis del Sistema de Partidos:</strong> Nacionalización de partidos (Mainwaring-Jones, Chhibber-Kollman), polarización ideológica (índice Dalton), competencia partidaria, dinámica de coaliciones, sistemas multipartidistas, evolución del sistema de partidos</p>
+                <p style="margin-top: 1rem;"><strong>AnÃ¡lisis del Sistema de Partidos:</strong> NacionalizaciÃ³n de partidos (Mainwaring-Jones, Chhibber-Kollman), polarizaciÃ³n ideolÃ³gica (Ã­ndice Dalton), competencia partidaria, dinÃ¡mica de coaliciones, sistemas multipartidistas, evoluciÃ³n del sistema de partidos</p>
                 
-                <p style="margin-top: 1rem;"><strong>Geográfico y Demográfico:</strong> Datos a nivel distrital, elecciones municipales, consejos regionales, fraccionamiento étnico (índice Alesina), poblaciones indígenas, datos censo chileno, análisis espacial, política subnacional</p>
+                <p style="margin-top: 1rem;"><strong>GeogrÃ¡fico y DemogrÃ¡fico:</strong> Datos a nivel distrital, elecciones municipales, consejos regionales, fraccionamiento Ã©tnico (Ã­ndice Alesina), poblaciones indÃ­genas, datos censo chileno, anÃ¡lisis espacial, polÃ­tica subnacional</p>
                 
-                <p style="margin-top: 1rem;"><strong>Especificaciones Técnicas:</strong> Programación R (tidyverse, dplyr), compatible con Python pandas, formato CSV, análisis de datos longitudinales, datos de series temporales transversales, modelado jerárquico, metodología de política comparada</p>
+                <p style="margin-top: 1rem;"><strong>Especificaciones TÃ©cnicas:</strong> ProgramaciÃ³n R (tidyverse, dplyr), compatible con Python pandas, formato CSV, anÃ¡lisis de datos longitudinales, datos de series temporales transversales, modelado jerÃ¡rquico, metodologÃ­a de polÃ­tica comparada</p>
                 
-                <p style="margin-top: 1rem;"><strong>Tipos de Elecciones Cubiertas:</strong> Cámara de Diputados, Senado, Elecciones alcaldes, Concejos municipales (Concejales), Gobernadores regionales, Consejos regionales (Cores), Convenciones constitucionales (Constituyentes)</p>
+                <p style="margin-top: 1rem;"><strong>Tipos de Elecciones Cubiertas:</strong> CÃ¡mara de Diputados, Senado, Elecciones alcaldes, Concejos municipales (Concejales), Gobernadores regionales, Consejos regionales (Cores), Convenciones constitucionales (Constituyentes)</p>
             </div>
         </section>
 
         <footer>
             <p>Kenneth Bunker</p>
-            <p style="margin-top: 0.5rem;">Universidad San Sebastián · Laboratorio Democracia y Gobierno</p>
-            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2026 CPLD · Licenciado bajo CC BY-NC-ND 4.0</p>
+            <p style="margin-top: 0.5rem;">Universidad San SebastiÃ¡n Â· Laboratorio Democracia y Gobierno</p>
+            <p style="margin-top: 1.5rem; font-size: 0.85rem;">Â© 2026 CPLD Â· Licenciado bajo CC BY-NC-ND 4.0</p>
         </footer> 
