@@ -12,9 +12,9 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Â· CLPD Â· Chilean Political Landscape Dataset</title>
+    <title>Contact · CLPD · Chilean Political Landscape Dataset</title>
     <meta name="description" content="Contact Kenneth Bunker for questions about the Chilean Political Landscape Dataset, research collaborations, dataset support, or electoral data analysis. Open access data available via Harvard Dataverse.">
-    <meta name="keywords" content="Chile political data contact, electoral data researcher, political science collaboration, Chilean democracy research, dataset support, Kenneth Bunker contact, Universidad San SebastiÃ¡n, University of Verona">
+    <meta name="keywords" content="Chile political data contact, electoral data researcher, political science collaboration, Chilean democracy research, dataset support, Kenneth Bunker contact, Universidad San Sebastián, University of Verona">
     <meta name="author" content="Kenneth Bunker">
     
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -88,7 +88,8 @@
         .logo-text {
             flex: 1;
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            justify-content: space-between;
         }
 
         .nav-tabs {
@@ -116,11 +117,19 @@
             font-weight: 500;
         }
 
-        .tagline {
-            font-size: 1.75rem;
+        .logo {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2rem;
+            font-weight: 600;
             color: var(--black);
-            font-weight: 500;
-            letter-spacing: -0.01em;
+            margin-bottom: 0.25rem;
+            letter-spacing: -0.02em;
+        }
+
+        .tagline {
+            font-size: 1rem;
+            color: var(--grey-mid);
+            font-weight: 300;
         }
 
         .page-title {
@@ -248,7 +257,8 @@
                 <div class="logo-container">
                     <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                     <div class="logo-text">
-                        <p class="tagline">Chilean Political Landscape Dataset</p>
+                        <h1 class="logo">CPLD</h1>
+                        <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
                     </div>
                 </div>
             </a>
@@ -259,7 +269,7 @@
                 <span style="margin-left: auto; display: flex; gap: 0.5rem; align-items: center; font-size: 0.85rem;">
                     <span style="color: var(--black); font-weight: 500;">English</span>
                     <span style="color: var(--grey-light);">|</span>
-                    <a href="cpld-contact-es.html" style="color: var(--grey-mid); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--grey-mid)'">EspaÃ±ol</a>
+                    <a href="cpld-contact-es.html" style="color: var(--grey-mid); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--grey-mid)'">Español</a>
                 </span>
             </nav>
         </header>
@@ -272,7 +282,7 @@
                 <p><strong>Email:</strong> kenneth.bunker@uss.cl</p>
                 
                 <p style="margin-top: 2rem;"><strong>Affiliations:</strong></p>
-                <p>Universidad San SebastiÃ¡n<br>
+                <p>Universidad San Sebastián<br>
                 Laboratorio Democracia y Gobierno<br>
                 Santiago, Chile</p>
                 

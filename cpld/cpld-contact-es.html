@@ -12,9 +12,9 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contacto Â· CPLD Â· Chilean Political Landscape Dataset</title>
+    <title>Contacto · CPLD · Chilean Political Landscape Dataset</title>
     <meta name="description" content="Contact Kenneth Bunker for questions about the Chilean Political Landscape Dataset, research collaborations, dataset support, or electoral data analysis. Open access data available via Harvard Dataverse.">
-    <meta name="keywords" content="Chile political data contact, electoral data researcher, political science collaboration, Chilean democracy research, dataset support, Kenneth Bunker contact, Universidad San SebastiÃ¡n, University of Verona">
+    <meta name="keywords" content="Chile political data contact, electoral data researcher, political science collaboration, Chilean democracy research, dataset support, Kenneth Bunker contact, Universidad San Sebastián, University of Verona">
     <meta name="author" content="Kenneth Bunker">
     
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -88,7 +88,8 @@
         .logo-text {
             flex: 1;
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            justify-content: space-between;
         }
 
         .nav-tabs {
@@ -116,11 +117,19 @@
             font-weight: 500;
         }
 
-        .tagline {
-            font-size: 1.75rem;
+        .logo {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2rem;
+            font-weight: 600;
             color: var(--black);
-            font-weight: 500;
-            letter-spacing: -0.01em;
+            margin-bottom: 0.25rem;
+            letter-spacing: -0.02em;
+        }
+
+        .tagline {
+            font-size: 1rem;
+            color: var(--grey-mid);
+            font-weight: 300;
         }
 
         .page-title {
@@ -248,7 +257,8 @@
                 <div class="logo-container">
                     <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                     <div class="logo-text">
-                        <p class="tagline">Chilean Political Landscape Dataset</p>
+                        <h1 class="logo">CPLD</h1>
+                        <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
                     </div>
                 </div>
             </a>
@@ -259,7 +269,7 @@
                 <span style="margin-left: auto; display: flex; gap: 0.5rem; align-items: center; font-size: 0.85rem;">
                     <a href="cpld-contact.html" style="color: var(--grey-mid); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--grey-mid)'">English</a>
                     <span style="color: var(--grey-light);">|</span>
-                    <span style="color: var(--black); font-weight: 500;">EspaÃ±ol</span>
+                    <span style="color: var(--black); font-weight: 500;">Español</span>
                 </span>
             </nav>
         </header>
@@ -272,47 +282,47 @@
                 <p><strong>Email:</strong> kenneth.bunker@uss.cl</p>
                 
                 <p style="margin-top: 2rem;"><strong>Afiliaciones:</strong></p>
-                <p>Universidad San SebastiÃ¡n<br>
+                <p>Universidad San Sebastián<br>
                 Laboratorio Democracia y Gobierno<br>
                 Santiago, Chile</p>
                 
                 <p style="margin-top: 1rem;">Universidad de Verona<br>
-                Departamento de EconomÃ­a<br>
+                Departamento de Economía<br>
                 Verona, Italia</p>
                 
-                <p style="margin-top: 2rem;">Para preguntas sobre la base de datos, colaboraciones de investigaciÃ³n o soporte tÃ©cnico, por favor contactarnos directamente por email.</p>
+                <p style="margin-top: 2rem;">Para preguntas sobre la base de datos, colaboraciones de investigación o soporte técnico, por favor contactarnos directamente por email.</p>
             </div>
 
             <div class="info-box">
-                <h3>Problemas de la base de datos y Soporte TÃ©cnico</h3>
-                <p>Para preguntas tÃ©cnicas sobre la base de datos, definiciones de variables o archivos de replicaciÃ³n, por favor envÃ­e un email con "CPLD" en el asunto.</p>
-                <p>Tiempo de respuesta: tÃ­picamente dentro de 48 horas durante dÃ­as hÃ¡biles.</p>
+                <h3>Problemas de la base de datos y Soporte Técnico</h3>
+                <p>Para preguntas técnicas sobre la base de datos, definiciones de variables o archivos de replicación, por favor envíe un email con "CPLD" en el asunto.</p>
+                <p>Tiempo de respuesta: típicamente dentro de 48 horas durante días hábiles.</p>
             </div>
 
             <div class="info-box">
-                <h3>ColaboraciÃ³n en InvestigaciÃ³n</h3>
-                <p>Â¿Interesado en colaborar en investigaciÃ³n usando el CPLD? Damos la bienvenida a consultas sobre proyectos conjuntos, oportunidades de coautorÃ­a y extensiones de datos.</p>
-                <p>Por favor incluya una breve descripciÃ³n de sus intereses de investigaciÃ³n y la colaboraciÃ³n propuesta.</p>
+                <h3>Colaboración en Investigación</h3>
+                <p>¿Interesado en colaborar en investigación usando el CPLD? Damos la bienvenida a consultas sobre proyectos conjuntos, oportunidades de coautoría y extensiones de datos.</p>
+                <p>Por favor incluya una breve descripción de sus intereses de investigación y la colaboración propuesta.</p>
             </div>
 
             <div class="info-box">
                 <h3>Consultas de Medios y Prensa</h3>
-                <p>Para solicitudes de medios, entrevistas o comentarios sobre polÃ­tica y elecciones chilenas, por favor contactarnos directamente por email.</p>
+                <p>Para solicitudes de medios, entrevistas o comentarios sobre política y elecciones chilenas, por favor contactarnos directamente por email.</p>
             </div>
 
             <div class="info-box">
                 <h3>Acceso a la base de datos</h3>
-                <p>El CPLD estÃ¡ disponible abiertamente a travÃ©s de Harvard Dataverse. No se requiere permiso especial para descargar o usar los datos.</p>
+                <p>El CPLD está disponible abiertamente a través de Harvard Dataverse. No se requiere permiso especial para descargar o usar los datos.</p>
                 <p>Acceso: <a href="https://doi.org/10.7910/DVN/NGRY3R" target="_blank" style="color: var(--blue);">doi.org/10.7910/DVN/NGRY3R</a></p>
-                <p>Si utiliza la base de datos en su investigaciÃ³n, por favor cite la publicaciÃ³n asociada.</p>
+                <p>Si utiliza la base de datos en su investigación, por favor cite la publicación asociada.</p>
             </div>
 
         </main>
 
         <footer>
             <p>Kenneth Bunker</p>
-            <p style="margin-top: 0.5rem;">Universidad San SebastiÃ¡n Â· Laboratorio Democracia y Gobierno</p>
-            <p style="margin-top: 1.5rem; font-size: 0.85rem;">Â© 2026 CPLD Â· Licenciado bajo CC BY-NC-ND 4.0</p>
+            <p style="margin-top: 0.5rem;">Universidad San Sebastián · Laboratorio Democracia y Gobierno</p>
+            <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2026 CPLD · Licenciado bajo CC BY-NC-ND 4.0</p>
         </footer>
 
  
