@@ -13,8 +13,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CLPD · Chilean Political Landscape Dataset</title>
-    <meta name="description" content="Base de datos longitudinal de resultados electorales a nivel distrital que cubre la democracia chilena 1989-2024. Fragmentación del sistema de partidos, orientación ideológica, medidas ENP y datos de cambio institucional. Lista para análisis en R y Python.">
-    <meta name="keywords" content="datos políticos Chile, base de datos elecciones Chile, fragmentación sistema de partidos, competencia electoral Chile, datos ciencia política, datos política comparada, elecciones América Latina, medidas ENP, datos nivel distrital, dataset R, datos Python pandas, panorama político Chile, datos democracia, datos políticos longitudinales, Harvard Dataverse, sistemas electorales, índices desproporcionalidad, índice Gallagher, nacionalización partidos, polarización ideológica">
+    <meta name="description" content="Base de datos longitudinal de resultados electorales a nivel distrital que cubre la democracia chilena 1989-2024. Fragmentación del sistema de partidos, orientación ideolÃ³gica, medidas ENP y datos de cambio institucional. Lista para análisis en R y Python.">
+    <meta name="keywords" content="datos políticos Chile, base de datos elecciones Chile, fragmentación sistema de partidos, competencia electoral Chile, datos ciencia política, datos política comparada, elecciones América Latina, medidas ENP, datos nivel distrital, dataset R, datos Python pandas, panorama político Chile, datos democracia, datos políticos longitudinales, Harvard Dataverse, sistemas electorales, índices desproporcionalidad, índice Gallagher, nacionalización partidos, polarización ideolÃ³gica">
     <meta name="author" content="Kenneth Bunker">
     <link rel="canonical" href="https://yourdomain.com/">
     
@@ -111,8 +111,8 @@
         }
 
         header {
-            margin-bottom: 4rem;
-            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+            padding-bottom: 2.5rem;
             border-bottom: 1px solid var(--grey-light);
             margin-top: 2rem;
         }
@@ -120,13 +120,13 @@
         .logo-container {
             display: flex;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
         }
 
         .logo-image {
-            width: 60px;
-            height: 60px;
+            width: 80px;
+            height: 80px;
             flex-shrink: 0;
         }
 
@@ -134,7 +134,7 @@
             flex: 1;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            justify-content: center;
         }
 
         .nav-tabs {
@@ -164,24 +164,29 @@
 
         .logo {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 2rem;
+            font-size: 2.75rem;
             font-weight: 600;
             color: var(--black);
-            margin-bottom: 0.25rem;
+            margin-bottom: 0.5rem;
             letter-spacing: -0.02em;
+            line-height: 1.1;
         }
 
         .tagline {
-            font-size: 1rem;
-            color: var(--grey-mid);
-            font-weight: 300;
+            font-size: 1.1rem;
+            color: var(--grey-dark);
+            font-weight: 400;
+            letter-spacing: -0.01em;
         }
 
         .page-title {
-            font-size: 2.5rem;
-            font-weight: 600;
-            margin-bottom: 2rem;
-            color: var(--black);
+            font-size: 1.5rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            color: var(--grey-mid);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: 0.9rem;
         }
 
         .description {
@@ -325,7 +330,7 @@
         }
 
         .link-primary:hover::before {
-            content: '→';
+            content: 'â†’';
             position: absolute;
             left: -1.5rem;
             opacity: 1;
@@ -413,7 +418,20 @@
             }
 
             .logo {
-                font-size: 2rem;
+                font-size: 1.75rem;
+
+            .logo-image {
+                width: 60px;
+                height: 60px;
+            }
+
+            .tagline {
+                font-size: 0.95rem;
+            }
+
+            .page-title {
+                font-size: 0.8rem;
+            }
             }
 
             .stats {
@@ -451,8 +469,8 @@
             <div class="logo-container">
                 <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                 <div class="logo-text">
-                    <h1 class="logo">CPLD</h1>
-                    <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+                    <h1 class="logo">Chilean Political Landscape Dataset</h1>
+                    <p class="tagline">Indicadores electorales y de sistema de partidos a nivel distrital</p>
                 </div>
             </div>
             <nav class="nav-tabs">
@@ -470,27 +488,8 @@
         <h1 class="page-title">Descripción General</h1>
 
         <div class="description">
-            <p>El <strong>Chilean Political Landscape Dataset (CLPD)</strong> es una base de datos longitudinal de <strong>resultados electorales a nivel distrital</strong> que abarca cuatro décadas de democracia chilena. Contiene medidas estandarizadas de fragmentación del sistema de partidos, orientación ideológica y cambio institucional en contiendas legislativas, regionales y municipales. <strong>La versión 1.0</strong> contiene 5.301 observaciones y se expandirá a medida que nuevos datos electorales estén disponibles.</p>
+            <p>El <strong>Chilean Political Landscape Dataset (CLPD)</strong> es una base de datos longitudinal de <strong>resultados electorales a nivel distrital</strong> que abarca cuatro décadas de democracia chilena. Contiene medidas estandarizadas de fragmentación del sistema de partidos, orientación ideolÃ³gica y cambio institucional en contiendas legislativas, regionales y municipales. <strong>La versión 1.0</strong> contiene 5.301 observaciones y se expandirá a medida que nuevos datos electorales estén disponibles.</p>
             <p style="margin-top: 1rem; font-size: 0.95rem; color: var(--grey-mid);">Formatos de datos optimizados para flujos de trabajo en Python (pandas) y R (tidyverse).</p>
-        </div>
-
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-number">5.300+</div>
-                <div class="stat-label">Observaciones</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">35</div>
-                <div class="stat-label">Años</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">42</div>
-                <div class="stat-label">Variables</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">1,8MB</div>
-                <div class="stat-label">Tamaño</div>
-            </div>
         </div>
 
 <div class="mailing-section">
@@ -511,7 +510,7 @@
                     <div class="link-meta">Harvard Dataverse · DOI: 10.7910/DVN/NGRY3R</div>
                 </li>
                 <li class="link-item">
-                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Libro de Códigos</a>
+                    <a href="https://doi.org/10.7910/DVN/NGRY3R" class="link-primary" target="_blank">Libro de CÃ³digos</a>
                     <div class="link-meta">Definiciones de variables y protocolos de medición</div>
                 </li>
                 <li class="link-item">
@@ -522,7 +521,7 @@
         </section>
 
         <section class="section">
-            <h2 class="section-title">Ejemplos de Código</h2>
+            <h2 class="section-title">Ejemplos de CÃ³digo</h2>
             
             <div class="code-block">
 <span class="code-comment"># Cargar La base de datos CPLD</span>
@@ -536,8 +535,27 @@ cpld <span class="code-keyword">&lt;-</span> <span class="code-keyword">read_csv
 <span class="code-comment"># enpv, enps, polarization_district, av_id, ethnic_frac</span>
             </div>
 
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">5.300+</div>
+                <div class="stat-label">Observaciones</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">35</div>
+                <div class="stat-label">Años</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">42</div>
+                <div class="stat-label">Variables</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">1,8MB</div>
+                <div class="stat-label">Tamaño</div>
+            </div>
+        </div>
+
             <div class="code-block">
-<span class="code-comment"># Calcular número efectivo de partidos a lo largo del tiempo</span>
+<span class="code-comment"># Calcular nÃºmero efectivo de partidos a lo largo del tiempo</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">group_by</span>(election) <span class="code-keyword">%&gt;%</span>
@@ -561,14 +579,14 @@ cpld <span class="code-keyword">%&gt;%</span>
             </div>
 
             <div class="code-block">
-<span class="code-comment"># Examinar polarización ideológica por distrito</span>
+<span class="code-comment"># Examinar polarización ideolÃ³gica por distrito</span>
 cpld <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">filter</span>(type == <span class="code-string">"Diputados"</span>, election >= 2009) <span class="code-keyword">%&gt;%</span>
   <span class="code-keyword">ggplot</span>(<span class="code-keyword">aes</span>(x = <span class="code-keyword">factor</span>(election), 
              y = polarization_district)) +
   <span class="code-keyword">geom_boxplot</span>(fill = <span class="code-string">"steelblue"</span>, alpha = 0.7) +
   <span class="code-keyword">labs</span>(x = <span class="code-string">"Año Electoral"</span>, 
-       y = <span class="code-string">"Polarización Ideológica (Dalton)"</span>)
+       y = <span class="code-string">"Polarización IdeolÃ³gica (Dalton)"</span>)
             </div>
 
             <div class="code-block">
@@ -653,11 +671,11 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
         <section class="section" style="border-top: 1px solid var(--grey-light); padding-top: 2rem; margin-top: 3rem;">
             <h2 class="section-title">Palabras Clave y Cobertura del la Base de Datos</h2>
             <div style="color: var(--grey-mid); font-size: 1rem; line-height: 1.8;">
-                <p><strong>Sistemas Electorales y Medidas:</strong> Número Efectivo de Partidos (NEP), NEPv (votos), NEPs (escaños), índice Laakso-Taagepera, fragmentación del sistema de partidos, magnitud de distrito, tamaño de asamblea, modelo de producto de escaños, representación proporcional, análisis de reforma electoral</p>
+                <p><strong>Sistemas Electorales y Medidas:</strong> NÃºmero Efectivo de Partidos (NEP), NEPv (votos), NEPs (escaños), índice Laakso-Taagepera, fragmentación del sistema de partidos, magnitud de distrito, tamaño de asamblea, modelo de producto de escaños, representación proporcional, análisis de reforma electoral</p>
                 
-                <p style="margin-top: 1rem;"><strong>Índices de Desproporcionalidad:</strong> Índice Gallagher, índice Loosemore-Hanby, índice Rae, índices Lijphart, medidas Cox-Shugart, desproporcionalidad electoral, relación escaños-votos, equidad representacional</p>
+                <p style="margin-top: 1rem;"><strong>Ãndices de Desproporcionalidad:</strong> Ãndice Gallagher, índice Loosemore-Hanby, índice Rae, índices Lijphart, medidas Cox-Shugart, desproporcionalidad electoral, relación escaños-votos, equidad representacional</p>
                 
-                <p style="margin-top: 1rem;"><strong>Análisis del Sistema de Partidos:</strong> Nacionalización de partidos (Mainwaring-Jones, Chhibber-Kollman), polarización ideológica (índice Dalton), competencia partidaria, dinámica de coaliciones, sistemas multipartidistas, evolución del sistema de partidos</p>
+                <p style="margin-top: 1rem;"><strong>Análisis del Sistema de Partidos:</strong> Nacionalización de partidos (Mainwaring-Jones, Chhibber-Kollman), polarización ideolÃ³gica (índice Dalton), competencia partidaria, dinámica de coaliciones, sistemas multipartidistas, evolución del sistema de partidos</p>
                 
                 <p style="margin-top: 1rem;"><strong>Geográfico y Demográfico:</strong> Datos a nivel distrital, elecciones municipales, consejos regionales, fraccionamiento étnico (índice Alesina), poblaciones indígenas, datos censo chileno, análisis espacial, política subnacional</p>
                 

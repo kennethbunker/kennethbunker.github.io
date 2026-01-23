@@ -32,7 +32,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Chilean Political Landscape Dataset (CPLD)">
     <meta name="twitter:description" content="Longitudinal electoral data for Chile 1989-2024. Party fragmentation, ENP, polarization indices. Open access for researchers.">
-    <meta name="twitter:image" content="https://kennethbunker.github.io/cpld/logo.png">>
+    <meta name="twitter:image" content="https://kennethbunker.github.io/cpld/logo.png">
     
     <!-- Schema.org Dataset -->
     <script type="application/ld+json">
@@ -111,8 +111,8 @@
         }
 
         header {
-            margin-bottom: 4rem;
-            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+            padding-bottom: 2.5rem;
             border-bottom: 1px solid var(--grey-light);
             margin-top: 2rem;
         }
@@ -120,13 +120,13 @@
         .logo-container {
             display: flex;
             align-items: center;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
         }
 
         .logo-image {
-            width: 60px;
-            height: 60px;
+            width: 80px;
+            height: 80px;
             flex-shrink: 0;
         }
 
@@ -134,7 +134,7 @@
             flex: 1;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            justify-content: center;
         }
 
         .nav-tabs {
@@ -164,24 +164,34 @@
 
         .logo {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 2rem;
+            font-size: 2.75rem;
             font-weight: 600;
             color: var(--black);
-            margin-bottom: 0.25rem;
+            margin-bottom: 0.5rem;
             letter-spacing: -0.02em;
+            line-height: 1.1;
+            line-height: 1.1;
         }
 
         .tagline {
-            font-size: 1rem;
-            color: var(--grey-mid);
-            font-weight: 300;
+            font-size: 1.1rem;
+            color: var(--grey-dark);
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            letter-spacing: -0.01em;
         }
 
         .page-title {
-            font-size: 2.5rem;
-            font-weight: 600;
-            margin-bottom: 2rem;
-            color: var(--black);
+            font-size: 1.5rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            color: var(--grey-mid);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: 0.9rem;
         }
 
         .description {
@@ -324,7 +334,7 @@
         }
 
         .link-primary:hover::before {
-            content: '→';
+            content: 'â†’';
             position: absolute;
             left: -1.5rem;
             opacity: 1;
@@ -412,7 +422,20 @@
             }
 
             .logo {
-                font-size: 2rem;
+                font-size: 1.75rem;
+
+            .logo-image {
+                width: 60px;
+                height: 60px;
+            }
+
+            .tagline {
+                font-size: 0.95rem;
+            }
+
+            .page-title {
+                font-size: 0.8rem;
+            }
             }
 
             .stats {
@@ -451,7 +474,7 @@
                 <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                 <div class="logo-text">
                     <h1 class="logo">CPLD</h1>
-                    <p class="tagline">Chilean Political Landscape Dataset · 1989—2024</p>
+                    <p class="tagline">Chilean Political Landscape Dataset · 1989â€”2024</p>
                 </div>
             </div>
             <nav class="nav-tabs">
