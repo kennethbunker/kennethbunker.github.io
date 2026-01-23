@@ -171,14 +171,12 @@
             margin-bottom: 0.5rem;
             letter-spacing: -0.02em;
             line-height: 1.1;
-            line-height: 1.1;
         }
 
         .tagline {
             font-size: 1.1rem;
             color: var(--grey-dark);
             font-weight: 400;
-            letter-spacing: -0.01em;
             letter-spacing: -0.01em;
         }
 
@@ -187,9 +185,6 @@
             font-weight: 500;
             margin-bottom: 1.5rem;
             color: var(--grey-mid);
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            font-size: 0.9rem;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             font-size: 0.9rem;
@@ -279,7 +274,7 @@
 
         .stat-number {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 2rem;
+            font-size: 2.25rem;
             font-weight: 600;
             color: var(--blue);
             margin-bottom: 0.25rem;
@@ -424,19 +419,6 @@
 
             .logo {
                 font-size: 1.5rem;
-
-            .logo-image {
-                width: 60px;
-                height: 60px;
-            }
-
-            .tagline {
-                font-size: 0.95rem;
-            }
-
-            .page-title {
-                font-size: 0.8rem;
-            }
             }
 
             .stats {
@@ -475,7 +457,7 @@
                 <img src="logo.svg" alt="CPLD Logo" class="logo-image">
                 <div class="logo-text">
                     <h1 class="logo">Chilean Political Landscape Dataset</h1>
-                    <p class="tagline">Chilean Political Landscape Dataset · 1989â€”2024</p>
+                    <p class="tagline">District-level electoral and party system indicators</p>
                 </div>
             </div>
             <nav class="nav-tabs">
@@ -497,6 +479,17 @@
             <p style="margin-top: 1rem; font-size: 0.95rem; color: var(--grey-mid);">Data formats optimized for Python (pandas) and R (tidyverse) workflows.</p>
         </div>
 
+        <div class="mailing-section">
+    <h2>Get Updates</h2>
+    <p>New releases, methods notes, and seminars.</p>
+
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfrXMlFNZjMrfNgybhZOzF0jwHnFxKxWOrz8E6McFQjmVj8hA/formResponse" 
+          method="POST" target="_blank">
+        <input type="email" name="entry.4236083217395177297" placeholder="Your email address" required>
+        <button type="submit" class="mailing-btn">Subscribe</button>
+    </form>
+</div>
+
         <div class="stats">
             <div class="stat">
                 <div class="stat-number">5,300+</div>
@@ -517,16 +510,6 @@
         </div>
 
 
-<div class="mailing-section">
-    <h2>Get Updates</h2>
-    <p>New releases, methods notes, and seminars.</p>
-
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfrXMlFNZjMrfNgybhZOzF0jwHnFxKxWOrz8E6McFQjmVj8hA/formResponse" 
-          method="POST" target="_blank">
-        <input type="email" name="entry.4236083217395177297" placeholder="Your email address" required>
-        <button type="submit" class="mailing-btn">Subscribe</button>
-    </form>
-</div>
 
 
         <section class="section">
@@ -697,4 +680,5 @@ doi: <a href="https://doi.org/10.1057/s41599-025-06180-1" style="color: var(--bl
             <p>Kenneth Bunker</p>
             <p style="margin-top: 0.5rem;">Universidad San Sebastián · Laboratorio Democracia y Gobierno</p>
             <p style="margin-top: 1.5rem; font-size: 0.85rem;">© 2026 CPLD · Licensed under CC BY-NC-ND 4.0</p>
-        </footer> 
+        </footer>
+            padding-top: 2rem;
