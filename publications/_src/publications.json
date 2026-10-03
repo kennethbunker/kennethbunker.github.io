@@ -756,7 +756,7 @@
    "Kenneth Bunker",
    "Patricio Navia"
   ],
-  "book_title": "La reforma municipal en la mira",
+  "book_title": "La reforma municipal en la mira: identificando los municipios prioritarios en la Región Metropolitana. Complejidad comunal v/s condiciones para la calidad de la gestión municipal",
   "editors": [],
   "year": 2007,
   "pages": "31-41",
@@ -764,7 +764,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2007-indice-complejidad-52-comunas-region-metropolitana"
+  "slug": "2007-indice-complejidad-52-comunas-region-metropolitana",
+  "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg"
  },
  {
   "type": "review",
@@ -1312,8 +1313,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.15771.23848",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-10-velocidad-escrutan-votos-chile",
-  "image": "labdemgob/estudio 9.png"
+  "slug": "ideas-10-velocidad-escrutan-votos-chile"
  },
  {
   "type": "ideas",
@@ -1335,8 +1335,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.29193.01128",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-09-hora-precision-conocen-resultados-electorales-chile",
-  "image": "labdemgob/estudio 10.png"
+  "slug": "ideas-09-hora-precision-conocen-resultados-electorales-chile"
  },
  {
   "type": "ideas",
@@ -1357,8 +1356,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.27627.11046",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-08-cual-fue-nivel-acuerdo-pleno-consejo",
-  "image": "labdemgob/estudio 8.png"
+  "slug": "ideas-08-cual-fue-nivel-acuerdo-pleno-consejo"
  },
  {
   "type": "ideas",
@@ -1379,8 +1377,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.30982.55365",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-07-cual-fue-nivel-acuerdo-comisiones-consejo",
-  "image": "labdemgob/estudio 7.png"
+  "slug": "ideas-07-cual-fue-nivel-acuerdo-comisiones-consejo"
  },
  {
   "type": "ideas",
@@ -1401,8 +1398,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.26767.76960",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-06-cual-fue-nivel-acuerdo-pleno-convencion",
-  "image": "labdemgob/estudio 6.png"
+  "slug": "ideas-06-cual-fue-nivel-acuerdo-pleno-convencion"
  },
  {
   "type": "ideas",
@@ -1423,8 +1419,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.13345.99688",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-05-cual-fue-nivel-acuerdo-comisiones-convencion",
-  "image": "labdemgob/estudio 5.png"
+  "slug": "ideas-05-cual-fue-nivel-acuerdo-comisiones-convencion"
  },
  {
   "type": "ideas",
@@ -1445,8 +1440,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.36681.11361",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-04-cuales-son-efectos-sistema-electoral-propuesto",
-  "image": "labdemgob/estudio 4.png"
+  "slug": "ideas-04-cuales-son-efectos-sistema-electoral-propuesto"
  },
  {
   "type": "ideas",
@@ -1467,8 +1461,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.30461.74722",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-03-cuales-son-determinantes-fragmentacion-partidaria",
-  "image": "labdemgob/estudio 3.png"
+  "slug": "ideas-03-cuales-son-determinantes-fragmentacion-partidaria"
  },
  {
   "type": "ideas",
@@ -1489,8 +1482,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.23750.86087",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-02-chile-tiene-demasiados-o-muy-pocos",
-  "image": "labdemgob/estudio 2.png"
+  "slug": "ideas-02-chile-tiene-demasiados-o-muy-pocos"
  },
  {
   "type": "ideas",
@@ -1511,8 +1503,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.37376.65337",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves",
-  "image": "labdemgob/estudio 1.png"
+  "slug": "ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves"
  },
  {
   "type": "report",
