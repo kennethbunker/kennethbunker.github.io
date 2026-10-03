@@ -205,9 +205,13 @@ HEAD_COMMON = """<!-- Google tag (gtag.js) -->
 <style>
 .container.mt-5{max-width:100%;padding-left:0;padding-right:0}
 .container.mt-5 .navbar-nav .btn{margin-right:.35rem!important;padding-left:.4rem;padding-right:.4rem}
-.pub{margin:0 0 1.3rem 0}
-.pub .ptitle{font-weight:700}
-.pub .meta{font-size:.95em}
+.pub{padding:1.1rem 0;border-bottom:1px solid #eee;max-width:48rem}
+.pub .ptitle{font-weight:700;font-size:1.05rem;line-height:1.35;margin-bottom:.3rem}
+.pub .ptitle a{color:#222;text-decoration:none}.pub .ptitle a:hover{color:#0077cc;text-decoration:underline}
+.pub .meta{font-size:.9rem;color:#444}
+.pub .venue{font-size:.85rem;color:#777;margin-bottom:.15rem}
+.pub .pbtns{margin-top:.5rem}
+h2[id^=sec-]{margin-top:2.5rem!important;padding-bottom:.3rem;border-bottom:2px solid #222;max-width:48rem}
 .pbtns{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.35rem}
 .pbtn{display:inline-block;font-size:.78rem;line-height:1.2;padding:.18rem .5rem;border:1px solid #0077cc;border-radius:3px;color:#0077cc;text-decoration:none!important;background:#fff;cursor:pointer;font-family:inherit}
 .pbtn:hover{background:#0077cc;color:#fff}
@@ -419,10 +423,13 @@ def index_page():
             more = f'<a class="pbtn more" href="{BASE}{e["slug"]}/">{"Abstract &amp; details" if e.get("abstract") else "Details"}</a>'
             bibb = f'<button class="pbtn more" onclick="tog(\'{bid}\',this)">BibTeX</button>'
             search = E((e["title"] + " " + " ".join(e["authors"]) + " " + year_str(e) + " " + (e.get("journal") or e.get("book_title") or e.get("series") or "")).lower())
+            short = [(l, u, c) for l, u, c in links(e) if c.split()[0] in ("doi", "pdf")]
+            sb = "".join(f'<a class="pbtn {c}" href="{E(u)}" target="_blank" rel="noopener">{E(l)}</a>' for l, u, c in short)
             parts.append(f"""<div class="pub" data-s="{search}">
-<div><span class="ptitle"><a href="{BASE}{e['slug']}/">{E(e['title'])}</a></span></div>
-<div class="meta">{authors_html(e['authors'])} ({E(year_str(e))}). {venue_html(e).rstrip('.')}.</div>
-{btns(e, more + bibb)}
+<div class="ptitle"><a href="{BASE}{e['slug']}/">{E(e['title'])}</a></div>
+<div class="meta">{authors_html(e['authors'])} &middot; {E(year_str(e))}</div>
+<div class="venue">{venue_html(e).rstrip('.')}</div>
+<div class="pbtns"><a class="pbtn more" href="{BASE}{e['slug']}/">{"Abstract" if e.get("abstract") else "Details"}</a>{sb}{bibb}</div>
 <div class="bibbox" id="{bid}"><pre class="bib" id="{bid}-t">{E(bibtex(e))}</pre><button class="pbtn more" onclick="cp('{bid}-t',this)">Copy BibTeX</button></div>
 </div>""")
     page = f"""<!DOCTYPE html>
@@ -441,7 +448,7 @@ def index_page():
 {NAV}
 <div id="content"><div class="container">
 <h1 style="font-size:1.8rem">Publications</h1>
-<p>{total} publications. Each title opens a page with the abstract, full bibliographic details and citation formats. Also on <a href="{SCHOLAR_PROFILE}">Google Scholar</a>, <a href="{ORCID}">ORCID</a>, <a href="{RG_PROFILE}">ResearchGate</a> and <a href="{ACADEMIA_PROFILE}">Academia.edu</a>.</p>
+<p>{total} publications. Click a title for the abstract. Also on <a href="{SCHOLAR_PROFILE}">Google Scholar</a>, <a href="{ORCID}">ORCID</a>, <a href="{RG_PROFILE}">ResearchGate</a> and <a href="{ACADEMIA_PROFILE}">Academia.edu</a>.</p>
 <p class="toc small">{''.join(toc)}</p>
 <input id="q" type="search" placeholder="Filter by title, coauthor, journal or year" oninput="flt(this.value)">
 {''.join(parts)}
