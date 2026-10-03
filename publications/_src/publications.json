@@ -949,9 +949,9 @@
   "title": "Votaciones individuales de la Convención Constitucional de Chile",
   "authors": [
    "Kenneth Bunker",
-   "Cristóbal González Piucol",
-   "Sebastián Contreras Ubal",
-   "Pablo Toro"
+   "Camila González Piucol",
+   "Sofía Contreras Ubal",
+   "P. Toro"
   ],
   "year": 2022,
   "publisher": "Tresquintos",
@@ -1537,8 +1537,8 @@
   "title": "Resumen y análisis de las elecciones presidenciales y legislativas de Chile 2021",
   "authors": [
    "Kenneth Bunker",
-   "Cristóbal González Piucol",
-   "Sebastián Contreras Ubal",
+   "Camila González Piucol",
+   "Sofía Contreras Ubal",
    "E. Espinosa"
   ],
   "year": 2022,
@@ -1553,17 +1553,19 @@
   "title": "Breve historia de la elección presidencial y legislativa de Chile 2021",
   "authors": [
    "Kenneth Bunker",
-   "Sebastián Contreras Ubal",
-   "Cristóbal González Piucol",
-   "M. Orellana"
+   "Sofía Contreras Ubal",
+   "Camila González Piucol",
+   "Mario Orellana"
   ],
-  "year": 2022,
+  "year": 2021,
   "pages_total": "529",
   "publisher": "Tresquintos",
   "place": "Santiago",
   "language": "es",
   "slug": "2022-breve-historia-eleccion-presidencial-legislativa-chile-2021",
-  "researchgate": "https://www.researchgate.net/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021"
+  "researchgate": "https://www.researchgate.net/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021",
+  "abstract": "Usted tiene en sus manos una breve historia de las elecciones presidenciales y legislativas de Chile de 2021. Es fruto de un detallado y minucioso trabajo del equipo de Tresquintos. El objetivo del manual es servir de una guía general sobre lo que está en juego el día 21 noviembre de 2021. Contiene resúmenes de regulaciones y resultados. La fuente de la gran mayoría de los datos es el Servicio Electoral de Chile. En caso contrario, está indicado oportunamente. Casi todos los datos están disponibles para descarga en el sitio web tresquintos.cl. El documento está dividido en cuatro partes. La primera sección contiene el marco general de las elecciones. Entre otras cosas, el cronograma general, el cronograma particular y las reglas que enmarcan todas las elecciones. La segunda sección introduce la elección presidencial y a sus candidatos. La tercera sección pasa a la elección de senadores y la descripción de lo que está en juego en cada una de las 9 regiones que eligen candidatos. La sección final describe la elección de diputados y detalla los elementos más importantes de cada uno de los 28 distritos.",
+  "abstract_label": "Resumen"
  },
  {
   "type": "workingpaper",
@@ -1578,7 +1580,8 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2018-mujeres-poder-legislativo-chile-1990-2018-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100458_Mujeres_Candidatas_en_Chile_1990-2022"
+  "researchgate": "https://www.researchgate.net/publication/322100458_Mujeres_Candidatas_en_Chile_1990-2022",
+  "doi": "10.13140/RG.2.2.33728.08960"
  },
  {
   "type": "workingpaper",
@@ -1593,7 +1596,8 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2018-reeleccion-poder-legislativo-chile-1993-2017-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100457_Cuorums_Legislativos_en_Chile_1990-2022"
+  "researchgate": "https://www.researchgate.net/publication/322100457_Cuorums_Legislativos_en_Chile_1990-2022",
+  "doi": "10.13140/RG.2.2.20306.31687"
  },
  {
   "type": "workingpaper",
@@ -1608,7 +1612,8 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2018-retiros-remociones-renuncias-poder-legislativo-chile-1990-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100451_Abandono_de_Legisladores_en_Chile_1990-2022"
+  "researchgate": "https://www.researchgate.net/publication/322100451_Abandono_de_Legisladores_en_Chile_1990-2022",
+  "doi": "10.13140/RG.2.2.13595.43042"
  },
  {
   "type": "workingpaper",

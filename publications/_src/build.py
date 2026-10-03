@@ -30,7 +30,7 @@ SECTIONS = [
     ("dataset", "Datasets", None),
     ("ideas", "Policy briefs: Ideas, Democracy and Government Lab", None),
     ("report", "Reports", None),
-    ("workingpaper", "Working papers and other publications", None),
+    ("workingpaper", "Working papers", None),
 ]
 TYPE_LABEL = {"book": "Book", "article": "Journal article", "chapter": "Book chapter", "review": "Book review",
               "dataset": "Dataset", "ideas": "Policy brief", "report": "Report", "workingpaper": "Working paper"}
@@ -41,8 +41,8 @@ def split_name(full):
     return " ".join(parts[:-1]), parts[-1]
 
 # Spanish double surnames we know about
-DOUBLE = {"Cristóbal González Piucol": ("Cristóbal", "González Piucol"),
-          "Sebastián Contreras Ubal": ("Sebastián", "Contreras Ubal"),
+DOUBLE = {"Camila González Piucol": ("Camila", "González Piucol"),
+          "Sofía Contreras Ubal": ("Sofía", "Contreras Ubal"),
           "Miguel Ángel López": ("Miguel Ángel", "López"),
           "Gabriel L. Negretto": ("Gabriel L.", "Negretto"),
           "Isaí Emanuel Muñoz": ("Isaí Emanuel", "Muñoz"),
@@ -247,7 +247,8 @@ table.det td{padding:.15rem .8rem .15rem 0;vertical-align:top}
 table.det td:first-child{font-weight:700;white-space:nowrap}
 .tag{display:inline-block;font-size:.75rem;background:#eee;border-radius:3px;padding:.05rem .4rem;margin:0 .25rem .25rem 0}
 #q{width:100%;max-width:420px;padding:.35rem .5rem;border:1px solid #ccc;border-radius:3px;font-family:inherit}
-.toc a{margin-right:.8rem;white-space:nowrap}
+.toc{display:flex;flex-wrap:wrap;gap:.35rem 1rem}
+.toc a{white-space:nowrap}
 .count{color:#777;font-weight:400;font-size:.8em}
 </style>"""
 
