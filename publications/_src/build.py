@@ -214,9 +214,9 @@ body{margin:40px}
 .abwrap{display:flex;gap:1.6rem;align-items:flex-start;flex-direction:row-reverse}
 .abtext{flex:1;min-width:0}
 .fp{flex:0 0 230px;text-decoration:none!important;text-align:center;margin-top:1.2rem}
-#content img.fpimg{width:230px;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+#content img.fpimg{width:230px;height:310px;object-fit:contain;object-position:center top;background:#fff;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
 .fp span{display:block;font-size:.72rem;color:#888;margin-top:.3rem;letter-spacing:.06em;text-transform:uppercase}
-@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px}}
+@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px;height:270px}}
 .ihead{display:flex;gap:1.4rem;align-items:flex-start}
 .ihtext{flex:1;min-width:0}
 #content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
@@ -430,8 +430,11 @@ def placeholder(e):
 
 def fp_html(e):
     u = firstpage_for(e)
+    label = "First page"
+    if not u and e["type"] in ("book", "chapter"):
+        u = image_for(e); label = "Cover"
     if not u: return ""
-    return f'<a class="fp" href="{u}" target="_blank" rel="noopener" title="First page"><img class="fpimg" src="{u}" alt="First page of {E(e["title"])}" loading="lazy"><span>First page</span></a>'
+    return f'<a class="fp" href="{u}" target="_blank" rel="noopener" title="First page"><img class="fpimg" src="{E(u)}" alt="{label} of {E(e["title"])}" loading="lazy" referrerpolicy="no-referrer"><span>{label}</span></a>'
 
 def thumb_html(e, cls):
     u = image_for(e)
@@ -550,7 +553,7 @@ def item_page(e):
 {NAV}
 <div id="content"><div class="container">
 <p class="small"><a href="{BASE}">&larr; All publications</a></p>
-<div class="ihead">{"" if local_pdf(e) else thumb_html(e, "ithumb")}<div class="ihtext">
+<div class="ihead"><div class="ihtext">
 <p class="text-muted small mb-1">{E(TYPE_LABEL[e['type']])} &middot; {E(year_str(e))}</p>
 <h1 style="font-size:1.6rem">{E(t)}</h1>
 {alt}
