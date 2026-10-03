@@ -1631,7 +1631,9 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp",
-  "pdf_file": "Bunker (2008) - Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008.pdf"
+  "pdf_file": "Bunker (2008) - Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008.pdf",
+  "doi": "10.13140/RG.2.2.29533.78568",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.29533.78568"
  },
  {
   "type": "workingpaper",
@@ -1645,7 +1647,9 @@
   "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
   "place": "Santiago",
   "language": "es",
-  "slug": "2008-desempeno-electoral-mujeres-elecciones-municipales-wp"
+  "slug": "2008-desempeno-electoral-mujeres-elecciones-municipales-wp",
+  "doi": "10.13140/RG.2.2.29932.21125",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.29932.21125"
  },
  {
   "type": "workingpaper",
@@ -1660,7 +1664,9 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp",
-  "pdf_file": "Bunker (2008) - La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008.pdf"
+  "pdf_file": "Bunker (2008) - La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008.pdf",
+  "doi": "10.13140/RG.2.2.14014.86084",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.14014.86084"
  },
  {
   "type": "workingpaper",
@@ -1690,6 +1696,8 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp",
-  "pdf_file": "Bunker (2006) - Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales.pdf"
+  "pdf_file": "Bunker (2006) - Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales.pdf",
+  "doi": "10.13140/RG.2.2.36244.67202",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.36244.67202"
  }
 ]
