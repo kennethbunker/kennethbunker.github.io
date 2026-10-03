@@ -226,6 +226,9 @@ pre.bib{background:#f6f6f6;border:1px solid #ddd;padding:.75rem;font-size:.8rem;
 .bibbox{display:none;margin-top:.5rem}
 .bibbox.open{display:block}
 .abstract{line-height:1.6;max-width:46rem}
+.dgrid{display:grid;grid-template-columns:max-content 1fr;gap:.25rem 1.2rem;font-size:.9rem;max-width:46rem}
+.dk{color:#777}
+.dv{color:#222;word-break:break-word}
 .lbl{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:#777;margin:1.2rem 0 .3rem}
 table.det td{padding:.15rem .8rem .15rem 0;vertical-align:top}
 table.det td:first-child{font-weight:700;white-space:nowrap}
@@ -348,7 +351,8 @@ def detail_rows(e):
     out = []
     for n, v in r:
         if v in (None, "", []): continue
-        out.append(f"<tr><td>{n}</td><td>{v if n in ('DOI','Website') else E(v)}</td></tr>")
+        if n in ("Type", "Authors", "Language", "Place"): continue
+        out.append(f"<div class=\"dk\">{n}</div><div class=\"dv\">{v if n in ('DOI','Website') else E(v)}</div>")
     return "\n".join(out)
 
 # ---------- item pages ----------
@@ -403,6 +407,10 @@ def item_page(e):
 <div class="pbtns"><button class="pbtn more" onclick="cp('{cid}',this)">Copy citation</button><button class="pbtn more" onclick="cp('{bid}',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,{E(urllib.parse.quote(bibtex(e)))}" download="{bibkey(e)}.bib">Download .bib</a></div>
 </div>
 <div class="mt-4">{ab}</div>
+<p class="lbl">Details</p>
+<div class="dgrid">
+{detail_rows(e)}
+</div>
 {FOOT}"""
     d = os.path.join(PUBDIR, e["slug"])
     os.makedirs(d, exist_ok=True)
