@@ -177,12 +177,11 @@ def links(e):
     q = re.sub(r"\s+", "+", e["title"])
     if e.get("doi"): L.append(("DOI", "https://doi.org/" + e["doi"], "doi"))
     elif e.get("url"): L.append(("Publisher", e["url"], "doi"))
-    pdf = local_pdf(e) or e.get("pdf")
-    if pdf: L.append(("PDF" + (" (submitted version)" if e.get("pdf_note") and not local_pdf(e) else ""), pdf, "pdf"))
-    elif e.get("pdf_rg"): L.append(("PDF", e["researchgate"], "pdf"))
-    else: L.append(("Request PDF", f"mailto:{EMAIL}?subject=" + re.sub(r"\s", "%20", "PDF request: " + e["title"]), "pdf req"))
-    L.append(("ResearchGate", e.get("researchgate") or f"https://www.researchgate.net/search/publication?q={q}", "rg"))
-    L.append(("Academia.edu", e.get("academia") or ACADEMIA_PROFILE, "ac"))
+    pdf = local_pdf(e)  # only PDFs hosted on this site
+    if pdf: L.append(("PDF", pdf, "pdf"))
+    rg = e.get("researchgate")
+    if rg and "researchgate.net/publication/" in rg: L.append(("ResearchGate", rg, "rg"))
+    if e.get("academia"): L.append(("Academia.edu", e["academia"], "ac"))
     L.append(("Google Scholar", "https://scholar.google.com/scholar?q=" + q, "gs"))
     return L
 
