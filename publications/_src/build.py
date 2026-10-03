@@ -28,12 +28,11 @@ SECTIONS = [
     ("chapter", "Book chapters", None),
     ("review", "Book reviews", None),
     ("dataset", "Datasets", None),
-    ("ideas", "Policy briefs: Ideas, Democracy and Government Lab", None),
+    ("ideas", "Policy briefs and short studies", None),
     ("report", "Reports", None),
-    ("workingpaper", "Working papers", None),
 ]
 TYPE_LABEL = {"book": "Book", "article": "Journal article", "chapter": "Book chapter", "review": "Book review",
-              "dataset": "Dataset", "ideas": "Policy brief", "report": "Report", "workingpaper": "Working paper"}
+              "dataset": "Dataset", "ideas": "Policy brief", "report": "Report", "workingpaper": "Policy brief"}
 
 # ---------- helpers ----------
 def split_name(full):
@@ -582,7 +581,7 @@ def index_page():
     toc = []
     total = 0
     for key, heading, _ in SECTIONS:
-        items = [e for e in data if e["type"] == key]
+        items = [e for e in data if e["type"] == key or (key == "ideas" and e["type"] == "workingpaper")]
         if not items: continue
         total += len(items)
         sid = "sec-" + key
