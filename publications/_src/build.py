@@ -437,7 +437,7 @@ def fp_html(e):
     return f'<a class="fp" href="{u}" target="_blank" rel="noopener" title="First page"><img class="fpimg" src="{E(u)}" alt="{label} of {E(e["title"])}" loading="lazy" referrerpolicy="no-referrer"><span>{label}</span></a>'
 
 def thumb_html(e, cls):
-    u = image_for(e)
+    u = image_for(e) or firstpage_for(e)
     if u:
         ph = placeholder(e).replace('"', "&quot;") if cls == "lthumb" else ""
         fb = f' onerror="this.outerHTML=\'{ph}\'"' if not u.startswith(BASE) else ""
