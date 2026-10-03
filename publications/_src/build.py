@@ -211,6 +211,12 @@ body{margin:40px}
 .pbody{flex:1;min-width:0}
 #content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
 .ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.abwrap{display:flex;gap:1.6rem;align-items:flex-start;flex-direction:row-reverse}
+.abtext{flex:1;min-width:0}
+.fp{flex:0 0 230px;text-decoration:none!important;text-align:center;margin-top:1.2rem}
+#content img.fpimg{width:230px;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.fp span{display:block;font-size:.72rem;color:#888;margin-top:.3rem;letter-spacing:.06em;text-transform:uppercase}
+@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px}}
 .ihead{display:flex;gap:1.4rem;align-items:flex-start}
 .ihtext{flex:1;min-width:0}
 #content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
@@ -422,6 +428,11 @@ def placeholder(e):
     ab = "".join(w[0] for w in words)[:4] or v[:3]
     return f'<div class="ph" title="{E(v)}">{E(ab)}</div>'
 
+def fp_html(e):
+    u = firstpage_for(e)
+    if not u: return ""
+    return f'<a class="fp" href="{u}" target="_blank" rel="noopener" title="First page"><img class="fpimg" src="{u}" alt="First page of {E(e["title"])}" loading="lazy"><span>First page</span></a>'
+
 def thumb_html(e, cls):
     u = image_for(e)
     if u:
@@ -429,6 +440,66 @@ def thumb_html(e, cls):
         fb = f' onerror="this.outerHTML=\'{ph}\'"' if not u.startswith(BASE) else ""
         return f'<img class="{cls}" src="{E(u)}" alt="{E(e["title"])}" loading="lazy" referrerpolicy="no-referrer"{fb}>'
     return placeholder(e) if cls == "lthumb" else ""
+
+
+# ---------- first pages from private PDFs (publications/_papers) ----------
+PAPERS = os.path.join(PUBDIR, "_papers")
+FPDIR = os.path.join(IMGDIR, "p1")
+_PMAP = None
+def _norm(t):
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "", t)
+
+def paper_map():
+    """slug -> pdf path, matching by file name, DOI or title in the first two pages."""
+    global _PMAP
+    if _PMAP is not None: return _PMAP
+    _PMAP = {}
+    if not os.path.isdir(PAPERS): return _PMAP
+    import subprocess
+    pdfs = [os.path.join(PAPERS, f) for f in sorted(os.listdir(PAPERS)) if f.lower().endswith(".pdf")]
+    for e in data:
+        if e.get("pdf_file") and os.path.exists(os.path.join(PAPERS, e["pdf_file"])):
+            _PMAP[e["slug"]] = os.path.join(PAPERS, e["pdf_file"])
+    pdfs = [f for f in pdfs if f not in _PMAP.values()]
+    for f in pdfs:
+        base = os.path.basename(f)[:-4]
+        hit = next((e for e in data if e["slug"] == base), None)
+        if not hit:
+            try:
+                t = subprocess.run(["pdftotext", "-f", "1", "-l", "2", f, "-"], capture_output=True, text=True, timeout=60).stdout
+            except Exception:
+                t = ""
+            low = t.lower(); nt = _norm(t)
+            for e in data:
+                if e.get("doi") and e["doi"].lower() in low: hit = e; break
+            if not hit:
+                for e in data:
+                    for tt in (e["title"], e.get("title_en") or ""):
+                        k = _norm(tt)[:45]
+                        if len(k) > 20 and k in nt: hit = e; break
+                    if hit: break
+        if hit and hit["slug"] not in _PMAP:
+            _PMAP[hit["slug"]] = f
+        elif not hit:
+            print("  (no match for", os.path.basename(f) + ")")
+    return _PMAP
+
+def firstpage_for(e):
+    """URL of a first-page image: hosted PDF, private PDF in _papers, else None."""
+    pdf = os.path.join(PUBDIR, "pdf", e["slug"] + ".pdf")
+    if not os.path.exists(pdf):
+        pdf = paper_map().get(e["slug"])
+    if not pdf: return None
+    os.makedirs(FPDIR, exist_ok=True)
+    dst = os.path.join(FPDIR, e["slug"] + ".jpg")
+    if not (os.path.exists(dst) and os.path.getmtime(dst) >= os.path.getmtime(pdf)):
+        import tempfile
+        tmp = os.path.join(tempfile.gettempdir(), "_fp_" + e["slug"])
+        if os.system(f'pdftoppm -jpeg -f {e.get("pdf_page", 1)} -l {e.get("pdf_page", 1)} -singlefile -scale-to 1100 "{pdf}" "{tmp}" >/dev/null 2>&1') != 0 or not os.path.exists(tmp + ".jpg"):
+            return None
+        _thumb(tmp + ".jpg", dst, width=700)
+    return BASE + "img/p1/" + e["slug"] + ".jpg"
 
 # ---------- item pages ----------
 CITE_BTN = '<button class="pbtn more" onclick="tog(\'citebox\',this)">Cite</button>'
@@ -471,7 +542,7 @@ def item_page(e):
 {NAV}
 <div id="content"><div class="container">
 <p class="small"><a href="{BASE}">&larr; All publications</a></p>
-<div class="ihead">{thumb_html(e, "ithumb")}<div class="ihtext">
+<div class="ihead">{"" if local_pdf(e) else thumb_html(e, "ithumb")}<div class="ihtext">
 <p class="text-muted small mb-1">{E(TYPE_LABEL[e['type']])} &middot; {E(year_str(e))}</p>
 <h1 style="font-size:1.6rem">{E(t)}</h1>
 {alt}
@@ -484,7 +555,7 @@ def item_page(e):
 <pre class="bib" id="{bid}">{E(bibtex(e))}</pre>
 <div class="pbtns"><button class="pbtn more" onclick="cp('{cid}',this)">Copy citation</button><button class="pbtn more" onclick="cp('{bid}',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,{E(urllib.parse.quote(bibtex(e)))}" download="{bibkey(e)}.bib">Download .bib</a></div>
 </div>
-<div class="mt-4">{ab}</div>
+<div class="mt-4 abwrap">{fp_html(e)}<div class="abtext">{ab}</div></div>
 <p class="lbl">Details</p>
 <div class="dgrid">
 {detail_rows(e)}

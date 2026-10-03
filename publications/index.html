@@ -17,6 +17,12 @@ body{margin:40px}
 .pbody{flex:1;min-width:0}
 #content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
 .ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.abwrap{display:flex;gap:1.6rem;align-items:flex-start;flex-direction:row-reverse}
+.abtext{flex:1;min-width:0}
+.fp{flex:0 0 230px;text-decoration:none!important;text-align:center;margin-top:1.2rem}
+#content img.fpimg{width:230px;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.fp span{display:block;font-size:.72rem;color:#888;margin-top:.3rem;letter-spacing:.06em;text-transform:uppercase}
+@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px}}
 .ihead{display:flex;gap:1.4rem;align-items:flex-start}
 .ihtext{flex:1;min-width:0}
 #content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}

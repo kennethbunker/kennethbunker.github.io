@@ -17,6 +17,12 @@ body{margin:40px}
 .pbody{flex:1;min-width:0}
 #content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
 .ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.abwrap{display:flex;gap:1.6rem;align-items:flex-start;flex-direction:row-reverse}
+.abtext{flex:1;min-width:0}
+.fp{flex:0 0 230px;text-decoration:none!important;text-align:center;margin-top:1.2rem}
+#content img.fpimg{width:230px;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.fp span{display:block;font-size:.72rem;color:#888;margin-top:.3rem;letter-spacing:.06em;text-transform:uppercase}
+@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px}}
 .ihead{display:flex;gap:1.4rem;align-items:flex-start}
 .ihtext{flex:1;min-width:0}
 #content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
@@ -183,7 +189,7 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 }</pre>
 <div class="pbtns"><button class="pbtn more" onclick="cp('cit',this)">Copy citation</button><button class="pbtn more" onclick="cp('bib',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,%40incollection%7Bacevedo2017reeleccion%2C%0A%20%20author%20%20%20%3D%20%7BAcevedo%2C%20Sergio%20and%20Bunker%2C%20Kenneth%7D%2C%0A%20%20title%20%20%20%20%3D%20%7B%7BReelecci%C3%B3n%20y%20carreras%20legislativas%20en%20la%20C%C3%A1mara%20de%20Diputados%2C%201990-2014%7D%7D%2C%0A%20%20booktitle%3D%20%7BEl%20tsunami%20electoral%20de%202013%20en%20Chile%7D%2C%0A%20%20editor%20%20%20%3D%20%7BMorales%2C%20Mauricio%20and%20Navia%2C%20Patricio%20and%20Garrido%2C%20Carolina%7D%2C%0A%20%20pages%20%20%20%20%3D%20%7B271--290%7D%2C%0A%20%20publisher%3D%20%7BEdiciones%20Universidad%20Diego%20Portales%7D%2C%0A%20%20address%20%20%3D%20%7BSantiago%7D%2C%0A%20%20year%20%20%20%20%20%3D%20%7B2017%7D%2C%0A%20%20url%20%20%20%20%20%20%3D%20%7Bhttps%3A//kennethbunker.github.io/publications/2017-reeleccion-carreras-legislativas-camara-diputados-1990-2014/%7D%2C%0A%20%20language%20%3D%20%7Bspanish%7D%0A%7D" download="acevedo2017reeleccion.bib">Download .bib</a></div>
 </div>
-<div class="mt-4"></div>
+<div class="mt-4 abwrap"><div class="abtext"></div></div>
 <p class="lbl">Details</p>
 <div class="dgrid">
 <div class="dk">Book</div><div class="dv">El tsunami electoral de 2013 en Chile</div>

@@ -17,6 +17,12 @@ body{margin:40px}
 .pbody{flex:1;min-width:0}
 #content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
 .ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.abwrap{display:flex;gap:1.6rem;align-items:flex-start;flex-direction:row-reverse}
+.abtext{flex:1;min-width:0}
+.fp{flex:0 0 230px;text-decoration:none!important;text-align:center;margin-top:1.2rem}
+#content img.fpimg{width:230px;margin:0;border:1px solid #ddd;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.fp span{display:block;font-size:.72rem;color:#888;margin-top:.3rem;letter-spacing:.06em;text-transform:uppercase}
+@media (max-width:700px){.abwrap{flex-direction:column}.fp{flex:none}#content img.fpimg{width:200px}}
 .ihead{display:flex;gap:1.4rem;align-items:flex-start}
 .ihtext{flex:1;min-width:0}
 #content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
@@ -156,7 +162,7 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 <hr>
 <div id="content"><div class="container">
 <p class="small"><a href="https://kennethbunker.github.io/publications/">&larr; All publications</a></p>
-<div class="ihead"><img class="ithumb" src="https://kennethbunker.github.io/publications/img/ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves.jpg" alt="¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?" loading="lazy" referrerpolicy="no-referrer"><div class="ihtext">
+<div class="ihead"><div class="ihtext">
 <p class="text-muted small mb-1">Policy brief &middot; 2023</p>
 <h1 style="font-size:1.6rem">¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?</h1>
 
@@ -180,8 +186,8 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 }</pre>
 <div class="pbtns"><button class="pbtn more" onclick="cp('cit',this)">Copy citation</button><button class="pbtn more" onclick="cp('bib',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,%40techreport%7Bbunker2023ha%2C%0A%20%20author%20%20%20%3D%20%7BBunker%2C%20Kenneth%7D%2C%0A%20%20title%20%20%20%20%3D%20%7B%7B%C2%BFHa%20aumentado%20la%20fragmentaci%C3%B3n%20en%20el%20sistema%20de%20partidos%20a%20trav%C3%A9s%20de%20los%20a%C3%B1os%3F%7D%7D%2C%0A%20%20institution%3D%20%7BUniversidad%20San%20Sebasti%C3%A1n%2C%20Laboratorio%20Democracia%20y%20Gobierno%7D%2C%0A%20%20type%20%20%20%20%20%3D%20%7BIdeas%3A%20Laboratorio%20Democracia%20y%20Gobierno%7D%2C%0A%20%20number%20%20%20%3D%20%7B1%7D%2C%0A%20%20address%20%20%3D%20%7BSantiago%7D%2C%0A%20%20year%20%20%20%20%20%3D%20%7B2023%7D%2C%0A%20%20doi%20%20%20%20%20%20%3D%20%7B10.13140/RG.2.2.37376.65337%7D%2C%0A%20%20url%20%20%20%20%20%20%3D%20%7Bhttps%3A//kennethbunker.github.io/publications/ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves/%7D%2C%0A%20%20language%20%3D%20%7Bspanish%7D%0A%7D" download="bunker2023ha.bib">Download .bib</a></div>
 </div>
-<div class="mt-4"><p class="lbl">Resumen</p>
-<p class="abstract">Este estudio analiza la evolución de la fragmentación en el sistema de partidos de Chile. Los hallazgos indican que la fragmentación ha aumentado con el tiempo, influenciada por reglas electorales y la magnitud de los distritos.</p></div>
+<div class="mt-4 abwrap"><a class="fp" href="https://kennethbunker.github.io/publications/img/p1/ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves.jpg" target="_blank" rel="noopener" title="First page"><img class="fpimg" src="https://kennethbunker.github.io/publications/img/p1/ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves.jpg" alt="First page of ¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?" loading="lazy"><span>First page</span></a><div class="abtext"><p class="lbl">Resumen</p>
+<p class="abstract">Este estudio analiza la evolución de la fragmentación en el sistema de partidos de Chile. Los hallazgos indican que la fragmentación ha aumentado con el tiempo, influenciada por reglas electorales y la magnitud de los distritos.</p></div></div>
 <p class="lbl">Details</p>
 <div class="dgrid">
 <div class="dk">Series</div><div class="dv">Ideas: Laboratorio Democracia y Gobierno</div>

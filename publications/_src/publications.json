@@ -591,7 +591,9 @@
   "academia": null,
   "pdf": null,
   "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
-  "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85"
+  "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85",
+  "pdf_file": "Bunker (2023) - The recasting of the latin american right .pdf",
+  "pdf_page": 6
  },
  {
   "type": "chapter",
@@ -617,7 +619,9 @@
   "academia": null,
   "pdf": null,
   "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
-  "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg"
+  "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg",
+  "pdf_file": "Bunker (2024) - Crisis de la democracia liberal.pdf",
+  "pdf_page": 14
  },
  {
   "title": "Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso",
