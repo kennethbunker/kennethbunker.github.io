@@ -378,7 +378,8 @@
   "researchgate": "https://www.researchgate.net/publication/342827341_La_eleccion_de_2017_y_el_fraccionamiento_del_sistema_de_partidos_en_Chile",
   "academia": "https://www.academia.edu/40482094/The_2017_elections_and_the_fragmentation_of_the_party_system_in_Chile",
   "pdf": "https://dialnet.unirioja.es/descarga/articulo/6844609.pdf",
-  "slug": "2018-2017-elections-fragmentation-party-system-chile"
+  "slug": "2018-2017-elections-fragmentation-party-system-chile",
+  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=15426"
  },
  {
   "type": "article",
@@ -436,7 +437,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": "https://www.scielo.cl/pdf/revcipol/v35n2/art01.pdf",
-  "slug": "2015-incumbency-advantage-tenure-length-chilean-chamber-deputies"
+  "slug": "2015-incumbency-advantage-tenure-length-chilean-chamber-deputies",
+  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=28672"
  },
  {
   "type": "article",
@@ -547,7 +549,8 @@
   "researchgate": "https://www.researchgate.net/publication/254915524_Democracia_Comunal_En_Chile_1992-2008",
   "academia": null,
   "pdf": "http://www.politicaygobierno.cide.edu/index.php/pyg/article/download/175/92/0",
-  "slug": "2010-democracia-comunal-chile-1992-2008"
+  "slug": "2010-democracia-comunal-chile-1992-2008",
+  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=13432"
  },
  {
   "type": "chapter",
@@ -588,7 +591,7 @@
   "academia": null,
   "pdf": null,
   "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
-  "cover_url": "https://assets.cambridge.org/97810094/27449/large_cover/9781009427449i.jpg"
+  "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85"
  },
  {
   "type": "chapter",
@@ -613,7 +616,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales"
+  "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
+  "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg"
  },
  {
   "title": "Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso",
@@ -648,7 +652,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2017-reeleccion-carreras-legislativas-camara-diputados-1990-2014"
+  "slug": "2017-reeleccion-carreras-legislativas-camara-diputados-1990-2014",
+  "cover_url": "https://rileditores.com/wp-content/uploads/2020/03/9789560104069.jpg"
  },
  {
   "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
@@ -666,7 +671,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile"
+  "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg"
  },
  {
   "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
@@ -685,7 +691,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2012-incumbencia-reeleccion-alcaldes-chile-1992-2004"
+  "slug": "2012-incumbencia-reeleccion-alcaldes-chile-1992-2004",
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg"
  },
  {
   "title": "Cambio y continuidad en la Cámara de Diputados, 1989-2014",
@@ -703,7 +710,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2010-cambio-continuidad-camara-diputados-1989-2014"
+  "slug": "2010-cambio-continuidad-camara-diputados-1989-2014",
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg"
  },
  {
   "title": "El votante díscolo",
@@ -739,7 +747,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2009-duracion-carreras-alcaldes-1992-2008"
+  "slug": "2009-duracion-carreras-alcaldes-1992-2008",
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg"
  },
  {
   "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",
