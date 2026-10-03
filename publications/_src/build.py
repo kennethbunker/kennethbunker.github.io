@@ -457,7 +457,7 @@ def paper_map():
     _PMAP = {}
     if not os.path.isdir(PAPERS): return _PMAP
     import subprocess
-    pdfs = [os.path.join(PAPERS, f) for f in sorted(os.listdir(PAPERS)) if f.lower().endswith(".pdf")]
+    pdfs = [os.path.join(PAPERS, f) for f in sorted(os.listdir(PAPERS)) if f.lower().endswith(".pdf") and not f.startswith("[Libro]")]
     nfc = {unicodedata.normalize("NFC", os.path.basename(f)): f for f in pdfs}
     for e in data:
         if e.get("pdf_file"):

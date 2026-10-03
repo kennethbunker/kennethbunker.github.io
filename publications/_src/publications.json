@@ -61,7 +61,8 @@
   "status": "Online first",
   "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal",
   "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/flgs20.v052.i04",
-  "pdf_page": 2
+  "pdf_page": 2,
+  "pdf_file": "Bunker (2026) - Electoral reform and party-system fragmentation.pdf"
  },
  {
   "type": "article",
@@ -167,7 +168,8 @@
   "pdf": null,
   "slug": "2026-mapping-party-systems-over-time-spatial-distribution",
   "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/cjpi20.v031.i03",
-  "pdf_page": 2
+  "pdf_page": 2,
+  "pdf_file": "Bunker (2026) - Mapping party systems over time.pdf"
  },
  {
   "type": "article",
@@ -601,7 +603,7 @@
   "pdf": null,
   "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
   "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85",
-  "pdf_file": "Bunker (2023) - The recasting of the latin american right .pdf",
+  "pdf_file": "Alenda et al. (2024) - Between Gattopardismo and Ideational Change.pdf",
   "pdf_page": 6,
   "pdf_crop": [
    0.03,
@@ -635,7 +637,7 @@
   "pdf": null,
   "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
   "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg",
-  "pdf_file": "Bunker (2024) - Crisis de la democracia liberal.pdf",
+  "pdf_file": "Bunker & Polga-Hecimovich (2025) - Representación y dinámicas partidarias.pdf",
   "pdf_page": 14
  },
  {
@@ -748,7 +750,7 @@
   "language": "es",
   "type": "chapter",
   "slug": "2010-votante-discolo",
-  "pdf_file": "Bunker, Kenneth and Patricio Navia - El Votante Discolo.pdf"
+  "pdf_file": "Bunker & Navia (2010) - El votante díscolo.pdf"
  },
  {
   "title": "Duración de las carreras de alcaldes, 1992-2008",
@@ -770,7 +772,7 @@
   "type": "chapter",
   "slug": "2009-duracion-carreras-alcaldes-1992-2008",
   "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg",
-  "pdf_file": "Bunker, Kenneth and Patricio Navia - Duracion de las Carreras de Alcalde, 1992-2008.pdf"
+  "pdf_file": "Bunker & Navia (2009) - Duración de las carreras de alcaldes, 1992-2008.pdf"
  },
  {
   "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",
@@ -788,7 +790,7 @@
   "type": "chapter",
   "slug": "2007-indice-complejidad-52-comunas-region-metropolitana",
   "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg",
-  "pdf_file": "Navia, Patricio and Kenneth Bunker - Índice de Complejidad Política en las 52 Comunas de la Región Metropolitana.pdf"
+  "pdf_file": "Bunker & Navia (2007) - Índice de complejidad en las 52 comunas de la Región Metropolitana.pdf"
  },
  {
   "type": "review",
@@ -1615,7 +1617,7 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp",
-  "pdf_file": "Bunker, Kenneth - Modificaciones y Reformas al Sistema Electoral Municipal en Chile, 1992-2008.pdf"
+  "pdf_file": "Bunker (2008) - Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008.pdf"
  },
  {
   "type": "workingpaper",
@@ -1644,7 +1646,7 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp",
-  "pdf_file": "Bunker, Kenneth - La Incumbencia y Duracion de Carreras de Alcaldes en Chile, 1992-2008.pdf"
+  "pdf_file": "Bunker (2008) - La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008.pdf"
  },
  {
   "type": "workingpaper",
@@ -1674,6 +1676,6 @@
   "place": "Santiago",
   "language": "es",
   "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp",
-  "pdf_file": "Bunker, Kenneth - Revisión de Experiencias Internacionales sobre Participación Ciudadana en Políticas Sociales.pdf"
+  "pdf_file": "Bunker (2006) - Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales.pdf"
  }
 ]
