@@ -498,6 +498,12 @@ def firstpage_for(e):
         tmp = os.path.join(tempfile.gettempdir(), "_fp_" + e["slug"])
         if os.system(f'pdftoppm -jpeg -f {e.get("pdf_page", 1)} -l {e.get("pdf_page", 1)} -singlefile -scale-to 1100 "{pdf}" "{tmp}" >/dev/null 2>&1') != 0 or not os.path.exists(tmp + ".jpg"):
             return None
+        if e.get("pdf_crop"):
+            try:
+                from PIL import Image
+                im = Image.open(tmp + ".jpg"); x0, y0, x1, y1 = e["pdf_crop"]
+                im.crop((int(x0*im.width), int(y0*im.height), int(x1*im.width), int(y1*im.height))).save(tmp + ".jpg")
+            except Exception: pass
         _thumb(tmp + ".jpg", dst, width=700)
     return BASE + "img/p1/" + e["slug"] + ".jpg"
 
