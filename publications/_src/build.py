@@ -203,15 +203,16 @@ HEAD_COMMON = """<!-- Google tag (gtag.js) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <link rel="stylesheet" href="https://kennethbunker.github.io/sass/researcher.min.css">
 <style>
+body{margin:40px}
 .container.mt-5{max-width:100%;padding-left:0;padding-right:0}
 .container.mt-5 .navbar-nav .btn{margin-right:.35rem!important;padding-left:.4rem;padding-right:.4rem}
-.pub{padding:1.1rem 0;border-bottom:1px solid #eee;max-width:48rem}
+.pub{padding:1.1rem 0;border-bottom:1px solid #eee;}
 .pub .ptitle{font-weight:700;font-size:1.05rem;line-height:1.35;margin-bottom:.3rem}
 .pub .ptitle a{color:#222;text-decoration:none}.pub .ptitle a:hover{color:#0077cc;text-decoration:underline}
 .pub .meta{font-size:.9rem;color:#444}
 .pub .venue{font-size:.85rem;color:#777;margin-bottom:.15rem}
 .pub .pbtns{margin-top:.5rem}
-h2[id^=sec-]{margin-top:2.5rem!important;padding-bottom:.3rem;border-bottom:2px solid #222;max-width:48rem}
+h2[id^=sec-]{margin-top:2.5rem!important;padding-bottom:.3rem;border-bottom:2px solid #222;}
 .pbtns{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.35rem}
 .pbtn{display:inline-block;font-size:.78rem;line-height:1.2;padding:.18rem .5rem;border:1px solid #0077cc;border-radius:3px;color:#0077cc;text-decoration:none!important;background:#fff;cursor:pointer;font-family:inherit}
 .pbtn:hover{background:#0077cc;color:#fff}
@@ -234,7 +235,10 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 .count{color:#777;font-weight:400;font-size:.8em}
 </style>"""
 
-NAV = """<div class="container mt-5">
+BANNER = '<!-- Clickable Top Banner -->\n<a href="https://link.springer.com/book/9783031964626?utm_medium=affiliate&utm_source=commission_junction_authors&utm_campaign=CONR_BOOKS_ECOM_GL_PBOK_ALWYS_DEEPLINK&utm_content=deeplink&utm_term=PID101446916&CJEVENT=c4bf33ef501f11f0808703740a18b8f9#overview" target="_blank" style="text-decoration: none;">\n  <div class="banner-container">\n    <img src="https://kennethbunker.github.io/img/banner.jpg" alt="Banner" class="banner-image">\n  </div>\n</a>\n\n<style>\n  .banner-container {\n    width: 100%;\n    max-width: 100%;\n    margin: 0 auto;\n    padding: 5px;\n    background-color: #fff;\n    border: 1px solid #ddd;\n    box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n    text-align: center;\n    transition: transform 0.3s ease, box-shadow 0.3s ease;\n  }\n\n  .banner-container:hover {\n    transform: scale(1.03);\n    box-shadow: 0 8px 16px rgba(0,0,0,0.2);\n  }\n\n  .banner-image {\n    width: 100%;\n    max-height: 100px;\n    object-fit: cover;\n    display: block;\n  }\n</style>'
+
+NAV = BANNER + """
+<div class="container mt-5">
 <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
 <a class="navbar-brand mx-0 mr-sm-auto" href="https://kennethbunker.github.io/">Kenneth Bunker</a>
 <div class="navbar-nav flex-row flex-wrap justify-content-center">
@@ -415,7 +419,7 @@ def index_page():
         total += len(items)
         sid = "sec-" + key
         toc.append(f'<a href="#{sid}">{E(heading.split(":")[0])}</a>')
-        parts.append(f'<h2 id="{sid}" class="mt-4">{E(heading)} <span class="count">({len(items)})</span></h2>')
+        parts.append(f'<h2 id="{sid}" class="mt-4">{E(heading)}</h2>')
         if key == "ideas":
             parts.append('<p class="small"><em>Ideas</em> is the policy brief series of the Laboratorio Democracia y Gobierno, Facultad de Economía y Gobierno, Universidad San Sebastián. Full catalog at <a href="https://labdemgob.github.io/ideas/">labdemgob.github.io</a>.</p>')
         for e in items:
@@ -448,7 +452,7 @@ def index_page():
 {NAV}
 <div id="content"><div class="container">
 <h1 style="font-size:1.8rem">Publications</h1>
-<p>{total} publications. Click a title for the abstract. Also on <a href="{SCHOLAR_PROFILE}">Google Scholar</a>, <a href="{ORCID}">ORCID</a>, <a href="{RG_PROFILE}">ResearchGate</a> and <a href="{ACADEMIA_PROFILE}">Academia.edu</a>.</p>
+<p>Click a title for the abstract. Also on <a href="{SCHOLAR_PROFILE}">Google Scholar</a>, <a href="{ORCID}">ORCID</a>, <a href="{RG_PROFILE}">ResearchGate</a> and <a href="{ACADEMIA_PROFILE}">Academia.edu</a>.</p>
 <p class="toc small">{''.join(toc)}</p>
 <input id="q" type="search" placeholder="Filter by title, coauthor, journal or year" oninput="flt(this.value)">
 {''.join(parts)}
