@@ -13,6 +13,14 @@ body{margin:40px}
 .container.mt-5{max-width:100%;padding-left:0;padding-right:0}
 .container.mt-5 .navbar-nav .btn{margin-right:.35rem!important;padding-left:.4rem;padding-right:.4rem}
 .pub{padding:1.1rem 0;border-bottom:1px solid #eee;}
+.pub{display:flex;gap:1rem;align-items:flex-start}
+.pbody{flex:1;min-width:0}
+#content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
+.ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.ihead{display:flex;gap:1.4rem;align-items:flex-start}
+.ihtext{flex:1;min-width:0}
+#content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+@media (max-width:600px){.ihead{flex-direction:column-reverse}#content img.ithumb{width:120px}}
 .pub .ptitle{font-weight:700;font-size:1.05rem;line-height:1.35;margin-bottom:.3rem}
 .pub .ptitle a{color:#222;text-decoration:none}.pub .ptitle a:hover{color:#0077cc;text-decoration:underline}
 .pub .meta{font-size:.9rem;color:#444}
@@ -52,6 +60,7 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 <meta property="og:description" content="Book chapter by Kenneth Bunker, Rodrigo Cancino (Forthcoming).">
 <meta property="og:url" content="https://kennethbunker.github.io/publications/forthcoming-efecto-sistema-electoral-distorsion-entre-porcentaje-votos/">
 <meta property="og:site_name" content="Kenneth Bunker">
+
 <meta name="twitter:card" content="summary">
 <meta name="citation_title" content="Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso">
 <meta name="citation_author" content="Bunker, Kenneth">
@@ -138,11 +147,13 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 <hr>
 <div id="content"><div class="container">
 <p class="small"><a href="https://kennethbunker.github.io/publications/">&larr; All publications</a></p>
+<div class="ihead"><div class="ihtext">
 <p class="text-muted small mb-1">Book chapter &middot; Forthcoming</p>
 <h1 style="font-size:1.6rem">Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso</h1>
 
 <p><strong>Kenneth Bunker</strong>, Rodrigo Cancino</p>
 <p>In <em>El imperio contraataca: el retorno de la derecha al poder en Chile en las elecciones de 2017</em></p>
+</div></div>
 <div class="pbtns"><button class="pbtn more" onclick="tog('citebox',this)">Cite</button><a class="pbtn pdf req" href="mailto:kenneth.bunker@uss.cl?subject=PDF%20request:%20Efecto%20del%20sistema%20electoral%20en%20la%20distorsión%20entre%20el%20porcentaje%20de%20votos%20y%20el%20porcentaje%20de%20escaños%20en%20el%20Congreso" target="_blank" rel="noopener">Request PDF</a><a class="pbtn rg" href="https://www.researchgate.net/search/publication?q=Efecto+del+sistema+electoral+en+la+distorsión+entre+el+porcentaje+de+votos+y+el+porcentaje+de+escaños+en+el+Congreso" target="_blank" rel="noopener">ResearchGate</a><a class="pbtn ac" href="https://uss.academia.edu/KennethBunker" target="_blank" rel="noopener">Academia.edu</a><a class="pbtn gs" href="https://scholar.google.com/scholar?q=Efecto+del+sistema+electoral+en+la+distorsión+entre+el+porcentaje+de+votos+y+el+porcentaje+de+escaños+en+el+Congreso" target="_blank" rel="noopener">Google Scholar</a></div>
 <div class="bibbox" id="citebox">
 <p class="small" id="cit">Bunker, K., &amp; Cancino, R. (forthcoming). Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso. In El imperio contraataca: el retorno de la derecha al poder en Chile en las elecciones de 2017.</p>

@@ -207,6 +207,14 @@ body{margin:40px}
 .container.mt-5{max-width:100%;padding-left:0;padding-right:0}
 .container.mt-5 .navbar-nav .btn{margin-right:.35rem!important;padding-left:.4rem;padding-right:.4rem}
 .pub{padding:1.1rem 0;border-bottom:1px solid #eee;}
+.pub{display:flex;gap:1rem;align-items:flex-start}
+.pbody{flex:1;min-width:0}
+#content img.lthumb,.ph{width:52px;height:68px;object-fit:cover;flex:0 0 52px;margin:0;border:1px solid #ddd;box-shadow:0 1px 3px rgba(0,0,0,.12);background:#fff}
+.ph{display:flex;align-items:center;justify-content:center;background:#f3f3f3;color:#888;font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.ihead{display:flex;gap:1.4rem;align-items:flex-start}
+.ihtext{flex:1;min-width:0}
+#content img.ithumb{width:150px;flex:0 0 150px;margin:.3rem 0 0 0;border:1px solid #ddd;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+@media (max-width:600px){.ihead{flex-direction:column-reverse}#content img.ithumb{width:120px}}
 .pub .ptitle{font-weight:700;font-size:1.05rem;line-height:1.35;margin-bottom:.3rem}
 .pub .ptitle a{color:#222;text-decoration:none}.pub .ptitle a:hover{color:#0077cc;text-decoration:underline}
 .pub .meta{font-size:.9rem;color:#444}
@@ -355,6 +363,66 @@ def detail_rows(e):
         out.append(f"<div class=\"dk\">{n}</div><div class=\"dv\">{v if n in ('DOI','Website') else E(v)}</div>")
     return "\n".join(out)
 
+
+# ---------- images ----------
+IMGDIR = os.path.join(PUBDIR, "img")
+def _find(base):
+    for ext in (".jpg", ".jpeg", ".png", ".webp"):
+        if os.path.exists(base + ext): return base + ext
+    return None
+
+def _thumb(src, dst, width=360):
+    try:
+        from PIL import Image
+        im = Image.open(src).convert("RGB")
+        if im.width > width:
+            im = im.resize((width, int(im.height * width / im.width)))
+        im.save(dst, "JPEG", quality=85)
+    except Exception:
+        import shutil; shutil.copyfile(src, dst)
+
+def image_for(e):
+    """Cover/thumbnail priority:
+    1. "image" field in publications.json (path from repo root)
+    2. publications/img/src/<slug>.jpg|png (drop your own image here)
+    3. first page of publications/pdf/<slug>.pdf (needs pdftoppm)
+    4. journal cover at publications/img/journals/<journal-slug>.jpg|png
+    Returns a URL or None."""
+    os.makedirs(IMGDIR, exist_ok=True)
+    dst = os.path.join(IMGDIR, e["slug"] + ".jpg")
+    src = None
+    if e.get("image") and os.path.exists(os.path.join(ROOT, e["image"])):
+        src = os.path.join(ROOT, e["image"])
+    src = src or _find(os.path.join(IMGDIR, "src", e["slug"]))
+    if not src:
+        pdf = os.path.join(PUBDIR, "pdf", e["slug"] + ".pdf")
+        if os.path.exists(pdf):
+            tmp = os.path.join(IMGDIR, "_p1_" + e["slug"])
+            if os.system(f'pdftoppm -png -f 1 -l 1 -singlefile -scale-to 720 "{pdf}" "{tmp}" >/dev/null 2>&1') == 0 and os.path.exists(tmp + ".png"):
+                _thumb(tmp + ".png", dst); os.remove(tmp + ".png")
+                return BASE + "img/" + e["slug"] + ".jpg"
+    if not src:
+        venue = e.get("journal") or e.get("book_title") or e.get("series")
+        if venue:
+            src = _find(os.path.join(IMGDIR, "journals", ascii_slug(venue)))
+    if not src:
+        return None
+    if not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(src):
+        _thumb(src, dst)
+    return BASE + "img/" + e["slug"] + ".jpg"
+
+def placeholder(e):
+    v = e.get("journal") or e.get("book_title") or e.get("series") or e.get("publisher") or TYPE_LABEL[e["type"]]
+    words = [w for w in re.split(r"[\s:,]+", v) if w and w[0].isupper()]
+    ab = "".join(w[0] for w in words)[:4] or v[:3]
+    return f'<div class="ph" title="{E(v)}">{E(ab)}</div>'
+
+def thumb_html(e, cls):
+    u = image_for(e)
+    if u:
+        return f'<img class="{cls}" src="{u}" alt="{E(e["title"])}" loading="lazy">'
+    return placeholder(e) if cls == "lthumb" else ""
+
 # ---------- item pages ----------
 CITE_BTN = '<button class="pbtn more" onclick="tog(\'citebox\',this)">Cite</button>'
 def item_page(e):
@@ -385,6 +453,7 @@ def item_page(e):
 <meta property="og:description" content="{E(short_desc(e))}">
 <meta property="og:url" content="{url}">
 <meta property="og:site_name" content="Kenneth Bunker">
+{('<meta property="og:image" content="' + image_for(e) + '">') if image_for(e) else ""}
 <meta name="twitter:card" content="summary">
 {meta_tags(e)}
 <script type="application/ld+json">
@@ -395,11 +464,13 @@ def item_page(e):
 {NAV}
 <div id="content"><div class="container">
 <p class="small"><a href="{BASE}">&larr; All publications</a></p>
+<div class="ihead">{thumb_html(e, "ithumb")}<div class="ihtext">
 <p class="text-muted small mb-1">{E(TYPE_LABEL[e['type']])} &middot; {E(year_str(e))}</p>
 <h1 style="font-size:1.6rem">{E(t)}</h1>
 {alt}
 <p>{authors_html(e['authors'])}</p>
 <p>{venue_html(e)}</p>
+</div></div>
 {btns(e, CITE_BTN)}
 <div class="bibbox" id="citebox">
 <p class="small" id="{cid}">{E(apa_citation(e))}</p>
@@ -437,13 +508,13 @@ def index_page():
             search = E((e["title"] + " " + " ".join(e["authors"]) + " " + year_str(e) + " " + (e.get("journal") or e.get("book_title") or e.get("series") or "")).lower())
             short = [(l, u, c) for l, u, c in links(e) if c.split()[0] in ("doi", "pdf")]
             sb = "".join(f'<a class="pbtn {c}" href="{E(u)}" target="_blank" rel="noopener">{E(l)}</a>' for l, u, c in short)
-            parts.append(f"""<div class="pub" data-s="{search}">
+            parts.append(f"""<div class="pub" data-s="{search}">{thumb_html(e, "lthumb")}<div class="pbody">
 <div class="ptitle"><a href="{BASE}{e['slug']}/">{E(e['title'])}</a></div>
 <div class="meta">{authors_html(e['authors'])} &middot; {E(year_str(e))}</div>
 <div class="venue">{venue_html(e).rstrip('.')}</div>
 <div class="pbtns"><a class="pbtn more" href="{BASE}{e['slug']}/">{"Abstract" if e.get("abstract") else "Details"}</a>{sb}{bibb}</div>
 <div class="bibbox" id="{bid}"><pre class="bib" id="{bid}-t">{E(bibtex(e))}</pre><button class="pbtn more" onclick="cp('{bid}-t',this)">Copy BibTeX</button></div>
-</div>""")
+</div></div>""")
     page = f"""<!DOCTYPE html>
 <html lang="en"><head>
 {HEAD_COMMON}
