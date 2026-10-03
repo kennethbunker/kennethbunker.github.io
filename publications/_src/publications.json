@@ -717,7 +717,7 @@
   "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg"
  },
  {
-  "title": "Cambio y continuidad en la Cámara de Diputados, 1989-2014",
+  "title": "Cambio y continuidad en la Cámara de Diputados",
   "authors": [
    "Kenneth Bunker"
   ],
@@ -733,7 +733,9 @@
   "language": "es",
   "type": "chapter",
   "slug": "2010-cambio-continuidad-camara-diputados-1989-2014",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg"
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg",
+  "pdf_file": "Bunker (2010) - Cambio y continuidad en la Cámara de Diputados.pdf",
+  "pdf_page": 92
  },
  {
   "title": "El votante díscolo",
