@@ -406,7 +406,7 @@ def image_for(e):
         if venue:
             src = _find(os.path.join(IMGDIR, "journals", ascii_slug(venue)))
     if not src:
-        return None
+        return e.get("cover_url")  # remote publisher cover (hotlinked)
     if not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(src):
         _thumb(src, dst)
     return BASE + "img/" + e["slug"] + ".jpg"
@@ -420,7 +420,9 @@ def placeholder(e):
 def thumb_html(e, cls):
     u = image_for(e)
     if u:
-        return f'<img class="{cls}" src="{u}" alt="{E(e["title"])}" loading="lazy">'
+        ph = placeholder(e).replace('"', "&quot;") if cls == "lthumb" else ""
+        fb = f' onerror="this.outerHTML=\'{ph}\'"' if not u.startswith(BASE) else ""
+        return f'<img class="{cls}" src="{E(u)}" alt="{E(e["title"])}" loading="lazy" referrerpolicy="no-referrer"{fb}>'
     return placeholder(e) if cls == "lthumb" else ""
 
 # ---------- item pages ----------

@@ -53,7 +53,8 @@
   "academia": null,
   "pdf": null,
   "status": "Online first",
-  "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal"
+  "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal",
+  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/flgs20.v052.i04"
  },
  {
   "type": "article",
@@ -78,7 +79,8 @@
   "researchgate": "https://www.researchgate.net/publication/392021805_Challenging_Conventional_Wisdom_in_New_Democracies_Social_Diversity_Electoral_Rules_and_Party_System_Fragmentation_in_Chile",
   "academia": null,
   "pdf": null,
-  "slug": "2026-challenging-conventional-wisdom-new-democracies-social-diversity"
+  "slug": "2026-challenging-conventional-wisdom-new-democracies-social-diversity",
+  "cover_url": "https://journals.sagepub.com/cms/asset/1e4feef3-c373-4693-bbaa-ede9d1d27a82/elja_28_3.largecover.png"
  },
  {
   "type": "article",
@@ -129,7 +131,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2026-electoral-forecasting-volatile-party-system-settings-assessing"
+  "slug": "2026-electoral-forecasting-volatile-party-system-settings-assessing",
+  "cover_url": "https://journals.sagepub.com/cms/asset/ee268038-a1be-4bc5-a05d-ce7c6420196e/ssce_44_5.largecover.png"
  },
  {
   "type": "article",
@@ -154,7 +157,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2026-mapping-party-systems-over-time-spatial-distribution"
+  "slug": "2026-mapping-party-systems-over-time-spatial-distribution",
+  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/cjpi20.v031.i03"
  },
  {
   "type": "article",
@@ -181,7 +185,8 @@
   "academia": null,
   "pdf": "https://e-archivo.uc3m.es/bitstreams/7c17e004-8e1f-4b7a-9a80-93ca3f7d00e6/download",
   "pdf_note": "Submitted version",
-  "slug": "2024-party-system-effects-unstable-electoral-rules-latin"
+  "slug": "2024-party-system-effects-unstable-electoral-rules-latin",
+  "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
  },
  {
   "type": "article",
@@ -212,7 +217,8 @@
   "researchgate": "https://www.researchgate.net/publication/363007885_Forecasting_two-horse_races_in_new_democracies_Accuracy_precision_and_error",
   "academia": null,
   "pdf": "https://revistas.usal.es/index.php/1852-9003/article/download/25374/28271",
-  "slug": "2022-forecasting-two-horse-races-new-democracies-accuracy"
+  "slug": "2022-forecasting-two-horse-races-new-democracies-accuracy",
+  "cover_url": "https://revistas.usal.es/cuatro/public/journals/52/homepageImage_en_US.jpg"
  },
  {
   "type": "article",
@@ -244,7 +250,8 @@
   "researchgate": "https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies",
   "academia": "https://www.academia.edu/42049981/A_two_stage_model_to_forecast_elections_in_new_democracies",
   "pdf": null,
-  "slug": "2020-two-stage-model-forecast-elections-new-democracies"
+  "slug": "2020-two-stage-model-forecast-elections-new-democracies",
+  "cover_url": "https://ars.els-cdn.com/content/image/X01692070.jpg"
  },
  {
   "type": "article",
@@ -275,7 +282,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": "https://revistas.usal.es/cuatro/index.php/1130-2887/article/download/22974/24730",
-  "slug": "2021-age-cleavage-cultural-backlash-chile"
+  "slug": "2021-age-cleavage-cultural-backlash-chile",
+  "cover_url": "https://revistas.usal.es/cuatro/public/journals/17/homepageImage_es_ES.jpg"
  },
  {
   "type": "article",
@@ -307,7 +315,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform"
+  "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform",
+  "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg"
  },
  {
   "type": "article",
@@ -337,7 +346,8 @@
   "researchgate": "https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America",
   "academia": null,
   "pdf": "https://recyt.fecyt.es/index.php/RevEsPol/article/download/76893/47198",
-  "slug": "2019-why-do-parties-cooperate-presidentialism-electoral-government"
+  "slug": "2019-why-do-parties-cooperate-presidentialism-electoral-government",
+  "cover_url": "https://recyt.fecyt.es/public/journals/137/cover_issue_4968_es_ES.png"
  },
  {
   "type": "article",
@@ -396,7 +406,8 @@
   "researchgate": "https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile_Revista_Politica",
   "academia": "https://www.academia.edu/40482168/Electoral_Forecasting_and_Public_Opinion_Tracking_in_Latin_America",
   "pdf": "https://revistapolitica.uchile.cl/index.php/RP/article/download/44781/46856/157873",
-  "slug": "2016-electoral-forecasting-public-opinion-tracking-latin-america"
+  "slug": "2016-electoral-forecasting-public-opinion-tracking-latin-america",
+  "cover_url": "https://revistapolitica.uchile.cl/public/journals/68/cover_issue_6552_es_ES.jpg"
  },
  {
   "type": "article",
@@ -449,7 +460,8 @@
   "academia": null,
   "pdf": null,
   "landing_oa": "https://eprints.lse.ac.uk/",
-  "slug": "2014-2013-presidential-legislative-elections-chile"
+  "slug": "2014-2013-presidential-legislative-elections-chile",
+  "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg"
  },
  {
   "type": "article",
@@ -473,7 +485,8 @@
   "researchgate": "https://www.researchgate.net/publication/330930588_Latin_American_Political_Outsiders_Revisited_The_Case_of_Marco_Enriquez-Ominami_in_Chile_2009",
   "academia": null,
   "pdf": null,
-  "slug": "2013-latin-american-political-outsiders-revisited-case-marco"
+  "slug": "2013-latin-american-political-outsiders-revisited-case-marco",
+  "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png"
  },
  {
   "type": "article",
@@ -504,7 +517,8 @@
   "researchgate": "https://www.researchgate.net/publication/332233707_Explicando_la_Desproporcionalidad_en_America_Latina_Magnitud_de_Distrito_Malapportionment_y_Fragmentacion_Partidaria",
   "academia": null,
   "pdf": "https://recyt.fecyt.es/index.php/recp/article/view/37499/21016",
-  "slug": "2010-explicando-desproporcionalidad-america-latina-magnitud-distrito-malapportionment"
+  "slug": "2010-explicando-desproporcionalidad-america-latina-magnitud-distrito-malapportionment",
+  "cover_url": "https://recyt.fecyt.es/public/journals/283/cover_issue_4938_es_ES.jpg"
  },
  {
   "type": "article",
@@ -573,7 +587,8 @@
   "researchgate": "https://www.researchgate.net/publication/386278139_Between_Gattopardismo_and_Ideational_Change_The_Mainstream_Chilean_Right's_Winding_Road_to_Moderation",
   "academia": null,
   "pdf": null,
-  "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights"
+  "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
+  "cover_url": "https://assets.cambridge.org/97810094/27449/large_cover/9781009427449i.jpg"
  },
  {
   "type": "chapter",
@@ -763,7 +778,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority"
+  "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority",
+  "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
  },
  {
   "type": "review",
@@ -786,7 +802,8 @@
   "researchgate": "https://www.researchgate.net/publication/332155436_Cultural_backlash_Trump_Brexit_and_authoritarian_populism_by_Pippa_Norris_and_Ronald_Inglehart",
   "academia": null,
   "pdf": null,
-  "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian"
+  "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian",
+  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07"
  },
  {
   "type": "review",
@@ -809,7 +826,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2019-review-latin-american-elections-choice-change"
+  "slug": "2019-review-latin-american-elections-choice-change",
+  "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg"
  },
  {
   "type": "review",
@@ -832,7 +850,8 @@
   "researchgate": null,
   "academia": null,
   "pdf": null,
-  "slug": "2019-review-party-systems-latin-america-institutionalization"
+  "slug": "2019-review-party-systems-latin-america-institutionalization",
+  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03"
  },
  {
   "type": "review",
@@ -855,7 +874,8 @@
   "researchgate": null,
   "academia": "https://www.academia.edu/97940304/Matthew_S_Shugart_and_Rein_Taagepera_Votes_from_seats_logical_models_of_electoral_systems",
   "pdf": null,
-  "slug": "2019-review-votes-seats-logical-models-electoral"
+  "slug": "2019-review-votes-seats-logical-models-electoral",
+  "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127"
  },
  {
   "type": "dataset",
