@@ -1324,28 +1324,6 @@
   "type": "ideas",
   "number": "10",
   "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿A qué velocidad se escrutan los votos en Chile?",
-  "authors": [
-   "Kenneth Bunker",
-   "Tito Olavarría"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.15771.23848",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la rapidez del proceso de escrutinio electoral en Chile, evaluando distintos tipos de elecciones.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://doi.org/10.13140/RG.2.2.15771.23848",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-10-velocidad-escrutan-votos-chile"
- },
- {
-  "type": "ideas",
-  "number": "9",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
   "title": "¿A qué hora y con qué precisión se conocen los resultados electorales en Chile?",
   "authors": [
    "Kenneth Bunker",
@@ -1363,6 +1341,28 @@
   "academia": null,
   "pdf_rg": true,
   "slug": "ideas-09-hora-precision-conocen-resultados-electorales-chile"
+ },
+ {
+  "type": "ideas",
+  "number": "9",
+  "series": "Ideas: Laboratorio Democracia y Gobierno",
+  "title": "¿A qué velocidad se escrutan los votos en Chile?",
+  "authors": [
+   "Kenneth Bunker",
+   "Tito Olavarría"
+  ],
+  "year": 2024,
+  "pages": "1-5",
+  "doi": "10.13140/RG.2.2.15771.23848",
+  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+  "place": "Santiago",
+  "language": "es",
+  "abstract": "Este estudio analiza la rapidez del proceso de escrutinio electoral en Chile, evaluando distintos tipos de elecciones.",
+  "abstract_label": "Resumen",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.15771.23848",
+  "academia": null,
+  "pdf_rg": true,
+  "slug": "ideas-10-velocidad-escrutan-votos-chile"
  },
  {
   "type": "ideas",

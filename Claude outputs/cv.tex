@@ -1,0 +1,319 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in,top=0.9in]{geometry}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Section headings
+\usepackage{xcolor}
+\newif\ifafterhead
+\titleformat{\section}{\large\bfseries\scshape}{}{0pt}{}[\vspace{-9.5pt}{\color{black!47}\rule{\linewidth}{0.4pt}}\global\afterheadtrue]
+\titlespacing*{\section}{0pt}{23pt}{2.7pt}
+\titleformat{\subsection}{\normalsize\bfseries\itshape}{}{0pt}{}[\global\afterheadtrue]
+\titlespacing*{\subsection}{0pt}{14pt}{4pt}
+
+% Entries
+\newlength{\entrygap}\setlength{\entrygap}{8.5pt}
+\newcommand{\gap}{\ifafterhead\global\afterheadfalse\else\vspace{\entrygap}\fi}
+\newcommand{\entry}[1]{\par\gap\hangindent=13pt\hangafter=1\noindent #1\par}
+\newcommand{\doi}[1]{\\*[3pt]{\small\href{https://doi.org/#1}{doi.org/#1}}}
+\newcommand{\dated}[2]{\par\gap\noindent\begin{tabularx}{\linewidth}{@{}X@{\hspace{6pt}}r@{}}#1 & \textit{#2}\end{tabularx}\par}
+\newcommand{\sep}{\hspace{8pt}$\cdot$\hspace{5pt}}
+\newcommand{\ideas}{\textit{Ideas: Laboratorio Democracia y Gobierno}}
+
+\begin{document}
+
+% ---------------------------------------------------------------- Header
+{\centering
+{\Huge\bfseries Kenneth Bunker, PhD}\\[4pt]
+{\small \href{https://kennethbunker.github.io}{kennethbunker.github.io}\sep{}\href{mailto:kenneth.bunker@uss.cl}{kenneth.bunker@uss.cl}}\\[2pt]
+{\small \href{https://orcid.org/0000-0002-4579-6132}{ORCID}\sep{}\href{http://www.researcherid.com/rid/R-4439-2018}{ResearchGate}\sep{}\href{https://scholar.google.cl/citations?user=kFHaW6wAAAAJ}{Google Scholar}\sep{}\href{https://cl.linkedin.com/in/kennethbunker}{LinkedIn}\sep{}\href{https://www.webofscience.com/wos/author/record/168642}{Web of Science}}
+\par}
+\vspace{-8pt}
+
+% ---------------------------------------------------------------- Positions
+\section{Academic Positions}
+\dated{\textbf{Associate Professor}, Department of Economics and Government, San Sebastián University}{2023--present}
+\dated{\textbf{Director}, Democracy and Government Lab, San Sebastián University}{}
+
+\section{Previous Positions}
+\dated{\textbf{Visiting Scholar}, Department of Economics, University of Verona, Italy}{2025--2026}
+\dated{\textbf{Visiting Professor}, Department of Languages, Literature and Culture, University of Bergamo, Italy}{2022}
+\dated{\textbf{Visiting Professor}, Department of Social and Political Sciences, University of Milan, Italy}{2019}
+\dated{\textbf{Visiting Professor}, Department of Political Sciences, Sapienza University, Rome, Italy}{2018--2019}
+\dated{\textbf{Assistant Professor}, Government Department, Central University, Santiago, Chile}{2016--2018}
+
+\section{Education}
+\dated{\textbf{PhD, Political Science}, London School of Economics and Political Science}{2016}
+\dated{\textbf{MRes, Political Science}, London School of Economics and Political Science}{2011}
+\dated{\textbf{MA, Political Science}, San Diego State University}{2010}
+\dated{\textbf{BA, Political Science}, Universidad Diego Portales}{2007}
+
+\section{Research Interests}
+Presidential democracies, political institutions, elections, electoral systems, political parties, party systems, coalitions, strategic voting, spatial maps, ideology, public opinion, and electoral forecasting.
+
+\section{Awards and Honors}
+\dated{Maria Braun WAPOR Latin America Prize for Best Paper}{2023}
+\dated{\textit{La Segunda}, Most Influential Twitter Users of Chile in Politics}{2016}
+\dated{\textit{El Mercurio}, 100 Young Leaders of Chile Under 35}{2012}
+
+\newpage
+% ---------------------------------------------------------------- Publications
+\section{Publications}
+Full list available on Google Scholar and ORCID.
+
+\subsection{Book}
+\entry{Bunker, K. 2025. \textit{Chile's Transformation Amidst Crisis. The Theseus Paradox}. Palgrave Macmillan (Springer Nature).\doi{10.1007/978-3-031-96463-3}}
+
+\subsection{Peer-Reviewed Articles}
+\entry{Bunker, K. 2026. ``Electoral Reform and Party-System Fragmentation. Diminishing Marginal Effects and Vote--Seat Conversion Limits in Chile's Concurrent Local Elections.'' \textit{Local Government Studies} (online first).\doi{10.1080/03003930.2026.2704044}}
+
+\entry{Bunker, K. 2026. ``Challenging Conventional Wisdom in New Democracies. Social Diversity, Electoral Rules, and Party System Fragmentation in Chile.'' \textit{Election Law Journal, Rules, Politics, and Policy} 25(1), 56--79.\doi{10.1089/elj.2024.0064}}
+
+\entry{Bunker, K. 2026. ``Electoral Forecasting in Volatile Party System Settings. Assessing and Improving Pre-Election Poll Predictions in Italy.'' \textit{Social Science Computer Review} 44(4), 595--616.\doi{10.1177/08944393251328309}}
+
+\entry{Bunker, K. 2026. ``Mapping Party Systems Over Time. A Spatial Distribution of Ideological Competition in Chile.'' \textit{Journal of Political Ideologies} 31(3), 905--922.\doi{10.1080/13569317.2025.2452179}}
+
+\entry{Bunker, K. 2025. ``Decades of Democracy. Insights into the Political Landscape of Chile.'' \textit{Humanities and Social Sciences Communications} 12, 1911.\doi{10.1057/s41599-025-06180-1}}
+
+\entry{Bunker, K., and G. Negretto. 2024. ``The Party System Effects of Unstable Electoral Rules in Latin America.'' \textit{Party Politics} 30(6), 1126--1142.\doi{10.1177/13540688231196111}}
+
+\entry{Bunker, K. 2022. ``Forecasting Two-Horse Races in New Democracies. Accuracy, Precision, and Error.'' \textit{Revista Latinoamericana de Opinión Pública} 11(1), 81--108.\doi{10.14201/rlop.25374}}
+
+\entry{Bunker, K. 2021. ``El clivaje etario. Backlash cultural en Chile.'' \textit{América Latina Hoy} 87, 3--28.\doi{10.14201/alh.22974}}
+
+\entry{Bunker, K. 2020. ``A Two-Stage Model to Forecast Elections in New Democracies.'' \textit{International Journal of Forecasting} 36(4), 1407--1419.\doi{10.1016/j.ijforecast.2020.02.004}}
+
+\entry{Brieba, D., and K. Bunker. 2019. ``Voter Equalization and Turnout Bias After Electoral Reform. Evidence from Chile's Voluntary Voting Law.'' \textit{Latin American Politics and Society} 61(4), 23--46.\doi{10.1017/lap.2019.23}}
+
+\entry{Bunker, K. 2019. ``Why Do Parties Cooperate in Presidentialism? Electoral and Government Coalition Formation in Latin America.'' \textit{Revista de Estudios Políticos} 186, 171--199.\doi{10.18042/cepc/rep.186.06}}
+
+\entry{Bunker, K. 2018. ``La elección de 2017 y el fraccionamiento del sistema de partidos en Chile.'' \textit{Revista Chilena de Derecho y Ciencia Política} 9(2), 204--229.\doi{10.7770/rchdcp-V9N2-art1823}}
+
+\entry{Bunker, K., and S. Bauchowitz. 2016. ``Electoral Forecasting and Public Opinion Tracking in Latin America. An Application to Chile.'' \textit{Política. Revista de Ciencia Política} 54(2), 207--233.\doi{10.5354/0719-5338.2016.44781}}
+
+\entry{Bunker, K., and P. Navia. 2015. ``Incumbency Advantage and Tenure Length in the Chilean Chamber of Deputies, 1989--2009.'' \textit{Revista de Ciencia Política} 35(2), 251--271.\doi{10.4067/S0718-090X2015000200001}}
+
+\entry{Bunker, K. 2014. ``The 2013 Presidential and Legislative Elections in Chile.'' \textit{Electoral Studies} 34, 346--348.\doi{10.1016/j.electstud.2013.12.005}}
+
+\entry{Bunker, K., and P. Navia. 2013. ``Latin American Political Outsiders, Revisited. The Case of Marco Enríquez-Ominami in Chile, 2009.'' \textit{Journal of Politics in Latin America} 5(2), 3--35.\doi{10.1177/1866802X1300500201}}
+
+\entry{Bunker, K., and P. Navia. 2010. ``Explicando la Desproporcionalidad en América Latina. Magnitud de Distrito, Malapportionment y Fragmentación Partidaria.'' \textit{Revista Española de Ciencia Política} 23, 81--110.}
+
+\entry{Bunker, K., and P. Navia. 2010. ``Democracia Comunal en Chile, 1992--2008.'' \textit{Política y Gobierno} 17(2), 243--278.}
+
+\subsection{Book Chapters}
+\entry{Alenda, S., M.A. López, K. Bunker, and N. Miranda. 2024. ``Between Gattopardismo and Ideational Change. The Mainstream Chilean Right's Winding Road to Moderation.'' In \textit{The Recasting of the Latin American Right. Polarization and Conservative Reactions}, edited by A. Borges, R. Lloyd, and G. Vommaro. Cambridge University Press, 176--196.\doi{10.1017/9781009427432.011}}
+
+\entry{Bunker, K., and J. Polga-Hecimovich. 2025. ``Representación y dinámicas partidarias. La interacción entre sistemas electorales, clivajes sociales e ideas políticas en Chile.'' In \textit{Crisis de la representatividad de la democracia liberal. Presente y futuro}, edited by J. Abedrapo. Tirant lo Blanch.}
+
+\entry{Bunker, K., and R. Cancino. Forthcoming. ``Efecto del Sistema Electoral en la Distorsión entre el Porcentaje de Votos y el Porcentaje de Escaños en el Congreso.'' In \textit{El Imperio Contraataca. El Retorno de la Derecha al Poder en Chile en las Elecciones de 2017}.}
+
+\entry{Acevedo, S., and K. Bunker. 2017. ``Reelección y Carreras Legislativas en la Cámara de Diputados, 1990--2014.'' In \textit{El Tsunami Electoral de 2013 en Chile}, edited by M. Morales, P. Navia, and C. Garrido. Universidad Diego Portales, 271--290.}
+
+\entry{Bunker, K. 2012. ``Modificaciones y Reformas al Sistema Electoral Municipal en Chile, 1992--2008.'' In \textit{Democracia Municipal en Chile, 1992--2012}, edited by M. Morales and P. Navia. Universidad Diego Portales, 39--48.}
+
+\entry{Bunker, K., and P. Navia. 2012. ``La Incumbencia y Reelección de Alcaldes en Chile, 1992--2004.'' In \textit{Democracia Municipal en Chile, 1992--2012}, edited by M. Morales and P. Navia. Universidad Diego Portales, 49--64.}
+
+\entry{Bunker, K. 2010. ``Cambio y Continuidad en la Cámara de Diputados.'' In \textit{El Sismo Electoral de 2009}, edited by M. Morales and P. Navia. Universidad Diego Portales, 185--201.}
+
+\entry{Bunker, K., and P. Navia. 2010. ``El Votante Díscolo.'' In \textit{Chile 2009. Percepciones y Actitudes Sociales, 5to Informe de Encuesta Nacional ICSO-UDP}. ICSO-UDP, 121--132.}
+
+\entry{Bunker, K., and P. Navia. 2009. ``Duración de las Carreras de Alcaldes, 1992--2008.'' In \textit{Genoma Electoral Chileno}, edited by P. Navia, M. Morales, and R. Briceño. Universidad Diego Portales, 261--274.}
+
+\entry{Bunker, K., and P. Navia. 2007. ``Índice de Complejidad en las 52 Comunas de la Región Metropolitana.'' In \textit{La Reforma Municipal en la Mira}. Expansiva, 31--41.}
+
+\subsection{Book Reviews}
+\entry{Bunker, K. 2021. Review of \textit{Coalitional Presidentialism in Comparative Perspective}, by P. Chaisty, N. Cheeseman, and T.J. Power. \textit{Party Politics} 27(2), 385--386.\doi{10.1177/1354068820984270}}
+
+\entry{Bunker, K. 2019. Review of \textit{Cultural Backlash. Trump, Brexit, and Authoritarian Populism}, by P. Norris and R. Inglehart. \textit{Democratization} 26(7), 1323--1325.\doi{10.1080/13510347.2019.1601705}}
+
+\entry{Bunker, K. 2019. Review of \textit{Latin American Elections. Choice and Change}, by R. Nadeau et al. \textit{Journal of Latin American Studies} 51(3), 721--723.\doi{10.1017/S0022216X19000798}}
+
+\entry{Bunker, K. 2019. Review of \textit{Party Systems in Latin America}, edited by S. Mainwaring. \textit{Democratization} 26(3), 554--555.\doi{10.1080/13510347.2018.1536123}}
+
+\entry{Bunker, K. 2019. Review of \textit{Votes from Seats. Logical Models of Electoral Systems}, by M.S. Shugart and R. Taagepera. \textit{Public Choice} 178(1--2), 311--313.\doi{10.1007/s11127-018-0613-6}}
+
+\subsection{Datasets}
+\entry{Bunker, K. 2025. \textit{Chilean Political Landscape Dataset (CPLD)}, version 4.0. Harvard Dataverse.\doi{10.7910/DVN/NGRY3R}}
+
+\entry{Bunker, K., C. González Piucol, S. Contreras Ubal, and P. Toro. 2022. \textit{Votaciones Individuales de la Convención Constitucional de Chile}. Tresquintos, Santiago.}
+
+\subsection{Policy Reports and Short Studies}
+Series in \ideas, San Sebastián University. Full catalog at \href{https://labdemgob.github.io/}{labdemgob.github.io}.\par\global\afterheadfalse
+
+\entry{Bunker, K., L. Neira, and J. Vilches. 2026. ``Exparlamentarios al gabinete. En qué carteras los nombran, en qué momento y cuánto duran.'' \ideas{} 28, 1--5.\doi{10.13140/RG.2.2.16705.11366}}
+
+\entry{Bunker, K., F. Arrieta, L. Paz, and M. Herrera. 2026. ``Retornos marginales decrecientes en la magnitud de distrito y sus efectos sobre el sistema de partidos.'' \ideas{} 26, 1--15.\doi{10.13140/RG.2.2.31161.94560}}
+
+\entry{Bunker, K., I. Muñoz, L. Paz, and M. Vargas. 2026. ``¿Cuál es el efecto de la redistribución automática de la magnitud de distrito en el resultado electoral? Una simulación de 2025 con las reglas de 2029.'' \ideas{} 25, 1--9.\doi{10.13140/RG.2.2.28098.34246}}
+
+\entry{Arrieta, F., K. Bunker, and M. Vargas. 2025. ``Debut y despedida en el Congreso de Chile. Trayectorias políticas 1989--2025.'' \ideas{} 24, 1--7.\doi{10.13140/RG.2.2.12649.56166}}
+
+\entry{Bunker, K., C. Daza, and M. Vargas. 2025. ``Experiencia legislativa en el Congreso de Chile. Antigüedad por cohorte 1990--2030.'' \ideas{} 23, 1--10.\doi{10.13140/RG.2.2.14327.28324}}
+
+\entry{Bunker, K., L. Galdames, and M. Vargas. 2025. ``Renovación y reemplazo en el Congreso de Chile. Patrones de reelección 1989--2025.'' \ideas{} 22, 1--6.\doi{10.13140/RG.2.2.10971.84006}}
+
+\entry{Bunker, K., F. Mejías, and M. Vargas. 2025. ``Sesgo ideológico de votantes chilenos en el exterior. La burbuja europea y el equilibrio americano.'' \ideas{} 21, 1--12.\doi{10.13140/RG.2.2.33621.08166}}
+
+\entry{Bunker, K., M. Vargas, and J. Vilches. 2025. ``Simulación legislativa 2025. Posibles resultados y limitaciones.'' \ideas{} 20, 1--9.\doi{10.13140/RG.2.2.29777.39525}}
+
+\entry{Bunker, K., B. Valdés, and M. Vargas. 2025. ``Evolución asimétrica del sistema de partidos de Chile. Una examinación temporal a nivel de distrito.'' \ideas{} 19, 1--6.\doi{10.13140/RG.2.2.10132.97922}}
+
+\entry{Bunker, K. 2024. ``El aumento de los party switchers en el Congreso Nacional de Chile, 1990--2024.'' \ideas{} 18, 1--6.\doi{10.13140/RG.2.2.12303.70569}}
+
+\entry{Bunker, K. 2024. ``Inestabilidad gubernamental. Rotación ministerial, duración de gabinetes y equilibrio partidario.'' \ideas{} 17, 1--5.\doi{10.13140/RG.2.2.35819.35363}}
+
+\entry{Bunker, K., L. Galdames, and F. Arrieta. 2024. ``Patrones de reelección en las elecciones de alcalde de 2024.'' \ideas{} 16, 1--5.\doi{10.13140/RG.2.2.29108.46727}}
+
+\entry{Bunker, K., and F. Arrieta. 2024. ``Coordinación de coaliciones y partidos en las elecciones regionales y locales de 2024.'' \ideas{} 15, 1--4.\doi{10.13140/RG.2.2.32995.98083}}
+
+\entry{Bunker, K., and F. Arrieta. 2024. ``El avance de los candidatos independientes en las elecciones locales de 2024.'' \ideas{} 14, 1--4.\doi{10.13140/RG.2.2.25734.59209}}
+
+\entry{Bunker, K. 2024. ``Una propuesta de reforma política simple que le puede dar gobernabilidad a Chile.'' \ideas{} 13, 1--5.\doi{10.13140/RG.2.2.36783.34723}}
+
+\entry{Bunker, K. 2024. ``¿Cómo se compara el `primer tiempo' de Gabriel Boric con presidentes anteriores?'' \ideas{} 12, 1--5.\doi{10.13140/RG.2.2.26726.43844}}
+
+\entry{Bunker, K., and H. Jofré. 2024. ``¿A qué hora y con qué precisión se conocen los resultados electorales en Chile?'' \ideas{} 10, 1--5.\doi{10.13140/RG.2.2.29193.01128}}
+
+\entry{Bunker, K., and T. Olavarría. 2024. ``¿A qué velocidad se escrutan los votos en Chile?'' \ideas{} 9, 1--5.\doi{10.13140/RG.2.2.15771.23848}}
+
+\entry{Bunker, K. 2023. ``¿Cuál fue el nivel de acuerdo en el pleno del consejo constitucional de 2023?'' \ideas{} 8, 1--5.\doi{10.13140/RG.2.2.27627.11046}}
+
+\entry{Bunker, K. 2023. ``¿Cuál fue el nivel de acuerdo en las comisiones del consejo constitucional de 2023?'' \ideas{} 7, 1--5.\doi{10.13140/RG.2.2.30982.55365}}
+
+\entry{Bunker, K. 2023. ``¿Cuál fue el nivel de acuerdo en el pleno de la convención constitucional de 2021--2022?'' \ideas{} 6, 1--5.\doi{10.13140/RG.2.2.26767.76960}}
+
+\entry{Bunker, K. 2023. ``¿Cuál fue el nivel de acuerdo en las comisiones de la convención constitucional de 2021--2022?'' \ideas{} 5, 1--5.\doi{10.13140/RG.2.2.13345.99688}}
+
+\entry{Bunker, K. 2023. ``¿Cuáles son los efectos del sistema electoral propuesto por el Consejo Constitucional de 2023?'' \ideas{} 4, 1--5.\doi{10.13140/RG.2.2.36681.11361}}
+
+\entry{Bunker, K. 2023. ``¿Cuáles son los determinantes de la fragmentación partidaria?'' \ideas{} 3, 1--5.\doi{10.13140/RG.2.2.30461.74722}}
+
+\entry{Bunker, K. 2023. ``¿Chile tiene demasiados o muy pocos legisladores?'' \ideas{} 2, 1--4.\doi{10.13140/RG.2.2.23750.86087}}
+
+\entry{Bunker, K. 2023. ``¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?'' \ideas{} 1, 1--4.\doi{10.13140/RG.2.2.37376.65337}}
+
+\entry{Bunker, K., C. González Piucol, S. Contreras Ubal, and E. Espinosa. 2022. \textit{Resumen y análisis de las elecciones presidenciales y legislativas de Chile 2021}. 157 pp. Tresquintos, Santiago.}
+
+\entry{Bunker, K., S. Contreras Ubal, C. González Piucol, and M. Orellana. 2021. \textit{Breve historia de la elección presidencial y legislativa de Chile 2021}. 529 pp. Tresquintos, Santiago.}
+
+\entry{Bunker, K. 2018. ``Mujeres en el Poder Legislativo de Chile, 1990--2018.'' \textit{Documentos de Trabajo Programa Electoral UCEN} 3.\doi{10.13140/RG.2.2.33728.08960}}
+
+\entry{Bunker, K. 2018. ``Reelección en el Poder Legislativo de Chile, 1993--2017.'' \textit{Documentos de Trabajo Programa Electoral UCEN} 2.\doi{10.13140/RG.2.2.20306.31687}}
+
+\entry{Bunker, K. 2018. ``Retiros, Remociones y Renuncias en el Poder Legislativo de Chile, 1990--2018.'' \textit{Documentos de Trabajo Programa Electoral UCEN} 1.\doi{10.13140/RG.2.2.13595.43042}}
+
+\entry{Bunker, K. 2008. ``Modificaciones y Reformas al Sistema Electoral Municipal en Chile, 1992--2008.'' \textit{Documentos de Trabajo Observatorio Político Electoral UDP} 3.}
+
+\entry{Bunker, K. 2008. ``El Desempeño Electoral de las Mujeres en las Elecciones Municipales.'' \textit{Documentos de Trabajo Observatorio Político Electoral UDP} 2.}
+
+\entry{Bunker, K. 2008. ``La Incumbencia y Duración de Carreras de Alcaldes en Chile, 1992--2008.'' \textit{Documentos de Trabajo Observatorio Político Electoral UDP} 1.}
+
+\entry{Bunker, K., and P. Navia. 2007. ``Elecciones Municipales y Reelección de Alcaldes en Chile, 1992--2004.'' \textit{En Foco (Expansiva)} 125.}
+
+\entry{Bunker, K. 2006. ``Revisión de Experiencias Internacionales sobre Participación Ciudadana en Políticas Sociales.'' \textit{En Foco (Expansiva)} 87.}
+
+% ---------------------------------------------------------------- Conferences
+\section{Conference Presentations}
+\entry{Bunker, K. 2026. ``Ideological Asymmetry and Party System Fragmentation. Evidence from Chile.'' American Political Science Association Annual Conference, Boston, September 3--6.}
+
+\entry{Bunker, K., and M. Vargas. 2026. ``The Trade-Offs of Democratic Renewal.'' European Consortium for Political Research General Conference, Jagiellonian University, September 8--11.}
+
+\entry{Bunker, K., and P. Navia. 2025. ``Breaking Ranks. Party Switching, Electoral Reform, and Legislative Discipline in Chile.'' Midwest Political Science Association, Chicago, April 3--6.}
+
+\entry{Bunker, K. 2024. ``Institutional Theory, Social Structures, and Equilibrium Cycles.'' CESRAN International Conference, Venice, October 1--4.}
+
+\entry{Bunker, K., and G. Negretto. 2023. ``The Party System Effects of Unstable Electoral Rules.'' Latin American Studies Association Conference, Vancouver, Canada, May 24--27.}
+
+\entry{Bunker, K., and G. Negretto. 2022. ``The Impact of Electoral System Reform in New Democracies.'' American Political Science Association Conference, Quebec, Canada, September 15--18.}
+
+\entry{Bunker, K. 2020. ``A Two-Stage Model to Forecast Elections in New Democracies.'' 73rd Annual Conference of WAPOR, online, October 6--10.}
+
+\entry{Bunker, K., and C. Bellolio. 2019. ``The Fourth Wave of Populism in Latin America.'' Latin American Studies Association Conference, Boston, May 24--27.}
+
+\entry{Bunker, K., and C. Bellolio. 2019. ``Unequal Participation. The Age Gap in Transitional Democracies.'' Midwest Political Science Association, Chicago, April 4--7.}
+
+\entry{Brieba, D., and K. Bunker. 2018. ``Voter Equalization and Turnout Bias After Electoral Reform.'' XIII Congreso Chileno de Ciencia Política, Santiago, October 24--26.}
+
+\entry{Bunker, K., and D. Brieba. 2018. ``Consequences of Switching from Compulsory Voting to Voluntary Voting.'' Latin American Studies Association Conference, Barcelona, May 17--27.}
+
+\entry{Bunker, K., and P. Navia. 2012. ``Re-election Rates and Incumbency Advantage in the Chilean Congress, 1990--2010.'' American Political Science Association Conference, New Orleans, August 30 to September 2.}
+
+\entry{Bunker, K., and P. Navia. 2011. ``The Presidential Bid of Congressman Enríquez-Ominami in Chile in 2009.'' Midwest Political Science Association, Chicago, March 31 to April 3.}
+
+\entry{Bunker, K. 2009. ``Explaining Disproportionality in Latin America.'' International Political Science Association, XXI World Congress, Santiago, Chile, July 12--16.}
+
+% ---------------------------------------------------------------- Talks
+\section{Invited Talks and Seminars}
+\dated{University of Texas at Austin. ``Presidential Election of Chile.''}{December 2021}
+\dated{Columbia University. ``The Impact of the 2021 Presidential Election on Chile's Future.'' Host, M.V. Murillo.}{November 2021}
+\dated{Sabanc\i{} University, Brown Bag Seminars. ``Revisiting Duverger. Party System Origins in New Democracies.''}{October 2021}
+\dated{Universidad Andrés Bello, Research Committee on Political Sociology. ``Book Presentation. Preferential Voting Systems.'' Host, S. Alenda.}{February 2021}
+
+% ---------------------------------------------------------------- Grants
+\section{Grants and Scholarships}
+\subsection{Government of Chile}
+\dated{FONDECYT \#1140072, ``Patterns of Economic Voting in Latin America.'' Co-Researcher.}{2014--2016}
+\dated{FONDECYT \#1120638, on legislative and municipal elections in Chile, 1989--2009. Co-Researcher.}{2012--2014}
+\dated{FONDECYT \#1085243, on presidential approval in Latin America. Research Assistant.}{2008--2010}
+\dated{Beca Presidente de la República de Chile. Full fees, tuition, and stipend at San Diego State University.}{2008--2010}
+\dated{FONDECYT \#1060479, on electoral behavior in Chile 1989--2005. Research Assistant.}{2006--2008}
+
+\subsection{London School of Economics}
+\entry{Student Support Fund, Final Year PhD.}
+\entry{Research Studentship, Department of Government.}
+\entry{Postgraduate Travel Fund.}
+
+\subsection{San Diego State University}
+\entry{State University Grant.}
+\entry{Terhune Grant.}
+\entry{Graduate Scholarship, Department of Political Science.}
+
+% ---------------------------------------------------------------- Teaching
+\section{Teaching Experience}
+\dated{\textbf{Universidad Central}, Assistant Professor, Government Department.}{2016--2018}
+\dated{\textbf{London School of Economics}, Teaching Assistant, Methodology Institute.}{2011--2014}
+\dated{\textbf{Universidad de Chile}, Adjunct Professor, Instituto de Asuntos Públicos.}{2012}
+\dated{\textbf{Universidad Diego Portales}, Adjunct Professor, Escuela de Ciencia Política.}{2012}
+\dated{\textbf{San Diego State University}, Teaching Assistant, Department of Political Science.}{2008--2009}
+
+\section{Research Affiliations}
+\dated{\textbf{MEPOP}, Núcleo Milenio, Santiago, Chile. Researcher.}{2020--present}
+\dated{\textbf{Observatorio Electoral}, UDP, Santiago, Chile. Researcher.}{2005--present}
+\dated{\textbf{Democratic Audit}, LSE, London, United Kingdom. Researcher.}{2015--2016}
+\dated{\textbf{Corporación Expansiva}, Santiago, Chile. Researcher.}{2005--2007}
+
+\section{Public Engagement}
+\dated{\textbf{Tresquintos.cl}, political analysis consultancy. Founder and Director.}{2010--present}
+\dated{\textbf{Programa Electoral}, electoral analysis institute. Founder and Director.}{2017--2018}
+\dated{\textbf{ElectoralDeathMatch}, online election game. Co-Founder and Partner.}{2015--present}
+
+\subsection{Media}
+\dated{\textit{Las Últimas Noticias}, Chilean daily newspaper. Columnist.}{2018--present}
+\dated{\textit{Ex-Ante}, Chilean daily newsletter. Columnist.}{2021--present}
+\dated{\textit{Televisión Nacional de Chile}, public TV station. Commentator.}{2020--2021}
+\dated{\textit{La Tercera}, Chilean daily newspaper. Columnist.}{2008--2017}
+\entry{Full archive of columns and media appearances at \href{https://kennethbunker.github.io/columns/}{kennethbunker.github.io/columns}.}
+
+% ---------------------------------------------------------------- Service
+\section{Service to the Profession}
+\subsection{Peer Reviewer}
+\textit{Social Science Computer Review}, \textit{Election Law Journal}, \textit{Journal of Politics}, \textit{International Journal of Public Opinion Research}, \textit{International Journal of Sociology}, \textit{Electoral Studies}, \textit{Latin American Politics and Society}, \textit{Journal of Comparative Politics}, \textit{Journal of Politics in Latin America}, \textit{Política y Gobierno}, \textit{Political Research Quarterly}, \textit{Revista de Ciencia Política}, \textit{Revista Latinoamericana de Opinión Pública}, \textit{Revista Chilena de Derecho y Ciencia Política}, \textit{Estudios Públicos (CEP)}, ANID (Chile).
+
+\subsection{Expert Coder}
+Chapel Hill Expert Survey, América Latina (CHES-LA); Varieties of Democracy (V-Dem); Electoral Integrity Project; Political Representation, Parties, and Presidents Survey (PREPPS).
+
+\subsection{Professional Memberships}
+LASA, APSA, MPSA, WAPOR, WAPOR-LATAM.
+
+\section{Technical Skills}
+\textbf{Statistical software.} Stata, R. \quad \textbf{Typesetting.} LaTeX. \quad \textbf{Version control.} GitHub.
+
+\end{document}
