@@ -691,7 +691,8 @@
   "language": "es",
   "type": "chapter",
   "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg"
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
+  "pdf_file": null
  },
  {
   "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
@@ -746,7 +747,8 @@
   "place": "Santiago",
   "language": "es",
   "type": "chapter",
-  "slug": "2010-votante-discolo"
+  "slug": "2010-votante-discolo",
+  "pdf_file": "Bunker, Kenneth and Patricio Navia - El Votante Discolo.pdf"
  },
  {
   "title": "Duración de las carreras de alcaldes, 1992-2008",
@@ -767,7 +769,8 @@
   "language": "es",
   "type": "chapter",
   "slug": "2009-duracion-carreras-alcaldes-1992-2008",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg"
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg",
+  "pdf_file": "Bunker, Kenneth and Patricio Navia - Duracion de las Carreras de Alcalde, 1992-2008.pdf"
  },
  {
   "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",
@@ -784,7 +787,8 @@
   "language": "es",
   "type": "chapter",
   "slug": "2007-indice-complejidad-52-comunas-region-metropolitana",
-  "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg"
+  "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg",
+  "pdf_file": "Navia, Patricio and Kenneth Bunker - Índice de Complejidad Política en las 52 Comunas de la Región Metropolitana.pdf"
  },
  {
   "type": "review",
@@ -1610,7 +1614,8 @@
   "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
   "place": "Santiago",
   "language": "es",
-  "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp"
+  "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp",
+  "pdf_file": "Bunker, Kenneth - Modificaciones y Reformas al Sistema Electoral Municipal en Chile, 1992-2008.pdf"
  },
  {
   "type": "workingpaper",
@@ -1628,7 +1633,7 @@
  },
  {
   "type": "workingpaper",
-  "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
+  "title": "La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008",
   "authors": [
    "Kenneth Bunker"
   ],
@@ -1638,7 +1643,8 @@
   "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
   "place": "Santiago",
   "language": "es",
-  "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp"
+  "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp",
+  "pdf_file": "Bunker, Kenneth - La Incumbencia y Duracion de Carreras de Alcaldes en Chile, 1992-2008.pdf"
  },
  {
   "type": "workingpaper",
@@ -1667,6 +1673,7 @@
   "publisher": "Expansiva",
   "place": "Santiago",
   "language": "es",
-  "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp"
+  "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp",
+  "pdf_file": "Bunker, Kenneth - Revisión de Experiencias Internacionales sobre Participación Ciudadana en Políticas Sociales.pdf"
  }
 ]

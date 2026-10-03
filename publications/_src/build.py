@@ -458,9 +458,11 @@ def paper_map():
     if not os.path.isdir(PAPERS): return _PMAP
     import subprocess
     pdfs = [os.path.join(PAPERS, f) for f in sorted(os.listdir(PAPERS)) if f.lower().endswith(".pdf")]
+    nfc = {unicodedata.normalize("NFC", os.path.basename(f)): f for f in pdfs}
     for e in data:
-        if e.get("pdf_file") and os.path.exists(os.path.join(PAPERS, e["pdf_file"])):
-            _PMAP[e["slug"]] = os.path.join(PAPERS, e["pdf_file"])
+        if e.get("pdf_file"):
+            f = nfc.get(unicodedata.normalize("NFC", e["pdf_file"]))
+            if f: _PMAP[e["slug"]] = f
     pdfs = [f for f in pdfs if f not in _PMAP.values()]
     for f in pdfs:
         base = os.path.basename(f)[:-4]
@@ -482,7 +484,7 @@ def paper_map():
         if hit and hit["slug"] not in _PMAP:
             _PMAP[hit["slug"]] = f
         elif not hit:
-            print("  (no match for", os.path.basename(f) + ")")
+            print("  (no match for", os.path.basename(f) + ")") if not os.path.exists(os.path.join(IMGDIR, "src")) or True else None
     return _PMAP
 
 def firstpage_for(e):
