@@ -26,7 +26,8 @@
 pre.bib{background:#f6f6f6;border:1px solid #ddd;padding:.75rem;font-size:.8rem;white-space:pre-wrap;word-break:break-word}
 .bibbox{display:none;margin-top:.5rem}
 .bibbox.open{display:block}
-.abstract{text-align:justify}
+.abstract{line-height:1.6;max-width:46rem}
+.lbl{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:#777;margin:1.2rem 0 .3rem}
 table.det td{padding:.15rem .8rem .15rem 0;vertical-align:top}
 table.det td:first-child{font-weight:700;white-space:nowrap}
 .tag{display:inline-block;font-size:.75rem;background:#eee;border-radius:3px;padding:.05rem .4rem;margin:0 .25rem .25rem 0}
@@ -108,26 +109,9 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
 
 <p><strong>Kenneth Bunker</strong></p>
 <p>In <em>Democracia municipal en Chile, 1992-2012</em>, edited by Mauricio Morales, Patricio Navia, pp. 39-48. Ediciones Universidad Diego Portales</p>
-<div class="pbtns"><a class="pbtn pdf req" href="mailto:kenneth.bunker@uss.cl?subject=PDF%20request:%20Modificaciones%20y%20reformas%20al%20sistema%20electoral%20municipal%20en%20Chile,%201992-2008" target="_blank" rel="noopener">Request PDF</a><a class="pbtn rg" href="https://www.researchgate.net/search/publication?q=Modificaciones+y+reformas+al+sistema+electoral+municipal+en+Chile,+1992-2008" target="_blank" rel="noopener">ResearchGate</a><a class="pbtn ac" href="https://uss.academia.edu/KennethBunker" target="_blank" rel="noopener">Academia.edu</a><a class="pbtn gs" href="https://scholar.google.com/scholar?q=Modificaciones+y+reformas+al+sistema+electoral+municipal+en+Chile,+1992-2008" target="_blank" rel="noopener">Google Scholar</a></div>
-<hr>
-
-
-<h3>Details</h3>
-<table class="det">
-<tr><td>Type</td><td>Book chapter</td></tr>
-<tr><td>Authors</td><td>Kenneth Bunker</td></tr>
-<tr><td>Book</td><td>Democracia municipal en Chile, 1992-2012</td></tr>
-<tr><td>Editors</td><td>Mauricio Morales, Patricio Navia</td></tr>
-<tr><td>Pages</td><td>39-48</td></tr>
-<tr><td>Year</td><td>2012</td></tr>
-<tr><td>Publisher</td><td>Ediciones Universidad Diego Portales</td></tr>
-<tr><td>Place</td><td>Santiago</td></tr>
-<tr><td>Language</td><td>Spanish</td></tr>
-</table>
-<h3>How to cite</h3>
-<p id="cit">Bunker, K. (2012). Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008. In Mauricio Morales, Patricio Navia (Eds.), Democracia municipal en Chile, 1992-2012 (pp. 39–48). Ediciones Universidad Diego Portales.</p>
-<div class="pbtns"><button class="pbtn more" onclick="cp('cit',this)">Copy citation</button><button class="pbtn more" onclick="cp('bib',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,%40incollection%7Bbunker2012modificaciones%2C%0A%20%20author%20%20%20%3D%20%7BBunker%2C%20Kenneth%7D%2C%0A%20%20title%20%20%20%20%3D%20%7B%7BModificaciones%20y%20reformas%20al%20sistema%20electoral%20municipal%20en%20Chile%2C%201992-2008%7D%7D%2C%0A%20%20booktitle%3D%20%7BDemocracia%20municipal%20en%20Chile%2C%201992-2012%7D%2C%0A%20%20editor%20%20%20%3D%20%7BMorales%2C%20Mauricio%20and%20Navia%2C%20Patricio%7D%2C%0A%20%20pages%20%20%20%20%3D%20%7B39--48%7D%2C%0A%20%20publisher%3D%20%7BEdiciones%20Universidad%20Diego%20Portales%7D%2C%0A%20%20address%20%20%3D%20%7BSantiago%7D%2C%0A%20%20year%20%20%20%20%20%3D%20%7B2012%7D%2C%0A%20%20url%20%20%20%20%20%20%3D%20%7Bhttps%3A//kennethbunker.github.io/publications/2012-modificaciones-reformas-al-sistema-electoral-municipal-chile/%7D%2C%0A%20%20language%20%3D%20%7Bspanish%7D%0A%7D" download="bunker2012modificaciones.bib">Download .bib</a></div>
-<h3 class="mt-3">BibTeX</h3>
+<div class="pbtns"><button class="pbtn more" onclick="tog('citebox',this)">Cite</button><a class="pbtn pdf req" href="mailto:kenneth.bunker@uss.cl?subject=PDF%20request:%20Modificaciones%20y%20reformas%20al%20sistema%20electoral%20municipal%20en%20Chile,%201992-2008" target="_blank" rel="noopener">Request PDF</a><a class="pbtn rg" href="https://www.researchgate.net/search/publication?q=Modificaciones+y+reformas+al+sistema+electoral+municipal+en+Chile,+1992-2008" target="_blank" rel="noopener">ResearchGate</a><a class="pbtn ac" href="https://uss.academia.edu/KennethBunker" target="_blank" rel="noopener">Academia.edu</a><a class="pbtn gs" href="https://scholar.google.com/scholar?q=Modificaciones+y+reformas+al+sistema+electoral+municipal+en+Chile,+1992-2008" target="_blank" rel="noopener">Google Scholar</a></div>
+<div class="bibbox" id="citebox">
+<p class="small" id="cit">Bunker, K. (2012). Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008. In Mauricio Morales, Patricio Navia (Eds.), Democracia municipal en Chile, 1992-2012 (pp. 39–48). Ediciones Universidad Diego Portales.</p>
 <pre class="bib" id="bib">@incollection{bunker2012modificaciones,
   author   = {Bunker, Kenneth},
   title    = {{Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008}},
@@ -140,6 +124,9 @@ table.det td:first-child{font-weight:700;white-space:nowrap}
   url      = {https://kennethbunker.github.io/publications/2012-modificaciones-reformas-al-sistema-electoral-municipal-chile/},
   language = {spanish}
 }</pre>
+<div class="pbtns"><button class="pbtn more" onclick="cp('cit',this)">Copy citation</button><button class="pbtn more" onclick="cp('bib',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,%40incollection%7Bbunker2012modificaciones%2C%0A%20%20author%20%20%20%3D%20%7BBunker%2C%20Kenneth%7D%2C%0A%20%20title%20%20%20%20%3D%20%7B%7BModificaciones%20y%20reformas%20al%20sistema%20electoral%20municipal%20en%20Chile%2C%201992-2008%7D%7D%2C%0A%20%20booktitle%3D%20%7BDemocracia%20municipal%20en%20Chile%2C%201992-2012%7D%2C%0A%20%20editor%20%20%20%3D%20%7BMorales%2C%20Mauricio%20and%20Navia%2C%20Patricio%7D%2C%0A%20%20pages%20%20%20%20%3D%20%7B39--48%7D%2C%0A%20%20publisher%3D%20%7BEdiciones%20Universidad%20Diego%20Portales%7D%2C%0A%20%20address%20%20%3D%20%7BSantiago%7D%2C%0A%20%20year%20%20%20%20%20%3D%20%7B2012%7D%2C%0A%20%20url%20%20%20%20%20%20%3D%20%7Bhttps%3A//kennethbunker.github.io/publications/2012-modificaciones-reformas-al-sistema-electoral-municipal-chile/%7D%2C%0A%20%20language%20%3D%20%7Bspanish%7D%0A%7D" download="bunker2012modificaciones.bib">Download .bib</a></div>
+</div>
+<div class="mt-4"></div>
 <hr>
 <p class="small">Profiles: <a href="https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl=en">Google Scholar</a> / <a href="https://orcid.org/0000-0002-4579-6132">ORCID</a> / <a href="https://www.researchgate.net/profile/Kenneth-Bunker">ResearchGate</a> / <a href="https://uss.academia.edu/KennethBunker">Academia.edu</a> / <a href="https://www.webofscience.com/wos/author/record/R-4439-2018">Web of Science</a> / <a href="https://kennethbunker.github.io/cv.pdf">CV</a></p>
 </div></div>
