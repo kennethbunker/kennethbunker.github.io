@@ -985,6 +985,28 @@
  },
  {
   "type": "ideas",
+  "number": "27",
+  "series": "Ideas: Laboratorio Democracia y Gobierno",
+  "title": "Del Congreso al gabinete: experiencia parlamentaria y duración de los ministros en Chile (1990-2026)",
+  "authors": [
+   "Diego Jiménez",
+   "Francisca Mejías",
+   "Kenneth Bunker"
+  ],
+  "year": 2026,
+  "doi": "10.13140/RG.2.2.27715.57129",
+  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+  "place": "Santiago",
+  "language": "es",
+  "abstract": "Este estudio muestra que en Chile solo el 18,6 % de los ministros del periodo 1990-2026 contaba con experiencia parlamentaria previa, y analiza cómo esa experiencia se relaciona con la duración de los ministros en sus cargos.",
+  "abstract_label": "Resumen",
+  "researchgate": "https://doi.org/10.13140/RG.2.2.27715.57129",
+  "academia": null,
+  "pdf_rg": true,
+  "slug": "ideas-27-del-congreso-gabinete-experiencia-parlamentaria-duracion-ministros"
+ },
+ {
+  "type": "ideas",
   "number": "26",
   "series": "Ideas: Laboratorio Democracia y Gobierno",
   "title": "Retornos marginales decrecientes en la magnitud de distrito y sus efectos sobre el sistema de partidos",
