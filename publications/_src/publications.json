@@ -904,6 +904,29 @@
  },
  {
   "type": "ideas",
+  "number": "28",
+  "series": "Ideas: Laboratorio Democracia y Gobierno",
+  "title": "Exparlamentarios al gabinete: en qué carteras los nombran, en qué momento y cuánto duran",
+  "authors": [
+   "Kenneth Bunker",
+   "Lukas Neira",
+   "Joselyn Vilches"
+  ],
+  "year": 2026,
+  "pages": null,
+  "doi": "10.13140/RG.2.2.16705.11366",
+  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+  "place": "Santiago",
+  "language": "es",
+  "abstract": "Este estudio analiza en qué carteras y en qué momento del mandato se nombra a exparlamentarios en los gabinetes chilenos, y cuánto duran.",
+  "abstract_label": "Resumen",
+  "researchgate": "https://www.researchgate.net/publication/415155201",
+  "academia": null,
+  "pdf_rg": true,
+  "slug": "ideas-28-exparlamentarios-gabinete-carteras-nombran-momento-cuanto"
+ },
+ {
+  "type": "ideas",
   "number": "26",
   "series": "Ideas: Laboratorio Democracia y Gobierno",
   "title": "Retornos marginales decrecientes en la magnitud de distrito y sus efectos sobre el sistema de partidos",

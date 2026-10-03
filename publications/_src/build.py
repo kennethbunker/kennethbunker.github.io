@@ -220,7 +220,8 @@ HEAD_COMMON = """<!-- Google tag (gtag.js) -->
 pre.bib{background:#f6f6f6;border:1px solid #ddd;padding:.75rem;font-size:.8rem;white-space:pre-wrap;word-break:break-word}
 .bibbox{display:none;margin-top:.5rem}
 .bibbox.open{display:block}
-.abstract{text-align:justify}
+.abstract{line-height:1.6;max-width:46rem}
+.lbl{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:#777;margin:1.2rem 0 .3rem}
 table.det td{padding:.15rem .8rem .15rem 0;vertical-align:top}
 table.det td:first-child{font-weight:700;white-space:nowrap}
 .tag{display:inline-block;font-size:.75rem;background:#eee;border-radius:3px;padding:.05rem .4rem;margin:0 .25rem .25rem 0}
@@ -343,15 +344,16 @@ def detail_rows(e):
     return "\n".join(out)
 
 # ---------- item pages ----------
+CITE_BTN = '<button class="pbtn more" onclick="tog(\'citebox\',this)">Cite</button>'
 def item_page(e):
     url = BASE + e["slug"] + "/"
     t = e["title"]
     ab = ""
     if e.get("abstract"):
         lab = e.get("abstract_label") or ("Abstract" if e.get("language") != "es" or e.get("abstract_es") else "Resumen")
-        ab += f'<h3>{lab}</h3>\n<p class="abstract">{E(e["abstract"])}</p>'
+        ab += f'<p class="lbl">{lab}</p>\n<p class="abstract">{E(e["abstract"])}</p>'
     if e.get("abstract_es"):
-        ab += f'<h3>Resumen</h3>\n<p class="abstract" lang="es">{E(e["abstract_es"])}</p>'
+        ab += f'<p class="lbl">Resumen</p>\n<p class="abstract" lang="es">{E(e["abstract_es"])}</p>'
     if e["type"] == "review":
         ab += f'<p><em>Review of</em> {E(e["reviewed_title"])}, by {E(e["reviewed_authors"])}.</p>'
     kw = ""
@@ -386,19 +388,13 @@ def item_page(e):
 {alt}
 <p>{authors_html(e['authors'])}</p>
 <p>{venue_html(e)}</p>
-{btns(e)}
-<hr>
-{ab}
-{kw}
-<h3>Details</h3>
-<table class="det">
-{detail_rows(e)}
-</table>
-<h3>How to cite</h3>
-<p id="{cid}">{E(apa_citation(e))}</p>
-<div class="pbtns"><button class="pbtn more" onclick="cp('{cid}',this)">Copy citation</button><button class="pbtn more" onclick="cp('{bid}',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,{E(urllib.parse.quote(bibtex(e)))}" download="{bibkey(e)}.bib">Download .bib</a></div>
-<h3 class="mt-3">BibTeX</h3>
+{btns(e, CITE_BTN)}
+<div class="bibbox" id="citebox">
+<p class="small" id="{cid}">{E(apa_citation(e))}</p>
 <pre class="bib" id="{bid}">{E(bibtex(e))}</pre>
+<div class="pbtns"><button class="pbtn more" onclick="cp('{cid}',this)">Copy citation</button><button class="pbtn more" onclick="cp('{bid}',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,{E(urllib.parse.quote(bibtex(e)))}" download="{bibkey(e)}.bib">Download .bib</a></div>
+</div>
+<div class="mt-4">{ab}</div>
 {FOOT}"""
     d = os.path.join(PUBDIR, e["slug"])
     os.makedirs(d, exist_ok=True)
