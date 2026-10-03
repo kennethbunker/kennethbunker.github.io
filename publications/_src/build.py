@@ -397,9 +397,14 @@ def image_for(e):
     if not src:
         pdf = os.path.join(PUBDIR, "pdf", e["slug"] + ".pdf")
         if os.path.exists(pdf):
-            tmp = os.path.join(IMGDIR, "_p1_" + e["slug"])
+            if os.path.exists(dst) and os.path.getmtime(dst) >= os.path.getmtime(pdf):
+                return BASE + "img/" + e["slug"] + ".jpg"
+            import tempfile
+            tmp = os.path.join(tempfile.gettempdir(), "_p1_" + e["slug"])
             if os.system(f'pdftoppm -png -f 1 -l 1 -singlefile -scale-to 720 "{pdf}" "{tmp}" >/dev/null 2>&1') == 0 and os.path.exists(tmp + ".png"):
-                _thumb(tmp + ".png", dst); os.remove(tmp + ".png")
+                _thumb(tmp + ".png", dst)
+                try: os.remove(tmp + ".png")
+                except OSError: pass
                 return BASE + "img/" + e["slug"] + ".jpg"
     if not src:
         venue = e.get("journal") or e.get("book_title") or e.get("series")
