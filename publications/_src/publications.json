@@ -27,7 +27,7 @@
   "pdf": null,
   "online_date": "2025-11-08",
   "slug": "2025-chiles-transformation-amidst-crisis-theseus-paradox",
-  "image": "img/book0.png",
+  "image": "publications/img/p1/2025-chiles-transformation-amidst-crisis-theseus-paradox.jpg",
   "pdf_crop": [
    0.555,
    0,
@@ -1004,7 +1004,8 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.27715.57129",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-27-del-congreso-gabinete-experiencia-parlamentaria-duracion-ministros"
+  "slug": "ideas-27-del-congreso-gabinete-experiencia-parlamentaria-duracion-ministros",
+  "pages": "1-6"
  },
  {
   "type": "ideas",
@@ -1363,7 +1364,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.29193.01128",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-09-hora-precision-conocen-resultados-electorales-chile"
+  "slug": "ideas-10-hora-precision-conocen-resultados-electorales-chile"
  },
  {
   "type": "ideas",
@@ -1385,7 +1386,7 @@
   "researchgate": "https://doi.org/10.13140/RG.2.2.15771.23848",
   "academia": null,
   "pdf_rg": true,
-  "slug": "ideas-10-velocidad-escrutan-votos-chile"
+  "slug": "ideas-09-velocidad-escrutan-votos-chile"
  },
  {
   "type": "ideas",
