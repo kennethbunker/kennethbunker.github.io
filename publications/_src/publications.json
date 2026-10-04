@@ -33,6 +33,16 @@
    0,
    1,
    1
+  ],
+  "buy": [
+   [
+    "Buy from Palgrave",
+    "https://link.springer.com/book/10.1007/978-3-031-96463-3"
+   ],
+   [
+    "Buy on Amazon",
+    "https://www.amazon.com/dp/3031964624"
+   ]
   ]
  },
  {
@@ -610,6 +620,16 @@
    0.04,
    0.63,
    0.86
+  ],
+  "buy": [
+   [
+    "Buy from Cambridge",
+    "https://www.cambridge.org/core/books/recasting-of-the-latin-american-right/CCC0E4A9488EA887093CD7DAA4A9A3C9"
+   ],
+   [
+    "Buy on Amazon",
+    "https://www.amazon.com/dp/100942744X"
+   ]
   ]
  },
  {
@@ -638,7 +658,13 @@
   "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
   "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg",
   "pdf_file": "Bunker & Polga-Hecimovich (2025) - Representación y dinámicas partidarias.pdf",
-  "pdf_page": 14
+  "pdf_page": 14,
+  "buy": [
+   [
+    "Buy from Tirant lo Blanch",
+    "https://editorial.tirant.com/cl/libro/crisis-de-la-representavidad-de-la-democracia-liberal-presente-y-futuro-jaime-fernando-abedrapo-rojas-9791370210229"
+   ]
+  ]
  },
  {
   "title": "Efecto del sistema electoral en la distorsión entre el porcentaje de votos y el porcentaje de escaños en el Congreso",
@@ -694,7 +720,13 @@
   "type": "chapter",
   "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
   "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
-  "pdf_file": null
+  "pdf_file": null,
+  "buy": [
+   [
+    "Buy from Ediciones UDP",
+    "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
+   ]
+  ]
  },
  {
   "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
@@ -714,7 +746,13 @@
   "language": "es",
   "type": "chapter",
   "slug": "2012-incumbencia-reeleccion-alcaldes-chile-1992-2004",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg"
+  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
+  "buy": [
+   [
+    "Buy from Ediciones UDP",
+    "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
+   ]
+  ]
  },
  {
   "title": "Cambio y continuidad en la Cámara de Diputados",
@@ -735,7 +773,13 @@
   "slug": "2010-cambio-continuidad-camara-diputados-1989-2014",
   "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg",
   "pdf_file": "Bunker (2010) - Cambio y continuidad en la Cámara de Diputados.pdf",
-  "pdf_page": 92
+  "pdf_page": 92,
+  "buy": [
+   [
+    "Buy from Ediciones UDP",
+    "https://ediciones.udp.cl/libro/el-sismo-electoral-de-2009/"
+   ]
+  ]
  },
  {
   "title": "El votante díscolo",
@@ -774,7 +818,13 @@
   "type": "chapter",
   "slug": "2009-duracion-carreras-alcaldes-1992-2008",
   "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg",
-  "pdf_file": "Bunker & Navia (2009) - Duración de las carreras de alcaldes, 1992-2008.pdf"
+  "pdf_file": "Bunker & Navia (2009) - Duración de las carreras de alcaldes, 1992-2008.pdf",
+  "buy": [
+   [
+    "Buy from Ediciones UDP",
+    "https://ediciones.udp.cl/libro/el-genoma-electoral-chileno/"
+   ]
+  ]
  },
  {
   "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",

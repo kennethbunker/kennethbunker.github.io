@@ -176,6 +176,7 @@ def links(e):
     q = re.sub(r"\s+", "+", e["title"])
     if e.get("doi"): L.append(("DOI", "https://doi.org/" + e["doi"], "doi"))
     elif e.get("url"): L.append(("Publisher", e["url"], "doi"))
+    for lbl, u in e.get("buy") or []: L.append((lbl, u, "buy"))
     pdf = local_pdf(e)  # only PDFs hosted on this site
     if pdf: L.append(("PDF", pdf, "pdf"))
     rg = e.get("researchgate")
@@ -229,6 +230,7 @@ h2[id^=sec-]{margin-top:2.5rem!important;padding-bottom:.3rem;border-bottom:2px 
 .pbtn{display:inline-block;font-size:.78rem;line-height:1.2;padding:.18rem .5rem;border:1px solid #0077cc;border-radius:3px;color:#0077cc;text-decoration:none!important;background:#fff;cursor:pointer;font-family:inherit}
 .pbtn:hover{background:#0077cc;color:#fff}
 .pbtn.pdf{border-color:#b30000;color:#b30000}.pbtn.pdf:hover{background:#b30000;color:#fff}
+.pbtn.buy{border-color:#c45500;color:#c45500}.pbtn.buy:hover{background:#c45500;color:#fff}
 .pbtn.req{border-style:dashed}
 .pbtn.rg{border-color:#00b3a6;color:#008a80}.pbtn.rg:hover{background:#00b3a6;color:#fff}
 .pbtn.ac{border-color:#41454a;color:#41454a}.pbtn.ac:hover{background:#41454a;color:#fff}
