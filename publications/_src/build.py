@@ -636,8 +636,9 @@ function flt(v){{v=v.toLowerCase().trim();document.querySelectorAll('.pub').forE
 def sitemap():
     today = datetime.date.today().isoformat()
     urls = [SITE + "/", BASE]
-    for sub in ["theseus/", "press/", "prensa/", "columns/", "interviews/", "covers/", "contact/", "labdemgob/", "cpld/"]:
+    for sub in ["theseus/", "press/", "prensa/", "columns/", "interviews/", "covers/", "contact/", "labdemgob/", "cpld/", "lun/", "theseus/press/", "theseus/files/", "theseus/buy/", "theseus/images/"]:
         if os.path.exists(os.path.join(ROOT, sub, "index.html")): urls.append(SITE + "/" + sub)
+    if os.path.exists(os.path.join(ROOT, "cv.pdf")): urls.append(SITE + "/cv.pdf")
     urls += [BASE + e["slug"] + "/" for e in data]
     for f in sorted(os.listdir(os.path.join(PUBDIR, "pdf"))) if os.path.isdir(os.path.join(PUBDIR, "pdf")) else []:
         if f.endswith(".pdf"): urls.append(BASE + "pdf/" + f)
