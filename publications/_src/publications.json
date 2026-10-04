@@ -1,1779 +1,1790 @@
 [
- {
-  "type": "book",
-  "title": "Chile's Transformation Amidst Crisis: The Theseus Paradox",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2025,
-  "publisher": "Palgrave Macmillan",
-  "place": "Cham",
-  "doi": "10.1007/978-3-031-96463-3",
-  "url": "https://kennethbunker.github.io/theseus/",
-  "isbn": "978-3-031-96462-6 (hardcover); 978-3-031-96463-3 (eBook); 978-3-031-96465-7 (softcover, due 2026-11-24)",
-  "pages_total": "XXIX + 341",
-  "language": "en",
-  "abstract": "This book is a comprehensive analysis of Chile's political and economic evolution, particularly focusing on the challenges of constitutional reform and systemic overhaul in emerging democracies. It explores themes of neoliberalism, governance, and reform under instability, using Chile as a case study to illuminate the broader implications for countries in the Global South. Drawing on institutional theory, political economy, original data, and comparative analysis, it unpacks the roots of Chile's crisis: party system fragmentation, voter–party erosion, rupturist rhetoric, and elite misdiagnoses. It is relevant to scholars, policymakers, and risk analysts seeking to understand the complexities of democratic transitions, offering lessons on balancing the rewards of change with the risks of instability. At its core, the book sets out to solve the problem of how to effectively implement constitutional and systemic reforms in a way that promotes stability, equity, and long-term success.",
-  "keywords": [
-   "Constitutional Reform",
-   "Emerging Economies",
-   "Institutional Reform",
-   "Chile",
-   "New Democracies",
-   "Constitutional Conventions"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/397420473_Chile's_Transformation_Amidst_Crisis_The_Theseus_Paradox",
-  "academia": "https://www.academia.edu/145119129",
-  "pdf": null,
-  "online_date": "2025-11-08",
-  "slug": "2025-chiles-transformation-amidst-crisis-theseus-paradox",
-  "image": "publications/img/p1/2025-chiles-transformation-amidst-crisis-theseus-paradox.jpg",
-  "pdf_crop": [
-   0.555,
-   0,
-   1,
-   1
-  ],
-  "buy": [
-   [
-    "Buy from Palgrave",
-    "https://link.springer.com/book/10.1007/978-3-031-96463-3"
-   ],
-   [
-    "Buy on Amazon",
-    "https://www.amazon.com/dp/3031964624"
-   ]
-  ]
- },
- {
-  "type": "article",
-  "title": "Electoral reform and party-system fragmentation: diminishing marginal effects and vote–seat conversion limits in Chile’s concurrent local elections",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Local Government Studies",
-  "volume": null,
-  "issue": null,
-  "pages": null,
-  "year": 2026,
-  "online_date": "2026-07-19",
-  "doi": "10.1080/03003930.2026.2704044",
-  "publisher": "Taylor & Francis (Routledge)",
-  "issn": "0300-3930 (print); 1743-9388 (online)",
-  "language": "en",
-  "abstract": "Evidence on the impact of electoral reform on party systems in new democracies is limited. This study analyses 1,725 Chilean municipal contests (2004-2021), leveraging automatic, population-triggered increases in council district magnitude and the concurrent timing of first-past-the-post mayoral and proportional representation council elections. Using a difference-in-differences design and mixed-effects models, larger district magnitudes are found to increase the effective number of vote-winning parties, though the marginal effect diminishes at higher magnitudes. Concurrent FPTP elections heighten vote-level fragmentation but not seat-level fragmentation, reflecting conversion limits under proportional representation. Institutional effects materialise gradually over several electoral cycles. The findings show that institutional design exerts an independent effect on party-system fragmentation beyond social structures, extending the institutions-first logic to a subnational PR setting in a new democracy and showing how automatic seat adjustments provide causal leverage for identifying institutional effects.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/410586685",
-  "academia": "https://www.academia.edu/170679745",
-  "pdf": null,
-  "status": "Online first",
-  "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal",
-  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/flgs20.v052.i04",
-  "pdf_page": 2,
-  "pdf_file": "Bunker (2026) - Electoral reform and party-system fragmentation.pdf"
- },
- {
-  "type": "article",
-  "title": "Challenging Conventional Wisdom in New Democracies: Social Diversity, Electoral Rules, and Party System Fragmentation in Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Election Law Journal: Rules, Politics, and Policy",
-  "volume": "25",
-  "issue": "1",
-  "pages": "56-79",
-  "year": 2026,
-  "online_date": "2025-05-23",
-  "doi": "10.1089/elj.2024.0064",
-  "publisher": "SAGE Publications (formerly Mary Ann Liebert)",
-  "issn": "1533-1296 (print); 1557-8062 (online)",
-  "language": "en",
-  "abstract": "This study investigates the determinants of party system fragmentation in new democracies by analyzing the interaction between social diversity and electoral rules in Chile. Drawing on a comprehensive dataset of 5,301 district-level elections conducted between 1989 and 2023, the research finds that ethnic fractionalization shapes the effective number of vote-winning parties, but its impact is strongly mediated by district magnitude and other institutional mechanisms. While ethnic diversity amplifies fragmentation in permissive systems, significant variation is observed across electoral regimes due to contextual factors such as apparentment coalitions and concurrent elections. These findings challenge the universal applicability of existing theories, which often rely on data from consolidated democracies, by highlighting the importance of local and institutional dynamics. The study advances a more nuanced understanding of party system fragmentation in new democracies and identifies promising directions for future research, including exploring the scaling of local cleavages into national divisions, the strategic overlaps in parallel electoral systems, and the temporal dynamics of institutional adaptation.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/392021805_Challenging_Conventional_Wisdom_in_New_Democracies_Social_Diversity_Electoral_Rules_and_Party_System_Fragmentation_in_Chile",
-  "academia": null,
-  "pdf": null,
-  "slug": "2026-challenging-conventional-wisdom-new-democracies-social-diversity",
-  "cover_url": "https://journals.sagepub.com/cms/asset/1e4feef3-c373-4693-bbaa-ede9d1d27a82/elja_28_3.largecover.png"
- },
- {
-  "type": "article",
-  "title": "Decades of democracy: insights into the political landscape of Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Humanities and Social Sciences Communications",
-  "volume": "12",
-  "issue": null,
-  "pages": null,
-  "year": 2025,
-  "online_date": "2025-12-11",
-  "doi": "10.1057/s41599-025-06180-1",
-  "publisher": "Springer Nature (Palgrave Macmillan)",
-  "issn": "2662-9992",
-  "language": "en",
-  "abstract": "Chile was long considered a beacon of stability in a turbulent region, until the 2019 social outburst and two failed constitutional processes prompted a reassessment. We argue that the reliance of much of the literature on national aggregates obscured underlying dynamics that could have raised institutional alerts, and perhaps even diverted the course of the crisis. To test this claim, we focus on the Chilean party system as it has been tied to the fateful events and ask whether inferences would have been different had alternative data been considered. In this effort, we introduce the Chilean Political Landscape Dataset (CPLD), a standardized longitudinal dataset of district-level electoral outcomes and indicators from 1989 to 2024 that includes more than 5300 observations across legislative, regional, and municipal contests. The dataset allows us to highlight meaningful gaps between prevailing explanations and observed patterns, showing why district-level evidence is necessary to identify the sequence, scope, and ideological contours of change. We show that more detailed data suggest that fragmentation began well before 2015, that the party system was drifting leftward over time, and that fragmentation occurred asymmetrically, impacting parties on the left more than those on the right. We argue that this had previously gone untested and unfound because of the lack of data and conclude by illustrating its relevance by showing additional applications of the CPLD, including assessments of social structures and institutional design.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/398598527",
-  "academia": null,
-  "pdf": "https://www.nature.com/articles/s41599-025-06180-1.pdf",
-  "article_number": "1911",
-  "slug": "2025-decades-democracy-insights-into-political-landscape-chile",
-  "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuFRKbcVLOYvM8jnlfuyLMPUTSxLNI52bEqtf6J3XNHdQVD1S1bB-sxzb&s=10"
- },
- {
-  "type": "article",
-  "title": "Electoral Forecasting in Volatile Party System Settings: Assessing and Improving Pre-Election Poll Predictions in Italy",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Social Science Computer Review",
-  "volume": "44",
-  "issue": "4",
-  "pages": "595-616",
-  "year": 2026,
-  "online_date": "2025-03-24",
-  "doi": "10.1177/08944393251328309",
-  "publisher": "SAGE Publications",
-  "issn": "0894-4393 (print); 1552-8286 (online)",
-  "language": "en",
-  "abstract": "This study examines electoral forecasting in volatile party systems, focusing on factors contributing to deviations between poll predictions and actual election outcomes. Using Italy as a case study, it identifies biases in polling data and proposes a method to enhance estimator accuracy in a context of stable institutions and volatile electoral dynamics. Data from three Italian general elections are analyzed to evaluate discrepancies between pre-electoral polls and results, assessing key factors such as timing of data collection, survey methodology, sample size, and party system fragmentation. Employing a Bayesian inference process via a Markov chain Monte Carlo adaptive Metropolis-Hastings algorithm, the study demonstrates that pre-electoral estimates can be significantly improved using the Two-Stage Model. By consistently outperforming traditional poll predictions, the Two-Stage Model offers a robust framework for addressing polling biases. These findings advance political forecasting by improving accuracy in both consolidated democracies and volatile electoral contexts, while emphasizing the need for future research on dynamic polling methods and fundamentals-based models.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/390140669",
-  "academia": null,
-  "pdf": null,
-  "slug": "2026-electoral-forecasting-volatile-party-system-settings-assessing",
-  "cover_url": "https://journals.sagepub.com/cms/asset/ee268038-a1be-4bc5-a05d-ce7c6420196e/ssce_44_5.largecover.png"
- },
- {
-  "type": "article",
-  "title": "Mapping party systems over time: a spatial distribution of ideological competition in Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Journal of Political Ideologies",
-  "volume": "31",
-  "issue": "3",
-  "pages": "905-922",
-  "year": 2026,
-  "online_date": "2025-01-31",
-  "doi": "10.1080/13569317.2025.2452179",
-  "publisher": "Taylor & Francis (Routledge)",
-  "issn": "1356-9317 (print); 1469-9613 (online)",
-  "language": "en",
-  "abstract": "This article introduces a novel method to map party systems over time, addressing the challenge of assigning comprehensive spatial ideological scores to coalitions, parties, and independents. Combining public opinion polls, manifesto analysis, and expert surveys, this method evaluates fixed and variable standard deviation models to score distinct 4,157 electoral lists from 5,195 district-level elections across 27 elections in 12 Chilean electoral systems. It proposes a synthetic data approach to simulate party positions within political family constraints, producing a high-density region map and a political lineage chart that visualize ideological evolution over time. Robustness checks, including diagnostics with controlled random noise and variance adjustments, confirm the reliability of these results. Key findings reveal an earlier-than-expected trend of fragmentation, a leftward drift among left-leaning parties, and an asymmetrical party system where fragmentation affects the left while polarization intensifies on the right. This study underscores the importance of expanding within-system estimators to enhance reliability and concludes with research questions that the resulting dataset can address. These include constituency-level shifts in ideological positioning, fragmentation linked to specific institutional reforms, and the dynamics of localized polarization within multiparty systems.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/388591000",
-  "academia": null,
-  "pdf": null,
-  "slug": "2026-mapping-party-systems-over-time-spatial-distribution",
-  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/cjpi20.v031.i03",
-  "pdf_page": 2,
-  "pdf_file": "Bunker (2026) - Mapping party systems over time.pdf"
- },
- {
-  "type": "article",
-  "title": "The party system effects of unstable electoral rules in Latin America",
-  "authors": [
-   "Kenneth Bunker",
-   "Gabriel L. Negretto"
-  ],
-  "journal": "Party Politics",
-  "volume": "30",
-  "issue": "6",
-  "pages": "1126-1142",
-  "year": 2024,
-  "online_date": "2023-09-05",
-  "doi": "10.1177/13540688231196111",
-  "publisher": "SAGE Publications",
-  "issn": "1354-0688 (print); 1460-3683 (online)",
-  "language": "en",
-  "abstract": "Prior studies have shown that electoral rules fail to determine the number of parties in new democracies due to the uncertainty of voters and politicians about which parties are viable. Latin American democracies, where electoral volatility has generally remained high and party institutionalization low, have been a primary example of this phenomenon. We argue that even in shifting political environments the fragmentation of the party system is likely to become consistent with the permissiveness of electoral rules and the level of social diversity as voters and party leaders accumulate experience with elections and the rate of electoral regime change declines. We find support for these propositions analyzing an original dataset on Latin American democratic elections. This article contributes to research on electoral systems and political parties by identifying the conditions under which equilibrium electoral outcomes can be expected after a transition to democracy in unstable institutional settings.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/373710117",
-  "academia": "https://www.academia.edu/106334932",
-  "pdf": "https://e-archivo.uc3m.es/bitstreams/7c17e004-8e1f-4b7a-9a80-93ca3f7d00e6/download",
-  "pdf_note": "Submitted version",
-  "slug": "2024-party-system-effects-unstable-electoral-rules-latin",
-  "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
- },
- {
-  "type": "article",
-  "title": "Forecasting two-horse races in new democracies: Accuracy, precision and error",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Revista Latinoamericana de Opinión Pública",
-  "volume": "11",
-  "issue": "1",
-  "pages": "81-108",
-  "year": 2022,
-  "online_date": "2022-06-22",
-  "doi": "10.14201/rlop.25374",
-  "publisher": "Ediciones Universidad de Salamanca",
-  "issn": "1852-9003; 2660-700X (online)",
-  "language": "en",
-  "abstract": "The purpose of this article is to explore electoral forecasting in two-horse races in new democracies. Specifically, it applies a Bayesian dynamic linear model (coined the Two-Stage Model, TSM) to look at the 2020 Chilean two-question national plebiscite. The ultimate objective is to test the TSM in terms of accuracy (how close the forecast is to the election results), precision (how close the forecast is to other methods of prediction) and error (how the forecast deviates from perfect accuracy/precision). The article finds that while the TSM does appear to be a stable estimator, its accuracy and precision is affected under certain conditions. Using the difference in the results for each of the two questions, the article discusses how sharp and unexpected shifts in electoral preferences can affect forecasts.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [
-   "Bayesian inference",
-   "Election campaigns",
-   "New democracies",
-   "Public opinion",
-   "Plebiscites"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/363007885_Forecasting_two-horse_races_in_new_democracies_Accuracy_precision_and_error",
-  "academia": "https://www.academia.edu/97940315",
-  "pdf": "https://revistas.usal.es/index.php/1852-9003/article/download/25374/28271",
-  "slug": "2022-forecasting-two-horse-races-new-democracies-accuracy",
-  "cover_url": "https://revistas.usal.es/cuatro/public/journals/52/homepageImage_en_US.jpg"
- },
- {
-  "type": "article",
-  "title": "A two-stage model to forecast elections in new democracies",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "International Journal of Forecasting",
-  "volume": "36",
-  "issue": "4",
-  "pages": "1407-1419",
-  "year": 2020,
-  "online_date": "2020-04-03",
-  "doi": "10.1016/j.ijforecast.2020.02.004",
-  "publisher": "Elsevier",
-  "issn": "0169-2070 (print); 1872-8200 (online)",
-  "language": "en",
-  "abstract": "The purpose of this article is to propose a method to minimize the difference between electoral predictions and electoral results. It builds on findings that stem from established democracies, where most of the research has been carried out, but it focuses on filling the gap for developing nations, which have thus far been neglected by the literature. It proposes a two-stage model in which data are first collected, filtered and weighed according to biases, and then output using Bayesian algorithms and Markov chains. It tests the specification using data stemming from 11 Latin American countries. It shows that the model is remarkably accurate. In comparison to polls, not only does it produce more precise estimates for every election, but it also produces a more accurate forecast for nine out of every ten candidates. The article closes with a discussion on the limitations of the model and a proposal for future research.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [
-   "Electoral forecasting",
-   "Dynamic linear models",
-   "Bayesian inference",
-   "Markov chains",
-   "New democracies",
-   "Latin America"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies",
-  "academia": "https://www.academia.edu/42049981/A_two_stage_model_to_forecast_elections_in_new_democracies",
-  "pdf": null,
-  "slug": "2020-two-stage-model-forecast-elections-new-democracies",
-  "cover_url": "https://ars.els-cdn.com/content/image/X01692070.jpg"
- },
- {
-  "type": "article",
-  "title": "El clivaje etario: backlash cultural en Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "América Latina Hoy",
-  "volume": "87",
-  "issue": null,
-  "pages": "3-28",
-  "year": 2021,
-  "online_date": "2020-12-21",
-  "doi": "10.14201/alh.22974",
-  "publisher": "Ediciones Universidad de Salamanca",
-  "issn": "1130-2887 (print); 2340-4396 (online)",
-  "language": "es",
-  "abstract": "Recent literature suggests that cultural factors are gaining predictive power over ideological ones in explaining electoral behavior in established democracies. But does this also occur in new democracies? This article seeks to answer this question by looking at evidence from Chile. It uses survey data to compare cultural factors to ideological determinants and global age cohorts to local political generations. It shows that the pattern in Chile matches the one observed in developed democracies.",
-  "abstract_es": "Literatura reciente sugiere que los factores culturales están ganando poder predictivo sobre determinantes ideológicos en la explicación del comportamiento electoral en democracias establecidas. Pero, ¿ocurre lo mismo en democracias nuevas? Este artículo busca responder a esta pregunta tomando como referencia el caso de Chile. Utiliza datos de encuestas para comparar factores culturales con los determinantes ideológicos y cohortes de edad globales con generaciones políticas locales. Muestra que el patrón en Chile coincide con el observado en democracias desarrolladas.",
-  "title_en": "The Age Cleavage: Cultural Backlash in Chile",
-  "keywords": [
-   "cleavages",
-   "electoral turnout",
-   "voting behavior",
-   "millennials",
-   "elections"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/347558934",
-  "academia": "https://www.academia.edu/111323654",
-  "pdf": "https://revistas.usal.es/cuatro/index.php/1130-2887/article/download/22974/24730",
-  "slug": "2021-age-cleavage-cultural-backlash-chile",
-  "cover_url": "https://revistas.usal.es/cuatro/public/journals/17/homepageImage_es_ES.jpg"
- },
- {
-  "type": "article",
-  "title": "Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law",
-  "authors": [
-   "Daniel Brieba",
-   "Kenneth Bunker"
-  ],
-  "journal": "Latin American Politics and Society",
-  "volume": "61",
-  "issue": "4",
-  "pages": "23-46",
-  "year": 2019,
-  "online_date": "2019-08-28",
-  "doi": "10.1017/lap.2019.23",
-  "publisher": "Cambridge University Press",
-  "issn": "1531-426X (print); 1548-2456 (online)",
-  "language": "en",
-  "abstract": "It has normally been argued that because compulsory voting systems present higher turnout rates relative to voluntary voting systems, they do not generate as many biases between different groups of voters. This article qualifies that view. It argues that in cases in which compulsory voting does not ensure near-universal participation, there is no certainty that switching to voluntary voting will increase inequalities. This issue is examined by looking at Chile, a democracy that moved from compulsory to voluntary voting in 2012. The research finds that while the reform generated class bias in urban districts, it also substantially reduced age bias and, in national elections, equalized participation between small and large districts. The conclusion is that abandoning compulsory voting does not necessarily increase turnout biases, since much depends on the structure of preexisting biases, and how these are conditioned by particular electoral institutions.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [
-   "compulsory voting",
-   "Chile",
-   "class bias",
-   "electoral reform",
-   "turnout bias"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/332233580",
-  "academia": "https://www.academia.edu/97940308",
-  "pdf": null,
-  "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform",
-  "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg"
- },
- {
-  "type": "article",
-  "title": "Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Revista de Estudios Políticos",
-  "volume": null,
-  "issue": "186",
-  "pages": "171-199",
-  "year": 2019,
-  "online_date": "2019-12-05",
-  "doi": "10.18042/cepc/rep.186.06",
-  "publisher": "Centro de Estudios Políticos y Constitucionales",
-  "issn": "0048-7694 (print); 1989-0613 (online)",
-  "language": "en",
-  "abstract": "The purpose of this article is to explore coalition formation in presidential systems using evidence from Latin America. It puts forward three hypotheses based on formateur power, electoral structures and party systems to explore when and why electoral and government coalition formation occurs. It uses evidence stemming from eighteen democratic presidential regimes in Latin America from 1980 to 2010. It looks at 100 elections and 407 aggregate years of democratic government. It analyses data organized in a cross-sectional time-series fashion through a logit function with random effects and robust standard errors. It finds that in democracies with weak presidents, restrictive electoral rules and highly fragmented party systems, the president will seek the support of multiple parties. While the effective number of parties is the most important determinant, rules related to legislative elections are more important predictors of electoral coalitions, and those related to presidential elections are more important predictors of government coalitions. The findings in this article are important insofar as yielding critical insight into partisan strategies in both the run-up to elections and the maintenance of governments, as well as contributing to a general theory of coalition formation.",
-  "abstract_es": null,
-  "title_en": null,
-  "keywords": [
-   "Presidentialism",
-   "electoral systems",
-   "party systems",
-   "coalition formation"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America",
-  "academia": "https://www.academia.edu/111323659",
-  "pdf": "https://recyt.fecyt.es/index.php/RevEsPol/article/download/76893/47198",
-  "slug": "2019-why-do-parties-cooperate-presidentialism-electoral-government",
-  "cover_url": "https://recyt.fecyt.es/public/journals/137/cover_issue_4968_es_ES.png"
- },
- {
-  "type": "article",
-  "title": "La elección de 2017 y el fraccionamiento del sistema de partidos en Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Revista Chilena de Derecho y Ciencia Política",
-  "volume": "9",
-  "issue": "2",
-  "pages": "204-229",
-  "year": 2018,
-  "online_date": "2018-12-07",
-  "doi": "10.7770/rchdcp-V9N2-art1823",
-  "publisher": "Universidad Católica de Temuco",
-  "issn": "0719-2150 (online)",
-  "language": "es",
-  "abstract": "The purpose of this article is to report the results of Chile's presidential and legislative elections in 2017 and explore their effect on the party system. It relates the context and suggests that there were three recurring themes that defined both the nomination of the candidates and the tone of the campaign: strong political polarization, two major corruption scandals, and the debut of a new electoral system. The article presents the presidential candidates and their main support bases and describes the central points of the election and the main electoral strategies. It reviews, analyzes and interprets the results of the election, highlighting the unprecedented fragmentation in the party system caused by the political and institutional context of recent years. We suggest that as of 2018 the level of fragmentation in the party system is among the highest in its history. We speculate that henceforth governments will be more flexible than in the past and will seek to pass legislation based on multilateral agreements and negotiation.",
-  "abstract_es": "El propósito de este artículo es reportar los resultados de la elección presidencial y legislativa de Chile en 2017 y explorar su efecto sobre el sistema de partidos. Relata el contexto, y sugiere que hubo tres temas recurrentes que definieron tanto la nominación de los candidatos como el tono de la campaña: una importante polarización política, dos grandes escándalos de corrupción y el debut de un nuevo sistema electoral. Presenta a los candidatos presidenciales y sus principales bases de apoyo. Describe los puntos medulares de la elección y las principales estrategias electorales. Repasa los resultados de la elección, los analiza y los interpreta. Destaca el inédito fraccionamiento en el sistema de partidos provocado por el contexto político e institucional de los últimos años. Sugiere que a partir de 2018 el sistema de partidos está en uno de sus niveles más fragmentados de su historia. Especula que hacia delante los próximos gobiernos serán más flexibles que los anteriores y buscarán pasar legislación sobre la base de negociaciones y pactos multilaterales.",
-  "title_en": "The 2017 elections and the fragmentation of the party system in Chile",
-  "keywords": [
-   "Presidential Election",
-   "Legislative Election",
-   "Electoral Reform",
-   "Party System",
-   "Electoral System"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/342827341_La_eleccion_de_2017_y_el_fraccionamiento_del_sistema_de_partidos_en_Chile",
-  "academia": "https://www.academia.edu/40482094/The_2017_elections_and_the_fragmentation_of_the_party_system_in_Chile",
-  "pdf": "https://dialnet.unirioja.es/descarga/articulo/6844609.pdf",
-  "slug": "2018-2017-elections-fragmentation-party-system-chile",
-  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=15426"
- },
- {
-  "type": "article",
-  "title": "Electoral Forecasting and Public Opinion Tracking in Latin America: An Application to Chile",
-  "authors": [
-   "Kenneth Bunker",
-   "Stefan Bauchowitz"
-  ],
-  "journal": "Política. Revista de Ciencia Política",
-  "volume": "54",
-  "issue": "2",
-  "pages": "207-233",
-  "year": 2016,
-  "doi": "10.5354/0719-5338.2016.44781",
-  "url": "https://revistapolitica.uchile.cl/index.php/RP/article/view/44781",
-  "publisher": "Universidad de Chile, Instituto de Asuntos Públicos",
-  "issn": "0716-1077",
-  "language": "en",
-  "abstract": "The purpose of this article is to explore electoral forecasting and public opinion tracking in Latin America. We review different approaches used to estimate the true value of public opinion, and assess the range of their application. We focus on election night forecasting and campaign variation tracking in Latin America. We propose a two-stage model based on poll aggregation and Bayesian inference. We present data from two presidential elections in Chile. We test the model and show that it provides the most accurate election night forecasting point estimate and the most comprehensive campaign variation tracking method.",
-  "keywords": [
-   "presidential election",
-   "public opinion",
-   "Chile"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile_Revista_Politica",
-  "academia": "https://www.academia.edu/40482168/Electoral_Forecasting_and_Public_Opinion_Tracking_in_Latin_America",
-  "pdf": "https://revistapolitica.uchile.cl/index.php/RP/article/download/44781/46856/157873",
-  "slug": "2016-electoral-forecasting-public-opinion-tracking-latin-america",
-  "cover_url": "https://revistapolitica.uchile.cl/public/journals/68/cover_issue_6552_es_ES.jpg"
- },
- {
-  "type": "article",
-  "title": "Incumbency Advantage and Tenure Length in the Chilean Chamber of Deputies, 1989-2009",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "journal": "Revista de Ciencia Política",
-  "volume": "35",
-  "issue": "2",
-  "pages": "251-271",
-  "year": 2015,
-  "doi": "10.4067/S0718-090X2015000200001",
-  "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2015000200001&lng=en&nrm=iso&tlng=en",
-  "publisher": "Pontificia Universidad Católica de Chile, Instituto de Ciencia Política",
-  "issn": "0718-090X",
-  "language": "en",
-  "abstract": "This article explores incumbency advantage and tenure length in the Chilean Chamber of Deputies between 1989 and 2009. After describing how the electoral system frames electoral competition, we present descriptive data of incumbency advantage and tenure length. There is remarkable stability in both indicators. Three out of four incumbents seek re-election, 82.3% get re-elected. Still, every four years, first-termers comprise 38.5% of the 120-member Chamber. The average tenure length is 2.4 terms. We find a neutral effect of past electoral performance and number of terms in office on the decision to seek re-election and be reelected. However, the results become significant when we control for the incumbent legislators coalition.",
-  "keywords": [
-   "Incumbency advantage",
-   "tenure length",
-   "legislative elections",
-   "Chilean Congress"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/283155418",
-  "academia": "https://www.academia.edu/97940300",
-  "pdf": "https://www.scielo.cl/pdf/revcipol/v35n2/art01.pdf",
-  "slug": "2015-incumbency-advantage-tenure-length-chilean-chamber-deputies",
-  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=28672"
- },
- {
-  "type": "article",
-  "title": "The 2013 presidential and legislative elections in Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Electoral Studies",
-  "volume": "34",
-  "issue": null,
-  "pages": "346-348",
-  "year": 2014,
-  "doi": "10.1016/j.electstud.2013.12.005",
-  "url": "https://doi.org/10.1016/j.electstud.2013.12.005",
-  "publisher": "Elsevier",
-  "issn": "0261-3794",
-  "language": "en",
-  "abstract": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/259994949_The_2013_Presidential_and_Legislative_Elections_in_Chile",
-  "academia": "https://www.academia.edu/111323661",
-  "pdf": null,
-  "landing_oa": "https://eprints.lse.ac.uk/",
-  "slug": "2014-2013-presidential-legislative-elections-chile",
-  "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg"
- },
- {
-  "type": "article",
-  "title": "Latin American Political Outsiders, Revisited: The Case of Marco Enríquez-Ominami in Chile, 2009",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "journal": "Journal of Politics in Latin America",
-  "volume": "5",
-  "issue": "2",
-  "pages": "3-35",
-  "year": 2013,
-  "doi": "10.1177/1866802X1300500201",
-  "url": "https://journals.sagepub.com/doi/full/10.1177/1866802X1300500201",
-  "publisher": "SAGE Publications (GIGA German Institute of Global and Area Studies)",
-  "issn": "1866-802X (print); 1868-4890 (online)",
-  "language": "en",
-  "abstract": "This article applies the debate on the recent emergence of outsider candidates in Latin America to independent presidential candidate Marco Enríquez-Ominami (ME-O) in Chile in 2009. We test five competing hypotheses to explain his electoral success. First, his support is explained by the consolidation of democracy, reflected by the disposition of voters to disregard the authoritarian/democratic-aligned candidates. Second, his support is explained by the decline of ideological identification, reflected by the disposition of voters to prefer nontraditional candidates. Third, his support is explained by the resurgence of the Left, reflected by the disposition of voters to identify with anti-Washington Consensus candidates. Fourth, his support is explained by the demand for quick government action, reflected in the predisposition of voters to consider candidates who will solve problems fast even if they do not ask voters for their opinions. Fifth, his support is explained by the declining support for established parties, reflected by the predisposition of voters to favor antisystemic candidates. We use survey data to test these hypotheses. We find no evidence to support the claims that ME-O fits any of the explanations. Though he was widely referred to as an outsider, his success seems to respond to national affairs rather than to a regional pattern.",
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/330930588_Latin_American_Political_Outsiders_Revisited_The_Case_of_Marco_Enriquez-Ominami_in_Chile_2009",
-  "academia": "https://www.academia.edu/97940306",
-  "pdf": null,
-  "slug": "2013-latin-american-political-outsiders-revisited-case-marco",
-  "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png"
- },
- {
-  "type": "article",
-  "title": "Explicando la desproporcionalidad en América Latina: magnitud de distrito, malapportionment y fragmentación partidaria",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "journal": "Revista Española de Ciencia Política",
-  "volume": null,
-  "issue": "23",
-  "pages": "81-110",
-  "year": 2010,
-  "doi": null,
-  "url": "https://recyt.fecyt.es/index.php/recp/article/view/37499",
-  "publisher": "Asociación Española de Ciencia Política y de la Administración (AECPA)",
-  "issn": "1575-6548 (print); 2173-9870 (online)",
-  "language": "es",
-  "abstract": "Este trabajo explora las causas de la desproporcionalidad —la diferencia entre el porcentaje de escaños y el porcentaje de votos obtenidos por un partido— en 18 países de América Latina, evaluando el efecto de cuatro variables explicativas. La primera parte presenta el diseño de la investigación, los enfoques teóricos que fundamentan los estudios sobre sistemas electorales y una revisión de literatura donde se conceptualiza tanto la desproporcionalidad como las variables independientes. La segunda parte entrega un análisis sobre los sistemas electorales y el comportamiento de las variables en cuestión en Latinoamérica. La tercera parte contiene el análisis inferencial que mide el impacto de las variables independientes sobre la desproporcionalidad. Postulamos que existe una relación directa entre la magnitud de distrito y la desproporcionalidad. Adicionalmente, el \"rango de exclusión\" —es decir, la cantidad de electores que potencialmente pueden quedar sin representación debido a la magnitud de distrito y a la fórmula de conversión de votos en escaños— también incrementa la desproporcionalidad. Los sistemas electorales proporcionales producen menos distorsión entre porcentaje de votos y escaños respecto a los mayoritarios o mixtos. Una baja fragmentación en el sistema de partidos —esto es, un número reducido de partidos con presencia en el Parlamento— débilmente contribuye a aumentar la desproporcionalidad. Finalmente, el malapportionment (esto es, la distribución desproporcionada de escaños respecto al número de electores de un distrito) no tiene relación estadísticamente significativa con la desproporcionalidad.",
-  "keywords": [
-   "Latinoamérica",
-   "desproporcionalidad",
-   "rango de exclusión",
-   "sistema electoral",
-   "sistema de partidos",
-   "malapportionment"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/332233707_Explicando_la_Desproporcionalidad_en_America_Latina_Magnitud_de_Distrito_Malapportionment_y_Fragmentacion_Partidaria",
-  "academia": "https://www.academia.edu/97940303",
-  "pdf": "https://recyt.fecyt.es/index.php/recp/article/view/37499/21016",
-  "slug": "2010-explicando-desproporcionalidad-america-latina-magnitud-distrito-malapportionment",
-  "cover_url": "https://recyt.fecyt.es/public/journals/283/cover_issue_4938_es_ES.jpg"
- },
- {
-  "type": "article",
-  "title": "Democracia comunal en Chile, 1992-2008",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "journal": "Política y Gobierno",
-  "volume": "17",
-  "issue": "2",
-  "pages": "243-278",
-  "year": 2010,
-  "doi": null,
-  "url": "https://www.scielo.org.mx/scielo.php?pid=S1665-20372010000200002&script=sci_abstract",
-  "publisher": "Centro de Investigación y Docencia Económicas (CIDE)",
-  "issn": "1665-2037",
-  "language": "es",
-  "abstract": "Desde que se realizaron por primera vez en el periodo posdictadura en 1992, las elecciones municipales se han convertido en un componente esencial de la democracia chilena. Al repasar la evolución de la institucionalidad que rige las elecciones municipales, este trabajo muestra la manera en que las iniciativas de descentralización han avanzado a la par con la consolidación democrática, y cómo el balance del poder en los gobiernos municipales refleja el mismo sesgo hacia un presidencialismo fuerte como en el ámbito nacional. A partir de esto, evaluamos si la descentralización en Chile ha ayudado a redefinir y rearticular las prácticas políticas y el sistema de partidos o si ha reproducido y consolidado lo ya existente. Evaluamos tres hipótesis. Primero, si el comportamiento de los electores en las contiendas municipales se asemeja al de las elecciones parlamentarias. Segundo, si los resultados de las elecciones municipales son independientes de los procesos políticos nacionales. Tercero, si la longevidad promedio de las carreras de alcaldes es inferior a la longevidad promedio de las carreras de diputados, y si los alcaldes tienen tasas de reelección inferiores a las de los diputados. Concluimos sugiriendo que la evolución institucional de la democracia local ha tendido a reproducir las prácticas y características del sistema político nacional más que a crear oportunidades y espacios para redefinir el balance del poder entre el Ejecutivo y el Legislativo, o facilitar la aparición de nuevas prácticas y comportamientos en las carreras políticas de los representantes democráticamente electos.",
-  "keywords": [
-   "elecciones municipales",
-   "democracia",
-   "descentralización",
-   "Chile"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/254915524_Democracia_Comunal_En_Chile_1992-2008",
-  "academia": "https://www.academia.edu/71533785",
-  "pdf": "http://www.politicaygobierno.cide.edu/index.php/pyg/article/download/175/92/0",
-  "slug": "2010-democracia-comunal-chile-1992-2008",
-  "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=13432"
- },
- {
-  "type": "chapter",
-  "title": "Between Gattopardismo and Ideational Change: The Mainstream Chilean Right's Winding Road to Moderation",
-  "authors": [
-   "Stéphanie Alenda",
-   "Miguel Ángel López",
-   "Kenneth Bunker",
-   "Nicolás Miranda"
-  ],
-  "book_title": "The Recasting of the Latin American Right: Polarization and Conservative Reactions",
-  "editors": [
-   "André Borges",
-   "Ryan Lloyd",
-   "Gabriel Vommaro"
-  ],
-  "pages": "176-196",
-  "year": 2024,
-  "doi": "10.1017/9781009427432.011",
-  "url": "https://www.cambridge.org/core/books/abs/recasting-of-the-latin-american-right/between-gattopardismo-and-ideational-change/61263485874F97B5CFD26D771A485E96",
-  "publisher": "Cambridge University Press",
-  "isbn": "9781009427449 (hardback); 9781009427432 (online)",
-  "language": "en",
-  "abstract": "This chapter explains how the Chilean right has been reconfigured due to the multidimensional crisis that has shaken Chile since the end of 2019. The authors analyze how tensions regarding competition and identity have affected relevant actors and structured their perceptions, calculations, and behaviors. They examine the ideational changes and continuities of the Chilean right's road to moderation. They argue that the joint processes of liberalization and democratization gave rise to a gattopardista strategy of \"changing so that things may remain the same.\" This was characterized by the programmatic moderation of coalition candidates until the 2017 campaign, with traditional right-wing parties moving to the center to the extent that they did not threaten the pillars of the neoliberal model. However, when centrist and left-wing parties aimed to significantly reform the institutional core, the traditional right did react, and moved further to the right on the ideological continuum.",
-  "keywords": [
-   "Chile",
-   "Kast",
-   "Piñera",
-   "social unrest",
-   "constitutional convention",
-   "right-wing",
-   "social movements",
-   "moderation",
-   "gattopardismo",
-   "Republican"
-  ],
-  "researchgate": "https://www.researchgate.net/publication/386278139_Between_Gattopardismo_and_Ideational_Change_The_Mainstream_Chilean_Right's_Winding_Road_to_Moderation",
-  "academia": null,
-  "pdf": null,
-  "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
-  "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85",
-  "pdf_file": "Alenda et al. (2024) - Between Gattopardismo and Ideational Change.pdf",
-  "pdf_page": 6,
-  "pdf_crop": [
-   0.03,
-   0.04,
-   0.63,
-   0.86
-  ],
-  "buy": [
-   [
-    "Buy from Cambridge",
-    "https://www.cambridge.org/core/books/recasting-of-the-latin-american-right/CCC0E4A9488EA887093CD7DAA4A9A3C9"
-   ],
-   [
-    "Buy on Amazon",
-    "https://www.amazon.com/dp/100942744X"
-   ]
-  ]
- },
- {
-  "type": "chapter",
-  "title": "Representación y dinámicas partidarias: la interacción entre sistemas electorales, clivajes sociales e ideas políticas en Chile",
-  "authors": [
-   "Kenneth Bunker",
-   "John Polga-Hecimovich"
-  ],
-  "book_title": "Crisis de la representatividad de la democracia liberal: presente y futuro",
-  "editors": [
-   "Jaime Fernando Abedrapo Rojas"
-  ],
-  "pages": null,
-  "year": 2025,
-  "doi": null,
-  "url": "https://editorial.tirant.com/cl/libro/crisis-de-la-representavidad-de-la-democracia-liberal-presente-y-futuro-jaime-fernando-abedrapo-rojas-9791370210229",
-  "publisher": "Tirant lo Blanch",
-  "isbn": "979-13-7021-022-9",
-  "language": "es",
-  "abstract": null,
-  "keywords": [],
-  "researchgate": "https://www.researchgate.net/publication/395349737",
-  "academia": "https://www.academia.edu/143875116",
-  "pdf": null,
-  "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
-  "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg",
-  "pdf_file": "Bunker & Polga-Hecimovich (2025) - Representación y dinámicas partidarias.pdf",
-  "pdf_page": 14,
-  "buy": [
-   [
-    "Buy from Tirant lo Blanch",
-    "https://editorial.tirant.com/cl/libro/crisis-de-la-representavidad-de-la-democracia-liberal-presente-y-futuro-jaime-fernando-abedrapo-rojas-9791370210229"
-   ]
-  ]
- },
- {
-  "title": "Reelección y carreras legislativas en la Cámara de Diputados, 1990-2014",
-  "authors": [
-   "Sergio Acevedo",
-   "Kenneth Bunker"
-  ],
-  "book_title": "El tsunami electoral de 2013 en Chile",
-  "editors": [
-   "Mauricio Morales",
-   "Patricio Navia",
-   "Carolina Garrido"
-  ],
-  "year": 2017,
-  "pages": "271-290",
-  "publisher": "Ediciones Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2017-reeleccion-carreras-legislativas-camara-diputados-1990-2014",
-  "cover_url": "https://rileditores.com/wp-content/uploads/2020/03/9789560104069.jpg",
-  "researchgate": "https://www.researchgate.net/publication/415203255"
- },
- {
-  "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "book_title": "Democracia municipal en Chile, 1992-2012",
-  "editors": [
-   "Mauricio Morales",
-   "Patricio Navia"
-  ],
-  "year": 2012,
-  "pages": "39-48",
-  "publisher": "Ediciones Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
-  "pdf_file": null,
-  "buy": [
-   [
-    "Buy from Ediciones UDP",
-    "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
-   ]
-  ],
-  "researchgate": "https://www.researchgate.net/publication/415203330"
- },
- {
-  "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "book_title": "Democracia municipal en Chile, 1992-2012",
-  "editors": [
-   "Mauricio Morales",
-   "Patricio Navia"
-  ],
-  "year": 2012,
-  "pages": "49-64",
-  "publisher": "Ediciones Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2012-incumbencia-reeleccion-alcaldes-chile-1992-2004",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
-  "buy": [
-   [
-    "Buy from Ediciones UDP",
-    "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
-   ]
-  ],
-  "researchgate": "https://www.researchgate.net/publication/415203520"
- },
- {
-  "title": "Cambio y continuidad en la Cámara de Diputados",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "book_title": "El sismo electoral de 2009",
-  "editors": [
-   "Mauricio Morales",
-   "Patricio Navia"
-  ],
-  "year": 2010,
-  "pages": "185-201",
-  "publisher": "Ediciones Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2010-cambio-continuidad-camara-diputados-1989-2014",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg",
-  "pdf_file": "Bunker (2010) - Cambio y continuidad en la Cámara de Diputados.pdf",
-  "pdf_page": 92,
-  "buy": [
-   [
-    "Buy from Ediciones UDP",
-    "https://ediciones.udp.cl/libro/el-sismo-electoral-de-2009/"
-   ]
-  ],
-  "researchgate": "https://www.researchgate.net/publication/415199308"
- },
- {
-  "title": "El votante díscolo",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "book_title": "Chile 2009: percepciones y actitudes sociales. 5to Informe de Encuesta Nacional ICSO-UDP",
-  "editors": [],
-  "year": 2010,
-  "pages": "121-132",
-  "publisher": "ICSO, Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2010-votante-discolo",
-  "pdf_file": "Bunker & Navia (2010) - El votante díscolo.pdf",
-  "researchgate": "https://www.researchgate.net/publication/332233706"
- },
- {
-  "title": "Duración de las carreras de alcaldes, 1992-2008",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "book_title": "Genoma electoral chileno",
-  "editors": [
-   "Patricio Navia",
-   "Mauricio Morales",
-   "Renato Briceño"
-  ],
-  "year": 2009,
-  "pages": "261-274",
-  "publisher": "Ediciones Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2009-duracion-carreras-alcaldes-1992-2008",
-  "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg",
-  "pdf_file": "Bunker & Navia (2009) - Duración de las carreras de alcaldes, 1992-2008.pdf",
-  "buy": [
-   [
-    "Buy from Ediciones UDP",
-    "https://ediciones.udp.cl/libro/el-genoma-electoral-chileno/"
-   ]
-  ],
-  "researchgate": "https://www.researchgate.net/publication/332233747"
- },
- {
-  "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "book_title": "La reforma municipal en la mira: identificando los municipios prioritarios en la Región Metropolitana. Complejidad comunal v/s condiciones para la calidad de la gestión municipal",
-  "editors": [],
-  "year": 2007,
-  "pages": "31-41",
-  "publisher": "Expansiva",
-  "place": "Santiago",
-  "language": "es",
-  "type": "chapter",
-  "slug": "2007-indice-complejidad-52-comunas-region-metropolitana",
-  "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg",
-  "pdf_file": "Bunker & Navia (2007) - Índice de complejidad en las 52 comunas de la Región Metropolitana.pdf",
-  "researchgate": "https://www.researchgate.net/publication/332233708"
- },
- {
-  "type": "review",
-  "title": "Book review: Coalitional Presidentialism in Comparative Perspective. Minority Presidents in Multiparty Systems",
-  "reviewed_title": "Coalitional Presidentialism in Comparative Perspective: Minority Presidents in Multiparty Systems",
-  "reviewed_authors": "Paul Chaisty, Nic Cheeseman and Timothy J. Power",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Party Politics",
-  "volume": "27",
-  "issue": "2",
-  "pages": "385-386",
-  "year": 2021,
-  "doi": "10.1177/1354068820984270",
-  "publisher": "SAGE Publications",
-  "issn": "1354-0688 (print); 1460-3683 (online)",
-  "language": "en",
-  "abstract": null,
-  "researchgate": "https://www.researchgate.net/publication/347695256",
-  "academia": "https://www.academia.edu/111323653",
-  "pdf": null,
-  "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority",
-  "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
- },
- {
-  "type": "review",
-  "title": "Cultural backlash: Trump, Brexit, and authoritarian populism",
-  "reviewed_title": "Cultural Backlash: Trump, Brexit, and Authoritarian Populism",
-  "reviewed_authors": "Pippa Norris and Ronald Inglehart",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Democratization",
-  "volume": "26",
-  "issue": "7",
-  "pages": "1323-1325",
-  "year": 2019,
-  "doi": "10.1080/13510347.2019.1601705",
-  "publisher": "Taylor & Francis (Informa UK)",
-  "issn": "1351-0347 (print); 1743-890X (online)",
-  "language": "en",
-  "abstract": null,
-  "researchgate": "https://www.researchgate.net/publication/332155436_Cultural_backlash_Trump_Brexit_and_authoritarian_populism_by_Pippa_Norris_and_Ronald_Inglehart",
-  "academia": "https://www.academia.edu/97940307",
-  "pdf": null,
-  "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian",
-  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07"
- },
- {
-  "type": "review",
-  "title": "Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon and François Gélineau, Latin American Elections: Choice and Change",
-  "reviewed_title": "Latin American Elections: Choice and Change",
-  "reviewed_authors": "Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon and François Gélineau",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Journal of Latin American Studies",
-  "volume": "51",
-  "issue": "3",
-  "pages": "721-723",
-  "year": 2019,
-  "doi": "10.1017/S0022216X19000798",
-  "publisher": "Cambridge University Press",
-  "issn": "0022-216X (print); 1469-767X (online)",
-  "language": "en",
-  "abstract": null,
-  "researchgate": "https://www.researchgate.net/publication/336418211",
-  "academia": "https://www.academia.edu/97940309",
-  "pdf": null,
-  "slug": "2019-review-latin-american-elections-choice-change",
-  "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg"
- },
- {
-  "type": "review",
-  "title": "Party systems in Latin America: institutionalization, decay, and collapse, edited by Scott Mainwaring",
-  "reviewed_title": "Party Systems in Latin America: Institutionalization, Decay, and Collapse",
-  "reviewed_authors": "Scott Mainwaring (ed.)",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Democratization",
-  "volume": "26",
-  "issue": "3",
-  "pages": "554-555",
-  "year": 2019,
-  "doi": "10.1080/13510347.2018.1536123",
-  "publisher": "Taylor & Francis (Informa UK)",
-  "issn": "1351-0347 (print); 1743-890X (online)",
-  "language": "en",
-  "abstract": null,
-  "researchgate": "https://www.researchgate.net/publication/328515755",
-  "academia": "https://www.academia.edu/97940305",
-  "pdf": null,
-  "slug": "2019-review-party-systems-latin-america-institutionalization",
-  "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03"
- },
- {
-  "type": "review",
-  "title": "Matthew S. Shugart and Rein Taagepera: Votes from seats: logical models of electoral systems",
-  "reviewed_title": "Votes from Seats: Logical Models of Electoral Systems",
-  "reviewed_authors": "Matthew S. Shugart and Rein Taagepera",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "journal": "Public Choice",
-  "volume": "178",
-  "issue": "1-2",
-  "pages": "311-313",
-  "year": 2019,
-  "doi": "10.1007/s11127-018-0613-6",
-  "publisher": "Springer",
-  "issn": "0048-5829 (print); 1573-7101 (online)",
-  "language": "en",
-  "abstract": null,
-  "researchgate": "https://www.researchgate.net/publication/327796845",
-  "academia": "https://www.academia.edu/97940304/Matthew_S_Shugart_and_Rein_Taagepera_Votes_from_seats_logical_models_of_electoral_systems",
-  "pdf": null,
-  "slug": "2019-review-votes-seats-logical-models-electoral",
-  "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127"
- },
- {
-  "type": "dataset",
-  "title": "Chilean Political Landscape Dataset (CPLD)",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2025,
-  "doi": "10.7910/DVN/NGRY3R",
-  "publisher": "Harvard Dataverse",
-  "url": "https://kennethbunker.github.io/cpld/",
-  "abstract": "The Chilean Political Landscape Dataset (CPLD) compiles district-level indicators of electoral competition, party system structure, and institutional design across multiple decades of Chile's democratic experience.",
-  "keywords": [
-   "Social Sciences",
-   "Chile",
-   "Elections",
-   "Political Parties",
-   "Electoral Systems",
-   "Democracy",
-   "District-Level Data",
-   "Comparative Politics",
-   "Political Institutions"
-  ],
-  "language": "en",
-  "license": "CC BY 4.0",
-  "version": "4.0",
-  "researchgate": "https://www.researchgate.net/publication/415206181_Chilean_Political_Landscape_Dataset_CPLD",
-  "academia": null,
-  "pdf": null,
-  "slug": "2025-chilean-political-landscape-dataset-cpld"
- },
- {
-  "type": "dataset",
-  "title": "Votaciones individuales de la Convención Constitucional de Chile",
-  "authors": [
-   "Kenneth Bunker",
-   "Camila González Piucol",
-   "Sofía Contreras Ubal",
-   "Pablo Toro"
-  ],
-  "year": 2022,
-  "publisher": "Tresquintos",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": null,
-  "slug": "2022-votaciones-individuales-convencion-constitucional-chile",
-  "doi": "10.7910/DVN/JLTSRL",
-  "academia": "https://www.academia.edu/97940314",
-  "researchgate": "https://www.researchgate.net/publication/353903145"
- },
- {
-  "type": "ideas",
-  "number": "28",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Exparlamentarios al gabinete: en qué carteras los nombran, en qué momento y cuánto duran",
-  "authors": [
-   "Kenneth Bunker",
-   "Lukas Neira",
-   "Joselyn Vilches"
-  ],
-  "year": 2026,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.16705.11366",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza en qué carteras y en qué momento del mandato se nombra a exparlamentarios en los gabinetes chilenos, y cuánto duran.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/415155201",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-28-exparlamentarios-gabinete-carteras-nombran-momento-cuanto"
- },
- {
-  "type": "ideas",
-  "number": "27",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Del Congreso al gabinete: experiencia parlamentaria y duración de los ministros en Chile (1990-2026)",
-  "authors": [
-   "Diego Jiménez",
-   "Francisca Mejías",
-   "Kenneth Bunker"
-  ],
-  "year": 2026,
-  "doi": "10.13140/RG.2.2.27715.57129",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio muestra que en Chile solo el 18,6 % de los ministros del periodo 1990-2026 contaba con experiencia parlamentaria previa, y analiza cómo esa experiencia se relaciona con la duración de los ministros en sus cargos.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/413842659",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-27-del-congreso-gabinete-experiencia-parlamentaria-duracion-ministros",
-  "pages": "1-6"
- },
- {
-  "type": "ideas",
-  "number": "26",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Retornos marginales decrecientes en la magnitud de distrito y sus efectos sobre el sistema de partidos",
-  "authors": [
-   "Kenneth Bunker",
-   "Fernanda Arrieta",
-   "Likan Paz",
-   "Martín Herrera"
-  ],
-  "year": 2026,
-  "pages": "1-15",
-  "doi": "10.13140/RG.2.2.31161.94560",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza el efecto de la magnitud de distrito sobre la fragmentación del sistema de partidos bajo la reforma de redistritaje aprobada en 2026.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/410864255",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-26-retornos-marginales-decrecientes-magnitud-distrito-sus"
- },
- {
-  "type": "ideas",
-  "number": "25",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuál es el efecto de la redistribución automática de la magnitud de distrito en el resultado electoral? Una simulación de 2025 con las reglas de 2029",
-  "authors": [
-   "Kenneth Bunker",
-   "Isaí Emanuel Muñoz",
-   "Likan Paz",
-   "Maximiliano Vargas"
-  ],
-  "year": 2026,
-  "pages": "1-9",
-  "doi": "10.13140/RG.2.2.28098.34246",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio simula los resultados de la elección parlamentaria de 2025 aplicando las nuevas magnitudes de distrito que regirán entre 2029 y 2033.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/405739695",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-25-cual-es-efecto-redistribucion-automatica-magnitud"
- },
- {
-  "type": "ideas",
-  "number": "24",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Debut y despedida en el Congreso de Chile: trayectorias políticas 1989-2025",
-  "authors": [
-   "Fernanda Arrieta",
-   "Kenneth Bunker",
-   "Maximiliano Vargas"
-  ],
-  "year": 2025,
-  "pages": "1-7",
-  "doi": "10.13140/RG.2.2.12649.56166",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio explora cómo han cambiado las trayectorias de vida política de los congresistas desde el retorno a la democracia.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398150067",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-24-debut-despedida-congreso-chile-trayectorias-politicas"
- },
- {
-  "type": "ideas",
-  "number": "23",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Experiencia legislativa en el Congreso de Chile: antigüedad por cohorte 1990-2030",
-  "authors": [
-   "Kenneth Bunker",
-   "Camila Daza",
-   "Maximiliano Vargas"
-  ],
-  "year": 2025,
-  "pages": "1-10",
-  "doi": "10.13140/RG.2.2.14327.28324",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la evolución de la experiencia legislativa en el Congreso chileno entre 1990 y 2030.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398146673",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-23-experiencia-legislativa-congreso-chile-antiguedad-cohorte"
- },
- {
-  "type": "ideas",
-  "number": "22",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Renovación y reemplazo en el Congreso de Chile: patrones de reelección 1989-2025",
-  "authors": [
-   "Kenneth Bunker",
-   "Lorena Galdames",
-   "Maximiliano Vargas"
-  ],
-  "year": 2025,
-  "pages": "1-6",
-  "doi": "10.13140/RG.2.2.10971.84006",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "El documento analiza la evolución de la permanencia en el Congreso chileno entre 1989 y 2025 y detecta un quiebre estructural.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398143607",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-22-renovacion-reemplazo-congreso-chile-patrones-reeleccion"
- },
- {
-  "type": "ideas",
-  "number": "21",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Sesgo ideológico de votantes chilenos en el exterior: la burbuja europea y el equilibrio americano",
-  "authors": [
-   "Kenneth Bunker",
-   "Francisca Mejías",
-   "Maximiliano Vargas"
-  ],
-  "year": 2025,
-  "pages": "1-12",
-  "doi": "10.13140/RG.2.2.33621.08166",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Esta investigación analiza el comportamiento electoral de los chilenos en el extranjero durante 2017 y 2021, revelando una marcada polarización geográfica.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398143412",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-21-sesgo-ideologico-votantes-chilenos-exterior-burbuja"
- },
- {
-  "type": "ideas",
-  "number": "20",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Simulación legislativa 2025: posibles resultados y limitaciones",
-  "authors": [
-   "Kenneth Bunker",
-   "Maximiliano Vargas",
-   "Joselyn Vilches"
-  ],
-  "year": 2025,
-  "pages": "1-9",
-  "doi": "10.13140/RG.2.2.29777.39525",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio aborda la complejidad de realizar simulaciones para las elecciones legislativas de 2025, cuestionando la eficacia de trasladar linealmente los resultados.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398571988",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-20-simulacion-legislativa-2025-posibles-resultados-limitaciones"
- },
- {
-  "type": "ideas",
-  "number": "19",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Evolución asimétrica del sistema de partidos de Chile: una examinación temporal a nivel de distrito",
-  "authors": [
-   "Kenneth Bunker",
-   "Benjamín Valdés",
-   "Maximiliano Vargas"
-  ],
-  "year": 2025,
-  "pages": "1-6",
-  "doi": "10.13140/RG.2.2.10132.97922",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la evolución del sistema de partidos en Chile entre 1989 y 2023, utilizando datos desagregados a nivel distrital.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/398143387",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-19-evolucion-asimetrica-sistema-partidos-chile-examinacion"
- },
- {
-  "type": "ideas",
-  "number": "18",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "El aumento de los «party switchers» en el Congreso Nacional de Chile, 1990-2024",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2024,
-  "pages": "1-6",
-  "doi": "10.13140/RG.2.2.12303.70569",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza el fenómeno del «party switching» en el Congreso de Chile entre 1990 y 2024.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/387151955",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-18-aumento-party-switchers-congreso-nacional-chile"
- },
- {
-  "type": "ideas",
-  "number": "17",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Inestabilidad gubernamental: rotación ministerial, duración de gabinetes y equilibrio partidario",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.35819.35363",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio examina la estabilidad de los gabinetes presidenciales en Chile, analizando la rotación ministerial, la duración de los gabinetes y el equilibrio partidario.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/385810464_Inestabilidad_gubernamental_rotacion_ministerial_duracion_de_gabinetes_y_equilibrio_partidario",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-17-inestabilidad-gubernamental-rotacion-ministerial-duracion-gabinetes"
- },
- {
-  "type": "ideas",
-  "number": "16",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Patrones de reelección en las elecciones de alcalde de 2024",
-  "authors": [
-   "Kenneth Bunker",
-   "Lorena Galdames",
-   "Fernanda Arrieta"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.29108.46727",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza las tendencias de reelección en las elecciones municipales de Chile en 2024.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/385810267",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-16-patrones-reeleccion-elecciones-alcalde-2024"
- },
- {
-  "type": "ideas",
-  "number": "15",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Coordinación de coaliciones y partidos en las elecciones regionales y locales de 2024",
-  "authors": [
-   "Kenneth Bunker",
-   "Fernanda Arrieta"
-  ],
-  "year": 2024,
-  "pages": "1-4",
-  "doi": "10.13140/RG.2.2.32995.98083",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio examina la dinámica de coordinación entre coaliciones y partidos políticos en las elecciones de 2024.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/384285236",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-15-coordinacion-coaliciones-partidos-elecciones-regionales-locales"
- },
- {
-  "type": "ideas",
-  "number": "14",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "El avance de los candidatos independientes en las elecciones locales de 2024",
-  "authors": [
-   "Kenneth Bunker",
-   "Fernanda Arrieta"
-  ],
-  "year": 2024,
-  "pages": "1-4",
-  "doi": "10.13140/RG.2.2.25734.59209",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la participación de candidatos independientes en las elecciones municipales de Chile en 2024.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/384251543",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-14-avance-candidatos-independientes-elecciones-locales-2024"
- },
- {
-  "type": "ideas",
-  "number": "13",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "Una propuesta de reforma política simple que le puede dar gobernabilidad a Chile",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.36783.34723",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio examina la creciente fragmentación del sistema de partidos en Chile y propone reformas políticas para mejorar la gobernabilidad.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/381479502",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-13-propuesta-reforma-politica-simple-le-puede"
- },
- {
-  "type": "ideas",
-  "number": "12",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cómo se compara el «primer tiempo» de Gabriel Boric con presidentes anteriores?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.26726.43844",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la aprobación presidencial de Gabriel Boric durante sus dos primeros años de mandato, comparándola con sus predecesores.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/379312125",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-12-como-compara-primer-tiempo-gabriel-boric"
- },
- {
-  "type": "ideas",
-  "number": "10",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿A qué hora y con qué precisión se conocen los resultados electorales en Chile?",
-  "authors": [
-   "Kenneth Bunker",
-   "Hugo Jofré"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.29193.01128",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la eficiencia y precisión del proceso de escrutinio electoral en Chile.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/377121696",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-10-hora-precision-conocen-resultados-electorales-chile"
- },
- {
-  "type": "ideas",
-  "number": "9",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿A qué velocidad se escrutan los votos en Chile?",
-  "authors": [
-   "Kenneth Bunker",
-   "Tito Olavarría"
-  ],
-  "year": 2024,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.15771.23848",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la rapidez del proceso de escrutinio electoral en Chile, evaluando distintos tipos de elecciones.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/377119931",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-09-velocidad-escrutan-votos-chile"
- },
- {
-  "type": "ideas",
-  "number": "8",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuál fue el nivel de acuerdo en el pleno del Consejo Constitucional de 2023?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.27627.11046",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza el grado de consenso alcanzado en el pleno del Consejo Constitucional chileno durante 2023.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/376190302",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-08-cual-fue-nivel-acuerdo-pleno-consejo"
- },
- {
-  "type": "ideas",
-  "number": "7",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuál fue el nivel de acuerdo en las comisiones del Consejo Constitucional de 2023?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.30982.55365",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza el grado de consenso alcanzado en las comisiones del Consejo Constitucional chileno durante 2023.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/376190026",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-07-cual-fue-nivel-acuerdo-comisiones-consejo"
- },
- {
-  "type": "ideas",
-  "number": "6",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuál fue el nivel de acuerdo en el pleno de la Convención Constitucional de 2021-2022?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.26767.76960",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio examina el grado de consenso alcanzado en el pleno de la Convención Constitucional chilena durante 2021-2022.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/375089646",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-06-cual-fue-nivel-acuerdo-pleno-convencion"
- },
- {
-  "type": "ideas",
-  "number": "5",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuál fue el nivel de acuerdo en las comisiones de la Convención Constitucional de 2021-2022?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.13345.99688",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza el grado de consenso alcanzado en las comisiones de la Convención Constitucional chilena durante 2021-2022.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/375089583",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-05-cual-fue-nivel-acuerdo-comisiones-convencion"
- },
- {
-  "type": "ideas",
-  "number": "4",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuáles son los efectos del sistema electoral propuesto por el Consejo Constitucional de 2023?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.36681.11361",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la reforma electoral propuesta por el Consejo Constitucional en 2023, enfocándose en la reducción del número de escaños.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/374082046",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-04-cuales-son-efectos-sistema-electoral-propuesto"
- },
- {
-  "type": "ideas",
-  "number": "3",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Cuáles son los determinantes de la fragmentación partidaria?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-5",
-  "doi": "10.13140/RG.2.2.30461.74722",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza los factores que influyen en la fragmentación de los sistemas de partidos, enfocándose en las reglas electorales y fenómenos sociales.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/373976569",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-03-cuales-son-determinantes-fragmentacion-partidaria"
- },
- {
-  "type": "ideas",
-  "number": "2",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Chile tiene demasiados o muy pocos legisladores?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-4",
-  "doi": "10.13140/RG.2.2.23750.86087",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la adecuación del número de legisladores en Chile, considerando su evolución histórica y comparaciones internacionales.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/373976451",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-02-chile-tiene-demasiados-o-muy-pocos"
- },
- {
-  "type": "ideas",
-  "number": "1",
-  "series": "Ideas: Laboratorio Democracia y Gobierno",
-  "title": "¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2023,
-  "pages": "1-4",
-  "doi": "10.13140/RG.2.2.37376.65337",
-  "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
-  "place": "Santiago",
-  "language": "es",
-  "abstract": "Este estudio analiza la evolución de la fragmentación en el sistema de partidos de Chile. Los hallazgos indican que la fragmentación ha aumentado con el tiempo, influenciada por reglas electorales y la magnitud de los distritos.",
-  "abstract_label": "Resumen",
-  "researchgate": "https://www.researchgate.net/publication/373976533",
-  "academia": null,
-  "pdf_rg": true,
-  "slug": "ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves"
- },
- {
-  "type": "report",
-  "title": "Resumen y análisis de las elecciones presidenciales y legislativas de Chile 2021",
-  "authors": [
-   "Kenneth Bunker",
-   "Camila González Piucol",
-   "Sofía Contreras Ubal",
-   "Emilio Espinosa"
-  ],
-  "year": 2022,
-  "pages_total": "157",
-  "publisher": "Tresquintos",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2022-resumen-analisis-elecciones-presidenciales-legislativas-chile-2021",
-  "researchgate": "https://www.researchgate.net/publication/359063509",
-  "academia": "https://www.academia.edu/76402908"
- },
- {
-  "type": "report",
-  "title": "Breve historia de la elección presidencial y legislativa de Chile 2021",
-  "authors": [
-   "Kenneth Bunker",
-   "Sofía Contreras Ubal",
-   "Camila González Piucol",
-   "Mario Orellana"
-  ],
-  "year": 2021,
-  "pages_total": "529",
-  "publisher": "Tresquintos",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2022-breve-historia-eleccion-presidencial-legislativa-chile-2021",
-  "researchgate": "https://www.researchgate.net/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021",
-  "abstract": "Usted tiene en sus manos una breve historia de las elecciones presidenciales y legislativas de Chile de 2021. Es fruto de un detallado y minucioso trabajo del equipo de Tresquintos. El objetivo del manual es servir de una guía general sobre lo que está en juego el día 21 noviembre de 2021. Contiene resúmenes de regulaciones y resultados. La fuente de la gran mayoría de los datos es el Servicio Electoral de Chile. En caso contrario, está indicado oportunamente. Casi todos los datos están disponibles para descarga en el sitio web tresquintos.cl. El documento está dividido en cuatro partes. La primera sección contiene el marco general de las elecciones. Entre otras cosas, el cronograma general, el cronograma particular y las reglas que enmarcan todas las elecciones. La segunda sección introduce la elección presidencial y a sus candidatos. La tercera sección pasa a la elección de senadores y la descripción de lo que está en juego en cada una de las 9 regiones que eligen candidatos. La sección final describe la elección de diputados y detalla los elementos más importantes de cada uno de los 28 distritos.",
-  "abstract_label": "Resumen"
- },
- {
-  "type": "workingpaper",
-  "title": "Mujeres en el poder legislativo de Chile, 1990-2018",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2018,
-  "series": "Documentos de Trabajo Programa Electoral UCEN",
-  "number": "3",
-  "publisher": "Programa Electoral, Universidad Central",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2018-mujeres-poder-legislativo-chile-1990-2018-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100458_Mujeres_Candidatas_en_Chile_1990-2022",
-  "doi": "10.13140/RG.2.2.33728.08960",
-  "pdf_file": "Bunker (2018) - Mujeres en el poder legislativo de Chile, 1990-2018.pdf",
-  "academia": "https://www.academia.edu/37150495"
- },
- {
-  "type": "workingpaper",
-  "title": "Reelección en el poder legislativo de Chile, 1993-2017",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2018,
-  "series": "Documentos de Trabajo Programa Electoral UCEN",
-  "number": "2",
-  "publisher": "Programa Electoral, Universidad Central",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2018-reeleccion-poder-legislativo-chile-1993-2017-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100457_Cuorums_Legislativos_en_Chile_1990-2022",
-  "doi": "10.13140/RG.2.2.20306.31687",
-  "pdf_file": "Bunker (2018) - Reelección en el poder legislativo de Chile, 1993-2017.pdf",
-  "academia": "https://www.academia.edu/37150489"
- },
- {
-  "type": "workingpaper",
-  "title": "Retiros, remociones y renuncias en el poder legislativo de Chile, 1990-2018",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2018,
-  "series": "Documentos de Trabajo Programa Electoral UCEN",
-  "number": "1",
-  "publisher": "Programa Electoral, Universidad Central",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2018-retiros-remociones-renuncias-poder-legislativo-chile-1990-wp",
-  "researchgate": "https://www.researchgate.net/publication/322100451_Abandono_de_Legisladores_en_Chile_1990-2022",
-  "doi": "10.13140/RG.2.2.13595.43042",
-  "pdf_file": "Bunker (2018) - Retiros, remociones y renuncias en el poder legislativo de Chile, 1990-2018.pdf",
-  "academia": "https://www.academia.edu/37150486"
- },
- {
-  "type": "workingpaper",
-  "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2008,
-  "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
-  "number": "3",
-  "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp",
-  "pdf_file": "Bunker (2008) - Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008.pdf",
-  "doi": "10.13140/RG.2.2.29533.78568",
-  "researchgate": "https://www.researchgate.net/publication/332233764"
- },
- {
-  "type": "workingpaper",
-  "title": "El desempeño electoral de las mujeres en las elecciones municipales",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2008,
-  "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
-  "number": "2",
-  "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2008-desempeno-electoral-mujeres-elecciones-municipales-wp",
-  "doi": "10.13140/RG.2.2.29932.21125",
-  "researchgate": "https://www.researchgate.net/publication/332233924"
- },
- {
-  "type": "workingpaper",
-  "title": "La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2008,
-  "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
-  "number": "1",
-  "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp",
-  "pdf_file": "Bunker (2008) - La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008.pdf",
-  "doi": "10.13140/RG.2.2.14014.86084",
-  "researchgate": "https://www.researchgate.net/publication/415203418",
-  "academia": "https://www.academia.edu/97940312"
- },
- {
-  "type": "workingpaper",
-  "title": "Elecciones municipales y reelección de alcaldes en Chile, 1992-2004",
-  "authors": [
-   "Kenneth Bunker",
-   "Patricio Navia"
-  ],
-  "year": 2007,
-  "series": "En Foco",
-  "number": "125",
-  "publisher": "Expansiva",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2007-elecciones-municipales-reeleccion-alcaldes-chile-1992-2004-wp",
-  "researchgate": "https://www.researchgate.net/publication/242587389",
-  "academia": "https://www.academia.edu/3127246"
- },
- {
-  "type": "workingpaper",
-  "title": "Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales",
-  "authors": [
-   "Kenneth Bunker"
-  ],
-  "year": 2006,
-  "series": "En Foco",
-  "number": "87",
-  "publisher": "Expansiva",
-  "place": "Santiago",
-  "language": "es",
-  "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp",
-  "pdf_file": "Bunker (2006) - Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales.pdf",
-  "doi": "10.13140/RG.2.2.36244.67202",
-  "researchgate": "https://www.researchgate.net/publication/332233927"
- }
+  {
+    "type": "book",
+    "title": "Chile's Transformation Amidst Crisis: The Theseus Paradox",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2025,
+    "publisher": "Palgrave Macmillan",
+    "place": "Cham",
+    "doi": "10.1007/978-3-031-96463-3",
+    "url": "https://kennethbunker.github.io/theseus/",
+    "isbn": "978-3-031-96462-6 (hardcover); 978-3-031-96463-3 (eBook); 978-3-031-96465-7 (softcover, due 2026-11-24)",
+    "pages_total": "XXIX + 341",
+    "language": "en",
+    "abstract": "This book is a comprehensive analysis of Chile's political and economic evolution, particularly focusing on the challenges of constitutional reform and systemic overhaul in emerging democracies. It explores themes of neoliberalism, governance, and reform under instability, using Chile as a case study to illuminate the broader implications for countries in the Global South. Drawing on institutional theory, political economy, original data, and comparative analysis, it unpacks the roots of Chile's crisis: party system fragmentation, voter–party erosion, rupturist rhetoric, and elite misdiagnoses. It is relevant to scholars, policymakers, and risk analysts seeking to understand the complexities of democratic transitions, offering lessons on balancing the rewards of change with the risks of instability. At its core, the book sets out to solve the problem of how to effectively implement constitutional and systemic reforms in a way that promotes stability, equity, and long-term success.",
+    "keywords": [
+      "Constitutional Reform",
+      "Emerging Economies",
+      "Institutional Reform",
+      "Chile",
+      "New Democracies",
+      "Constitutional Conventions"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/397420473_Chile's_Transformation_Amidst_Crisis_The_Theseus_Paradox",
+    "academia": "https://www.academia.edu/145119129",
+    "pdf": null,
+    "online_date": "2025-11-08",
+    "slug": "2025-chiles-transformation-amidst-crisis-theseus-paradox",
+    "image": "publications/img/p1/2025-chiles-transformation-amidst-crisis-theseus-paradox.jpg",
+    "pdf_crop": [
+      0.555,
+      0,
+      1,
+      1
+    ],
+    "buy": [
+      [
+        "Buy from Palgrave",
+        "https://link.springer.com/book/10.1007/978-3-031-96463-3"
+      ],
+      [
+        "Buy on Amazon",
+        "https://www.amazon.com/dp/3031964624"
+      ]
+    ]
+  },
+  {
+    "type": "article",
+    "title": "Electoral reform and party-system fragmentation: diminishing marginal effects and vote–seat conversion limits in Chile’s concurrent local elections",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Local Government Studies",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "year": 2026,
+    "online_date": "2026-07-19",
+    "doi": "10.1080/03003930.2026.2704044",
+    "publisher": "Taylor & Francis (Routledge)",
+    "issn": "0300-3930 (print); 1743-9388 (online)",
+    "language": "en",
+    "abstract": "Evidence on the impact of electoral reform on party systems in new democracies is limited. This study analyses 1,725 Chilean municipal contests (2004-2021), leveraging automatic, population-triggered increases in council district magnitude and the concurrent timing of first-past-the-post mayoral and proportional representation council elections. Using a difference-in-differences design and mixed-effects models, larger district magnitudes are found to increase the effective number of vote-winning parties, though the marginal effect diminishes at higher magnitudes. Concurrent FPTP elections heighten vote-level fragmentation but not seat-level fragmentation, reflecting conversion limits under proportional representation. Institutional effects materialise gradually over several electoral cycles. The findings show that institutional design exerts an independent effect on party-system fragmentation beyond social structures, extending the institutions-first logic to a subnational PR setting in a new democracy and showing how automatic seat adjustments provide causal leverage for identifying institutional effects.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/410586685",
+    "academia": "https://www.academia.edu/170679745",
+    "pdf": null,
+    "status": "Online first",
+    "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal",
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/flgs20.v052.i04",
+    "pdf_page": 2,
+    "pdf_file": "Bunker (2026) - Electoral reform and party-system fragmentation.pdf"
+  },
+  {
+    "type": "article",
+    "title": "Challenging Conventional Wisdom in New Democracies: Social Diversity, Electoral Rules, and Party System Fragmentation in Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Election Law Journal: Rules, Politics, and Policy",
+    "volume": "25",
+    "issue": "1",
+    "pages": "56-79",
+    "year": 2026,
+    "online_date": "2025-05-23",
+    "doi": "10.1089/elj.2024.0064",
+    "publisher": "SAGE Publications (formerly Mary Ann Liebert)",
+    "issn": "1533-1296 (print); 1557-8062 (online)",
+    "language": "en",
+    "abstract": "This study investigates the determinants of party system fragmentation in new democracies by analyzing the interaction between social diversity and electoral rules in Chile. Drawing on a comprehensive dataset of 5,301 district-level elections conducted between 1989 and 2023, the research finds that ethnic fractionalization shapes the effective number of vote-winning parties, but its impact is strongly mediated by district magnitude and other institutional mechanisms. While ethnic diversity amplifies fragmentation in permissive systems, significant variation is observed across electoral regimes due to contextual factors such as apparentment coalitions and concurrent elections. These findings challenge the universal applicability of existing theories, which often rely on data from consolidated democracies, by highlighting the importance of local and institutional dynamics. The study advances a more nuanced understanding of party system fragmentation in new democracies and identifies promising directions for future research, including exploring the scaling of local cleavages into national divisions, the strategic overlaps in parallel electoral systems, and the temporal dynamics of institutional adaptation.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/392021805_Challenging_Conventional_Wisdom_in_New_Democracies_Social_Diversity_Electoral_Rules_and_Party_System_Fragmentation_in_Chile",
+    "academia": "https://www.academia.edu/129505428",
+    "pdf": null,
+    "slug": "2026-challenging-conventional-wisdom-new-democracies-social-diversity",
+    "cover_url": "https://journals.sagepub.com/cms/asset/1e4feef3-c373-4693-bbaa-ede9d1d27a82/elja_28_3.largecover.png"
+  },
+  {
+    "type": "article",
+    "title": "Decades of democracy: insights into the political landscape of Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Humanities and Social Sciences Communications",
+    "volume": "12",
+    "issue": null,
+    "pages": null,
+    "year": 2025,
+    "online_date": "2025-12-11",
+    "doi": "10.1057/s41599-025-06180-1",
+    "publisher": "Springer Nature (Palgrave Macmillan)",
+    "issn": "2662-9992",
+    "language": "en",
+    "abstract": "Chile was long considered a beacon of stability in a turbulent region, until the 2019 social outburst and two failed constitutional processes prompted a reassessment. We argue that the reliance of much of the literature on national aggregates obscured underlying dynamics that could have raised institutional alerts, and perhaps even diverted the course of the crisis. To test this claim, we focus on the Chilean party system as it has been tied to the fateful events and ask whether inferences would have been different had alternative data been considered. In this effort, we introduce the Chilean Political Landscape Dataset (CPLD), a standardized longitudinal dataset of district-level electoral outcomes and indicators from 1989 to 2024 that includes more than 5300 observations across legislative, regional, and municipal contests. The dataset allows us to highlight meaningful gaps between prevailing explanations and observed patterns, showing why district-level evidence is necessary to identify the sequence, scope, and ideological contours of change. We show that more detailed data suggest that fragmentation began well before 2015, that the party system was drifting leftward over time, and that fragmentation occurred asymmetrically, impacting parties on the left more than those on the right. We argue that this had previously gone untested and unfound because of the lack of data and conclude by illustrating its relevance by showing additional applications of the CPLD, including assessments of social structures and institutional design.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/398598527",
+    "academia": "https://www.academia.edu/177017757",
+    "pdf": "https://www.nature.com/articles/s41599-025-06180-1.pdf",
+    "article_number": "1911",
+    "slug": "2025-decades-democracy-insights-into-political-landscape-chile",
+    "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuFRKbcVLOYvM8jnlfuyLMPUTSxLNI52bEqtf6J3XNHdQVD1S1bB-sxzb&s=10"
+  },
+  {
+    "type": "article",
+    "title": "Electoral Forecasting in Volatile Party System Settings: Assessing and Improving Pre-Election Poll Predictions in Italy",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Social Science Computer Review",
+    "volume": "44",
+    "issue": "4",
+    "pages": "595-616",
+    "year": 2026,
+    "online_date": "2025-03-24",
+    "doi": "10.1177/08944393251328309",
+    "publisher": "SAGE Publications",
+    "issn": "0894-4393 (print); 1552-8286 (online)",
+    "language": "en",
+    "abstract": "This study examines electoral forecasting in volatile party systems, focusing on factors contributing to deviations between poll predictions and actual election outcomes. Using Italy as a case study, it identifies biases in polling data and proposes a method to enhance estimator accuracy in a context of stable institutions and volatile electoral dynamics. Data from three Italian general elections are analyzed to evaluate discrepancies between pre-electoral polls and results, assessing key factors such as timing of data collection, survey methodology, sample size, and party system fragmentation. Employing a Bayesian inference process via a Markov chain Monte Carlo adaptive Metropolis-Hastings algorithm, the study demonstrates that pre-electoral estimates can be significantly improved using the Two-Stage Model. By consistently outperforming traditional poll predictions, the Two-Stage Model offers a robust framework for addressing polling biases. These findings advance political forecasting by improving accuracy in both consolidated democracies and volatile electoral contexts, while emphasizing the need for future research on dynamic polling methods and fundamentals-based models.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/390140669",
+    "academia": "https://www.academia.edu/170630425",
+    "pdf": null,
+    "slug": "2026-electoral-forecasting-volatile-party-system-settings-assessing",
+    "cover_url": "https://journals.sagepub.com/cms/asset/ee268038-a1be-4bc5-a05d-ce7c6420196e/ssce_44_5.largecover.png"
+  },
+  {
+    "type": "article",
+    "title": "Mapping party systems over time: a spatial distribution of ideological competition in Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Journal of Political Ideologies",
+    "volume": "31",
+    "issue": "3",
+    "pages": "905-922",
+    "year": 2026,
+    "online_date": "2025-01-31",
+    "doi": "10.1080/13569317.2025.2452179",
+    "publisher": "Taylor & Francis (Routledge)",
+    "issn": "1356-9317 (print); 1469-9613 (online)",
+    "language": "en",
+    "abstract": "This article introduces a novel method to map party systems over time, addressing the challenge of assigning comprehensive spatial ideological scores to coalitions, parties, and independents. Combining public opinion polls, manifesto analysis, and expert surveys, this method evaluates fixed and variable standard deviation models to score distinct 4,157 electoral lists from 5,195 district-level elections across 27 elections in 12 Chilean electoral systems. It proposes a synthetic data approach to simulate party positions within political family constraints, producing a high-density region map and a political lineage chart that visualize ideological evolution over time. Robustness checks, including diagnostics with controlled random noise and variance adjustments, confirm the reliability of these results. Key findings reveal an earlier-than-expected trend of fragmentation, a leftward drift among left-leaning parties, and an asymmetrical party system where fragmentation affects the left while polarization intensifies on the right. This study underscores the importance of expanding within-system estimators to enhance reliability and concludes with research questions that the resulting dataset can address. These include constituency-level shifts in ideological positioning, fragmentation linked to specific institutional reforms, and the dynamics of localized polarization within multiparty systems.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/388591000",
+    "academia": "https://www.academia.edu/170630424",
+    "pdf": null,
+    "slug": "2026-mapping-party-systems-over-time-spatial-distribution",
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/cjpi20.v031.i03",
+    "pdf_page": 2,
+    "pdf_file": "Bunker (2026) - Mapping party systems over time.pdf"
+  },
+  {
+    "type": "article",
+    "title": "The party system effects of unstable electoral rules in Latin America",
+    "authors": [
+      "Kenneth Bunker",
+      "Gabriel L. Negretto"
+    ],
+    "journal": "Party Politics",
+    "volume": "30",
+    "issue": "6",
+    "pages": "1126-1142",
+    "year": 2024,
+    "online_date": "2023-09-05",
+    "doi": "10.1177/13540688231196111",
+    "publisher": "SAGE Publications",
+    "issn": "1354-0688 (print); 1460-3683 (online)",
+    "language": "en",
+    "abstract": "Prior studies have shown that electoral rules fail to determine the number of parties in new democracies due to the uncertainty of voters and politicians about which parties are viable. Latin American democracies, where electoral volatility has generally remained high and party institutionalization low, have been a primary example of this phenomenon. We argue that even in shifting political environments the fragmentation of the party system is likely to become consistent with the permissiveness of electoral rules and the level of social diversity as voters and party leaders accumulate experience with elections and the rate of electoral regime change declines. We find support for these propositions analyzing an original dataset on Latin American democratic elections. This article contributes to research on electoral systems and political parties by identifying the conditions under which equilibrium electoral outcomes can be expected after a transition to democracy in unstable institutional settings.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/373710117",
+    "academia": "https://www.academia.edu/106334932",
+    "pdf": "https://e-archivo.uc3m.es/bitstreams/7c17e004-8e1f-4b7a-9a80-93ca3f7d00e6/download",
+    "pdf_note": "Submitted version",
+    "slug": "2024-party-system-effects-unstable-electoral-rules-latin",
+    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
+  },
+  {
+    "type": "article",
+    "title": "Forecasting two-horse races in new democracies: Accuracy, precision and error",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Revista Latinoamericana de Opinión Pública",
+    "volume": "11",
+    "issue": "1",
+    "pages": "81-108",
+    "year": 2022,
+    "online_date": "2022-06-22",
+    "doi": "10.14201/rlop.25374",
+    "publisher": "Ediciones Universidad de Salamanca",
+    "issn": "1852-9003; 2660-700X (online)",
+    "language": "en",
+    "abstract": "The purpose of this article is to explore electoral forecasting in two-horse races in new democracies. Specifically, it applies a Bayesian dynamic linear model (coined the Two-Stage Model, TSM) to look at the 2020 Chilean two-question national plebiscite. The ultimate objective is to test the TSM in terms of accuracy (how close the forecast is to the election results), precision (how close the forecast is to other methods of prediction) and error (how the forecast deviates from perfect accuracy/precision). The article finds that while the TSM does appear to be a stable estimator, its accuracy and precision is affected under certain conditions. Using the difference in the results for each of the two questions, the article discusses how sharp and unexpected shifts in electoral preferences can affect forecasts.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [
+      "Bayesian inference",
+      "Election campaigns",
+      "New democracies",
+      "Public opinion",
+      "Plebiscites"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/363007885_Forecasting_two-horse_races_in_new_democracies_Accuracy_precision_and_error",
+    "academia": "https://www.academia.edu/97940315",
+    "pdf": "https://revistas.usal.es/index.php/1852-9003/article/download/25374/28271",
+    "slug": "2022-forecasting-two-horse-races-new-democracies-accuracy",
+    "cover_url": "https://revistas.usal.es/cuatro/public/journals/52/homepageImage_en_US.jpg"
+  },
+  {
+    "type": "article",
+    "title": "A two-stage model to forecast elections in new democracies",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "International Journal of Forecasting",
+    "volume": "36",
+    "issue": "4",
+    "pages": "1407-1419",
+    "year": 2020,
+    "online_date": "2020-04-03",
+    "doi": "10.1016/j.ijforecast.2020.02.004",
+    "publisher": "Elsevier",
+    "issn": "0169-2070 (print); 1872-8200 (online)",
+    "language": "en",
+    "abstract": "The purpose of this article is to propose a method to minimize the difference between electoral predictions and electoral results. It builds on findings that stem from established democracies, where most of the research has been carried out, but it focuses on filling the gap for developing nations, which have thus far been neglected by the literature. It proposes a two-stage model in which data are first collected, filtered and weighed according to biases, and then output using Bayesian algorithms and Markov chains. It tests the specification using data stemming from 11 Latin American countries. It shows that the model is remarkably accurate. In comparison to polls, not only does it produce more precise estimates for every election, but it also produces a more accurate forecast for nine out of every ten candidates. The article closes with a discussion on the limitations of the model and a proposal for future research.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [
+      "Electoral forecasting",
+      "Dynamic linear models",
+      "Bayesian inference",
+      "Markov chains",
+      "New democracies",
+      "Latin America"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies",
+    "academia": "https://www.academia.edu/42049981/A_two_stage_model_to_forecast_elections_in_new_democracies",
+    "pdf": null,
+    "slug": "2020-two-stage-model-forecast-elections-new-democracies",
+    "cover_url": "https://ars.els-cdn.com/content/image/X01692070.jpg"
+  },
+  {
+    "type": "article",
+    "title": "El clivaje etario: backlash cultural en Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "América Latina Hoy",
+    "volume": "87",
+    "issue": null,
+    "pages": "3-28",
+    "year": 2021,
+    "online_date": "2020-12-21",
+    "doi": "10.14201/alh.22974",
+    "publisher": "Ediciones Universidad de Salamanca",
+    "issn": "1130-2887 (print); 2340-4396 (online)",
+    "language": "es",
+    "abstract": "Recent literature suggests that cultural factors are gaining predictive power over ideological ones in explaining electoral behavior in established democracies. But does this also occur in new democracies? This article seeks to answer this question by looking at evidence from Chile. It uses survey data to compare cultural factors to ideological determinants and global age cohorts to local political generations. It shows that the pattern in Chile matches the one observed in developed democracies.",
+    "abstract_es": "Literatura reciente sugiere que los factores culturales están ganando poder predictivo sobre determinantes ideológicos en la explicación del comportamiento electoral en democracias establecidas. Pero, ¿ocurre lo mismo en democracias nuevas? Este artículo busca responder a esta pregunta tomando como referencia el caso de Chile. Utiliza datos de encuestas para comparar factores culturales con los determinantes ideológicos y cohortes de edad globales con generaciones políticas locales. Muestra que el patrón en Chile coincide con el observado en democracias desarrolladas.",
+    "title_en": "The Age Cleavage: Cultural Backlash in Chile",
+    "keywords": [
+      "cleavages",
+      "electoral turnout",
+      "voting behavior",
+      "millennials",
+      "elections"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/347558934",
+    "academia": "https://www.academia.edu/111323654",
+    "pdf": "https://revistas.usal.es/cuatro/index.php/1130-2887/article/download/22974/24730",
+    "slug": "2021-age-cleavage-cultural-backlash-chile",
+    "cover_url": "https://revistas.usal.es/cuatro/public/journals/17/homepageImage_es_ES.jpg"
+  },
+  {
+    "type": "article",
+    "title": "Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law",
+    "authors": [
+      "Daniel Brieba",
+      "Kenneth Bunker"
+    ],
+    "journal": "Latin American Politics and Society",
+    "volume": "61",
+    "issue": "4",
+    "pages": "23-46",
+    "year": 2019,
+    "online_date": "2019-08-28",
+    "doi": "10.1017/lap.2019.23",
+    "publisher": "Cambridge University Press",
+    "issn": "1531-426X (print); 1548-2456 (online)",
+    "language": "en",
+    "abstract": "It has normally been argued that because compulsory voting systems present higher turnout rates relative to voluntary voting systems, they do not generate as many biases between different groups of voters. This article qualifies that view. It argues that in cases in which compulsory voting does not ensure near-universal participation, there is no certainty that switching to voluntary voting will increase inequalities. This issue is examined by looking at Chile, a democracy that moved from compulsory to voluntary voting in 2012. The research finds that while the reform generated class bias in urban districts, it also substantially reduced age bias and, in national elections, equalized participation between small and large districts. The conclusion is that abandoning compulsory voting does not necessarily increase turnout biases, since much depends on the structure of preexisting biases, and how these are conditioned by particular electoral institutions.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [
+      "compulsory voting",
+      "Chile",
+      "class bias",
+      "electoral reform",
+      "turnout bias"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/332233580",
+    "academia": "https://www.academia.edu/97940308",
+    "pdf": null,
+    "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform",
+    "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg"
+  },
+  {
+    "type": "article",
+    "title": "Why do parties cooperate in presidentialism? Electoral and government coalition formation in Latin America",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Revista de Estudios Políticos",
+    "volume": null,
+    "issue": "186",
+    "pages": "171-199",
+    "year": 2019,
+    "online_date": "2019-12-05",
+    "doi": "10.18042/cepc/rep.186.06",
+    "publisher": "Centro de Estudios Políticos y Constitucionales",
+    "issn": "0048-7694 (print); 1989-0613 (online)",
+    "language": "en",
+    "abstract": "The purpose of this article is to explore coalition formation in presidential systems using evidence from Latin America. It puts forward three hypotheses based on formateur power, electoral structures and party systems to explore when and why electoral and government coalition formation occurs. It uses evidence stemming from eighteen democratic presidential regimes in Latin America from 1980 to 2010. It looks at 100 elections and 407 aggregate years of democratic government. It analyses data organized in a cross-sectional time-series fashion through a logit function with random effects and robust standard errors. It finds that in democracies with weak presidents, restrictive electoral rules and highly fragmented party systems, the president will seek the support of multiple parties. While the effective number of parties is the most important determinant, rules related to legislative elections are more important predictors of electoral coalitions, and those related to presidential elections are more important predictors of government coalitions. The findings in this article are important insofar as yielding critical insight into partisan strategies in both the run-up to elections and the maintenance of governments, as well as contributing to a general theory of coalition formation.",
+    "abstract_es": null,
+    "title_en": null,
+    "keywords": [
+      "Presidentialism",
+      "electoral systems",
+      "party systems",
+      "coalition formation"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/332223077_Why_do_parties_cooperate_in_presidentialism_Electoral_and_government_coalition_formation_in_Latin_America",
+    "academia": "https://www.academia.edu/111323659",
+    "pdf": "https://recyt.fecyt.es/index.php/RevEsPol/article/download/76893/47198",
+    "slug": "2019-why-do-parties-cooperate-presidentialism-electoral-government",
+    "cover_url": "https://recyt.fecyt.es/public/journals/137/cover_issue_4968_es_ES.png"
+  },
+  {
+    "type": "article",
+    "title": "La elección de 2017 y el fraccionamiento del sistema de partidos en Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Revista Chilena de Derecho y Ciencia Política",
+    "volume": "9",
+    "issue": "2",
+    "pages": "204-229",
+    "year": 2018,
+    "online_date": "2018-12-07",
+    "doi": "10.7770/rchdcp-V9N2-art1823",
+    "publisher": "Universidad Católica de Temuco",
+    "issn": "0719-2150 (online)",
+    "language": "es",
+    "abstract": "The purpose of this article is to report the results of Chile's presidential and legislative elections in 2017 and explore their effect on the party system. It relates the context and suggests that there were three recurring themes that defined both the nomination of the candidates and the tone of the campaign: strong political polarization, two major corruption scandals, and the debut of a new electoral system. The article presents the presidential candidates and their main support bases and describes the central points of the election and the main electoral strategies. It reviews, analyzes and interprets the results of the election, highlighting the unprecedented fragmentation in the party system caused by the political and institutional context of recent years. We suggest that as of 2018 the level of fragmentation in the party system is among the highest in its history. We speculate that henceforth governments will be more flexible than in the past and will seek to pass legislation based on multilateral agreements and negotiation.",
+    "abstract_es": "El propósito de este artículo es reportar los resultados de la elección presidencial y legislativa de Chile en 2017 y explorar su efecto sobre el sistema de partidos. Relata el contexto, y sugiere que hubo tres temas recurrentes que definieron tanto la nominación de los candidatos como el tono de la campaña: una importante polarización política, dos grandes escándalos de corrupción y el debut de un nuevo sistema electoral. Presenta a los candidatos presidenciales y sus principales bases de apoyo. Describe los puntos medulares de la elección y las principales estrategias electorales. Repasa los resultados de la elección, los analiza y los interpreta. Destaca el inédito fraccionamiento en el sistema de partidos provocado por el contexto político e institucional de los últimos años. Sugiere que a partir de 2018 el sistema de partidos está en uno de sus niveles más fragmentados de su historia. Especula que hacia delante los próximos gobiernos serán más flexibles que los anteriores y buscarán pasar legislación sobre la base de negociaciones y pactos multilaterales.",
+    "title_en": "The 2017 elections and the fragmentation of the party system in Chile",
+    "keywords": [
+      "Presidential Election",
+      "Legislative Election",
+      "Electoral Reform",
+      "Party System",
+      "Electoral System"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/342827341_La_eleccion_de_2017_y_el_fraccionamiento_del_sistema_de_partidos_en_Chile",
+    "academia": "https://www.academia.edu/40482094/The_2017_elections_and_the_fragmentation_of_the_party_system_in_Chile",
+    "pdf": "https://dialnet.unirioja.es/descarga/articulo/6844609.pdf",
+    "slug": "2018-2017-elections-fragmentation-party-system-chile",
+    "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=15426"
+  },
+  {
+    "type": "article",
+    "title": "Electoral Forecasting and Public Opinion Tracking in Latin America: An Application to Chile",
+    "authors": [
+      "Kenneth Bunker",
+      "Stefan Bauchowitz"
+    ],
+    "journal": "Política. Revista de Ciencia Política",
+    "volume": "54",
+    "issue": "2",
+    "pages": "207-233",
+    "year": 2016,
+    "doi": "10.5354/0719-5338.2016.44781",
+    "url": "https://revistapolitica.uchile.cl/index.php/RP/article/view/44781",
+    "publisher": "Universidad de Chile, Instituto de Asuntos Públicos",
+    "issn": "0716-1077",
+    "language": "en",
+    "abstract": "The purpose of this article is to explore electoral forecasting and public opinion tracking in Latin America. We review different approaches used to estimate the true value of public opinion, and assess the range of their application. We focus on election night forecasting and campaign variation tracking in Latin America. We propose a two-stage model based on poll aggregation and Bayesian inference. We present data from two presidential elections in Chile. We test the model and show that it provides the most accurate election night forecasting point estimate and the most comprehensive campaign variation tracking method.",
+    "keywords": [
+      "presidential election",
+      "public opinion",
+      "Chile"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile_Revista_Politica",
+    "academia": "https://www.academia.edu/40482168/Electoral_Forecasting_and_Public_Opinion_Tracking_in_Latin_America",
+    "pdf": "https://revistapolitica.uchile.cl/index.php/RP/article/download/44781/46856/157873",
+    "slug": "2016-electoral-forecasting-public-opinion-tracking-latin-america",
+    "cover_url": "https://revistapolitica.uchile.cl/public/journals/68/cover_issue_6552_es_ES.jpg"
+  },
+  {
+    "type": "article",
+    "title": "Incumbency Advantage and Tenure Length in the Chilean Chamber of Deputies, 1989-2009",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "journal": "Revista de Ciencia Política",
+    "volume": "35",
+    "issue": "2",
+    "pages": "251-271",
+    "year": 2015,
+    "doi": "10.4067/S0718-090X2015000200001",
+    "url": "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2015000200001&lng=en&nrm=iso&tlng=en",
+    "publisher": "Pontificia Universidad Católica de Chile, Instituto de Ciencia Política",
+    "issn": "0718-090X",
+    "language": "en",
+    "abstract": "This article explores incumbency advantage and tenure length in the Chilean Chamber of Deputies between 1989 and 2009. After describing how the electoral system frames electoral competition, we present descriptive data of incumbency advantage and tenure length. There is remarkable stability in both indicators. Three out of four incumbents seek re-election, 82.3% get re-elected. Still, every four years, first-termers comprise 38.5% of the 120-member Chamber. The average tenure length is 2.4 terms. We find a neutral effect of past electoral performance and number of terms in office on the decision to seek re-election and be reelected. However, the results become significant when we control for the incumbent legislators coalition.",
+    "keywords": [
+      "Incumbency advantage",
+      "tenure length",
+      "legislative elections",
+      "Chilean Congress"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/283155418",
+    "academia": "https://www.academia.edu/97940300",
+    "pdf": "https://www.scielo.cl/pdf/revcipol/v35n2/art01.pdf",
+    "slug": "2015-incumbency-advantage-tenure-length-chilean-chamber-deputies",
+    "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=28672"
+  },
+  {
+    "type": "article",
+    "title": "The 2013 presidential and legislative elections in Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Electoral Studies",
+    "volume": "34",
+    "issue": null,
+    "pages": "346-348",
+    "year": 2014,
+    "doi": "10.1016/j.electstud.2013.12.005",
+    "url": "https://doi.org/10.1016/j.electstud.2013.12.005",
+    "publisher": "Elsevier",
+    "issn": "0261-3794",
+    "language": "en",
+    "abstract": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/259994949_The_2013_Presidential_and_Legislative_Elections_in_Chile",
+    "academia": "https://www.academia.edu/111323661",
+    "pdf": null,
+    "landing_oa": "https://eprints.lse.ac.uk/",
+    "slug": "2014-2013-presidential-legislative-elections-chile",
+    "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg"
+  },
+  {
+    "type": "article",
+    "title": "Latin American Political Outsiders, Revisited: The Case of Marco Enríquez-Ominami in Chile, 2009",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "journal": "Journal of Politics in Latin America",
+    "volume": "5",
+    "issue": "2",
+    "pages": "3-35",
+    "year": 2013,
+    "doi": "10.1177/1866802X1300500201",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/1866802X1300500201",
+    "publisher": "SAGE Publications (GIGA German Institute of Global and Area Studies)",
+    "issn": "1866-802X (print); 1868-4890 (online)",
+    "language": "en",
+    "abstract": "This article applies the debate on the recent emergence of outsider candidates in Latin America to independent presidential candidate Marco Enríquez-Ominami (ME-O) in Chile in 2009. We test five competing hypotheses to explain his electoral success. First, his support is explained by the consolidation of democracy, reflected by the disposition of voters to disregard the authoritarian/democratic-aligned candidates. Second, his support is explained by the decline of ideological identification, reflected by the disposition of voters to prefer nontraditional candidates. Third, his support is explained by the resurgence of the Left, reflected by the disposition of voters to identify with anti-Washington Consensus candidates. Fourth, his support is explained by the demand for quick government action, reflected in the predisposition of voters to consider candidates who will solve problems fast even if they do not ask voters for their opinions. Fifth, his support is explained by the declining support for established parties, reflected by the predisposition of voters to favor antisystemic candidates. We use survey data to test these hypotheses. We find no evidence to support the claims that ME-O fits any of the explanations. Though he was widely referred to as an outsider, his success seems to respond to national affairs rather than to a regional pattern.",
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/330930588_Latin_American_Political_Outsiders_Revisited_The_Case_of_Marco_Enriquez-Ominami_in_Chile_2009",
+    "academia": "https://www.academia.edu/97940306",
+    "pdf": null,
+    "slug": "2013-latin-american-political-outsiders-revisited-case-marco",
+    "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png"
+  },
+  {
+    "type": "article",
+    "title": "Explicando la desproporcionalidad en América Latina: magnitud de distrito, malapportionment y fragmentación partidaria",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "journal": "Revista Española de Ciencia Política",
+    "volume": null,
+    "issue": "23",
+    "pages": "81-110",
+    "year": 2010,
+    "doi": null,
+    "url": "https://recyt.fecyt.es/index.php/recp/article/view/37499",
+    "publisher": "Asociación Española de Ciencia Política y de la Administración (AECPA)",
+    "issn": "1575-6548 (print); 2173-9870 (online)",
+    "language": "es",
+    "abstract": "Este trabajo explora las causas de la desproporcionalidad —la diferencia entre el porcentaje de escaños y el porcentaje de votos obtenidos por un partido— en 18 países de América Latina, evaluando el efecto de cuatro variables explicativas. La primera parte presenta el diseño de la investigación, los enfoques teóricos que fundamentan los estudios sobre sistemas electorales y una revisión de literatura donde se conceptualiza tanto la desproporcionalidad como las variables independientes. La segunda parte entrega un análisis sobre los sistemas electorales y el comportamiento de las variables en cuestión en Latinoamérica. La tercera parte contiene el análisis inferencial que mide el impacto de las variables independientes sobre la desproporcionalidad. Postulamos que existe una relación directa entre la magnitud de distrito y la desproporcionalidad. Adicionalmente, el \"rango de exclusión\" —es decir, la cantidad de electores que potencialmente pueden quedar sin representación debido a la magnitud de distrito y a la fórmula de conversión de votos en escaños— también incrementa la desproporcionalidad. Los sistemas electorales proporcionales producen menos distorsión entre porcentaje de votos y escaños respecto a los mayoritarios o mixtos. Una baja fragmentación en el sistema de partidos —esto es, un número reducido de partidos con presencia en el Parlamento— débilmente contribuye a aumentar la desproporcionalidad. Finalmente, el malapportionment (esto es, la distribución desproporcionada de escaños respecto al número de electores de un distrito) no tiene relación estadísticamente significativa con la desproporcionalidad.",
+    "keywords": [
+      "Latinoamérica",
+      "desproporcionalidad",
+      "rango de exclusión",
+      "sistema electoral",
+      "sistema de partidos",
+      "malapportionment"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/332233707_Explicando_la_Desproporcionalidad_en_America_Latina_Magnitud_de_Distrito_Malapportionment_y_Fragmentacion_Partidaria",
+    "academia": "https://www.academia.edu/97940303",
+    "pdf": "https://recyt.fecyt.es/index.php/recp/article/view/37499/21016",
+    "slug": "2010-explicando-desproporcionalidad-america-latina-magnitud-distrito-malapportionment",
+    "cover_url": "https://recyt.fecyt.es/public/journals/283/cover_issue_4938_es_ES.jpg"
+  },
+  {
+    "type": "article",
+    "title": "Democracia comunal en Chile, 1992-2008",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "journal": "Política y Gobierno",
+    "volume": "17",
+    "issue": "2",
+    "pages": "243-278",
+    "year": 2010,
+    "doi": null,
+    "url": "https://www.scielo.org.mx/scielo.php?pid=S1665-20372010000200002&script=sci_abstract",
+    "publisher": "Centro de Investigación y Docencia Económicas (CIDE)",
+    "issn": "1665-2037",
+    "language": "es",
+    "abstract": "Desde que se realizaron por primera vez en el periodo posdictadura en 1992, las elecciones municipales se han convertido en un componente esencial de la democracia chilena. Al repasar la evolución de la institucionalidad que rige las elecciones municipales, este trabajo muestra la manera en que las iniciativas de descentralización han avanzado a la par con la consolidación democrática, y cómo el balance del poder en los gobiernos municipales refleja el mismo sesgo hacia un presidencialismo fuerte como en el ámbito nacional. A partir de esto, evaluamos si la descentralización en Chile ha ayudado a redefinir y rearticular las prácticas políticas y el sistema de partidos o si ha reproducido y consolidado lo ya existente. Evaluamos tres hipótesis. Primero, si el comportamiento de los electores en las contiendas municipales se asemeja al de las elecciones parlamentarias. Segundo, si los resultados de las elecciones municipales son independientes de los procesos políticos nacionales. Tercero, si la longevidad promedio de las carreras de alcaldes es inferior a la longevidad promedio de las carreras de diputados, y si los alcaldes tienen tasas de reelección inferiores a las de los diputados. Concluimos sugiriendo que la evolución institucional de la democracia local ha tendido a reproducir las prácticas y características del sistema político nacional más que a crear oportunidades y espacios para redefinir el balance del poder entre el Ejecutivo y el Legislativo, o facilitar la aparición de nuevas prácticas y comportamientos en las carreras políticas de los representantes democráticamente electos.",
+    "keywords": [
+      "elecciones municipales",
+      "democracia",
+      "descentralización",
+      "Chile"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/254915524_Democracia_Comunal_En_Chile_1992-2008",
+    "academia": "https://www.academia.edu/71533785",
+    "pdf": "http://www.politicaygobierno.cide.edu/index.php/pyg/article/download/175/92/0",
+    "slug": "2010-democracia-comunal-chile-1992-2008",
+    "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=13432"
+  },
+  {
+    "type": "chapter",
+    "title": "Between Gattopardismo and Ideational Change: The Mainstream Chilean Right's Winding Road to Moderation",
+    "authors": [
+      "Stéphanie Alenda",
+      "Miguel Ángel López",
+      "Kenneth Bunker",
+      "Nicolás Miranda"
+    ],
+    "book_title": "The Recasting of the Latin American Right: Polarization and Conservative Reactions",
+    "editors": [
+      "André Borges",
+      "Ryan Lloyd",
+      "Gabriel Vommaro"
+    ],
+    "pages": "176-196",
+    "year": 2024,
+    "doi": "10.1017/9781009427432.011",
+    "url": "https://www.cambridge.org/core/books/abs/recasting-of-the-latin-american-right/between-gattopardismo-and-ideational-change/61263485874F97B5CFD26D771A485E96",
+    "publisher": "Cambridge University Press",
+    "isbn": "9781009427449 (hardback); 9781009427432 (online)",
+    "language": "en",
+    "abstract": "This chapter explains how the Chilean right has been reconfigured due to the multidimensional crisis that has shaken Chile since the end of 2019. The authors analyze how tensions regarding competition and identity have affected relevant actors and structured their perceptions, calculations, and behaviors. They examine the ideational changes and continuities of the Chilean right's road to moderation. They argue that the joint processes of liberalization and democratization gave rise to a gattopardista strategy of \"changing so that things may remain the same.\" This was characterized by the programmatic moderation of coalition candidates until the 2017 campaign, with traditional right-wing parties moving to the center to the extent that they did not threaten the pillars of the neoliberal model. However, when centrist and left-wing parties aimed to significantly reform the institutional core, the traditional right did react, and moved further to the right on the ideological continuum.",
+    "keywords": [
+      "Chile",
+      "Kast",
+      "Piñera",
+      "social unrest",
+      "constitutional convention",
+      "right-wing",
+      "social movements",
+      "moderation",
+      "gattopardismo",
+      "Republican"
+    ],
+    "researchgate": "https://www.researchgate.net/publication/386278139_Between_Gattopardismo_and_Ideational_Change_The_Mainstream_Chilean_Right's_Winding_Road_to_Moderation",
+    "academia": "https://www.academia.edu/177018888",
+    "pdf": null,
+    "slug": "2024-between-gattopardismo-ideational-change-mainstream-chilean-rights",
+    "cover_url": "https://assets.kogan.com/images/mightyape/MPE-39080629/1-e9b06d9e9b-319015206.jpeg?auto=webp&fit=bounds&height=500&width=500&quality=85",
+    "pdf_file": "Alenda et al. (2024) - Between Gattopardismo and Ideational Change.pdf",
+    "pdf_page": 6,
+    "pdf_crop": [
+      0.03,
+      0.04,
+      0.63,
+      0.86
+    ],
+    "buy": [
+      [
+        "Buy from Cambridge",
+        "https://www.cambridge.org/core/books/recasting-of-the-latin-american-right/CCC0E4A9488EA887093CD7DAA4A9A3C9"
+      ],
+      [
+        "Buy on Amazon",
+        "https://www.amazon.com/dp/100942744X"
+      ]
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "Representación y dinámicas partidarias: la interacción entre sistemas electorales, clivajes sociales e ideas políticas en Chile",
+    "authors": [
+      "Kenneth Bunker",
+      "John Polga-Hecimovich"
+    ],
+    "book_title": "Crisis de la representatividad de la democracia liberal: presente y futuro",
+    "editors": [
+      "Jaime Fernando Abedrapo Rojas"
+    ],
+    "pages": null,
+    "year": 2025,
+    "doi": null,
+    "url": "https://editorial.tirant.com/cl/libro/crisis-de-la-representavidad-de-la-democracia-liberal-presente-y-futuro-jaime-fernando-abedrapo-rojas-9791370210229",
+    "publisher": "Tirant lo Blanch",
+    "isbn": "979-13-7021-022-9",
+    "language": "es",
+    "abstract": null,
+    "keywords": [],
+    "researchgate": "https://www.researchgate.net/publication/395349737",
+    "academia": "https://www.academia.edu/143875116",
+    "pdf": null,
+    "slug": "2025-representacion-dinamicas-partidarias-interaccion-entre-sistemas-electorales",
+    "cover_url": "https://editorial.tirant.com/s3portadas/high/9791370210229.jpg",
+    "pdf_file": "Bunker & Polga-Hecimovich (2025) - Representación y dinámicas partidarias.pdf",
+    "pdf_page": 14,
+    "buy": [
+      [
+        "Buy from Tirant lo Blanch",
+        "https://editorial.tirant.com/cl/libro/crisis-de-la-representavidad-de-la-democracia-liberal-presente-y-futuro-jaime-fernando-abedrapo-rojas-9791370210229"
+      ]
+    ]
+  },
+  {
+    "title": "Reelección y carreras legislativas en la Cámara de Diputados, 1990-2014",
+    "authors": [
+      "Sergio Acevedo",
+      "Kenneth Bunker"
+    ],
+    "book_title": "El tsunami electoral de 2013 en Chile",
+    "editors": [
+      "Mauricio Morales",
+      "Patricio Navia",
+      "Carolina Garrido"
+    ],
+    "year": 2017,
+    "pages": "271-290",
+    "publisher": "Ediciones Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2017-reeleccion-carreras-legislativas-camara-diputados-1990-2014",
+    "cover_url": "https://rileditores.com/wp-content/uploads/2020/03/9789560104069.jpg",
+    "researchgate": "https://www.researchgate.net/publication/415203255",
+    "academia": "https://www.academia.edu/177019821"
+  },
+  {
+    "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "book_title": "Democracia municipal en Chile, 1992-2012",
+    "editors": [
+      "Mauricio Morales",
+      "Patricio Navia"
+    ],
+    "year": 2012,
+    "pages": "39-48",
+    "publisher": "Ediciones Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
+    "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
+    "pdf_file": null,
+    "buy": [
+      [
+        "Buy from Ediciones UDP",
+        "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
+      ]
+    ],
+    "researchgate": "https://www.researchgate.net/publication/415203330",
+    "academia": "https://www.academia.edu/177020804"
+  },
+  {
+    "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "book_title": "Democracia municipal en Chile, 1992-2012",
+    "editors": [
+      "Mauricio Morales",
+      "Patricio Navia"
+    ],
+    "year": 2012,
+    "pages": "49-64",
+    "publisher": "Ediciones Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2012-incumbencia-reeleccion-alcaldes-chile-1992-2004",
+    "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
+    "buy": [
+      [
+        "Buy from Ediciones UDP",
+        "https://ediciones.udp.cl/libro/democracia-municipal-en-chile-1992-2012/"
+      ]
+    ],
+    "researchgate": "https://www.researchgate.net/publication/415203520",
+    "academia": "https://www.academia.edu/177021714"
+  },
+  {
+    "title": "Cambio y continuidad en la Cámara de Diputados",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "book_title": "El sismo electoral de 2009",
+    "editors": [
+      "Mauricio Morales",
+      "Patricio Navia"
+    ],
+    "year": 2010,
+    "pages": "185-201",
+    "publisher": "Ediciones Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2010-cambio-continuidad-camara-diputados-1989-2014",
+    "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/sismoelectoral-1.jpg",
+    "pdf_file": "Bunker (2010) - Cambio y continuidad en la Cámara de Diputados.pdf",
+    "pdf_page": 92,
+    "buy": [
+      [
+        "Buy from Ediciones UDP",
+        "https://ediciones.udp.cl/libro/el-sismo-electoral-de-2009/"
+      ]
+    ],
+    "researchgate": "https://www.researchgate.net/publication/415199308",
+    "academia": "https://www.academia.edu/177022188"
+  },
+  {
+    "title": "El votante díscolo",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "book_title": "Chile 2009: percepciones y actitudes sociales. 5to Informe de Encuesta Nacional ICSO-UDP",
+    "editors": [],
+    "year": 2010,
+    "pages": "121-132",
+    "publisher": "ICSO, Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2010-votante-discolo",
+    "pdf_file": "Bunker & Navia (2010) - El votante díscolo.pdf",
+    "researchgate": "https://www.researchgate.net/publication/332233706",
+    "academia": "https://www.academia.edu/177024003"
+  },
+  {
+    "title": "Duración de las carreras de alcaldes, 1992-2008",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "book_title": "Genoma electoral chileno",
+    "editors": [
+      "Patricio Navia",
+      "Mauricio Morales",
+      "Renato Briceño"
+    ],
+    "year": 2009,
+    "pages": "261-274",
+    "publisher": "Ediciones Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2009-duracion-carreras-alcaldes-1992-2008",
+    "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/genoma-1.jpg",
+    "pdf_file": "Bunker & Navia (2009) - Duración de las carreras de alcaldes, 1992-2008.pdf",
+    "buy": [
+      [
+        "Buy from Ediciones UDP",
+        "https://ediciones.udp.cl/libro/el-genoma-electoral-chileno/"
+      ]
+    ],
+    "researchgate": "https://www.researchgate.net/publication/332233747",
+    "academia": "https://www.academia.edu/177024459"
+  },
+  {
+    "title": "Índice de complejidad en las 52 comunas de la Región Metropolitana",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "book_title": "La reforma municipal en la mira: identificando los municipios prioritarios en la Región Metropolitana. Complejidad comunal v/s condiciones para la calidad de la gestión municipal",
+    "editors": [],
+    "year": 2007,
+    "pages": "31-41",
+    "publisher": "Expansiva",
+    "place": "Santiago",
+    "language": "es",
+    "type": "chapter",
+    "slug": "2007-indice-complejidad-52-comunas-region-metropolitana",
+    "cover_url": "https://www.terematus.com/wp-content/uploads/2018/08/reforma-municipal-en-la-mira.jpg",
+    "pdf_file": "Bunker & Navia (2007) - Índice de complejidad en las 52 comunas de la Región Metropolitana.pdf",
+    "researchgate": "https://www.researchgate.net/publication/332233708",
+    "academia": "https://www.academia.edu/177024960"
+  },
+  {
+    "type": "review",
+    "title": "Book review: Coalitional Presidentialism in Comparative Perspective. Minority Presidents in Multiparty Systems",
+    "reviewed_title": "Coalitional Presidentialism in Comparative Perspective: Minority Presidents in Multiparty Systems",
+    "reviewed_authors": "Paul Chaisty, Nic Cheeseman and Timothy J. Power",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Party Politics",
+    "volume": "27",
+    "issue": "2",
+    "pages": "385-386",
+    "year": 2021,
+    "doi": "10.1177/1354068820984270",
+    "publisher": "SAGE Publications",
+    "issn": "1354-0688 (print); 1460-3683 (online)",
+    "language": "en",
+    "abstract": null,
+    "researchgate": "https://www.researchgate.net/publication/347695256",
+    "academia": "https://www.academia.edu/111323653",
+    "pdf": null,
+    "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority",
+    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
+  },
+  {
+    "type": "review",
+    "title": "Cultural backlash: Trump, Brexit, and authoritarian populism",
+    "reviewed_title": "Cultural Backlash: Trump, Brexit, and Authoritarian Populism",
+    "reviewed_authors": "Pippa Norris and Ronald Inglehart",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Democratization",
+    "volume": "26",
+    "issue": "7",
+    "pages": "1323-1325",
+    "year": 2019,
+    "doi": "10.1080/13510347.2019.1601705",
+    "publisher": "Taylor & Francis (Informa UK)",
+    "issn": "1351-0347 (print); 1743-890X (online)",
+    "language": "en",
+    "abstract": null,
+    "researchgate": "https://www.researchgate.net/publication/332155436_Cultural_backlash_Trump_Brexit_and_authoritarian_populism_by_Pippa_Norris_and_Ronald_Inglehart",
+    "academia": "https://www.academia.edu/97940307",
+    "pdf": null,
+    "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian",
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07"
+  },
+  {
+    "type": "review",
+    "title": "Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon and François Gélineau, Latin American Elections: Choice and Change",
+    "reviewed_title": "Latin American Elections: Choice and Change",
+    "reviewed_authors": "Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon and François Gélineau",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Journal of Latin American Studies",
+    "volume": "51",
+    "issue": "3",
+    "pages": "721-723",
+    "year": 2019,
+    "doi": "10.1017/S0022216X19000798",
+    "publisher": "Cambridge University Press",
+    "issn": "0022-216X (print); 1469-767X (online)",
+    "language": "en",
+    "abstract": null,
+    "researchgate": "https://www.researchgate.net/publication/336418211",
+    "academia": "https://www.academia.edu/97940309",
+    "pdf": null,
+    "slug": "2019-review-latin-american-elections-choice-change",
+    "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg"
+  },
+  {
+    "type": "review",
+    "title": "Party systems in Latin America: institutionalization, decay, and collapse, edited by Scott Mainwaring",
+    "reviewed_title": "Party Systems in Latin America: Institutionalization, Decay, and Collapse",
+    "reviewed_authors": "Scott Mainwaring (ed.)",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Democratization",
+    "volume": "26",
+    "issue": "3",
+    "pages": "554-555",
+    "year": 2019,
+    "doi": "10.1080/13510347.2018.1536123",
+    "publisher": "Taylor & Francis (Informa UK)",
+    "issn": "1351-0347 (print); 1743-890X (online)",
+    "language": "en",
+    "abstract": null,
+    "researchgate": "https://www.researchgate.net/publication/328515755",
+    "academia": "https://www.academia.edu/97940305",
+    "pdf": null,
+    "slug": "2019-review-party-systems-latin-america-institutionalization",
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03"
+  },
+  {
+    "type": "review",
+    "title": "Matthew S. Shugart and Rein Taagepera: Votes from seats: logical models of electoral systems",
+    "reviewed_title": "Votes from Seats: Logical Models of Electoral Systems",
+    "reviewed_authors": "Matthew S. Shugart and Rein Taagepera",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "journal": "Public Choice",
+    "volume": "178",
+    "issue": "1-2",
+    "pages": "311-313",
+    "year": 2019,
+    "doi": "10.1007/s11127-018-0613-6",
+    "publisher": "Springer",
+    "issn": "0048-5829 (print); 1573-7101 (online)",
+    "language": "en",
+    "abstract": null,
+    "researchgate": "https://www.researchgate.net/publication/327796845",
+    "academia": "https://www.academia.edu/97940304/Matthew_S_Shugart_and_Rein_Taagepera_Votes_from_seats_logical_models_of_electoral_systems",
+    "pdf": null,
+    "slug": "2019-review-votes-seats-logical-models-electoral",
+    "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127"
+  },
+  {
+    "type": "dataset",
+    "title": "Chilean Political Landscape Dataset (CPLD)",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2025,
+    "doi": "10.7910/DVN/NGRY3R",
+    "publisher": "Harvard Dataverse",
+    "url": "https://kennethbunker.github.io/cpld/",
+    "abstract": "The Chilean Political Landscape Dataset (CPLD) compiles district-level indicators of electoral competition, party system structure, and institutional design across multiple decades of Chile's democratic experience.",
+    "keywords": [
+      "Social Sciences",
+      "Chile",
+      "Elections",
+      "Political Parties",
+      "Electoral Systems",
+      "Democracy",
+      "District-Level Data",
+      "Comparative Politics",
+      "Political Institutions"
+    ],
+    "language": "en",
+    "license": "CC BY 4.0",
+    "version": "4.0",
+    "researchgate": "https://www.researchgate.net/publication/415206181_Chilean_Political_Landscape_Dataset_CPLD",
+    "academia": "https://www.academia.edu/177025396",
+    "pdf": null,
+    "slug": "2025-chilean-political-landscape-dataset-cpld"
+  },
+  {
+    "type": "dataset",
+    "title": "Votaciones individuales de la Convención Constitucional de Chile",
+    "authors": [
+      "Kenneth Bunker",
+      "Camila González Piucol",
+      "Sofía Contreras Ubal",
+      "Pablo Toro"
+    ],
+    "year": 2022,
+    "publisher": "Tresquintos",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": null,
+    "slug": "2022-votaciones-individuales-convencion-constitucional-chile",
+    "doi": "10.7910/DVN/JLTSRL",
+    "academia": "https://www.academia.edu/97940314",
+    "researchgate": "https://www.researchgate.net/publication/353903145"
+  },
+  {
+    "type": "ideas",
+    "number": "28",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Exparlamentarios al gabinete: en qué carteras los nombran, en qué momento y cuánto duran",
+    "authors": [
+      "Kenneth Bunker",
+      "Lukas Neira",
+      "Joselyn Vilches"
+    ],
+    "year": 2026,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.16705.11366",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza en qué carteras y en qué momento del mandato se nombra a exparlamentarios en los gabinetes chilenos, y cuánto duran. Muestra que se concentran en Interior, Segpres y Segegob, las carteras de coordinación política que más rotan, y que en las carteras sectoriales no duran menos que el resto. Su menor permanencia promedio es un efecto de composición, y entre los nombrados en el segundo cuartil del mandato solo un 16% completa el periodo, contra un 53% del resto, lo que es consistente con nombramientos de crisis.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/415155201",
+    "academia": "https://www.academia.edu/177025665",
+    "pdf_rg": true,
+    "slug": "ideas-28-exparlamentarios-gabinete-carteras-nombran-momento-cuanto"
+  },
+  {
+    "type": "ideas",
+    "number": "27",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Del Congreso al gabinete: experiencia parlamentaria y duración de los ministros en Chile (1990-2026)",
+    "authors": [
+      "Diego Jiménez",
+      "Francisca Mejías",
+      "Kenneth Bunker"
+    ],
+    "year": 2026,
+    "doi": "10.13140/RG.2.2.27715.57129",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la relación entre experiencia parlamentaria previa y duración de los ministros en Chile entre 1990 y 2026. Muestra que solo el 18,6% de los ministros había sido diputado o senador, que el segundo gobierno de Sebastián Piñera fue el que contó con más exparlamentarios (24 de 64) y que la mitad de los ministros no alcanza a cubrir el 40% del periodo en que fue nombrado, aunque quienes tienen experiencia legislativa muestran trayectorias más regulares y menos casos de permanencia extrema.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/413842659",
+    "academia": "https://www.academia.edu/177026196",
+    "pdf_rg": true,
+    "slug": "ideas-27-del-congreso-gabinete-experiencia-parlamentaria-duracion-ministros",
+    "pages": "1-6"
+  },
+  {
+    "type": "ideas",
+    "number": "26",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Retornos marginales decrecientes en la magnitud de distrito y sus efectos sobre el sistema de partidos",
+    "authors": [
+      "Kenneth Bunker",
+      "Fernanda Arrieta",
+      "Likan Paz",
+      "Martín Herrera"
+    ],
+    "year": 2026,
+    "pages": "1-15",
+    "doi": "10.13140/RG.2.2.31161.94560",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza el efecto de la magnitud de distrito sobre la fragmentación del sistema de partidos bajo la reforma de redistritaje aprobada en 2026. A partir de 504 competencias de diputados entre 1989 y 2025, muestra que la relación es de retornos marginales decrecientes y que la reforma resulta de suma cero en escaños pero de suma negativa en fragmentación y candidatos, con pérdidas concentradas en el sur y ganancias en la zona central.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/410864255",
+    "academia": "https://www.academia.edu/177026410",
+    "pdf_rg": true,
+    "slug": "ideas-26-retornos-marginales-decrecientes-magnitud-distrito-sus"
+  },
+  {
+    "type": "ideas",
+    "number": "25",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuál es el efecto de la redistribución automática de la magnitud de distrito en el resultado electoral? Una simulación de 2025 con las reglas de 2029",
+    "authors": [
+      "Kenneth Bunker",
+      "Isaí Emanuel Muñoz",
+      "Likan Paz",
+      "Maximiliano Vargas"
+    ],
+    "year": 2026,
+    "pages": "1-9",
+    "doi": "10.13140/RG.2.2.28098.34246",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio simula los resultados de la elección parlamentaria de 2025 aplicando las nuevas magnitudes de distrito que regirán entre 2029 y 2033. La reforma modifica el número de escaños en 16 distritos, con 8 al alza y 8 a la baja, beneficia marginalmente a la derecha (+2 escaños) y perjudica a la izquierda y al Partido de la Gente (−1 escaño cada uno), pero no altera el balance de poder en la Cámara ni desplaza a candidatos de listas alternativas.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/405739695",
+    "academia": "https://www.academia.edu/177026699",
+    "pdf_rg": true,
+    "slug": "ideas-25-cual-es-efecto-redistribucion-automatica-magnitud"
+  },
+  {
+    "type": "ideas",
+    "number": "24",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Debut y despedida en el Congreso de Chile: trayectorias políticas 1989-2025",
+    "authors": [
+      "Fernanda Arrieta",
+      "Kenneth Bunker",
+      "Maximiliano Vargas"
+    ],
+    "year": 2025,
+    "pages": "1-7",
+    "doi": "10.13140/RG.2.2.12649.56166",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio explora cómo han cambiado las trayectorias de vida política de los congresistas desde el retorno a la democracia. Los hallazgos confirman la extinción del modelo de carrera parlamentaria prolongada: las reformas han acortado la duración promedio de la estancia en el poder, incrementando los retiros y reduciendo la permanencia indefinida en el poder legislativo.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398150067",
+    "academia": "https://www.academia.edu/177027633",
+    "pdf_rg": true,
+    "slug": "ideas-24-debut-despedida-congreso-chile-trayectorias-politicas"
+  },
+  {
+    "type": "ideas",
+    "number": "23",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Experiencia legislativa en el Congreso de Chile: antigüedad por cohorte 1990-2030",
+    "authors": [
+      "Kenneth Bunker",
+      "Camila Daza",
+      "Maximiliano Vargas"
+    ],
+    "year": 2025,
+    "pages": "1-10",
+    "doi": "10.13140/RG.2.2.14327.28324",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la evolución de la experiencia legislativa en el Congreso chileno entre 1990 y 2030, identificando un ciclo de ascenso y posterior declive en la profesionalización parlamentaria. Si bien entre 2002 y 2014 el Congreso alcanzó su punto máximo de estabilidad y acumulación de experiencia, las reformas recientes han reducido la experiencia acumulada en el Parlamento, afectando la calidad de las leyes y la fiscalización al Ejecutivo.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398146673",
+    "academia": "https://www.academia.edu/177027792",
+    "pdf_rg": true,
+    "slug": "ideas-23-experiencia-legislativa-congreso-chile-antiguedad-cohorte"
+  },
+  {
+    "type": "ideas",
+    "number": "22",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Renovación y reemplazo en el Congreso de Chile: patrones de reelección 1989-2025",
+    "authors": [
+      "Kenneth Bunker",
+      "Lorena Galdames",
+      "Maximiliano Vargas"
+    ],
+    "year": 2025,
+    "pages": "1-6",
+    "doi": "10.13140/RG.2.2.10971.84006",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "El documento analiza la evolución de la permanencia en el Congreso chileno entre 1989 y 2025 y detecta un quiebre estructural en la estabilidad parlamentaria a partir de 2017. Si bien la Cámara de Diputados presenta patrones más estables que el Senado, ambas cámaras han experimentado cambios significativos, sugiriendo que las reformas institucionales han impactado las tasas de recambio y la profesionalización legislativa.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398143607",
+    "academia": "https://www.academia.edu/177028248",
+    "pdf_rg": true,
+    "slug": "ideas-22-renovacion-reemplazo-congreso-chile-patrones-reeleccion"
+  },
+  {
+    "type": "ideas",
+    "number": "21",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Sesgo ideológico de votantes chilenos en el exterior: la burbuja europea y el equilibrio americano",
+    "authors": [
+      "Kenneth Bunker",
+      "Francisca Mejías",
+      "Maximiliano Vargas"
+    ],
+    "year": 2025,
+    "pages": "1-12",
+    "doi": "10.13140/RG.2.2.33621.08166",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Esta investigación analiza el comportamiento electoral de los chilenos en el extranjero durante 2017 y 2021, revelando una marcada polarización geográfica. El estudio identifica la existencia de una \"burbuja europea\", donde los votantes de Europa y Oceanía muestran un sesgo hacia la izquierda, mientras que los votantes en América presentan un comportamiento más equilibrado, lo que introduce un sesgo inevitable en la interpretación política inmediata de las elecciones.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398143412",
+    "academia": "https://www.academia.edu/177028519",
+    "pdf_rg": true,
+    "slug": "ideas-21-sesgo-ideologico-votantes-chilenos-exterior-burbuja"
+  },
+  {
+    "type": "ideas",
+    "number": "20",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Simulación legislativa 2025: posibles resultados y limitaciones",
+    "authors": [
+      "Kenneth Bunker",
+      "Maximiliano Vargas",
+      "Joselyn Vilches"
+    ],
+    "year": 2025,
+    "pages": "1-9",
+    "doi": "10.13140/RG.2.2.29777.39525",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio aborda la complejidad de realizar simulaciones para las elecciones legislativas de 2025, cuestionando la eficacia de trasladar linealmente los resultados de votaciones previas. La investigación propone utilizar la \"Teoría de Ajuste Uniforme\" para anticipar posibles resultados, considerando las dinámicas entre partidos institucionales y fuerzas populistas emergentes.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398571988",
+    "academia": "https://www.academia.edu/177028680",
+    "pdf_rg": true,
+    "slug": "ideas-20-simulacion-legislativa-2025-posibles-resultados-limitaciones"
+  },
+  {
+    "type": "ideas",
+    "number": "19",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Evolución asimétrica del sistema de partidos de Chile: una examinación temporal a nivel de distrito",
+    "authors": [
+      "Kenneth Bunker",
+      "Benjamín Valdés",
+      "Maximiliano Vargas"
+    ],
+    "year": 2025,
+    "pages": "1-6",
+    "doi": "10.13140/RG.2.2.10132.97922",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la evolución del sistema de partidos en Chile entre 1989 y 2023, utilizando datos desagregados a nivel distrital. La investigación demuestra que la fragmentación política comenzó alrededor de 2010, antes de la reforma electoral de 2015. Los hallazgos revelan una fragmentación asimétrica: mientras la derecha ha mantenido una relativa estabilidad, la izquierda ha experimentado una intensa proliferación de partidos competitivos.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/398143387",
+    "academia": "https://www.academia.edu/177028797",
+    "pdf_rg": true,
+    "slug": "ideas-19-evolucion-asimetrica-sistema-partidos-chile-examinacion"
+  },
+  {
+    "type": "ideas",
+    "number": "18",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "El aumento de los «party switchers» en el Congreso Nacional de Chile, 1990-2024",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2024,
+    "pages": "1-6",
+    "doi": "10.13140/RG.2.2.12303.70569",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza el fenómeno del \"party switching\" en el Congreso de Chile entre 1990 y 2024, donde 80 diputados y 22 senadores renunciaron a sus partidos políticos después de ser electos. El fenómeno ha crecido exponencialmente en años recientes, impulsado por la fragmentación partidaria. Esta tendencia plantea desafíos para la democracia representativa, afectando la gobernabilidad y la confianza de los votantes.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/387151955",
+    "academia": "https://www.academia.edu/177029179",
+    "pdf_rg": true,
+    "slug": "ideas-18-aumento-party-switchers-congreso-nacional-chile"
+  },
+  {
+    "type": "ideas",
+    "number": "17",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Inestabilidad gubernamental: rotación ministerial, duración de gabinetes y equilibrio partidario",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.35819.35363",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio examina la estabilidad de los gabinetes presidenciales en Chile, analizando la rotación ministerial, la duración de los gabinetes y el equilibrio partidario desde 1990 hasta 2024. Los hallazgos sugieren que el número de ministros, la duración de los gabinetes y la fragmentación ministerial influyen en la gobernabilidad. La segunda administración de Sebastián Piñera registró el mayor número de ministros, pero con menor fragmentación. En contraste, el gobierno de Gabriel Boric presentó la mayor fragmentación ministerial.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/385810464_Inestabilidad_gubernamental_rotacion_ministerial_duracion_de_gabinetes_y_equilibrio_partidario",
+    "academia": "https://www.academia.edu/177029377",
+    "pdf_rg": true,
+    "slug": "ideas-17-inestabilidad-gubernamental-rotacion-ministerial-duracion-gabinetes"
+  },
+  {
+    "type": "ideas",
+    "number": "16",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Patrones de reelección en las elecciones de alcalde de 2024",
+    "authors": [
+      "Kenneth Bunker",
+      "Lorena Galdames",
+      "Fernanda Arrieta"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.29108.46727",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza las tendencias de reelección en las elecciones municipales de Chile en 2024. Los hallazgos indican que el número de alcaldes que buscaron la reelección aumentó en comparación con 2021, aunque sigue siendo la segunda cifra más baja registrada. La tasa de éxito se mantuvo consistente con patrones históricos, con dos tercios reteniendo su escaño. La ley que limita la reelección ha incrementado la proporción de alcaldes novatos, superando el 50%.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/385810267",
+    "academia": "https://www.academia.edu/177029706",
+    "pdf_rg": true,
+    "slug": "ideas-16-patrones-reeleccion-elecciones-alcalde-2024"
+  },
+  {
+    "type": "ideas",
+    "number": "15",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Coordinación de coaliciones y partidos en las elecciones regionales y locales de 2024",
+    "authors": [
+      "Kenneth Bunker",
+      "Fernanda Arrieta"
+    ],
+    "year": 2024,
+    "pages": "1-4",
+    "doi": "10.13140/RG.2.2.32995.98083",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio examina la dinámica de coordinación entre coaliciones y partidos políticos en las elecciones de 2024. Los hallazgos indican una disminución en el número de listas y partidos inscritos, sugiriendo una tendencia hacia la consolidación partidaria. Las coaliciones formadas para las elecciones municipales de 2024 son más amplias que en procesos anteriores. La concurrencia de elecciones regionales y locales ha contribuido a reducir la fragmentación partidista.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/384285236",
+    "academia": "https://www.academia.edu/177029981",
+    "pdf_rg": true,
+    "slug": "ideas-15-coordinacion-coaliciones-partidos-elecciones-regionales-locales"
+  },
+  {
+    "type": "ideas",
+    "number": "14",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "El avance de los candidatos independientes en las elecciones locales de 2024",
+    "authors": [
+      "Kenneth Bunker",
+      "Fernanda Arrieta"
+    ],
+    "year": 2024,
+    "pages": "1-4",
+    "doi": "10.13140/RG.2.2.25734.59209",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la participación de candidatos independientes en las elecciones municipales de Chile en 2024. Los hallazgos indican un récord histórico de 671 candidatos independientes inscritos para la elección de alcaldes, representando el 45.2% del total. Desde 2004, el número de independientes se ha duplicado. Sin embargo, en elecciones de concejales, los candidatos independientes fuera de pactos muestran competitividad limitada.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/384251543",
+    "academia": "https://www.academia.edu/177030244",
+    "pdf_rg": true,
+    "slug": "ideas-14-avance-candidatos-independientes-elecciones-locales-2024"
+  },
+  {
+    "type": "ideas",
+    "number": "13",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "Una propuesta de reforma política simple que le puede dar gobernabilidad a Chile",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.36783.34723",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio examina la creciente fragmentación del sistema de partidos en Chile y propone reformas políticas para mejorar la gobernabilidad. La propuesta incluye reducir el número de diputados de 155 a 137, ajustar la magnitud de los distritos para que tengan entre 2 y 5 escaños, implementar un umbral electoral del 5% a nivel nacional, eliminar los pactos y subpactos electorales, y regular las candidaturas independientes.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/381479502",
+    "academia": "https://www.academia.edu/177030518",
+    "pdf_rg": true,
+    "slug": "ideas-13-propuesta-reforma-politica-simple-le-puede"
+  },
+  {
+    "type": "ideas",
+    "number": "12",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cómo se compara el «primer tiempo» de Gabriel Boric con presidentes anteriores?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.26726.43844",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la aprobación presidencial de Gabriel Boric durante sus dos primeros años de mandato, comparándola con sus predecesores desde el retorno a la democracia. Los hallazgos indican que Boric no experimentó una \"luna de miel\" tradicional, perdiendo rápidamente el apoyo del centro político. A pesar de mantener una base de apoyo estable alrededor del 30%, su aprobación promedio es la más baja registrada en comparación con presidentes anteriores en el mismo período.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/379312125",
+    "academia": "https://www.academia.edu/177030890",
+    "pdf_rg": true,
+    "slug": "ideas-12-como-compara-primer-tiempo-gabriel-boric"
+  },
+  {
+    "type": "ideas",
+    "number": "10",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿A qué hora y con qué precisión se conocen los resultados electorales en Chile?",
+    "authors": [
+      "Kenneth Bunker",
+      "Hugo Jofré"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.29193.01128",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la eficiencia y precisión del proceso de escrutinio electoral en Chile. Los hallazgos indican que, en promedio, dentro de los primeros 60 minutos posteriores al cierre de las mesas, se escruta al menos el 5% de las mesas. Después de una hora, el margen de error entre los resultados preliminares y los definitivos para la alternativa ganadora disminuye a menos del 2%. Los plebiscitos presentan un mayor error inicial, pero tienden a estabilizarse a partir de los 60 minutos.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/377121696",
+    "academia": "https://www.academia.edu/177031113",
+    "pdf_rg": true,
+    "slug": "ideas-10-hora-precision-conocen-resultados-electorales-chile"
+  },
+  {
+    "type": "ideas",
+    "number": "9",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿A qué velocidad se escrutan los votos en Chile?",
+    "authors": [
+      "Kenneth Bunker",
+      "Tito Olavarría"
+    ],
+    "year": 2024,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.15771.23848",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la rapidez del proceso de escrutinio electoral en Chile, evaluando distintos tipos de elecciones. Los hallazgos indican que, en plebiscitos, se escruta entre el 5% y el 9% de las mesas en la primera hora. En las primeras vueltas presidenciales, se alcanza aproximadamente el 5% en una hora, mientras que en las segundas vueltas se llega al menos al 25%. Las segundas vueltas presidenciales resultan ser las más rápidas de escrutar.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/377119931",
+    "academia": "https://www.academia.edu/177031496",
+    "pdf_rg": true,
+    "slug": "ideas-09-velocidad-escrutan-votos-chile"
+  },
+  {
+    "type": "ideas",
+    "number": "8",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuál fue el nivel de acuerdo en el pleno del Consejo Constitucional de 2023?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.27627.11046",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza el grado de consenso alcanzado en el pleno del Consejo Constitucional chileno durante 2023. Los hallazgos indican que la polarización fue menos determinante que en la convención previa de 2021-2022. La derecha votó en dos bloques diferenciados en el eje liberal-conservador, y las diferencias en la derecha sirvieron como factor de moderación. Por su parte, los consejeros de izquierda votaron de forma relativamente coordinada.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/376190302",
+    "academia": "https://www.academia.edu/177031576",
+    "pdf_rg": true,
+    "slug": "ideas-08-cual-fue-nivel-acuerdo-pleno-consejo"
+  },
+  {
+    "type": "ideas",
+    "number": "7",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuál fue el nivel de acuerdo en las comisiones del Consejo Constitucional de 2023?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.30982.55365",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza el grado de consenso alcanzado en las comisiones del Consejo Constitucional chileno durante 2023. Los hallazgos indican un alto nivel de acuerdo, con una tasa de éxito promedio del 72% en las votaciones de las comisiones permanentes. La Comisión de Expertos destacó por una votación casi unánime del 90.7%, actuando como centro de facto en el proceso. Tres de las cuatro comisiones temáticas dependieron de votos moderados para la aprobación de sus propuestas.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/376190026",
+    "academia": "https://www.academia.edu/177031978",
+    "pdf_rg": true,
+    "slug": "ideas-07-cual-fue-nivel-acuerdo-comisiones-consejo"
+  },
+  {
+    "type": "ideas",
+    "number": "6",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuál fue el nivel de acuerdo en el pleno de la Convención Constitucional de 2021-2022?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.26767.76960",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio examina el grado de consenso alcanzado en el pleno de la Convención Constitucional chilena durante 2021-2022. Los hallazgos indican que los constituyentes de izquierda poseían los votos necesarios para alcanzar el quórum de dos tercios de manera unilateral. A pesar de la polarización observada, esta no influyó significativamente en la redacción del documento final. Se identificó una división en la derecha en dos bloques: uno más liberal y otro más conservador.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/375089646",
+    "academia": "https://www.academia.edu/177035552",
+    "pdf_rg": true,
+    "slug": "ideas-06-cual-fue-nivel-acuerdo-pleno-convencion"
+  },
+  {
+    "type": "ideas",
+    "number": "5",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuál fue el nivel de acuerdo en las comisiones de la Convención Constitucional de 2021-2022?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.13345.99688",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza el grado de consenso alcanzado en las comisiones de la Convención Constitucional chilena durante 2021-2022. Los hallazgos indican un bajo nivel de acuerdo general, con cuatro de las siete comisiones temáticas aprobando menos de la mitad de sus votaciones. Los constituyentes de izquierda contaban con los votos necesarios para alcanzar el quórum mayoritario en todas las comisiones, mientras que, en respuesta, la derecha se dividió en dos bloques.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/375089583",
+    "academia": "https://www.academia.edu/177032523",
+    "pdf_rg": true,
+    "slug": "ideas-05-cual-fue-nivel-acuerdo-comisiones-convencion"
+  },
+  {
+    "type": "ideas",
+    "number": "4",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuáles son los efectos del sistema electoral propuesto por el Consejo Constitucional de 2023?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.36681.11361",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la reforma electoral propuesta por el Consejo Constitucional en 2023, enfocándose en la reducción del número de escaños en la Cámara de Diputados de 155 a 138 y en la disminución de la magnitud de los distritos de un rango de 3-8 a 2-6 escaños. Aplicando modelos predictivos, se anticipa que estas modificaciones podrían disminuir el Número Efectivo de Partidos (ENP). La reforma busca contener la fragmentación partidaria.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/374082046",
+    "academia": "https://www.academia.edu/177032683",
+    "pdf_rg": true,
+    "slug": "ideas-04-cuales-son-efectos-sistema-electoral-propuesto"
+  },
+  {
+    "type": "ideas",
+    "number": "3",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Cuáles son los determinantes de la fragmentación partidaria?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-5",
+    "doi": "10.13140/RG.2.2.30461.74722",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza los factores que influyen en la fragmentación de los sistemas de partidos, enfocándose en las reglas electorales y fenómenos sociales. Se destaca que un aumento en la magnitud de los distritos electorales incrementa la fragmentación partidaria. Además, las reglas electorales median la relación entre la heterogeneidad social y el número de partidos. La fragmentación se ve exacerbada cuando aumenta el número de divisiones o temas en la agenda política.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/373976569",
+    "academia": "https://www.academia.edu/177033060",
+    "pdf_rg": true,
+    "slug": "ideas-03-cuales-son-determinantes-fragmentacion-partidaria"
+  },
+  {
+    "type": "ideas",
+    "number": "2",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Chile tiene demasiados o muy pocos legisladores?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-4",
+    "doi": "10.13140/RG.2.2.23750.86087",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la adecuación del número de legisladores en Chile, considerando su evolución histórica y comparaciones internacionales. Se observa que, desde 1811 hasta 2021, el número de diputados ha tendido al alza, con reducciones significativas en 1891 y 1989. Aplicando el método de la raíz cúbica de Taagepera (1972) y del segundo exponente de Margaritondo (2021), se concluye que el número actual de escaños en la Cámara de Diputados es razonable.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/373976451",
+    "academia": "https://www.academia.edu/177033280",
+    "pdf_rg": true,
+    "slug": "ideas-02-chile-tiene-demasiados-o-muy-pocos"
+  },
+  {
+    "type": "ideas",
+    "number": "1",
+    "series": "Ideas: Laboratorio Democracia y Gobierno",
+    "title": "¿Ha aumentado la fragmentación en el sistema de partidos a través de los años?",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2023,
+    "pages": "1-4",
+    "doi": "10.13140/RG.2.2.37376.65337",
+    "publisher": "Universidad San Sebastián, Laboratorio Democracia y Gobierno",
+    "place": "Santiago",
+    "language": "es",
+    "abstract": "Este estudio analiza la evolución de la fragmentación en el sistema de partidos de Chile. Los hallazgos indican que la fragmentación ha aumentado con el tiempo, influenciada por reglas electorales y la magnitud de los distritos. La elección de consejeros regionales de 2021 es la que ha producido mayor número de partidos desde 1989. Estos resultados sugieren que sistemas electorales más permisivos fomentan la diversidad en el sistema de partidos.",
+    "abstract_label": "Resumen",
+    "researchgate": "https://www.researchgate.net/publication/373976533",
+    "academia": "https://www.academia.edu/177033700",
+    "pdf_rg": true,
+    "slug": "ideas-01-ha-aumentado-fragmentacion-sistema-partidos-traves"
+  },
+  {
+    "type": "report",
+    "title": "Resumen y análisis de las elecciones presidenciales y legislativas de Chile 2021",
+    "authors": [
+      "Kenneth Bunker",
+      "Camila González Piucol",
+      "Sofía Contreras Ubal",
+      "Emilio Espinosa"
+    ],
+    "year": 2022,
+    "pages_total": "157",
+    "publisher": "Tresquintos",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2022-resumen-analisis-elecciones-presidenciales-legislativas-chile-2021",
+    "researchgate": "https://www.researchgate.net/publication/359063509",
+    "academia": "https://www.academia.edu/76402908"
+  },
+  {
+    "type": "report",
+    "title": "Breve historia de la elección presidencial y legislativa de Chile 2021",
+    "authors": [
+      "Kenneth Bunker",
+      "Sofía Contreras Ubal",
+      "Camila González Piucol",
+      "Mario Orellana"
+    ],
+    "year": 2021,
+    "pages_total": "529",
+    "publisher": "Tresquintos",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2022-breve-historia-eleccion-presidencial-legislativa-chile-2021",
+    "researchgate": "https://www.researchgate.net/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021",
+    "abstract": "Usted tiene en sus manos una breve historia de las elecciones presidenciales y legislativas de Chile de 2021. Es fruto de un detallado y minucioso trabajo del equipo de Tresquintos. El objetivo del manual es servir de una guía general sobre lo que está en juego el día 21 noviembre de 2021. Contiene resúmenes de regulaciones y resultados. La fuente de la gran mayoría de los datos es el Servicio Electoral de Chile. En caso contrario, está indicado oportunamente. Casi todos los datos están disponibles para descarga en el sitio web tresquintos.cl. El documento está dividido en cuatro partes. La primera sección contiene el marco general de las elecciones. Entre otras cosas, el cronograma general, el cronograma particular y las reglas que enmarcan todas las elecciones. La segunda sección introduce la elección presidencial y a sus candidatos. La tercera sección pasa a la elección de senadores y la descripción de lo que está en juego en cada una de las 9 regiones que eligen candidatos. La sección final describe la elección de diputados y detalla los elementos más importantes de cada uno de los 28 distritos.",
+    "abstract_label": "Resumen",
+    "academia": "https://www.academia.edu/177033946"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Mujeres en el poder legislativo de Chile, 1990-2018",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2018,
+    "series": "Documentos de Trabajo Programa Electoral UCEN",
+    "number": "3",
+    "publisher": "Programa Electoral, Universidad Central",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2018-mujeres-poder-legislativo-chile-1990-2018-wp",
+    "researchgate": "https://www.researchgate.net/publication/322100458_Mujeres_Candidatas_en_Chile_1990-2022",
+    "doi": "10.13140/RG.2.2.33728.08960",
+    "pdf_file": "Bunker (2018) - Mujeres en el poder legislativo de Chile, 1990-2018.pdf",
+    "academia": "https://www.academia.edu/37150495"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Reelección en el poder legislativo de Chile, 1993-2017",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2018,
+    "series": "Documentos de Trabajo Programa Electoral UCEN",
+    "number": "2",
+    "publisher": "Programa Electoral, Universidad Central",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2018-reeleccion-poder-legislativo-chile-1993-2017-wp",
+    "researchgate": "https://www.researchgate.net/publication/322100457_Cuorums_Legislativos_en_Chile_1990-2022",
+    "doi": "10.13140/RG.2.2.20306.31687",
+    "pdf_file": "Bunker (2018) - Reelección en el poder legislativo de Chile, 1993-2017.pdf",
+    "academia": "https://www.academia.edu/37150489"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Retiros, remociones y renuncias en el poder legislativo de Chile, 1990-2018",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2018,
+    "series": "Documentos de Trabajo Programa Electoral UCEN",
+    "number": "1",
+    "publisher": "Programa Electoral, Universidad Central",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2018-retiros-remociones-renuncias-poder-legislativo-chile-1990-wp",
+    "researchgate": "https://www.researchgate.net/publication/322100451_Abandono_de_Legisladores_en_Chile_1990-2022",
+    "doi": "10.13140/RG.2.2.13595.43042",
+    "pdf_file": "Bunker (2018) - Retiros, remociones y renuncias en el poder legislativo de Chile, 1990-2018.pdf",
+    "academia": "https://www.academia.edu/37150486"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2008,
+    "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
+    "number": "3",
+    "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2008-modificaciones-reformas-al-sistema-electoral-municipal-chile-wp",
+    "pdf_file": "Bunker (2008) - Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008.pdf",
+    "doi": "10.13140/RG.2.2.29533.78568",
+    "researchgate": "https://www.researchgate.net/publication/332233764",
+    "academia": "https://www.academia.edu/177034284"
+  },
+  {
+    "type": "workingpaper",
+    "title": "El desempeño electoral de las mujeres en las elecciones municipales",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2008,
+    "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
+    "number": "2",
+    "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2008-desempeno-electoral-mujeres-elecciones-municipales-wp",
+    "doi": "10.13140/RG.2.2.29932.21125",
+    "researchgate": "https://www.researchgate.net/publication/332233924",
+    "academia": "https://www.academia.edu/177034519"
+  },
+  {
+    "type": "workingpaper",
+    "title": "La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2008,
+    "series": "Documentos de Trabajo Observatorio Político Electoral UDP",
+    "number": "1",
+    "publisher": "Observatorio Político Electoral, Universidad Diego Portales",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2008-incumbencia-reeleccion-alcaldes-chile-1992-2004-wp",
+    "pdf_file": "Bunker (2008) - La incumbencia y duración de carreras de alcaldes en Chile, 1992-2008.pdf",
+    "doi": "10.13140/RG.2.2.14014.86084",
+    "researchgate": "https://www.researchgate.net/publication/415203418",
+    "academia": "https://www.academia.edu/97940312"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Elecciones municipales y reelección de alcaldes en Chile, 1992-2004",
+    "authors": [
+      "Kenneth Bunker",
+      "Patricio Navia"
+    ],
+    "year": 2007,
+    "series": "En Foco",
+    "number": "125",
+    "publisher": "Expansiva",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2007-elecciones-municipales-reeleccion-alcaldes-chile-1992-2004-wp",
+    "researchgate": "https://www.researchgate.net/publication/242587389",
+    "academia": "https://www.academia.edu/3127246"
+  },
+  {
+    "type": "workingpaper",
+    "title": "Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales",
+    "authors": [
+      "Kenneth Bunker"
+    ],
+    "year": 2006,
+    "series": "En Foco",
+    "number": "87",
+    "publisher": "Expansiva",
+    "place": "Santiago",
+    "language": "es",
+    "slug": "2006-revision-experiencias-internacionales-sobre-participacion-ciudadana-politicas-wp",
+    "pdf_file": "Bunker (2006) - Revisión de experiencias internacionales sobre participación ciudadana en políticas sociales.pdf",
+    "doi": "10.13140/RG.2.2.36244.67202",
+    "researchgate": "https://www.researchgate.net/publication/332233927",
+    "academia": "https://www.academia.edu/177034849"
+  }
 ]
