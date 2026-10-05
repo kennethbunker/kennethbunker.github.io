@@ -43,7 +43,9 @@
         "Buy on Amazon",
         "https://www.amazon.com/dp/3031964624"
       ]
-    ]
+    ],
+    "title_es": "La transformación de Chile en medio de la crisis: la paradoja de Teseo",
+    "abstract_es": "Este libro es un análisis integral de la evolución política y económica de Chile, con especial atención a los desafíos de la reforma constitucional y la transformación sistémica en democracias emergentes. Explora temas como el neoliberalismo, la gobernanza y la reforma en contextos de inestabilidad, utilizando a Chile como caso de estudio para iluminar sus implicancias más amplias para los países del Sur Global. A partir de la teoría institucional, la economía política, datos originales y el análisis comparado, desentraña las raíces de la crisis chilena: la fragmentación del sistema de partidos, la erosión del vínculo entre votantes y partidos, la retórica rupturista y los diagnósticos errados de las élites. Es relevante para académicos, tomadores de decisiones y analistas de riesgo que buscan comprender las complejidades de las transiciones democráticas, y ofrece lecciones sobre cómo equilibrar los beneficios del cambio con los riesgos de la inestabilidad. En su núcleo, el libro se propone resolver el problema de cómo implementar reformas constitucionales y sistémicas de manera eficaz, promoviendo la estabilidad, la equidad y el éxito de largo plazo."
   },
   {
     "type": "article",
@@ -62,7 +64,7 @@
     "issn": "0300-3930 (print); 1743-9388 (online)",
     "language": "en",
     "abstract": "Evidence on the impact of electoral reform on party systems in new democracies is limited. This study analyses 1,725 Chilean municipal contests (2004-2021), leveraging automatic, population-triggered increases in council district magnitude and the concurrent timing of first-past-the-post mayoral and proportional representation council elections. Using a difference-in-differences design and mixed-effects models, larger district magnitudes are found to increase the effective number of vote-winning parties, though the marginal effect diminishes at higher magnitudes. Concurrent FPTP elections heighten vote-level fragmentation but not seat-level fragmentation, reflecting conversion limits under proportional representation. Institutional effects materialise gradually over several electoral cycles. The findings show that institutional design exerts an independent effect on party-system fragmentation beyond social structures, extending the institutions-first logic to a subnational PR setting in a new democracy and showing how automatic seat adjustments provide causal leverage for identifying institutional effects.",
-    "abstract_es": null,
+    "abstract_es": "La evidencia sobre el impacto de la reforma electoral en los sistemas de partidos de las democracias nuevas es limitada. Este estudio analiza 1.725 competencias municipales chilenas (2004-2021), aprovechando los aumentos automáticos de la magnitud de distrito de los concejos, gatillados por la población, y la simultaneidad de las elecciones de alcalde por mayoría simple y de concejales por representación proporcional. Mediante un diseño de diferencias en diferencias y modelos de efectos mixtos, se encuentra que magnitudes de distrito más grandes aumentan el número efectivo de partidos que obtienen votos, aunque el efecto marginal disminuye en magnitudes más altas. Las elecciones concurrentes por mayoría simple aumentan la fragmentación a nivel de votos, pero no a nivel de escaños, lo que refleja límites de conversión bajo representación proporcional. Los efectos institucionales se materializan gradualmente a lo largo de varios ciclos electorales. Los hallazgos muestran que el diseño institucional ejerce un efecto independiente sobre la fragmentación del sistema de partidos, más allá de las estructuras sociales, extendiendo la lógica de primacía institucional a un contexto subnacional de representación proporcional en una democracia nueva y mostrando cómo los ajustes automáticos de escaños ofrecen una palanca causal para identificar efectos institucionales.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/410586685",
@@ -72,7 +74,8 @@
     "slug": "2026-electoral-reform-party-system-fragmentation-diminishing-marginal",
     "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/flgs20.v052.i04",
     "pdf_page": 2,
-    "pdf_file": "Bunker (2026) - Electoral reform and party-system fragmentation.pdf"
+    "pdf_file": "Bunker (2026) - Electoral reform and party-system fragmentation.pdf",
+    "title_es": "Reforma electoral y fragmentación del sistema de partidos: efectos marginales decrecientes y límites en la conversión de votos en escaños en las elecciones locales concurrentes de Chile"
   },
   {
     "type": "article",
@@ -91,14 +94,15 @@
     "issn": "1533-1296 (print); 1557-8062 (online)",
     "language": "en",
     "abstract": "This study investigates the determinants of party system fragmentation in new democracies by analyzing the interaction between social diversity and electoral rules in Chile. Drawing on a comprehensive dataset of 5,301 district-level elections conducted between 1989 and 2023, the research finds that ethnic fractionalization shapes the effective number of vote-winning parties, but its impact is strongly mediated by district magnitude and other institutional mechanisms. While ethnic diversity amplifies fragmentation in permissive systems, significant variation is observed across electoral regimes due to contextual factors such as apparentment coalitions and concurrent elections. These findings challenge the universal applicability of existing theories, which often rely on data from consolidated democracies, by highlighting the importance of local and institutional dynamics. The study advances a more nuanced understanding of party system fragmentation in new democracies and identifies promising directions for future research, including exploring the scaling of local cleavages into national divisions, the strategic overlaps in parallel electoral systems, and the temporal dynamics of institutional adaptation.",
-    "abstract_es": null,
+    "abstract_es": "Este estudio investiga los determinantes de la fragmentación del sistema de partidos en democracias nuevas, analizando la interacción entre diversidad social y reglas electorales en Chile. A partir de una base de datos de 5.301 elecciones a nivel de distrito realizadas entre 1989 y 2023, la investigación encuentra que el fraccionamiento étnico incide en el número efectivo de partidos que obtienen votos, pero que su impacto está fuertemente mediado por la magnitud de distrito y otros mecanismos institucionales. Si bien la diversidad étnica amplifica la fragmentación en sistemas permisivos, se observa una variación significativa entre regímenes electorales debido a factores contextuales como los pactos electorales y las elecciones concurrentes. Estos hallazgos cuestionan la aplicabilidad universal de las teorías existentes, que suelen basarse en datos de democracias consolidadas, al destacar la importancia de las dinámicas locales e institucionales. El estudio avanza hacia una comprensión más matizada de la fragmentación del sistema de partidos en democracias nuevas e identifica líneas prometedoras para la investigación futura, incluyendo el escalamiento de clivajes locales hacia divisiones nacionales, los solapamientos estratégicos en sistemas electorales paralelos y la dinámica temporal de la adaptación institucional.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/392021805_Challenging_Conventional_Wisdom_in_New_Democracies_Social_Diversity_Electoral_Rules_and_Party_System_Fragmentation_in_Chile",
     "academia": "https://www.academia.edu/129505428",
     "pdf": null,
     "slug": "2026-challenging-conventional-wisdom-new-democracies-social-diversity",
-    "cover_url": "https://journals.sagepub.com/cms/asset/1e4feef3-c373-4693-bbaa-ede9d1d27a82/elja_28_3.largecover.png"
+    "cover_url": "https://journals.sagepub.com/cms/asset/1e4feef3-c373-4693-bbaa-ede9d1d27a82/elja_28_3.largecover.png",
+    "title_es": "Desafiando el saber convencional en democracias nuevas: diversidad social, reglas electorales y fragmentación del sistema de partidos en Chile"
   },
   {
     "type": "article",
@@ -117,7 +121,7 @@
     "issn": "2662-9992",
     "language": "en",
     "abstract": "Chile was long considered a beacon of stability in a turbulent region, until the 2019 social outburst and two failed constitutional processes prompted a reassessment. We argue that the reliance of much of the literature on national aggregates obscured underlying dynamics that could have raised institutional alerts, and perhaps even diverted the course of the crisis. To test this claim, we focus on the Chilean party system as it has been tied to the fateful events and ask whether inferences would have been different had alternative data been considered. In this effort, we introduce the Chilean Political Landscape Dataset (CPLD), a standardized longitudinal dataset of district-level electoral outcomes and indicators from 1989 to 2024 that includes more than 5300 observations across legislative, regional, and municipal contests. The dataset allows us to highlight meaningful gaps between prevailing explanations and observed patterns, showing why district-level evidence is necessary to identify the sequence, scope, and ideological contours of change. We show that more detailed data suggest that fragmentation began well before 2015, that the party system was drifting leftward over time, and that fragmentation occurred asymmetrically, impacting parties on the left more than those on the right. We argue that this had previously gone untested and unfound because of the lack of data and conclude by illustrating its relevance by showing additional applications of the CPLD, including assessments of social structures and institutional design.",
-    "abstract_es": null,
+    "abstract_es": "Chile fue considerado por mucho tiempo un faro de estabilidad en una región turbulenta, hasta que el estallido social de 2019 y dos procesos constituyentes fallidos obligaron a reevaluarlo. Argumentamos que la dependencia de gran parte de la literatura en agregados nacionales ocultó dinámicas subyacentes que podrían haber encendido alertas institucionales, e incluso desviado el curso de la crisis. Para poner a prueba esta afirmación, nos centramos en el sistema de partidos chileno, por su vínculo con estos acontecimientos, y preguntamos si las inferencias habrían sido distintas de haberse considerado datos alternativos. Con este fin, presentamos la Chilean Political Landscape Dataset (CPLD), una base de datos longitudinal estandarizada de resultados e indicadores electorales a nivel de distrito entre 1989 y 2024, con más de 5.300 observaciones en elecciones legislativas, regionales y municipales. La base de datos permite destacar brechas significativas entre las explicaciones predominantes y los patrones observados, mostrando por qué la evidencia a nivel de distrito es necesaria para identificar la secuencia, el alcance y los contornos ideológicos del cambio. Mostramos que datos más detallados sugieren que la fragmentación comenzó mucho antes de 2015, que el sistema de partidos se fue desplazando hacia la izquierda con el tiempo y que la fragmentación ocurrió de manera asimétrica, afectando más a los partidos de izquierda que a los de derecha. Argumentamos que esto no había sido puesto a prueba ni detectado por falta de datos, y concluimos ilustrando su relevancia con aplicaciones adicionales de la CPLD, incluyendo evaluaciones de estructuras sociales y diseño institucional.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/398598527",
@@ -125,7 +129,8 @@
     "pdf": "https://www.nature.com/articles/s41599-025-06180-1.pdf",
     "article_number": "1911",
     "slug": "2025-decades-democracy-insights-into-political-landscape-chile",
-    "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuFRKbcVLOYvM8jnlfuyLMPUTSxLNI52bEqtf6J3XNHdQVD1S1bB-sxzb&s=10"
+    "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuFRKbcVLOYvM8jnlfuyLMPUTSxLNI52bEqtf6J3XNHdQVD1S1bB-sxzb&s=10",
+    "title_es": "Décadas de democracia: claves sobre el panorama político de Chile"
   },
   {
     "type": "article",
@@ -144,14 +149,15 @@
     "issn": "0894-4393 (print); 1552-8286 (online)",
     "language": "en",
     "abstract": "This study examines electoral forecasting in volatile party systems, focusing on factors contributing to deviations between poll predictions and actual election outcomes. Using Italy as a case study, it identifies biases in polling data and proposes a method to enhance estimator accuracy in a context of stable institutions and volatile electoral dynamics. Data from three Italian general elections are analyzed to evaluate discrepancies between pre-electoral polls and results, assessing key factors such as timing of data collection, survey methodology, sample size, and party system fragmentation. Employing a Bayesian inference process via a Markov chain Monte Carlo adaptive Metropolis-Hastings algorithm, the study demonstrates that pre-electoral estimates can be significantly improved using the Two-Stage Model. By consistently outperforming traditional poll predictions, the Two-Stage Model offers a robust framework for addressing polling biases. These findings advance political forecasting by improving accuracy in both consolidated democracies and volatile electoral contexts, while emphasizing the need for future research on dynamic polling methods and fundamentals-based models.",
-    "abstract_es": null,
+    "abstract_es": "Este estudio examina el pronóstico electoral en sistemas de partidos volátiles, centrándose en los factores que contribuyen a las desviaciones entre las predicciones de las encuestas y los resultados electorales. Usando Italia como caso de estudio, identifica sesgos en los datos de encuestas y propone un método para mejorar la precisión de los estimadores en un contexto de instituciones estables y dinámicas electorales volátiles. Se analizan datos de tres elecciones generales italianas para evaluar las discrepancias entre las encuestas preelectorales y los resultados, considerando factores clave como el momento de recolección de datos, la metodología de la encuesta, el tamaño de la muestra y la fragmentación del sistema de partidos. Empleando un proceso de inferencia bayesiana mediante un algoritmo Metropolis-Hastings adaptativo de cadenas de Markov Monte Carlo, el estudio demuestra que las estimaciones preelectorales pueden mejorarse significativamente con el Two-Stage Model (modelo de dos etapas). Al superar de manera consistente a las predicciones tradicionales de las encuestas, el modelo ofrece un marco sólido para abordar los sesgos de las encuestas. Estos hallazgos hacen avanzar el pronóstico político al mejorar la precisión tanto en democracias consolidadas como en contextos electorales volátiles, y subrayan la necesidad de investigar a futuro métodos dinámicos de encuestas y modelos basados en fundamentos.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/390140669",
     "academia": "https://www.academia.edu/170630425",
     "pdf": null,
     "slug": "2026-electoral-forecasting-volatile-party-system-settings-assessing",
-    "cover_url": "https://journals.sagepub.com/cms/asset/ee268038-a1be-4bc5-a05d-ce7c6420196e/ssce_44_5.largecover.png"
+    "cover_url": "https://journals.sagepub.com/cms/asset/ee268038-a1be-4bc5-a05d-ce7c6420196e/ssce_44_5.largecover.png",
+    "title_es": "Pronóstico electoral en sistemas de partidos volátiles: evaluación y mejora de las predicciones de las encuestas preelectorales en Italia"
   },
   {
     "type": "article",
@@ -170,7 +176,7 @@
     "issn": "1356-9317 (print); 1469-9613 (online)",
     "language": "en",
     "abstract": "This article introduces a novel method to map party systems over time, addressing the challenge of assigning comprehensive spatial ideological scores to coalitions, parties, and independents. Combining public opinion polls, manifesto analysis, and expert surveys, this method evaluates fixed and variable standard deviation models to score distinct 4,157 electoral lists from 5,195 district-level elections across 27 elections in 12 Chilean electoral systems. It proposes a synthetic data approach to simulate party positions within political family constraints, producing a high-density region map and a political lineage chart that visualize ideological evolution over time. Robustness checks, including diagnostics with controlled random noise and variance adjustments, confirm the reliability of these results. Key findings reveal an earlier-than-expected trend of fragmentation, a leftward drift among left-leaning parties, and an asymmetrical party system where fragmentation affects the left while polarization intensifies on the right. This study underscores the importance of expanding within-system estimators to enhance reliability and concludes with research questions that the resulting dataset can address. These include constituency-level shifts in ideological positioning, fragmentation linked to specific institutional reforms, and the dynamics of localized polarization within multiparty systems.",
-    "abstract_es": null,
+    "abstract_es": "Este artículo presenta un método novedoso para mapear los sistemas de partidos en el tiempo, abordando el desafío de asignar puntajes ideológicos espaciales completos a coaliciones, partidos e independientes. Combinando encuestas de opinión pública, análisis de programas y encuestas a expertos, el método evalúa modelos de desviación estándar fija y variable para puntuar 4.157 listas electorales distintas en 5.195 elecciones a nivel de distrito, a lo largo de 27 elecciones en 12 sistemas electorales chilenos. Propone un enfoque de datos sintéticos para simular las posiciones de los partidos dentro de las restricciones de cada familia política, produciendo un mapa de regiones de alta densidad y un gráfico de linaje político que visualizan la evolución ideológica en el tiempo. Las pruebas de robustez, incluyendo diagnósticos con ruido aleatorio controlado y ajustes de varianza, confirman la confiabilidad de los resultados. Los principales hallazgos revelan una tendencia a la fragmentación anterior a lo esperado, un desplazamiento hacia la izquierda de los partidos de izquierda y un sistema de partidos asimétrico, en que la fragmentación afecta a la izquierda mientras la polarización se intensifica en la derecha. El estudio subraya la importancia de ampliar los estimadores intra-sistema para mejorar la confiabilidad y concluye con preguntas de investigación que la base de datos resultante permite abordar. Entre ellas, los cambios de posicionamiento ideológico a nivel de distrito, la fragmentación vinculada a reformas institucionales específicas y la dinámica de la polarización localizada en sistemas multipartidistas.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/388591000",
@@ -179,7 +185,8 @@
     "slug": "2026-mapping-party-systems-over-time-spatial-distribution",
     "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/cjpi20.v031.i03",
     "pdf_page": 2,
-    "pdf_file": "Bunker (2026) - Mapping party systems over time.pdf"
+    "pdf_file": "Bunker (2026) - Mapping party systems over time.pdf",
+    "title_es": "Mapeando los sistemas de partidos en el tiempo: una distribución espacial de la competencia ideológica en Chile"
   },
   {
     "type": "article",
@@ -199,7 +206,7 @@
     "issn": "1354-0688 (print); 1460-3683 (online)",
     "language": "en",
     "abstract": "Prior studies have shown that electoral rules fail to determine the number of parties in new democracies due to the uncertainty of voters and politicians about which parties are viable. Latin American democracies, where electoral volatility has generally remained high and party institutionalization low, have been a primary example of this phenomenon. We argue that even in shifting political environments the fragmentation of the party system is likely to become consistent with the permissiveness of electoral rules and the level of social diversity as voters and party leaders accumulate experience with elections and the rate of electoral regime change declines. We find support for these propositions analyzing an original dataset on Latin American democratic elections. This article contributes to research on electoral systems and political parties by identifying the conditions under which equilibrium electoral outcomes can be expected after a transition to democracy in unstable institutional settings.",
-    "abstract_es": null,
+    "abstract_es": "Estudios previos han mostrado que las reglas electorales no logran determinar el número de partidos en las democracias nuevas debido a la incertidumbre de votantes y políticos sobre qué partidos son viables. Las democracias latinoamericanas, donde la volatilidad electoral se ha mantenido en general alta y la institucionalización partidaria baja, han sido un ejemplo principal de este fenómeno. Argumentamos que, incluso en entornos políticos cambiantes, la fragmentación del sistema de partidos tiende a ajustarse a la permisividad de las reglas electorales y al nivel de diversidad social a medida que votantes y líderes partidarios acumulan experiencia electoral y disminuye la frecuencia de cambios del régimen electoral. Encontramos respaldo para estas proposiciones analizando una base de datos original de elecciones democráticas latinoamericanas. Este artículo contribuye a la investigación sobre sistemas electorales y partidos políticos al identificar las condiciones bajo las cuales cabe esperar resultados electorales de equilibrio tras una transición a la democracia en contextos institucionales inestables.",
     "title_en": null,
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/373710117",
@@ -207,7 +214,8 @@
     "pdf": "https://e-archivo.uc3m.es/bitstreams/7c17e004-8e1f-4b7a-9a80-93ca3f7d00e6/download",
     "pdf_note": "Submitted version",
     "slug": "2024-party-system-effects-unstable-electoral-rules-latin",
-    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
+    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png",
+    "title_es": "Los efectos de reglas electorales inestables sobre los sistemas de partidos en América Latina"
   },
   {
     "type": "article",
@@ -226,7 +234,7 @@
     "issn": "1852-9003; 2660-700X (online)",
     "language": "en",
     "abstract": "The purpose of this article is to explore electoral forecasting in two-horse races in new democracies. Specifically, it applies a Bayesian dynamic linear model (coined the Two-Stage Model, TSM) to look at the 2020 Chilean two-question national plebiscite. The ultimate objective is to test the TSM in terms of accuracy (how close the forecast is to the election results), precision (how close the forecast is to other methods of prediction) and error (how the forecast deviates from perfect accuracy/precision). The article finds that while the TSM does appear to be a stable estimator, its accuracy and precision is affected under certain conditions. Using the difference in the results for each of the two questions, the article discusses how sharp and unexpected shifts in electoral preferences can affect forecasts.",
-    "abstract_es": null,
+    "abstract_es": "El propósito de este artículo es explorar el pronóstico electoral en competencias entre dos alternativas en democracias nuevas. En concreto, aplica un modelo lineal dinámico bayesiano (denominado Two-Stage Model, TSM) al plebiscito nacional chileno de 2020, de dos preguntas. El objetivo final es evaluar el TSM en términos de exactitud (cuán cerca está el pronóstico de los resultados electorales), precisión (cuán cerca está el pronóstico de otros métodos de predicción) y error (cómo se desvía el pronóstico de la exactitud o precisión perfecta). El artículo encuentra que, si bien el TSM parece ser un estimador estable, su exactitud y precisión se ven afectadas bajo ciertas condiciones. A partir de la diferencia en los resultados de cada una de las dos preguntas, el artículo discute cómo cambios bruscos e inesperados en las preferencias electorales pueden afectar los pronósticos.",
     "title_en": null,
     "keywords": [
       "Bayesian inference",
@@ -239,7 +247,8 @@
     "academia": "https://www.academia.edu/97940315",
     "pdf": "https://revistas.usal.es/index.php/1852-9003/article/download/25374/28271",
     "slug": "2022-forecasting-two-horse-races-new-democracies-accuracy",
-    "cover_url": "https://revistas.usal.es/cuatro/public/journals/52/homepageImage_en_US.jpg"
+    "cover_url": "https://revistas.usal.es/cuatro/public/journals/52/homepageImage_en_US.jpg",
+    "title_es": "Pronosticando competencias entre dos alternativas en democracias nuevas: exactitud, precisión y error"
   },
   {
     "type": "article",
@@ -258,7 +267,7 @@
     "issn": "0169-2070 (print); 1872-8200 (online)",
     "language": "en",
     "abstract": "The purpose of this article is to propose a method to minimize the difference between electoral predictions and electoral results. It builds on findings that stem from established democracies, where most of the research has been carried out, but it focuses on filling the gap for developing nations, which have thus far been neglected by the literature. It proposes a two-stage model in which data are first collected, filtered and weighed according to biases, and then output using Bayesian algorithms and Markov chains. It tests the specification using data stemming from 11 Latin American countries. It shows that the model is remarkably accurate. In comparison to polls, not only does it produce more precise estimates for every election, but it also produces a more accurate forecast for nine out of every ten candidates. The article closes with a discussion on the limitations of the model and a proposal for future research.",
-    "abstract_es": null,
+    "abstract_es": "El propósito de este artículo es proponer un método para minimizar la diferencia entre las predicciones electorales y los resultados electorales. Se basa en hallazgos provenientes de democracias establecidas, donde se ha concentrado la mayor parte de la investigación, pero busca llenar el vacío respecto de los países en desarrollo, hasta ahora desatendidos por la literatura. Propone un modelo de dos etapas en el que los datos primero se recolectan, filtran y ponderan según sus sesgos, y luego se procesan mediante algoritmos bayesianos y cadenas de Markov. Pone a prueba la especificación con datos de 11 países latinoamericanos. Muestra que el modelo es notablemente exacto. En comparación con las encuestas, no solo produce estimaciones más precisas para cada elección, sino que también genera un pronóstico más exacto para nueve de cada diez candidatos. El artículo cierra con una discusión sobre las limitaciones del modelo y una propuesta para investigaciones futuras.",
     "title_en": null,
     "keywords": [
       "Electoral forecasting",
@@ -272,7 +281,8 @@
     "academia": "https://www.academia.edu/42049981/A_two_stage_model_to_forecast_elections_in_new_democracies",
     "pdf": null,
     "slug": "2020-two-stage-model-forecast-elections-new-democracies",
-    "cover_url": "https://ars.els-cdn.com/content/image/X01692070.jpg"
+    "cover_url": "https://ars.els-cdn.com/content/image/X01692070.jpg",
+    "title_es": "Un modelo de dos etapas para pronosticar elecciones en democracias nuevas"
   },
   {
     "type": "article",
@@ -324,7 +334,7 @@
     "issn": "1531-426X (print); 1548-2456 (online)",
     "language": "en",
     "abstract": "It has normally been argued that because compulsory voting systems present higher turnout rates relative to voluntary voting systems, they do not generate as many biases between different groups of voters. This article qualifies that view. It argues that in cases in which compulsory voting does not ensure near-universal participation, there is no certainty that switching to voluntary voting will increase inequalities. This issue is examined by looking at Chile, a democracy that moved from compulsory to voluntary voting in 2012. The research finds that while the reform generated class bias in urban districts, it also substantially reduced age bias and, in national elections, equalized participation between small and large districts. The conclusion is that abandoning compulsory voting does not necessarily increase turnout biases, since much depends on the structure of preexisting biases, and how these are conditioned by particular electoral institutions.",
-    "abstract_es": null,
+    "abstract_es": "Se ha argumentado normalmente que, como los sistemas de voto obligatorio presentan tasas de participación más altas que los de voto voluntario, no generan tantos sesgos entre distintos grupos de votantes. Este artículo matiza esa visión. Argumenta que, en los casos en que el voto obligatorio no asegura una participación casi universal, no hay certeza de que el cambio a voto voluntario aumente las desigualdades. El tema se examina a partir del caso de Chile, una democracia que pasó del voto obligatorio al voluntario en 2012. La investigación encuentra que, si bien la reforma generó un sesgo de clase en los distritos urbanos, también redujo sustancialmente el sesgo etario y, en elecciones nacionales, igualó la participación entre distritos pequeños y grandes. La conclusión es que abandonar el voto obligatorio no necesariamente aumenta los sesgos de participación, ya que mucho depende de la estructura de los sesgos preexistentes y de cómo estos son condicionados por instituciones electorales específicas.",
     "title_en": null,
     "keywords": [
       "compulsory voting",
@@ -337,7 +347,8 @@
     "academia": "https://www.academia.edu/97940308",
     "pdf": null,
     "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform",
-    "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg"
+    "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg",
+    "title_es": "Igualación de votantes y sesgo de participación tras una reforma electoral: evidencia de la ley de voto voluntario en Chile"
   },
   {
     "type": "article",
@@ -356,7 +367,7 @@
     "issn": "0048-7694 (print); 1989-0613 (online)",
     "language": "en",
     "abstract": "The purpose of this article is to explore coalition formation in presidential systems using evidence from Latin America. It puts forward three hypotheses based on formateur power, electoral structures and party systems to explore when and why electoral and government coalition formation occurs. It uses evidence stemming from eighteen democratic presidential regimes in Latin America from 1980 to 2010. It looks at 100 elections and 407 aggregate years of democratic government. It analyses data organized in a cross-sectional time-series fashion through a logit function with random effects and robust standard errors. It finds that in democracies with weak presidents, restrictive electoral rules and highly fragmented party systems, the president will seek the support of multiple parties. While the effective number of parties is the most important determinant, rules related to legislative elections are more important predictors of electoral coalitions, and those related to presidential elections are more important predictors of government coalitions. The findings in this article are important insofar as yielding critical insight into partisan strategies in both the run-up to elections and the maintenance of governments, as well as contributing to a general theory of coalition formation.",
-    "abstract_es": null,
+    "abstract_es": "El propósito de este artículo es explorar la formación de coaliciones en sistemas presidenciales con evidencia de América Latina. Plantea tres hipótesis basadas en el poder del formador, las estructuras electorales y los sistemas de partidos para explorar cuándo y por qué se forman coaliciones electorales y de gobierno. Utiliza evidencia de dieciocho regímenes presidenciales democráticos de América Latina entre 1980 y 2010. Examina 100 elecciones y 407 años agregados de gobierno democrático. Analiza datos organizados como series de tiempo transversales mediante una función logit con efectos aleatorios y errores estándar robustos. Encuentra que en democracias con presidentes débiles, reglas electorales restrictivas y sistemas de partidos muy fragmentados, el presidente buscará el apoyo de múltiples partidos. Si bien el número efectivo de partidos es el determinante más importante, las reglas de las elecciones legislativas son mejores predictores de las coaliciones electorales, y las de las elecciones presidenciales son mejores predictores de las coaliciones de gobierno. Los hallazgos de este artículo son importantes en la medida en que aportan una comprensión clave de las estrategias partidarias tanto en la antesala de las elecciones como en la mantención de los gobiernos, además de contribuir a una teoría general de la formación de coaliciones.",
     "title_en": null,
     "keywords": [
       "Presidentialism",
@@ -368,7 +379,8 @@
     "academia": "https://www.academia.edu/111323659",
     "pdf": "https://recyt.fecyt.es/index.php/RevEsPol/article/download/76893/47198",
     "slug": "2019-why-do-parties-cooperate-presidentialism-electoral-government",
-    "cover_url": "https://recyt.fecyt.es/public/journals/137/cover_issue_4968_es_ES.png"
+    "cover_url": "https://recyt.fecyt.es/public/journals/137/cover_issue_4968_es_ES.png",
+    "title_es": "¿Por qué cooperan los partidos en el presidencialismo? Formación de coaliciones electorales y de gobierno en América Latina"
   },
   {
     "type": "article",
@@ -429,7 +441,9 @@
     "academia": "https://www.academia.edu/40482168/Electoral_Forecasting_and_Public_Opinion_Tracking_in_Latin_America",
     "pdf": "https://revistapolitica.uchile.cl/index.php/RP/article/download/44781/46856/157873",
     "slug": "2016-electoral-forecasting-public-opinion-tracking-latin-america",
-    "cover_url": "https://revistapolitica.uchile.cl/public/journals/68/cover_issue_6552_es_ES.jpg"
+    "cover_url": "https://revistapolitica.uchile.cl/public/journals/68/cover_issue_6552_es_ES.jpg",
+    "title_es": "Pronóstico electoral y seguimiento de la opinión pública en América Latina: una aplicación a Chile",
+    "abstract_es": "El propósito de este artículo es explorar el pronóstico electoral y el seguimiento de la opinión pública en América Latina. Revisamos distintos enfoques utilizados para estimar el valor real de la opinión pública y evaluamos el alcance de su aplicación. Nos centramos en el pronóstico de la noche electoral y en el seguimiento de la variación durante la campaña en América Latina. Proponemos un modelo de dos etapas basado en la agregación de encuestas y la inferencia bayesiana. Presentamos datos de dos elecciones presidenciales en Chile. Ponemos a prueba el modelo y mostramos que entrega la estimación puntual más exacta para el pronóstico de la noche electoral y el método más completo de seguimiento de la variación durante la campaña."
   },
   {
     "type": "article",
@@ -459,7 +473,9 @@
     "academia": "https://www.academia.edu/97940300",
     "pdf": "https://www.scielo.cl/pdf/revcipol/v35n2/art01.pdf",
     "slug": "2015-incumbency-advantage-tenure-length-chilean-chamber-deputies",
-    "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=28672"
+    "cover_url": "https://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&tipo_contenido=65&revista=28672",
+    "title_es": "Ventaja del incumbente y duración de las carreras en la Cámara de Diputados de Chile, 1989-2009",
+    "abstract_es": "Este artículo explora la ventaja del incumbente y la duración de las carreras en la Cámara de Diputados de Chile entre 1989 y 2009. Tras describir cómo el sistema electoral enmarca la competencia electoral, presentamos datos descriptivos sobre la ventaja del incumbente y la duración de las carreras. Hay una notable estabilidad en ambos indicadores. Tres de cada cuatro incumbentes buscan la reelección y el 82,3% es reelecto. Aun así, cada cuatro años, los diputados en su primer período representan el 38,5% de la Cámara de 120 miembros. La duración promedio de las carreras es de 2,4 períodos. Encontramos un efecto neutro del desempeño electoral previo y del número de períodos en el cargo sobre la decisión de buscar la reelección y de ser reelecto. Sin embargo, los resultados se vuelven significativos cuando controlamos por la coalición del legislador incumbente."
   },
   {
     "type": "article",
@@ -484,7 +500,8 @@
     "pdf": null,
     "landing_oa": "https://eprints.lse.ac.uk/",
     "slug": "2014-2013-presidential-legislative-elections-chile",
-    "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg"
+    "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg",
+    "title_es": "Las elecciones presidenciales y legislativas de 2013 en Chile"
   },
   {
     "type": "article",
@@ -509,7 +526,9 @@
     "academia": "https://www.academia.edu/97940306",
     "pdf": null,
     "slug": "2013-latin-american-political-outsiders-revisited-case-marco",
-    "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png"
+    "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png",
+    "title_es": "Los outsiders políticos latinoamericanos, revisitados: el caso de Marco Enríquez-Ominami en Chile, 2009",
+    "abstract_es": "Este artículo aplica el debate sobre la reciente aparición de candidatos outsiders en América Latina al candidato presidencial independiente Marco Enríquez-Ominami (ME-O) en Chile en 2009. Ponemos a prueba cinco hipótesis alternativas para explicar su éxito electoral. Primero, su apoyo se explica por la consolidación de la democracia, reflejada en la disposición de los votantes a dejar de lado a los candidatos alineados con el eje autoritarismo/democracia. Segundo, su apoyo se explica por el declive de la identificación ideológica, reflejado en la disposición de los votantes a preferir candidatos no tradicionales. Tercero, su apoyo se explica por el resurgimiento de la izquierda, reflejado en la disposición de los votantes a identificarse con candidatos contrarios al Consenso de Washington. Cuarto, su apoyo se explica por la demanda de una acción rápida del gobierno, reflejada en la predisposición de los votantes a considerar candidatos que resuelvan los problemas rápidamente aunque no consulten su opinión. Quinto, su apoyo se explica por el declive del apoyo a los partidos establecidos, reflejado en la predisposición de los votantes a favorecer candidatos antisistema. Utilizamos datos de encuestas para poner a prueba estas hipótesis. No encontramos evidencia que respalde que ME-O se ajuste a alguna de estas explicaciones. Aunque fue ampliamente calificado como outsider, su éxito parece responder a asuntos nacionales más que a un patrón regional."
   },
   {
     "type": "article",
@@ -630,7 +649,9 @@
         "Buy on Amazon",
         "https://www.amazon.com/dp/100942744X"
       ]
-    ]
+    ],
+    "title_es": "Entre el gatopardismo y el cambio ideacional: el sinuoso camino de la derecha tradicional chilena hacia la moderación",
+    "abstract_es": "Este capítulo explica cómo la derecha chilena se ha reconfigurado a raíz de la crisis multidimensional que ha sacudido a Chile desde fines de 2019. Los autores analizan cómo las tensiones en torno a la competencia y la identidad han afectado a los actores relevantes y estructurado sus percepciones, cálculos y comportamientos. Examinan los cambios y continuidades ideacionales del camino de la derecha chilena hacia la moderación. Argumentan que los procesos conjuntos de liberalización y democratización dieron origen a una estrategia gatopardista de \"cambiar para que todo siga igual\". Esta se caracterizó por la moderación programática de los candidatos de la coalición hasta la campaña de 2017, con los partidos tradicionales de derecha desplazándose hacia el centro en la medida en que no amenazaran los pilares del modelo neoliberal. Sin embargo, cuando los partidos de centro y de izquierda buscaron reformar significativamente el núcleo institucional, la derecha tradicional reaccionó y se desplazó más hacia la derecha en el continuo ideológico."
   },
   {
     "type": "chapter",
@@ -865,7 +886,8 @@
     "academia": "https://www.academia.edu/111323653",
     "pdf": null,
     "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority",
-    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png"
+    "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png",
+    "title_es": "Reseña: Coalitional Presidentialism in Comparative Perspective. Minority Presidents in Multiparty Systems"
   },
   {
     "type": "review",
@@ -889,7 +911,8 @@
     "academia": "https://www.academia.edu/97940307",
     "pdf": null,
     "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian",
-    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07"
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07",
+    "title_es": "Reseña: Cultural backlash: Trump, Brexit, and authoritarian populism"
   },
   {
     "type": "review",
@@ -913,7 +936,8 @@
     "academia": "https://www.academia.edu/97940309",
     "pdf": null,
     "slug": "2019-review-latin-american-elections-choice-change",
-    "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg"
+    "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg",
+    "title_es": "Reseña: Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon y François Gélineau, Latin American Elections: Choice and Change"
   },
   {
     "type": "review",
@@ -937,7 +961,8 @@
     "academia": "https://www.academia.edu/97940305",
     "pdf": null,
     "slug": "2019-review-party-systems-latin-america-institutionalization",
-    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03"
+    "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03",
+    "title_es": "Reseña: Party systems in Latin America: institutionalization, decay, and collapse, editado por Scott Mainwaring"
   },
   {
     "type": "review",
@@ -961,7 +986,8 @@
     "academia": "https://www.academia.edu/97940304/Matthew_S_Shugart_and_Rein_Taagepera_Votes_from_seats_logical_models_of_electoral_systems",
     "pdf": null,
     "slug": "2019-review-votes-seats-logical-models-electoral",
-    "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127"
+    "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127",
+    "title_es": "Reseña: Matthew S. Shugart y Rein Taagepera, Votes from seats: logical models of electoral systems"
   },
   {
     "type": "dataset",
@@ -991,7 +1017,9 @@
     "researchgate": "https://www.researchgate.net/publication/415206181_Chilean_Political_Landscape_Dataset_CPLD",
     "academia": "https://www.academia.edu/177025396",
     "pdf": null,
-    "slug": "2025-chilean-political-landscape-dataset-cpld"
+    "slug": "2025-chilean-political-landscape-dataset-cpld",
+    "title_es": "Chilean Political Landscape Dataset (CPLD): base de datos del panorama político chileno",
+    "abstract_es": "La Chilean Political Landscape Dataset (CPLD) reúne indicadores a nivel de distrito sobre la competencia electoral, la estructura del sistema de partidos y el diseño institucional a lo largo de varias décadas de la experiencia democrática chilena."
   },
   {
     "type": "dataset",

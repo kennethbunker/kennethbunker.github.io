@@ -365,7 +365,7 @@ def detail_rows(e, L="en"):
     if k in ("article", "review"):
         r += [("Journal", e["journal"]), ("Volume", e.get("volume")), ("Issue", e.get("issue")), ("Pages", e.get("pages")),
               ("Article number", e.get("article_number")), ("Status", e.get("status"))]
-    if k == "review": r += [("Book reviewed", f"{e['reviewed_title']}, by {e['reviewed_authors']}")]
+    if k == "review": r += [("Book reviewed", f"{e['reviewed_title']}, {'de' if L == 'es' else 'by'} {e['reviewed_authors']}")]
     if k == "chapter": r += [("Book", e["book_title"]), ("Editors", ", ".join(e.get("editors") or []) or None), ("Pages", e.get("pages")), ("Status", e.get("status"))]
     if k in ("ideas", "workingpaper"): r += [("Series", e["series"]), ("Number", e.get("number")), ("Pages", e.get("pages"))]
     if k == "book": r += [("Pages", e.get("pages_total"))]
@@ -547,9 +547,9 @@ def item_page(e):
         ab += f'<p class="lbl">{e.get("abstract_label") or ABL[L]}</p>\n<p class="abstract">{E(orig_ab)}</p>'
     if e["type"] == "review":
         ab += f'<p><em>Review of</em> {E(e["reviewed_title"])}, by {E(e["reviewed_authors"])}.</p>'
-    alt = f'<p class="text-muted">English title: {E(oth_t)}</p>' if (oth_t and not oth_ab and O == "en") else ""
+    alt = ""
     second = ""
-    if oth_t and oth_ab:
+    if oth_t:
         hdr = {"en": "English version", "es": "Versión en español"}[O]
         second = f"""<hr class="mt-5">
 <div lang="{O}">
@@ -558,8 +558,7 @@ def item_page(e):
 <h2 style="font-size:1.4rem">{E(oth_t)}</h2>
 <p>{authors_html(e['authors'])}</p>
 <p>{venue_html(e, O)}</p>
-<p class="lbl">{ABL[O]}</p>
-<p class="abstract">{E(oth_ab)}</p>
+{f'<p class="lbl">{ABL[O]}</p>' + chr(10) + f'<p class="abstract">{E(oth_ab)}</p>' if oth_ab else ""}
 <p class="lbl">{DET[O]}</p>
 <div class="dgrid">
 {detail_rows(e, O)}
