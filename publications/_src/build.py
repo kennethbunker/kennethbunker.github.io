@@ -31,6 +31,14 @@ SECTIONS = [
     ("ideas", "Policy briefs and short studies", None),
     ("report", "Reports", None),
 ]
+TYPE_LABEL_ES = {"book": "Libro", "article": "Artículo", "chapter": "Capítulo de libro", "review": "Reseña de libro",
+              "dataset": "Base de datos", "ideas": "Policy brief", "report": "Informe", "workingpaper": "Policy brief"}
+LBL_ES = {"Journal": "Revista", "Volume": "Volumen", "Issue": "Número", "Pages": "Páginas", "Article number": "Artículo",
+          "Status": "Estado", "Book reviewed": "Libro reseñado", "Book": "Libro", "Editors": "Editores", "Series": "Serie",
+          "Number": "Número", "Version": "Versión", "License": "Licencia", "Year": "Año", "Published online": "Publicado en línea",
+          "Publisher": "Editorial", "Place": "Lugar", "DOI": "DOI", "ISSN": "ISSN", "ISBN": "ISBN", "Website": "Sitio web",
+          "Type": "Tipo", "Authors": "Autores", "Language": "Idioma"}
+def tl(k, L): return (TYPE_LABEL_ES if L == "es" else TYPE_LABEL)[k]
 TYPE_LABEL = {"book": "Book", "article": "Journal article", "chapter": "Book chapter", "review": "Book review",
               "dataset": "Dataset", "ideas": "Policy brief", "report": "Report", "workingpaper": "Policy brief"}
 
@@ -77,26 +85,26 @@ def bibkey(e):
 def year_str(e):
     return str(e["year"]) if e.get("year") else "Forthcoming"
 
-def venue_html(e):
+def venue_html(e, L="en"):
     t = e["type"]
     if t in ("article", "review"):
         s = f"<em>{E(e['journal'])}</em>"
         if e.get("volume"): s += f" {E(e['volume'])}"
         if e.get("issue"): s += f"({E(e['issue'])})"
         if e.get("pages"): s += f": {E(e['pages'])}"
-        if e.get("article_number"): s += f", article {E(e['article_number'])}"
+        if e.get("article_number"): s += f", {'artículo' if L == 'es' else 'article'} {E(e['article_number'])}"
         if e.get("status"): s += f" ({E(e['status'])})"
         return s
     if t == "chapter":
-        s = f"In <em>{E(e['book_title'])}</em>"
-        if e.get("editors"): s += f", edited by {E(', '.join(e['editors']))}"
+        s = f"{'En' if L == 'es' else 'In'} <em>{E(e['book_title'])}</em>"
+        if e.get("editors"): s += f", {'editado por' if L == 'es' else 'edited by'} {E(', '.join(e['editors']))}"
         if e.get("pages"): s += f", pp. {E(e['pages'])}"
         if e.get("publisher"): s += f". {E(e['publisher'])}"
         return s
     if t == "book":
         return f"{E(e['publisher'])}, {E(e.get('pages_total',''))} pp."
     if t == "dataset":
-        return E(e["publisher"]) + (f", version {E(e['version'])}" if e.get("version") else "")
+        return E(e["publisher"]) + (f", {'versión' if L == 'es' else 'version'} {E(e['version'])}" if e.get("version") else "")
     if t == "ideas":
         return f"<em>{E(e['series'])}</em> {E(e['number'])}" + (f": {E(e['pages'])}" if e.get("pages") else "")
     if t == "report":
@@ -346,7 +354,7 @@ def short_desc(e):
         return s[:157].rsplit(" ", 1)[0] + "…" if len(s) > 160 else s
     return f"{TYPE_LABEL[e['type']]} by {', '.join(e['authors'])} ({year_str(e)})."
 
-def detail_rows(e):
+def detail_rows(e, L="en"):
     r = [("Type", TYPE_LABEL[e["type"]]), ("Authors", ", ".join(e["authors"]))]
     k = e["type"]
     if k in ("article", "review"):
@@ -362,12 +370,13 @@ def detail_rows(e):
           ("Place", e.get("place")), ("ISSN", e.get("issn")), ("ISBN", e.get("isbn")),
           ("DOI", f'<a href="https://doi.org/{E(e["doi"])}">{E(e["doi"])}</a>' if e.get("doi") else None),
           ("Language", {"en": "English", "es": "Spanish"}.get(e.get("language")))]
+    if L == "es" and e.get("status"): r = [(n, {"Forthcoming": "En prensa"}.get(v, v) if n == "Status" else v) for n, v in r]
     if e.get("url") and e["type"] in ("book", "dataset"): r.append(("Website", f'<a href="{E(e["url"])}">{E(e["url"])}</a>'))
     out = []
     for n, v in r:
         if v in (None, "", []): continue
         if n in ("Type", "Authors", "Language", "Place"): continue
-        out.append(f"<div class=\"dk\">{n}</div><div class=\"dv\">{v if n in ('DOI','Website') else E(v)}</div>")
+        out.append(f"<div class=\"dk\">{LBL_ES.get(n, n) if L == 'es' else n}</div><div class=\"dv\">{v if n in ('DOI','Website') else E(v)}</div>")
     return "\n".join(out)
 
 
@@ -518,18 +527,39 @@ CITE_BTN = '<button class="pbtn more" onclick="tog(\'citebox\',this)">Cite</butt
 def item_page(e):
     url = BASE + e["slug"] + "/"
     t = e["title"]
+    L = e.get("language") or "en"
+    O = "en" if L == "es" else "es"
+    if L == "es" and e.get("abstract_es"):
+        orig_ab, oth_t, oth_ab = e["abstract_es"], e.get("title_en"), e.get("abstract")
+    elif L == "es":
+        orig_ab, oth_t, oth_ab = e.get("abstract"), e.get("title_en"), e.get("abstract_en")
+    else:
+        orig_ab, oth_t, oth_ab = e.get("abstract"), e.get("title_es"), e.get("abstract_es")
+    ABL = {"en": "Abstract", "es": "Resumen"}
+    DET = {"en": "Details", "es": "Detalles"}
     ab = ""
-    if e.get("abstract"):
-        lab = e.get("abstract_label") or ("Abstract" if e.get("language") != "es" or e.get("abstract_es") else "Resumen")
-        ab += f'<p class="lbl">{lab}</p>\n<p class="abstract">{E(e["abstract"])}</p>'
-    if e.get("abstract_es"):
-        ab += f'<p class="lbl">Resumen</p>\n<p class="abstract" lang="es">{E(e["abstract_es"])}</p>'
+    if orig_ab:
+        ab += f'<p class="lbl">{e.get("abstract_label") or ABL[L]}</p>\n<p class="abstract">{E(orig_ab)}</p>'
     if e["type"] == "review":
         ab += f'<p><em>Review of</em> {E(e["reviewed_title"])}, by {E(e["reviewed_authors"])}.</p>'
-    kw = ""
-    if e.get("keywords"):
-        kw = '<h3>Keywords</h3><p>' + "".join(f'<span class="tag">{E(k)}</span>' for k in e["keywords"]) + "</p>"
-    alt = f'<p class="text-muted">English title: {E(e["title_en"])}</p>' if e.get("title_en") else ""
+    alt = f'<p class="text-muted">English title: {E(oth_t)}</p>' if (oth_t and not oth_ab and O == "en") else ""
+    second = ""
+    if oth_t and oth_ab:
+        hdr = {"en": "English version", "es": "Versión en español"}[O]
+        second = f"""<hr class="mt-5">
+<div lang="{O}">
+<p class="lbl">{hdr}</p>
+<p class="text-muted small mb-1">{E(tl(e['type'], O))} &middot; {E(year_str(e))}</p>
+<h2 style="font-size:1.4rem">{E(oth_t)}</h2>
+<p>{authors_html(e['authors'])}</p>
+<p>{venue_html(e, O)}</p>
+<p class="lbl">{ABL[O]}</p>
+<p class="abstract">{E(oth_ab)}</p>
+<p class="lbl">{DET[O]}</p>
+<div class="dgrid">
+{detail_rows(e, O)}
+</div>
+</div>"""
     bid = "bib"; cid = "cit"
     page = f"""<!DOCTYPE html>
 <html lang="{E(e.get('language') or 'en')}"><head>
@@ -555,11 +585,11 @@ def item_page(e):
 <div id="content"><div class="container">
 <p class="small"><a href="{BASE}">&larr; All publications</a></p>
 <div class="ihead"><div class="ihtext">
-<p class="text-muted small mb-1">{E(TYPE_LABEL[e['type']])} &middot; {E(year_str(e))}</p>
+<p class="text-muted small mb-1">{E(tl(e['type'], L))} &middot; {E(year_str(e))}</p>
 <h1 style="font-size:1.6rem">{E(t)}</h1>
 {alt}
 <p>{authors_html(e['authors'])}</p>
-<p>{venue_html(e)}</p>
+<p>{venue_html(e, L)}</p>
 </div></div>
 {btns(e, CITE_BTN)}
 <div class="bibbox" id="citebox">
@@ -568,10 +598,11 @@ def item_page(e):
 <div class="pbtns"><button class="pbtn more" onclick="cp('{cid}',this)">Copy citation</button><button class="pbtn more" onclick="cp('{bid}',this)">Copy BibTeX</button><a class="pbtn more" href="data:application/x-bibtex;charset=utf-8,{E(urllib.parse.quote(bibtex(e)))}" download="{bibkey(e)}.bib">Download .bib</a></div>
 </div>
 <div class="mt-4 abwrap">{fp_html(e)}<div class="abtext">{ab}</div></div>
-<p class="lbl">Details</p>
+<p class="lbl">{DET[L]}</p>
 <div class="dgrid">
-{detail_rows(e)}
+{detail_rows(e, L)}
 </div>
+{second}
 {FOOT}"""
     d = os.path.join(PUBDIR, e["slug"])
     os.makedirs(d, exist_ok=True)
