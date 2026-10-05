@@ -334,7 +334,12 @@ def jsonld(e):
          "url": BASE + e["slug"] + "/", "inLanguage": e.get("language")}
     if e.get("year"): d["datePublished"] = str(e["year"])
     if e.get("doi"): d["identifier"] = {"@type": "PropertyValue", "propertyID": "DOI", "value": e["doi"]}; d["sameAs"] = "https://doi.org/" + e["doi"]
-    if e.get("abstract"): d["abstract"] = e["abstract"]
+    L = e.get("language") or "en"
+    if L == "es" and e.get("abstract_es"): oab, ot = e["abstract_es"], e.get("title_en")
+    elif L == "es": oab, ot = e.get("abstract"), e.get("title_en")
+    else: oab, ot = e.get("abstract"), e.get("title_es")
+    if oab: d["abstract"] = oab
+    if ot: d["alternativeHeadline"] = ot; d["alternateName"] = ot
     if e.get("keywords"): d["keywords"] = ", ".join(e["keywords"])
     if e.get("publisher"): d["publisher"] = {"@type": "Organization", "name": e["publisher"]}
     if e["type"] in ("article", "review"):
