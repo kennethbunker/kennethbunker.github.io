@@ -348,7 +348,8 @@
     "pdf": null,
     "slug": "2019-voter-equalization-turnout-bias-after-electoral-reform",
     "cover_url": "https://static.cambridge.org/covers/LAP_0_0_0/latin_american%20politics%20and%20society.jpg",
-    "title_es": "Igualación de votantes y sesgo de participación tras una reforma electoral: evidencia de la ley de voto voluntario en Chile"
+    "title_es": "Igualación de votantes y sesgo de participación tras una reforma electoral: evidencia de la ley de voto voluntario en Chile",
+    "pdf_file": "Brieba & Bunker (2019) - Voter Equalization and Turnout Bias After Electoral Reform.pdf"
   },
   {
     "type": "article",
@@ -493,7 +494,7 @@
     "publisher": "Elsevier",
     "issn": "0261-3794",
     "language": "en",
-    "abstract": null,
+    "abstract": "President-elect Michelle Bachelet obtained the highest majority of votes since the return to democracy. Bachelet's coalition, Nueva Mayoría, obtained a high vote percentage in the concurrent legislative election. Because of the high quorums required to make constitutional changes, her future government will be characterized by legislative negotiations.",
     "keywords": [],
     "researchgate": "https://www.researchgate.net/publication/259994949_The_2013_Presidential_and_Legislative_Elections_in_Chile",
     "academia": "https://www.academia.edu/111323661",
@@ -501,7 +502,10 @@
     "landing_oa": "https://eprints.lse.ac.uk/",
     "slug": "2014-2013-presidential-legislative-elections-chile",
     "cover_url": "https://ars.els-cdn.com/content/image/X02613794.jpg",
-    "title_es": "Las elecciones presidenciales y legislativas de 2013 en Chile"
+    "title_es": "Las elecciones presidenciales y legislativas de 2013 en Chile",
+    "abstract_label": "Highlights",
+    "abstract_es": "La presidenta electa Michelle Bachelet obtuvo la mayor votación desde el retorno a la democracia. La coalición de Bachelet, la Nueva Mayoría, obtuvo un alto porcentaje de votos en la elección legislativa concurrente. Debido a los altos quórums requeridos para realizar cambios constitucionales, su futuro gobierno estará marcado por negociaciones legislativas.",
+    "pdf_file": "Bunker (2014) - The 2013 presidential and legislative elections in Chile.pdf"
   },
   {
     "type": "article",
@@ -528,7 +532,9 @@
     "slug": "2013-latin-american-political-outsiders-revisited-case-marco",
     "cover_url": "https://journals.sagepub.com/cms/asset/c0232d63-9ba4-424d-af92-3e9a71dfe303/plaa_18_2.largecover.png",
     "title_es": "Los outsiders políticos latinoamericanos, revisitados: el caso de Marco Enríquez-Ominami en Chile, 2009",
-    "abstract_es": "Este artículo aplica el debate sobre la reciente aparición de candidatos outsiders en América Latina al candidato presidencial independiente Marco Enríquez-Ominami (ME-O) en Chile en 2009. Ponemos a prueba cinco hipótesis alternativas para explicar su éxito electoral. Primero, su apoyo se explica por la consolidación de la democracia, reflejada en la disposición de los votantes a dejar de lado a los candidatos alineados con el eje autoritarismo/democracia. Segundo, su apoyo se explica por el declive de la identificación ideológica, reflejado en la disposición de los votantes a preferir candidatos no tradicionales. Tercero, su apoyo se explica por el resurgimiento de la izquierda, reflejado en la disposición de los votantes a identificarse con candidatos contrarios al Consenso de Washington. Cuarto, su apoyo se explica por la demanda de una acción rápida del gobierno, reflejada en la predisposición de los votantes a considerar candidatos que resuelvan los problemas rápidamente aunque no consulten su opinión. Quinto, su apoyo se explica por el declive del apoyo a los partidos establecidos, reflejado en la predisposición de los votantes a favorecer candidatos antisistema. Utilizamos datos de encuestas para poner a prueba estas hipótesis. No encontramos evidencia que respalde que ME-O se ajuste a alguna de estas explicaciones. Aunque fue ampliamente calificado como outsider, su éxito parece responder a asuntos nacionales más que a un patrón regional."
+    "abstract_es": "Este artículo aplica el debate sobre la reciente aparición de candidatos outsiders en América Latina al candidato presidencial independiente Marco Enríquez-Ominami (ME-O) en Chile en 2009. Ponemos a prueba cinco hipótesis alternativas para explicar su éxito electoral. Primero, su apoyo se explica por la consolidación de la democracia, reflejada en la disposición de los votantes a dejar de lado a los candidatos alineados con el eje autoritarismo/democracia. Segundo, su apoyo se explica por el declive de la identificación ideológica, reflejado en la disposición de los votantes a preferir candidatos no tradicionales. Tercero, su apoyo se explica por el resurgimiento de la izquierda, reflejado en la disposición de los votantes a identificarse con candidatos contrarios al Consenso de Washington. Cuarto, su apoyo se explica por la demanda de una acción rápida del gobierno, reflejada en la predisposición de los votantes a considerar candidatos que resuelvan los problemas rápidamente aunque no consulten su opinión. Quinto, su apoyo se explica por el declive del apoyo a los partidos establecidos, reflejado en la predisposición de los votantes a favorecer candidatos antisistema. Utilizamos datos de encuestas para poner a prueba estas hipótesis. No encontramos evidencia que respalde que ME-O se ajuste a alguna de estas explicaciones. Aunque fue ampliamente calificado como outsider, su éxito parece responder a asuntos nacionales más que a un patrón regional.",
+    "pdf_file": "Bunker & Navia (2013) - Latin American Political Outsiders, Revisited.pdf",
+    "pdf_page": 2
   },
   {
     "type": "article",
@@ -716,16 +722,16 @@
     "abstract_en": "This chapter examines reelection rates and patterns in legislative careers in Chile's Chamber of Deputies between 1990 and 2014. First, we present a review of the literature. Second, we describe some features of the Chilean electoral system that could influence deputies' decisions to remain in office. Third, we show data on the political composition, reelection rates and careers in the Chamber. We show (1) that party renewal is low compared with other countries in the region; (2) that in each election 75% of deputies seek reelection, of whom 82% obtain it; and (3) that most deputies who do not seek reelection try to continue their careers in another district or in the Senate."
   },
   {
-    "title": "Modificaciones y reformas al sistema electoral municipal en Chile, 1992-2008",
+    "title": "Evolución de las leyes electorales en las elecciones municipales de Chile",
     "authors": [
       "Kenneth Bunker"
     ],
     "book_title": "Democracia municipal en Chile, 1992-2012",
     "editors": [
-      "Mauricio Morales",
-      "Patricio Navia"
+      "Patricio Navia",
+      "Mauricio Morales"
     ],
-    "year": 2012,
+    "year": 2011,
     "pages": "39-48",
     "publisher": "Ediciones Universidad Diego Portales",
     "place": "Santiago",
@@ -733,7 +739,7 @@
     "type": "chapter",
     "slug": "2012-modificaciones-reformas-al-sistema-electoral-municipal-chile",
     "cover_url": "https://ediciones.udp.cl/cms/wp-content/uploads/2018/11/democraciamunicipalchile-1.jpg",
-    "pdf_file": null,
+    "pdf_file": "Bunker (2011) - Evolución de las leyes electorales en las elecciones municipales de Chile.pdf",
     "buy": [
       [
         "Buy from Ediciones UDP",
@@ -741,21 +747,25 @@
       ]
     ],
     "researchgate": "https://www.researchgate.net/publication/415203330",
-    "academia": "https://www.academia.edu/177020804"
+    "academia": "https://www.academia.edu/177020804",
+    "isbn": "978-956-314-141-2",
+    "abstract": "Este capítulo examina la evolución de las leyes electorales que han regido las elecciones municipales en Chile desde 1992 a 2008. Se describen los sistemas electorales aplicados para cada contienda local y sus efectos sobre los mecanismos de coordinación estratégica de los partidos.",
+    "title_en": "The evolution of electoral laws in Chile's municipal elections",
+    "abstract_en": "This chapter examines the evolution of the electoral laws that have governed municipal elections in Chile from 1992 to 2008. It describes the electoral systems applied in each local contest and their effects on parties' strategic coordination mechanisms."
   },
   {
-    "title": "La incumbencia y reelección de alcaldes en Chile, 1992-2004",
+    "title": "Tasas de reelección y longevidad de alcaldes en Chile, 1992-2012",
     "authors": [
       "Kenneth Bunker",
       "Patricio Navia"
     ],
     "book_title": "Democracia municipal en Chile, 1992-2012",
     "editors": [
-      "Mauricio Morales",
-      "Patricio Navia"
+      "Patricio Navia",
+      "Mauricio Morales"
     ],
-    "year": 2012,
-    "pages": "49-64",
+    "year": 2011,
+    "pages": "49-63",
     "publisher": "Ediciones Universidad Diego Portales",
     "place": "Santiago",
     "language": "es",
@@ -769,7 +779,10 @@
       ]
     ],
     "researchgate": "https://www.researchgate.net/publication/415203520",
-    "academia": "https://www.academia.edu/177021714"
+    "academia": "https://www.academia.edu/177021714",
+    "isbn": "978-956-314-141-2",
+    "pdf_file": "Bunker & Navia (2011) - Tasas de reelección y longevidad de alcaldes en Chile, 1992-2012.pdf",
+    "title_en": "Reelection rates and longevity of mayors in Chile, 1992-2012"
   },
   {
     "title": "Cambio y continuidad en la Cámara de Diputados",
@@ -892,7 +905,8 @@
     "pdf": null,
     "slug": "2021-review-coalitional-presidentialism-comparative-perspective-minority",
     "cover_url": "https://journals.sagepub.com/cms/asset/0e531c11-ce4b-47d0-8095-b773ffd107fe/ppqa_32_4.largecover.png",
-    "title_es": "Reseña: Coalitional Presidentialism in Comparative Perspective. Minority Presidents in Multiparty Systems"
+    "title_es": "Reseña: Coalitional Presidentialism in Comparative Perspective. Minority Presidents in Multiparty Systems",
+    "pdf_file": "Bunker (2021) - Review of Coalitional Presidentialism in Comparative Perspective.pdf"
   },
   {
     "type": "review",
@@ -917,7 +931,9 @@
     "pdf": null,
     "slug": "2019-review-cultural-backlash-trump-brexit-authoritarian",
     "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i07",
-    "title_es": "Reseña: Cultural backlash: Trump, Brexit, and authoritarian populism"
+    "title_es": "Reseña: Cultural backlash: Trump, Brexit, and authoritarian populism",
+    "pdf_file": "Bunker (2019) - Review of Cultural Backlash.pdf",
+    "pdf_page": 2
   },
   {
     "type": "review",
@@ -942,7 +958,8 @@
     "pdf": null,
     "slug": "2019-review-latin-american-elections-choice-change",
     "cover_url": "https://static.cambridge.org/covers/LAS_0_0_0/journal_of%20latin%20american%20studies.jpg",
-    "title_es": "Reseña: Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon y François Gélineau, Latin American Elections: Choice and Change"
+    "title_es": "Reseña: Richard Nadeau, Éric Bélanger, Michael S. Lewis-Beck, Mathieu Turgeon y François Gélineau, Latin American Elections: Choice and Change",
+    "pdf_file": "Bunker (2019) - Review of Latin American Elections, Choice and Change.pdf"
   },
   {
     "type": "review",
@@ -967,7 +984,9 @@
     "pdf": null,
     "slug": "2019-review-party-systems-latin-america-institutionalization",
     "cover_url": "https://www.tandfonline.com/action/showCoverImage?doi=10.1080/fdem20.v026.i03",
-    "title_es": "Reseña: Party systems in Latin America: institutionalization, decay, and collapse, editado por Scott Mainwaring"
+    "title_es": "Reseña: Party systems in Latin America: institutionalization, decay, and collapse, editado por Scott Mainwaring",
+    "pdf_file": "Bunker (2019) - Review of Party Systems in Latin America.pdf",
+    "pdf_page": 2
   },
   {
     "type": "review",
@@ -992,7 +1011,8 @@
     "pdf": null,
     "slug": "2019-review-votes-seats-logical-models-electoral",
     "cover_url": "https://media.springernature.com/w316/springer-static/cover-hires/journal/11127",
-    "title_es": "Reseña: Matthew S. Shugart y Rein Taagepera, Votes from seats: logical models of electoral systems"
+    "title_es": "Reseña: Matthew S. Shugart y Rein Taagepera, Votes from seats: logical models of electoral systems",
+    "pdf_file": "Bunker (2019) - Review of Votes from Seats.pdf"
   },
   {
     "type": "dataset",
@@ -1819,7 +1839,8 @@
     "slug": "2008-desempeno-electoral-mujeres-elecciones-municipales-wp",
     "doi": "10.13140/RG.2.2.29932.21125",
     "researchgate": "https://www.researchgate.net/publication/332233924",
-    "academia": "https://www.academia.edu/177034519"
+    "academia": "https://www.academia.edu/177034519",
+    "pdf_file": "Bunker (2008) - El desempeño electoral de las mujeres en las elecciones municipales.pdf"
   },
   {
     "type": "workingpaper",
@@ -1854,7 +1875,8 @@
     "language": "es",
     "slug": "2007-elecciones-municipales-reeleccion-alcaldes-chile-1992-2004-wp",
     "researchgate": "https://www.researchgate.net/publication/242587389",
-    "academia": "https://www.academia.edu/3127246"
+    "academia": "https://www.academia.edu/3127246",
+    "pdf_file": "Bunker & Navia (2007) - Elecciones municipales y reelección de alcaldes en Chile, 1992-2004.pdf"
   },
   {
     "type": "workingpaper",
