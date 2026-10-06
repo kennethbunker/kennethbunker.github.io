@@ -18,6 +18,8 @@ RG_PROFILE = "https://www.researchgate.net/profile/Kenneth-Bunker"
 ACADEMIA_PROFILE = "https://uss.academia.edu/KennethBunker"
 SCHOLAR_PROFILE = "https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl=en"
 ORCID = "https://orcid.org/0000-0002-4579-6132"
+WIKIDATA = "https://www.wikidata.org/wiki/Q113109835"
+PERSON_ID = SITE + "/#person"
 
 E = lambda s: html.escape(str(s), quote=True) if s is not None else ""
 data = json.load(open(os.path.join(os.path.dirname(__file__), "publications.json"), encoding="utf-8"))
@@ -330,7 +332,7 @@ def jsonld(e):
     typ = {"article": "ScholarlyArticle", "review": "Review", "chapter": "Chapter", "book": "Book", "dataset": "Dataset",
            "ideas": "Report", "report": "Report", "workingpaper": "Report"}[e["type"]]
     d = {"@context": "https://schema.org", "@type": typ, "name": e["title"], "headline": e["title"][:110],
-         "author": [{"@type": "Person", "name": a, **({"url": SITE, "sameAs": ORCID} if a == "Kenneth Bunker" else {})} for a in e["authors"]],
+         "author": [({"@type": "Person", "@id": PERSON_ID, "name": a, "url": SITE + "/", "sameAs": [ORCID, WIKIDATA]} if a == "Kenneth Bunker" else {"@type": "Person", "name": a}) for a in e["authors"]],
          "url": BASE + e["slug"] + "/", "inLanguage": e.get("language")}
     if e.get("year"): d["datePublished"] = str(e["year"])
     if e.get("doi"): d["identifier"] = {"@type": "PropertyValue", "propertyID": "DOI", "value": e["doi"]}; d["sameAs"] = "https://doi.org/" + e["doi"]
@@ -339,6 +341,7 @@ def jsonld(e):
     elif L == "es": oab, ot = e.get("abstract"), e.get("title_en")
     else: oab, ot = e.get("abstract"), e.get("title_es")
     if oab: d["abstract"] = oab
+    d["description"] = short_desc(e)
     if ot: d["alternativeHeadline"] = ot; d["alternateName"] = ot
     if e.get("keywords"): d["keywords"] = ", ".join(e["keywords"])
     if e.get("publisher"): d["publisher"] = {"@type": "Organization", "name": e["publisher"]}
@@ -351,6 +354,12 @@ def jsonld(e):
     if e["type"] == "review": d["itemReviewed"] = {"@type": "Book", "name": e["reviewed_title"], "author": e["reviewed_authors"]}
     if e["type"] == "dataset" and e.get("license"): d["license"] = "https://creativecommons.org/licenses/by/4.0/"
     if e["type"] == "book" and e.get("isbn"): d["isbn"] = e["isbn"].split(" ")[0]
+    return json.dumps(d, ensure_ascii=False, indent=1)
+
+def breadcrumb(e):
+    items = [("Kenneth Bunker", SITE + "/"), ("Publications", BASE), (e["title"], BASE + e["slug"] + "/")]
+    d = {"@context": "https://schema.org", "@type": "BreadcrumbList",
+         "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(items)]}
     return json.dumps(d, ensure_ascii=False, indent=1)
 
 def short_desc(e):
@@ -582,6 +591,9 @@ def item_page(e):
 {meta_tags(e)}
 <script type="application/ld+json">
 {jsonld(e)}
+</script>
+<script type="application/ld+json">
+{breadcrumb(e)}
 </script>
 </head>
 <body>

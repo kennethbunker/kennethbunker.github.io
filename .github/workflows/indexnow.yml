@@ -1,0 +1,35 @@
+name: IndexNow ping
+
+# After each push, tell Bing (and the other IndexNow engines) which pages exist,
+# so they recrawl right away instead of waiting weeks.
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wait for GitHub Pages to publish
+        run: sleep 120
+      - name: Send sitemap URLs to IndexNow
+        run: |
+          python3 - <<'PY'
+          import json, re, urllib.request
+          urls = re.findall(r"<loc>(.*?)</loc>", open("sitemap.xml", encoding="utf-8").read())
+          body = json.dumps({
+              "host": "kennethbunker.github.io",
+              "key": "ca7022e5d24173bf86205b3a14086abd",
+              "keyLocation": "https://kennethbunker.github.io/ca7022e5d24173bf86205b3a14086abd.txt",
+              "urlList": urls,
+          }).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              r = urllib.request.urlopen(req, timeout=30)
+              print("IndexNow status", r.status, "for", len(urls), "URLs")
+          except urllib.error.HTTPError as e:
+              print("IndexNow returned", e.code, e.read()[:300])
+          PY
