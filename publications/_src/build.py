@@ -334,7 +334,7 @@ def jsonld(e):
     d = {"@context": "https://schema.org", "@type": typ, "name": e["title"], "headline": e["title"][:110],
          "author": [({"@type": "Person", "@id": PERSON_ID, "name": a, "url": SITE + "/", "sameAs": [ORCID, WIKIDATA]} if a == "Kenneth Bunker" else {"@type": "Person", "name": a}) for a in e["authors"]],
          "url": BASE + e["slug"] + "/", "inLanguage": e.get("language")}
-    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(e.get("online_date") or "")): d["datePublished"] = e["online_date"]
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(e.get("online_date") or "")): d["datePublished"] = e["online_date"] + "T00:00:00+00:00"
     elif e.get("year"): d["datePublished"] = str(e["year"])
     if image_for(e): d["image"] = image_for(e)
     if e.get("doi"): d["identifier"] = {"@type": "PropertyValue", "propertyID": "DOI", "value": e["doi"]}; d["sameAs"] = "https://doi.org/" + e["doi"]
